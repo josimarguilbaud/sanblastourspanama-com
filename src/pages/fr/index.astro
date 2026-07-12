@@ -1,0 +1,70 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import BookingCta from '../../components/BookingCta.astro';
+import { useTranslations } from '../../i18n/ui';
+
+const t = useTranslations('fr');
+const allIslands = await getCollection('islands');
+const featured = allIslands.filter((entry) => entry.id.startsWith('fr/'));
+---
+
+<Layout
+  title="Îles de San Blas — Le Guide Complet & Réservation en Ligne | Guna Yala, Panama"
+  description="Plus de 30 îles de San Blas expliquées, une véritable culture Guna, et le seul site San Blas où vous pouvez réserver votre excursion en ligne avec un acompte sécurisé."
+  path="/"
+  availableLocales={['en', 'es', 'de', 'fr', 'pt-br']}
+>
+  <section class="relative overflow-hidden bg-deep">
+    <img
+      src="https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+      alt="Îles de San Blas, Panama"
+      class="absolute inset-0 h-full w-full object-cover opacity-40"
+    />
+    <div class="relative mx-auto max-w-4xl px-4 py-28 text-center sm:px-6 lg:px-8 lg:py-36">
+      <h1 class="font-heading text-4xl font-extrabold text-white sm:text-5xl lg:text-6xl">
+        Îles de San Blas, Panama
+      </h1>
+      <p class="mx-auto mt-6 max-w-2xl text-lg text-sand/90">
+        Le guide francophone le plus complet des plus de 30 îles de Guna Yala — et le seul site San
+        Blas où vous pouvez réellement réserver votre excursion en ligne, avec un acompte sécurisé.
+      </p>
+      <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
+        <BookingCta label={t('cta.book')} />
+        <a href="/fr/islands" class="font-heading font-bold text-white underline underline-offset-4 hover:text-aqua">
+          Explorer les Îles
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
+    <h2 class="font-heading text-3xl font-extrabold text-deep">Îles en Vedette</h2>
+    <p class="mt-2 text-deep/60">Cette langue est encore en construction — d'autres îles arrivent bientôt.</p>
+
+    <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {featured.map((island) => {
+        const slug = island.id.replace(/^fr\//, '');
+        return (
+          <a
+            href={`/fr/islands/${slug}`}
+            class="group overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg"
+          >
+            <div class="h-48 overflow-hidden">
+              <img
+                src={island.data.heroImage}
+                alt={island.data.name}
+                loading="lazy"
+                class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+              />
+            </div>
+            <div class="p-5">
+              <h3 class="font-heading text-lg font-bold text-deep">{island.data.name}</h3>
+              {island.data.sector && <p class="mt-1 text-sm text-teal">{island.data.sector}</p>}
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</Layout>

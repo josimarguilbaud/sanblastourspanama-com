@@ -1,0 +1,113 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import BookingCta from '../../components/BookingCta.astro';
+import { useTranslations } from '../../i18n/ui';
+
+const t = useTranslations('de');
+
+const faqGroups = [
+  {
+    title: 'Anreise',
+    items: [
+      {
+        q: 'Wie komme ich von Panama-Stadt nach San Blas?',
+        a: 'Touren beinhalten Abholung direkt an Ihrer Unterkunft in Panama-Stadt, einen rund 2,5-stündigen 4x4-Transfer zum Einschiffungspunkt Cartí und eine Speedboot-Überfahrt zu den Inseln. Die Gesamtzeit für einen Tagesausflug beträgt etwa 14 Stunden.',
+      },
+      {
+        q: 'Kann ich nach San Blas fliegen?',
+        a: 'Einige wenige Landebahnen in Guna Yala (wie El Porvenir) empfangen gelegentlich Inlandsflüge, aber das bringt Sie nur zu einem Punkt im Archipel — Sie bräuchten trotzdem lokalen Bootstransport, um bestimmte Inseln zu erreichen. Die meisten Besucher finden den Standard-Transfer per 4x4 und Boot einfacher, da es sich um eine einzige Buchung handelt, die alles beinhaltet.',
+      },
+    ],
+  },
+  {
+    title: 'Was Sie erwartet',
+    items: [
+      {
+        q: 'Was ist in einer San-Blas-Tagestour enthalten?',
+        a: 'Tür-zu-Tür-Transport, Bootstransfers, Mittagessen mit Getränk, Schwimmwesten und ein Guna-Guide sind bei San-Blas-Tagestouren Standard. Genaue Leistungen (Schnorcheln, Anzahl der Inseln, Besuch der Guna-Gemeinschaft) variieren je nach Tourtyp.',
+      },
+      {
+        q: 'Ist San Blas für Kinder oder ältere Reisende geeignet?',
+        a: 'Die meisten Touren heißen Kinder (0-4 Jahre reisen in der Regel kostenlos) und ältere, gesunde Reisende willkommen. San Blas wird nicht empfohlen für Schwangere, Personen mit Rücken- oder Hüftproblemen oder ernsthaften Erkrankungen, und es ist nicht rollstuhlgerecht.',
+      },
+      {
+        q: 'Gibt es WLAN oder Handyempfang in San Blas?',
+        a: 'Auf keiner Insel gibt es WLAN. Der Handyempfang ist unbeständig — manche Inseln haben brauchbaren Empfang, die meisten nicht. Planen Sie mit dem Abschalten; die meisten Besucher nennen das später als Highlight, nicht als Nachteil.',
+      },
+      {
+        q: 'Was ist die Guna-Yala-Gemeinschaftssteuer?',
+        a: 'Pro Besucher fällt eine separate Comarca-Eintrittsgebühr an: 22 $ für Ausländer und 7 $ für Einwohner (ein gültiger Reisepass oder Wohnsitzausweis ist für den Einwohnertarif erforderlich). Sie wird bar an der Grenze zu Guna Yala bezahlt, ist nicht im Tourpreis enthalten und geht direkt an die Guna-Gemeinschaft.',
+      },
+    ],
+  },
+  {
+    title: 'Buchung & Zahlung',
+    items: [
+      {
+        q: 'Wie buche ich eine San-Blas-Tour?',
+        a: 'Schreiben Sie uns auf WhatsApp mit Ihren Daten und der Gruppengröße — eine echte Person bestätigt die Verfügbarkeit, führt Sie durch die Zahlung und koordiniert die Abholung direkt mit Ihnen.',
+      },
+      {
+        q: 'Bieten Sie individuelle Pakete an?',
+        a: 'Ja — teilen Sie uns Ihre Daten, Gruppengröße und Wünsche mit, und wir stellen ein individuelles Programm zusammen, koordiniert über WhatsApp.',
+      },
+      {
+        q: 'Wie ist die Stornierungsbedingung?',
+        a: 'Bei Stornierung mehr als 72 Stunden vor der Tour wird Ihre Anzahlung vollständig erstattet. Stornierungen innerhalb von 72 Stunden sind nicht erstattungsfähig. Sagt der Veranstalter aus Sicherheitsgründen (Wetter, unsichere Bedingungen) ab, erhalten Sie eine volle Rückerstattung oder Umbuchung.',
+      },
+    ],
+  },
+];
+
+const allFaqs = faqGroups.flatMap((g) => g.items);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: allFaqs.map((item) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: { '@type': 'Answer', text: item.a },
+  })),
+};
+---
+
+<Layout
+  title="San Blas FAQ — Antworten auf Häufige Fragen | San-Blas-Inseln"
+  description="Antworten auf die häufigsten Fragen zu San Blas: Anreise, Leistungen, Sicherheit, Buchung und Stornierung — direkt vom Reiseveranstalter."
+  path="/faq"
+  availableLocales={['en', 'es', 'de']}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <section class="mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">
+      Häufig <span class="text-amber">Gestellte Fragen</span>
+    </h1>
+    <p class="mt-4 max-w-2xl text-deep/70">Direkte Antworten, direkt vom Reiseveranstalter — keine generischen Reiseblog-Füller.</p>
+
+    <div class="mt-10 grid gap-8">
+      {faqGroups.map((group) => (
+        <div>
+          <h2 class="font-display text-2xl font-semibold text-deep">{group.title}</h2>
+          <div class="mt-4 rounded-3xl bg-white p-3 shadow-sm ring-1 ring-deep/5 sm:p-4">
+            {group.items.map((item) => (
+              <details class="group border-b border-deep/10 px-3 py-3 last:border-0">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-heading font-bold text-deep marker:content-none">
+                  {item.q}
+                  <svg class="h-4 w-4 shrink-0 text-amber transition group-open:rotate-90" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+                </summary>
+                <p class="mt-2 text-sm text-deep/70">{item.a}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+      <p class="font-display text-2xl font-semibold text-white">Haben Sie noch Fragen?</p>
+      <p class="mt-2 text-sand/70">Schreiben Sie uns auf WhatsApp — eine echte Person antwortet noch am selben Tag.</p>
+      <BookingCta label={t('cta.book')} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </section>
+</Layout>

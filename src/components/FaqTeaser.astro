@@ -1,0 +1,58 @@
+---
+interface FaqItem {
+  q: string;
+  a: string;
+}
+
+interface Props {
+  title: string;
+  titleAccent: string;
+  description: string;
+  quote: string;
+  image: string;
+  items: FaqItem[];
+  viewAllHref: string;
+  viewAllLabel: string;
+}
+
+const { title, titleAccent, description, quote, image, items, viewAllHref, viewAllLabel } = Astro.props;
+---
+
+<section class="bg-teal/5 py-16">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="grid gap-10 lg:grid-cols-2 lg:items-center">
+      <div>
+        <h2 class="font-display text-3xl font-semibold text-deep sm:text-4xl">
+          {title} <span class="text-amber">{titleAccent}</span>
+        </h2>
+        <p class="mt-4 max-w-md text-deep/70">{description}</p>
+
+        <div class="relative mt-8 max-w-sm">
+          <div class="overflow-hidden rounded-3xl">
+            <img src={image} alt="San Blas" class="h-72 w-full object-cover" />
+          </div>
+          <div class="absolute -bottom-6 left-6 right-6 rounded-2xl bg-white p-4 shadow-lg ring-1 ring-deep/5">
+            <p class="font-heading text-lg font-bold text-deep">
+              <span class="mr-1 text-2xl text-amber">&ldquo;</span>{quote}
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="rounded-3xl bg-white p-3 shadow-sm ring-1 ring-deep/5 sm:p-4">
+        {items.map((item, i) => (
+          <details class="group border-b border-deep/10 px-3 py-3 last:border-0" open={i === 0}>
+            <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-heading font-bold text-deep marker:content-none">
+              {item.q}
+              <svg class="h-4 w-4 shrink-0 text-amber transition group-open:rotate-90" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+            </summary>
+            <p class="mt-2 text-sm text-deep/70">{item.a}</p>
+          </details>
+        ))}
+        <div class="p-3 pt-4">
+          <a href={viewAllHref} class="font-medium text-teal hover:underline">{viewAllLabel} →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

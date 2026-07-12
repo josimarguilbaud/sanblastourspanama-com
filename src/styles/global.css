@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/*
+ * Brand palette matches the existing San Blas Travel booking app
+ * (widget/resources/views/landing.blade.php) so this site feels like the
+ * same brand, not a different product.
+ */
+@theme {
+  --color-sand: #FBF7F0;
+  --color-deep: #0B3B4A;
+  --color-teal: #0E7C86;
+  --color-aqua: #12B3C4;
+  --color-coral: #FF6B4A;
+  --color-coraldark: #E8502E;
+
+  /* Hero/header accent pair added to match the Travlla reference (bright
+     green CTA + orange highlight) — used only on Header + homepage Hero,
+     the rest of the site keeps the original coral/teal brand pair. */
+  --color-lime: #7CB82F;
+  --color-limedark: #6AA321;
+  --color-amber: #F5A623;
+
+  --font-heading: "Plus Jakarta Sans", sans-serif;
+  --font-sans: "Inter", sans-serif;
+  --font-display: "Fredoka", sans-serif;
+  --font-script: "Caveat", cursive;
+}
+
+body {
+  font-family: var(--font-sans);
+}

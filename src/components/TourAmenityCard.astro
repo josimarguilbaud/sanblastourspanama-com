@@ -1,0 +1,109 @@
+---
+// Card structure matches the Travlla reference (duration badge, route line,
+// icon row, checklist, pill CTA) rebuilt with real tour data. Two deliberate
+// departures, both explained to the user: no star-rating/review block (no
+// real review data to show) and no dollar price (prices come from a real
+// person on WhatsApp, not a static page).
+//
+// FIXED BUG: this used to be one big <a> wrapping a second <a> inside it
+// (the "View details" button) — nested anchors are invalid HTML, so the
+// browser silently split the card into two sibling elements, which is why
+// the grid rendered broken half-cards. Now the card is a <div>; the image
+// and title are their own link, and the CTA button is a separate link —
+// no nesting.
+//
+// `href` is optional: real tours/stays link to a detail page; custom
+// packages (no fixed detail page, fully coordinated over WhatsApp) omit it
+// and the card leads with the WhatsApp CTA instead.
+interface Props {
+  heroImage: string;
+  name: string;
+  tagline: string;
+  duration: string;
+  amenities: string[];
+  href?: string;
+  whatsappMessage: string;
+  ctaLabel?: string;
+  whatsappLabel?: string;
+}
+
+const {
+  heroImage,
+  name,
+  tagline,
+  duration,
+  amenities,
+  href,
+  whatsappMessage,
+  ctaLabel = 'View details',
+  whatsappLabel = 'Ask for Pricing',
+} = Astro.props;
+
+const WHATSAPP_NUMBER = '50760292571';
+const whatsappHref = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(whatsappMessage)}`;
+
+const icons = [
+  // Accommodation / stay
+  'M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6',
+  // Sightseeing (eye)
+  'M15 12a3 3 0 11-6 0 3 3 0 016 0z M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z',
+  // Transport / car
+  'M8 17a2 2 0 100-4 2 2 0 000 4zM16 17a2 2 0 100-4 2 2 0 000 4z M3 17h2m10 0h2M5 17V9l2-4h10l2 4v8M5 13h14',
+  // Meals / fork-knife
+  'M12 3v18m-6-9h.01M6 3v6a3 3 0 006 0V3M6 3v0m12 0c-2 0-3 2-3 4s1 4 3 4v10',
+];
+---
+
+<div class="group flex flex-col overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg">
+  {href ? (
+    <a href={href} class="block h-48 overflow-hidden">
+      <img src={heroImage} alt={name} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+    </a>
+  ) : (
+    <div class="h-48 overflow-hidden">
+      <img src={heroImage} alt={name} loading="lazy" class="h-full w-full object-cover" />
+    </div>
+  )}
+  <div class="flex flex-1 flex-col p-5">
+    <p class="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-teal">
+      <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+      {duration}
+    </p>
+    <h3 class="mt-1 font-heading text-lg font-bold text-deep">
+      {href ? <a href={href} class="hover:text-teal">{name}</a> : name}
+    </h3>
+    <p class="mt-1 text-sm text-deep/60">{tagline}</p>
+
+    <div class="mt-4 flex items-center gap-3 border-y border-deep/10 py-3 text-teal/70">
+      {icons.map((d) => (
+        <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d={d} /></svg>
+      ))}
+    </div>
+
+    <ul class="mt-4 grid grid-cols-1 gap-1.5 text-sm text-deep/70 sm:grid-cols-2">
+      {amenities.map((item) => (
+        <li class="flex items-center gap-2">
+          <svg class="h-4 w-4 shrink-0 text-amber" fill="currentColor" viewBox="0 0 20 20">
+            <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+          </svg>
+          {item}
+        </li>
+      ))}
+    </ul>
+
+    <div class="mt-5 flex items-center justify-between gap-3 border-t border-deep/10 pt-4">
+      {href ? (
+        <>
+          <a href={href} class="rounded-full border-2 border-lime px-5 py-2 text-sm font-bold text-deep transition hover:bg-lime hover:text-white">
+            {ctaLabel}
+          </a>
+          <a href={whatsappHref} target="_blank" rel="noopener" class="text-xs font-medium text-deep/50 hover:text-lime">{whatsappLabel}</a>
+        </>
+      ) : (
+        <a href={whatsappHref} target="_blank" rel="noopener" class="w-full rounded-full bg-lime px-5 py-2.5 text-center text-sm font-bold text-white shadow-lg shadow-lime/30 transition hover:bg-limedark">
+          {ctaLabel}
+        </a>
+      )}
+    </div>
+  </div>
+</div>

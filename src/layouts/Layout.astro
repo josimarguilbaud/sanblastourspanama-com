@@ -1,0 +1,56 @@
+---
+import '../styles/global.css';
+import Seo from '../components/Seo.astro';
+import TopBar from '../components/TopBar.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  path?: string;
+  availableLocales?: string[];
+}
+
+const { title, description, image, path, availableLocales } = Astro.props;
+
+// Sitewide business entity — same on every page so Google has one consistent
+// TravelAgency record rather than only on the homepage.
+const organizationJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TravelAgency',
+  name: 'San Blas Tours Panamá',
+  url: 'https://sanblastourspanama.com',
+  telephone: '+50760292571',
+  areaServed: 'Guna Yala, Panama',
+  priceRange: '$$',
+};
+---
+
+<!DOCTYPE html>
+<html lang={Astro.currentLocale ?? 'en'} class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <Seo title={title} description={description} image={image} path={path} availableLocales={availableLocales} />
+    <script type="application/ld+json" set:html={JSON.stringify(organizationJsonLd)} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:wght@400;500;600;700&family=Fredoka:wght@500;600;700&family=Caveat:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-sand font-sans text-deep">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-full focus:bg-deep focus:px-5 focus:py-3 focus:text-sm focus:font-bold focus:text-white">
+      Skip to content
+    </a>
+    <TopBar />
+    <Header />
+    <main id="main-content">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

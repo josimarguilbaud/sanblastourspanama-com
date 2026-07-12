@@ -1,0 +1,28 @@
+---
+import Layout from '../layouts/Layout.astro';
+import BookingCta from '../components/BookingCta.astro';
+---
+
+<Layout
+  title="Page Not Found | San Blas Islands"
+  description="That page doesn't exist, but our guide to the San Blas islands does — explore islands, tours, and travel guides for Guna Yala, Panama."
+  path="/404"
+>
+  <section class="bg-sand py-24">
+    <div class="mx-auto max-w-2xl px-4 text-center sm:px-6 lg:px-8">
+      <p class="font-script text-3xl text-teal">Wrong Turn</p>
+      <h1 class="mt-1 font-display text-4xl font-semibold text-deep sm:text-5xl">Page Not Found</h1>
+      <p class="mt-4 text-lg text-deep/70">
+        That page doesn't exist — but the San Blas islands do. Try one of these instead:
+      </p>
+      <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
+        <a href="/" class="rounded-full bg-deep px-6 py-3 text-sm font-bold text-white transition hover:bg-teal">Go Home</a>
+        <a href="/islands" class="rounded-full border-2 border-lime px-6 py-3 text-sm font-bold text-deep transition hover:bg-lime hover:text-white">Browse Islands</a>
+        <a href="/tours" class="rounded-full border-2 border-lime px-6 py-3 text-sm font-bold text-deep transition hover:bg-lime hover:text-white">See Tours</a>
+      </div>
+      <div class="mt-10">
+        <BookingCta label="Message Us on WhatsApp" class="!bg-lime !shadow-lime/30 hover:!bg-limedark" />
+      </div>
+    </div>
+  </section>
+</Layout>

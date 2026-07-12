@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+const allGuides = await getCollection('guides');
+const guides = allGuides.filter((entry) => entry.id.startsWith('pt-br/'));
+---
+
+<Layout
+  title="Guias de Viagem San Blas — Informações Práticas | Ilhas de San Blas"
+  description="Guias de viagem práticos para San Blas: como chegar, o que levar, melhor época para visitar e etiqueta da cultura Guna."
+  path="/guides"
+  availableLocales={['en', 'es', 'pt-br']}
+>
+  <section class="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Guias de Viagem</h1>
+    <p class="mt-4 max-w-2xl text-lg text-deep/70">
+      Tudo o que você precisa saber antes de ir — direto das notas do próprio operador do passeio.
+    </p>
+
+    <div class="mt-12 grid gap-6 sm:grid-cols-2">
+      {guides.map((guide) => {
+        const slug = guide.id.replace(/^pt-br\//, '');
+        return (
+          <a
+            href={`/pt-br/guides/${slug}`}
+            class="group overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg"
+          >
+            {guide.data.heroImage && (
+              <div class="h-40 overflow-hidden">
+                <img
+                  src={guide.data.heroImage}
+                  alt={guide.data.title}
+                  loading="lazy"
+                  class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+                />
+              </div>
+            )}
+            <div class="p-5">
+              <h2 class="font-heading text-lg font-bold text-deep">{guide.data.title}</h2>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</Layout>

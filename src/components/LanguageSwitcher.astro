@@ -1,0 +1,37 @@
+---
+// Links to each locale's HOMEPAGE, not a deep same-page link — most content
+// isn't translated into all 5 locales yet (see i18n/ui.ts comment), so a
+// same-page link could 404. Once translation coverage is broad enough this
+// can switch to a real same-page mapping.
+import { locales, languageNames, localizedPath, defaultLocale } from '../i18n/ui';
+
+const currentLocale = Astro.currentLocale ?? defaultLocale;
+---
+
+<div class="group relative" data-dropdown>
+  <button
+    type="button"
+    aria-haspopup="true"
+    aria-expanded="false"
+    aria-controls="language-menu"
+    class="flex items-center gap-1 rounded-full border border-deep/15 px-3 py-1.5 text-sm font-medium text-deep/70 hover:border-teal hover:text-teal focus:outline-none focus-visible:border-teal"
+  >
+    {languageNames[currentLocale as keyof typeof languageNames] ?? currentLocale}
+    <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
+  </button>
+  <div id="language-menu" class="invisible absolute right-0 top-full z-50 w-40 pt-2 opacity-0 transition group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
+    <div class="rounded-xl bg-white py-2 shadow-lg ring-1 ring-deep/10">
+      {locales.map((locale) => (
+        <a
+          href={localizedPath(locale, '/')}
+          class:list={[
+            'block px-4 py-1.5 text-sm hover:bg-sand',
+            locale === currentLocale ? 'font-bold text-teal' : 'text-deep/80',
+          ]}
+        >
+          {languageNames[locale]}
+        </a>
+      ))}
+    </div>
+  </div>
+</div>

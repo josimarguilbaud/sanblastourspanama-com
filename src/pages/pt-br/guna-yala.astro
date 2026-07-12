@@ -1,0 +1,93 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import BookingCta from '../../components/BookingCta.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import RelatedCards from '../../components/RelatedCards.astro';
+
+const allIslands = await getCollection('islands');
+const communityIslands = allIslands
+  .filter((i) => i.id.startsWith('pt-br/') && ['el-porvenir', 'nugnudub', 'chichime'].includes(i.id.replace(/^pt-br\//, '')))
+  .map((i) => ({
+    href: `/pt-br/islands/${i.id.replace(/^pt-br\//, '')}`,
+    heroImage: i.data.heroImage,
+    title: i.data.name,
+  }));
+
+const deeperGuides = [
+  { href: '/pt-br/guides/history-of-san-blas', heroImage: 'https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp', title: 'História de San Blas: A Revolução Guna de 1925' },
+  { href: '/pt-br/guides/guna-culture', heroImage: 'https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp', title: 'Cultura Guna: Guia Respeitoso para Viajantes' },
+  { href: '/pt-br/guides/eco-tourism', heroImage: 'https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp', title: 'Ecoturismo: Como Sua Visita Ajuda' },
+];
+---
+
+<Layout
+  title="Guna Yala — O Povo, a História e as Ilhas Por Trás de San Blas"
+  description="Guna Yala é o nome real por trás de 'San Blas': uma comarca indígena autônoma conquistada na Revolução Guna de 1925. História, vida comunitária, molas."
+  path="/guna-yala"
+  availableLocales={['en', 'es', 'pt-br']}
+>
+  <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">
+    <img src="https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp" alt="Ilha comunitária de Guna Yala" class="h-full w-full object-cover" />
+  </div>
+
+  <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Guna Yala' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-12 pt-4 sm:px-6 lg:px-8">
+    <p class="text-sm font-semibold uppercase tracking-wide text-teal">O Povo Por Trás do Cartão-Postal</p>
+    <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">Guna Yala</h1>
+    <p class="mt-4 text-lg text-deep/70">
+      "San Blas" é o nome que a maioria dos viajantes procura — mas não é como as pessoas que vivem aqui
+      chamam o lugar. Isto é <strong>Guna Yala</strong>: um território indígena autônomo e autogovernado, lar
+      do povo Guna, espalhado por mais de 365 ilhas na costa caribenha do Panamá.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>Quem são os Guna?</h2>
+      <p>
+        Os Guna são um dos maiores grupos indígenas do Panamá, e um dos poucos nas Américas a conquistar
+        autonomia política formal e duradoura sobre seu próprio território. Mais detalhes em nosso
+        <a href="/pt-br/guides/about-san-blas">guia completo sobre a geografia e governo de Guna Yala</a>.
+      </p>
+
+      <h2>Uma revolução que conquistou autonomia</h2>
+      <p>
+        Em <strong>25 de fevereiro de 1925</strong>, líderes Guna se levantaram contra a repressão panamenha
+        às vestimentas, cerimônias e estrutura política Guna. A revolta, curta mas decisiva, levou a um acordo
+        que reconheceu formalmente a autoridade Guna sobre sua terra. O relato completo está em nossa
+        <a href="/pt-br/guides/history-of-san-blas">história da Revolução Guna de 1925</a>.
+      </p>
+
+      <h2>Vida nas ilhas e comunidade</h2>
+      <p>
+        Das mais de 365 ilhas e cayos de Guna Yala, apenas cerca de 40-50 são habitadas.
+        <strong>El Porvenir</strong> funciona como a capital administrativa. <strong>Nugnudub</strong> é uma
+        ilha comunitária menor e mais tranquila, onde a vida cotidiana Guna continua amplamente inalterada
+        pelo turismo.
+      </p>
+
+      <h2>Molas: tradição cultural, não souvenirs</h2>
+      <p>
+        Os painéis têxteis bordados à mão chamados <strong>molas</strong> são uma forma de arte Guna viva,
+        tradicionalmente feitas por mulheres Guna como parte de sua vestimenta diária. Mais em nosso
+        <a href="/pt-br/guides/guna-culture">guia de cultura Guna</a>.
+      </p>
+
+      <h2>Como o turismo realmente funciona aqui</h2>
+      <p>
+        Guna Yala evitou o desenvolvimento de grandes resorts que transformou boa parte do Caribe — porque a
+        autonomia Guna significa que empresas externas não podem simplesmente comprar a terra. Mais em nosso
+        <a href="/pt-br/guides/eco-tourism">guia de ecoturismo</a>.
+      </p>
+    </div>
+
+    <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
+      <p class="font-heading text-xl font-bold text-white">Pronto para conhecer Guna Yala pessoalmente?</p>
+      <p class="mt-2 text-sand/70">Fale conosco no WhatsApp — uma pessoa real ajuda você a planejar um passeio genuinamente administrado pelos Guna.</p>
+      <BookingCta label="Fale Conosco no WhatsApp" message="Olá! Gostaria de saber mais sobre visitar uma ilha de comunidade Guna em San Blas." class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </article>
+
+  <RelatedCards title="Ilhas com Vida Comunitária Guna Real" items={communityIslands} />
+  <RelatedCards title="Aprofunde-se Mais" items={deeperGuides} />
+</Layout>

@@ -1,0 +1,152 @@
+---
+import Layout from '../layouts/Layout.astro';
+import BookingCta from '../components/BookingCta.astro';
+
+// Sourced from the operator's own verified FAQ content — not generic
+// travel-blog filler. Grouped by topic so this page can double as a real
+// answer engine for long-tail search queries, each with FAQPage schema.
+const faqGroups = [
+  {
+    title: 'Getting There',
+    items: [
+      {
+        q: 'How do I get to San Blas from Panama City?',
+        a: 'Tours include door-to-door pickup from your Panama City accommodation, a roughly 2.5-hour 4x4 transfer to the Carti embarkation point, and a speedboat crossing to the islands. Total door-to-door time for a day tour is about 14 hours. See our full guide on how to get to San Blas.',
+      },
+      {
+        q: 'Can I fly to San Blas?',
+        a: "A small number of Guna Yala airstrips (like El Porvenir) receive occasional domestic flights, but this only gets you to one point in the archipelago — you'd still need local boat transport to reach specific islands. Most visitors find the standard 4x4-and-boat tour transfer simpler, since it's a single booking that includes everything.",
+      },
+      {
+        q: 'Can I sail from Cartagena to San Blas?',
+        a: "Independent multi-day sailing trips between Cartagena, Colombia and Panama do pass through part of San Blas, typically taking 4-5 days. That's a different trip from a dedicated San Blas tour — if you specifically want to experience San Blas's islands, snorkeling, and culture rather than a multi-day open-water crossing, a day tour or overnight stay from Panama City is faster and more predictable.",
+      },
+    ],
+  },
+  {
+    title: 'What to Expect',
+    items: [
+      {
+        q: 'What is included in a San Blas day tour?',
+        a: 'Door-to-door transport, boat transfers, lunch with a drink, life jackets, and a Guna guide are standard across San Blas day tours. Exact inclusions (snorkeling, number of islands, Guna community visit) vary by tour type — see our tours page for the differences between each package.',
+      },
+      {
+        q: 'Is San Blas suitable for children or older travelers?',
+        a: 'Most tours welcome children (ages 0-4 typically travel free) and older travelers in good health. San Blas is not recommended for pregnant travelers, people with back or hip conditions, or anyone with a serious medical condition, and it is not wheelchair accessible.',
+      },
+      {
+        q: 'Is there wifi or cell signal in San Blas?',
+        a: "There's no wifi on any island. Cell signal is inconsistent — some islands get a usable signal, most don't. Plan to disconnect; most visitors end up naming it as a highlight, not a downside.",
+      },
+      {
+        q: 'What is the Guna Yala community tax?',
+        a: "A separate comarca entry tax applies per visitor: $22 for foreigners and $7 for residents (a valid passport or residency card is required to apply the resident rate). It's paid in cash at the Guna Yala border, not included in the tour price, and goes directly to the Guna community.",
+      },
+    ],
+  },
+  {
+    title: 'Booking & Payment',
+    items: [
+      {
+        q: 'How do I book a San Blas tour?',
+        a: "Message us on WhatsApp with your dates and group size — a real person confirms availability, walks you through payment, and coordinates pickup directly with you. We can also put together a fully custom package if none of our standard tours fit what you're after.",
+      },
+      {
+        q: 'Do you offer custom packages?',
+        a: "Yes — tell us your dates, group size, and what you want (extra islands, a special occasion, a longer stay) and we'll put together a custom itinerary and coordinate everything over WhatsApp.",
+      },
+      {
+        q: "What's the cancellation policy?",
+        a: 'Cancel 72+ hours before your tour and your deposit is fully refunded. Cancellations within 72 hours are not refundable. If the operator cancels for safety reasons (weather, unsafe conditions), you get a full refund or reschedule.',
+      },
+      {
+        q: 'Day tour or overnight stay — which should I choose?',
+        a: 'Both include island-hopping and snorkeling over the shipwreck reef. An overnight stay adds a sunset and sunrise over the same beach, a genuinely dark night sky, and a traditional Guna dinner — worth it if San Blas is a trip highlight rather than a quick add-on. See our full comparison.',
+      },
+    ],
+  },
+];
+
+const allFaqs = faqGroups.flatMap((g) => g.items);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: allFaqs.map((item) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: { '@type': 'Answer', text: item.a },
+  })),
+};
+---
+
+<Layout
+  title="San Blas FAQ — Answers to Every Common Question | San Blas Islands"
+  description="Answers to the most common San Blas questions: getting there, what's included, safety, booking, and cancellation — sourced directly from the tour operator."
+  path="/faq"
+  availableLocales={['en', 'es', 'de', 'fr', 'pt-br']}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <section class="bg-teal/5 py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="grid gap-10 lg:grid-cols-2 lg:items-center">
+        <div>
+          <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">
+            Find <span class="text-amber">Answers</span> for Questions You Have
+          </h1>
+          <p class="mt-4 max-w-md text-deep/70">Straight answers, sourced directly from the tour operator's own briefing notes — not generic travel-blog filler.</p>
+
+          <div class="relative mt-8 max-w-sm">
+            <div class="overflow-hidden rounded-3xl">
+              <img src="https://sanblastourspty.com/img/isla-perrochico-panama.webp" alt="San Blas" class="h-64 w-full object-cover" />
+            </div>
+            <div class="absolute -bottom-6 left-6 right-6 rounded-2xl bg-white p-4 shadow-lg ring-1 ring-deep/5">
+              <p class="font-heading text-lg font-bold text-deep">
+                <span class="mr-1 text-2xl text-amber">&ldquo;</span>Give us a chance to help you plan it!
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="rounded-3xl bg-white p-3 shadow-sm ring-1 ring-deep/5 sm:p-4">
+          {faqGroups[0].items.map((item, i) => (
+            <details class="group border-b border-deep/10 px-3 py-3 last:border-0" open={i === 0}>
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-heading font-bold text-deep marker:content-none">
+                {item.q}
+                <svg class="h-4 w-4 shrink-0 text-amber transition group-open:rotate-90" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+              </summary>
+              <p class="mt-2 text-sm text-deep/70">{item.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
+    <div class="grid gap-8 lg:grid-cols-2">
+      {faqGroups.slice(1).map((group) => (
+        <div>
+          <h2 class="font-display text-2xl font-semibold text-deep">{group.title}</h2>
+          <div class="mt-4 rounded-3xl bg-white p-3 shadow-sm ring-1 ring-deep/5 sm:p-4">
+            {group.items.map((item) => (
+              <details class="group border-b border-deep/10 px-3 py-3 last:border-0">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-heading font-bold text-deep marker:content-none">
+                  {item.q}
+                  <svg class="h-4 w-4 shrink-0 text-amber transition group-open:rotate-90" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+                </summary>
+                <p class="mt-2 text-sm text-deep/70">{item.a}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+      <p class="font-display text-2xl font-semibold text-white">Still Have Questions?</p>
+      <p class="mt-2 text-sand/70">Message us on WhatsApp — a real person answers, same day.</p>
+      <BookingCta label="Message Us on WhatsApp" class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </section>
+</Layout>

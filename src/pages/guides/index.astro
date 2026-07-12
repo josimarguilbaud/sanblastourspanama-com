@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const allGuides = await getCollection('guides');
+const guides = allGuides.filter((entry) => entry.id.startsWith('en/'));
+---
+
+<Layout
+  title="San Blas Travel Guides — Practical Info for Your Trip | San Blas Islands"
+  description="Practical San Blas travel guides: how to get there, what to pack, best time to visit, and Guna culture etiquette."
+  path="/guides"
+  availableLocales={['en', 'es']}
+>
+  <section class="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Travel Guides</h1>
+    <p class="mt-4 max-w-2xl text-lg text-deep/70">
+      Everything practical you need before you go — straight from the tour operator's own briefing
+      notes, not generic travel-blog filler.
+    </p>
+
+    <div class="mt-12 grid gap-6 sm:grid-cols-2">
+      {guides.map((guide) => {
+        const slug = guide.id.replace(/^en\//, '');
+        return (
+          <a
+            href={`/guides/${slug}`}
+            class="group overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg"
+          >
+            {guide.data.heroImage && (
+              <div class="h-40 overflow-hidden">
+                <img
+                  src={guide.data.heroImage}
+                  alt={guide.data.title}
+                  loading="lazy"
+                  class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+                />
+              </div>
+            )}
+            <div class="p-5">
+              <h2 class="font-heading text-lg font-bold text-deep">{guide.data.title}</h2>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</Layout>

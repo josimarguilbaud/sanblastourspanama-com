@@ -1,0 +1,350 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import BookingCta from '../components/BookingCta.astro';
+import StatsCounters from '../components/StatsCounters.astro';
+import TourAmenityCard from '../components/TourAmenityCard.astro';
+import FaqTeaser from '../components/FaqTeaser.astro';
+import PhotoGalleryStrip from '../components/PhotoGalleryStrip.astro';
+
+const allIslands = await getCollection('islands');
+const featured = allIslands
+  .filter((entry) => entry.id.startsWith('en/'))
+  .slice(0, 5);
+
+const allTours = await getCollection('tours');
+const dayTours = allTours
+  .filter((entry) => entry.id.startsWith('en/') && entry.data.category === 'day-tour')
+  .slice(0, 3);
+
+const allGuides = await getCollection('guides');
+const guideSlugs = ['how-to-get-to-san-blas', 'what-to-pack', 'best-time-to-visit', 'guna-culture', 'snorkeling-diving', 'overnight-stays', 'health-safety-vaccinations', 'top-beaches'];
+const infoGuides = guideSlugs
+  .map((slug) => allGuides.find((g) => g.id === `en/${slug}.md`))
+  .filter((g): g is NonNullable<typeof g> => Boolean(g));
+
+const allPosts = await getCollection('posts');
+const latestPosts = allPosts
+  .filter((entry) => entry.id.startsWith('en/') && !entry.data.draft)
+  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf())
+  .slice(0, 3);
+
+const stats = [
+  { value: '10+', label: 'Real tours & custom packages' },
+  { value: '30+', label: 'Islands covered in our guides' },
+  { value: '5', label: 'Languages on this site' },
+  { value: '100%', label: 'Guna-operated tours' },
+];
+
+const faqItems = [
+  {
+    q: 'How do I actually book a tour?',
+    a: 'Message us on WhatsApp — tell us your dates and group size, and a real person coordinates availability, payment, and pickup with you directly. No contact form, no waiting on email.',
+  },
+  {
+    q: 'What is the Guna Yala community tax?',
+    a: 'A separate entry tax applies per visitor: $22 for foreigners and $7 for residents, paid in cash at the Guna Yala border — not included in the tour price.',
+  },
+  {
+    q: 'Day tour or overnight stay — which should I pick?',
+    a: "Both include island-hopping and snorkeling over the shipwreck reef. An overnight stay adds a sunset, a genuinely dark night sky, and a traditional Guna dinner.",
+  },
+  {
+    q: 'Do you offer custom packages?',
+    a: "Yes — tell us your dates, group size, and what you want and we'll put together a custom itinerary over WhatsApp.",
+  },
+];
+
+---
+
+<Layout
+  title="San Blas Islands — The Complete Guide, Booked by WhatsApp | Guna Yala, Panama"
+  description="30+ San Blas islands explained in depth, real Guna culture, and direct WhatsApp booking with a real person — no contact forms, no call centers. Plan your trip to Guna Yala, Panama."
+  path="/"
+  availableLocales={['en', 'es', 'de', 'fr', 'pt-br']}
+>
+  <section class="relative overflow-hidden bg-sand">
+    <div class="mx-auto grid max-w-7xl items-center gap-8 px-4 py-14 sm:px-6 lg:grid-cols-2 lg:gap-4 lg:px-8 lg:py-20">
+      <div class="relative z-10 text-center lg:text-left">
+        <p class="font-script text-3xl text-teal">It's Time</p>
+        <h1 class="mt-1 font-display text-4xl font-semibold leading-[1.1] text-deep sm:text-5xl lg:text-6xl">
+          To Discover <span class="text-amber">Guna Yala's</span> Paradise
+        </h1>
+        <p class="mx-auto mt-6 max-w-xl text-lg text-deep/70 lg:mx-0">
+          The most complete English-language guide to San Blas's 30+ islands — message us on
+          WhatsApp and a real person plans your trip with you, no contact form required.
+        </p>
+        <div class="mt-8 flex flex-wrap items-center justify-center gap-6 lg:justify-start">
+          <BookingCta label="Get In Touch" class="!bg-lime !shadow-lime/30 hover:!bg-limedark" />
+          <a
+            href="https://wa.me/50760292571"
+            target="_blank"
+            rel="noopener"
+            class="flex items-center gap-2 text-left"
+          >
+            <svg class="h-8 w-8 text-teal" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.52 0-10 4.48-10 10 0 1.77.46 3.5 1.34 5.02L2 22l5.13-1.35A9.96 9.96 0 0012.04 22c5.52 0 10-4.48 10-10s-4.48-10-10-10zm0 18.15a8.1 8.1 0 01-4.14-1.13l-.3-.18-3.05.8.81-2.97-.2-.31a8.13 8.13 0 01-1.25-4.36c0-4.49 3.65-8.14 8.14-8.14 2.17 0 4.21.85 5.75 2.39a8.08 8.08 0 012.38 5.75c0 4.49-3.66 8.15-8.14 8.15z"/></svg>
+            <span>
+              <span class="block font-heading text-sm font-bold text-deep">More Info</span>
+              <span class="block font-script text-xl text-amber">WhatsApp Us</span>
+            </span>
+          </a>
+        </div>
+      </div>
+
+      <div class="relative">
+        <div
+          class="h-72 overflow-hidden rounded-[2.5rem] sm:h-96 lg:h-[26rem]"
+          style="clip-path: polygon(8% 0%, 100% 0%, 100% 92%, 92% 100%, 0% 100%, 0% 8%);"
+        >
+          <img
+            src="https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+            alt="San Blas Islands, Panama"
+            class="h-full w-full object-cover"
+          />
+        </div>
+        <span class="absolute -left-4 -top-4 text-5xl motion-safe:animate-bounce" style="animation-duration: 3s;">🎈</span>
+        <span class="absolute -bottom-6 -right-2 text-6xl motion-safe:animate-bounce" style="animation-duration: 4s;">🌴</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
+    <StatsCounters stats={stats} />
+  </section>
+
+  <PhotoGalleryStrip
+    title="Site Scene"
+    titleAccent="Gallery"
+    images={featured.map((i) => ({ src: i.data.heroImage, alt: i.data.name }))}
+  />
+
+  <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
+    <div class="grid gap-12 lg:grid-cols-2 lg:items-center">
+      <div class="relative mx-auto max-w-sm lg:mx-0">
+        <div class="overflow-hidden rounded-3xl">
+          <img
+            src="https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+            alt="Guna community life in San Blas"
+            class="h-80 w-full object-cover sm:h-96"
+          />
+        </div>
+        <div class="absolute -right-6 -top-6 h-28 w-28 overflow-hidden rounded-full border-4 border-white shadow-lg sm:h-32 sm:w-32">
+          <img src="https://sanblastourspty.com/img/isla-perrochico-panama.webp" alt="Snorkeling in San Blas" class="h-full w-full object-cover" />
+        </div>
+        <div class="absolute -bottom-8 -right-8 h-36 w-36 overflow-hidden rounded-full border-4 border-white shadow-lg sm:h-40 sm:w-40">
+          <img src="https://sanblastourspty.com/img/isla-chichime-panama.webp" alt="Chichime Island beach" class="h-full w-full object-cover" />
+        </div>
+      </div>
+
+      <div>
+        <h2 class="font-display text-3xl font-semibold text-deep sm:text-4xl">
+          We <span class="text-amber">Recommend</span> San Blas Every Time
+        </h2>
+        <p class="mt-4 text-deep/70">
+          Most San Blas sites are either pure marketing brochures or a single "contact us" button
+          with no real content. We built the one that's both — deep, honest guides to every island
+          and tour, backed by a real person on WhatsApp who actually answers.
+        </p>
+        <div class="mt-8 grid gap-4 sm:grid-cols-2">
+          <div class="rounded-2xl border border-deep/10 p-5">
+            <svg class="h-8 w-8 text-teal" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a4 4 0 00-3-3.87M9 20H4v-2a4 4 0 013-3.87m6-1.13a4 4 0 10-4-4 4 4 0 004 4zm6 0a4 4 0 10-4-4" /></svg>
+            <h3 class="mt-3 font-heading font-bold text-deep">100% Guna-Operated</h3>
+            <p class="mt-1 text-sm text-deep/70">Every tour is guided by the Guna community whose territory you're visiting, not a third-party operator.</p>
+          </div>
+          <div class="rounded-2xl border border-deep/10 p-5">
+            <svg class="h-8 w-8 text-teal" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.86 9.86 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" /></svg>
+            <h3 class="mt-3 font-heading font-bold text-deep">Real Person, Not a Form</h3>
+            <p class="mt-1 text-sm text-deep/70">Message us on WhatsApp and get real answers about dates, group size, and custom packages, same day.</p>
+          </div>
+        </div>
+
+        <div class="mt-8 flex flex-wrap items-center gap-6">
+          <BookingCta label="Get In Touch" class="!bg-lime !shadow-lime/30 hover:!bg-limedark" />
+          <p class="text-sm text-deep/60">
+            <span class="font-display text-2xl font-semibold text-deep">30+</span><br />
+            islands covered in our guides
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- "Top Destination" — dark section modeled on the reference's favorite-places
+       carousel, using our real islands (no fake "happy customer" counter). -->
+  <section class="overflow-hidden bg-deep py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="grid gap-6 lg:grid-cols-2 lg:items-end">
+        <div>
+          <p class="font-display text-2xl text-amber">Most Visited</p>
+          <p class="font-display text-4xl font-semibold text-white sm:text-5xl">Top Islands</p>
+          <p class="mt-4 max-w-md text-sand/70">
+            More than 30 islands make up the San Blas archipelago — here are the ones travelers ask
+            about most, each linking to its own full guide.
+          </p>
+          <a href="/islands" class="mt-6 inline-block rounded-full bg-lime px-6 py-3 font-heading font-bold text-white shadow-lg shadow-lime/30 transition hover:bg-limedark">
+            View All Islands
+          </a>
+        </div>
+      </div>
+
+      <div class="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
+        {featured.map((island) => {
+          const slug = island.id.replace(/^en\//, '');
+          return (
+            <a href={`/islands/${slug}`} class="group overflow-hidden rounded-2xl">
+              <div class="h-40 overflow-hidden sm:h-48">
+                <img src={island.data.heroImage} alt={island.data.name} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+              </div>
+              <p class="mt-2 font-heading font-bold text-white">{island.data.name}</p>
+              {island.data.sector && <p class="text-xs text-sand/60">{island.data.sector}</p>}
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
+    <div class="flex items-end justify-between">
+      <h2 class="font-heading text-3xl font-extrabold text-deep">Popular Day Tours</h2>
+      <a href="/tours" class="font-medium text-teal hover:underline">See all tours →</a>
+    </div>
+    <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {dayTours.map((tour) => {
+        const slug = tour.id.replace(/^en\//, '');
+        return (
+          <TourAmenityCard
+            href={`/tours/${slug}`}
+            heroImage={tour.data.heroImage}
+            name={tour.data.name}
+            tagline={tour.data.tagline}
+            duration={tour.data.duration}
+            amenities={tour.data.bestFor.slice(0, 4).map((t) => t.replace(/-/g, ' '))}
+            whatsappMessage={`Hi! I'm interested in the ${tour.data.name}.`}
+          />
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- Practical info grid — real answers to "before you go" questions, standing
+       in for the reference's generic services grid (spa/metro don't apply here). -->
+  <section class="bg-sand py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="text-center">
+        <h2 class="font-display text-3xl font-semibold text-deep sm:text-4xl">
+          Everything You Need <span class="text-amber">to Know</span>
+        </h2>
+        <p class="mx-auto mt-2 max-w-xl text-deep/60">Practical info for your trip, straight from the tour operator's own briefing notes.</p>
+      </div>
+      <div class="mt-10 grid grid-cols-2 gap-5 sm:grid-cols-4">
+        {infoGuides.map((guide) => (
+          <a href={`/guides/${guide.id.replace(/^en\//, '')}`} class="group overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg">
+            {guide.data.heroImage && (
+              <div class="h-28 overflow-hidden">
+                <img src={guide.data.heroImage} alt={guide.data.title} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+              </div>
+            )}
+            <p class="p-3 text-center text-sm font-bold text-deep group-hover:text-lime">{guide.data.title}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Panoramic image break. NOTE for follow-up: no real San Blas promo video
+       exists yet to wire behind this play button — swap `videoUrl` for a real
+       link (YouTube/Vimeo) before treating this as a working video embed.
+       Stats bar below uses the same real, checkable numbers as StatsCounters
+       above — not the reference's fabricated "25+ years / 3600 travelers". -->
+  <section class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="relative overflow-hidden rounded-[2rem]">
+      <img
+        src="https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+        alt="San Blas from above"
+        class="h-72 w-full object-cover sm:h-96"
+      />
+      <div class="absolute inset-0 flex items-center justify-center bg-deep/20">
+        <a
+          href="https://wa.me/50760292571?text=Hi!%20I%27d%20love%20to%20see%20a%20video%20of%20San%20Blas."
+          target="_blank"
+          rel="noopener"
+          aria-label="Ask us for video content on WhatsApp"
+          class="flex h-16 w-16 items-center justify-center rounded-full border-2 border-white text-white transition hover:bg-white hover:text-deep"
+        >
+          <svg class="ml-1 h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" /></svg>
+        </a>
+      </div>
+      <div class="absolute inset-x-0 bottom-0 grid grid-cols-2 gap-4 bg-deep/70 px-6 py-5 backdrop-blur-sm sm:grid-cols-4">
+        {stats.map((stat) => (
+          <div class="text-center sm:text-left">
+            <p class="font-display text-2xl font-semibold text-white sm:text-3xl">{stat.value}</p>
+            <p class="text-xs text-sand/70 sm:text-sm">{stat.label}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <FaqTeaser
+    title="Find Answers for"
+    titleAccent="Questions You Have"
+    description="Straight answers, sourced directly from the tour operator's own briefing notes — not generic travel-blog filler."
+    quote="Give us a chance to help you plan it!"
+    image="https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+    items={faqItems}
+    viewAllHref="/faq"
+    viewAllLabel="See all FAQs"
+  />
+
+  <!-- Blog teaser — dark section matching the reference's "Explore Latest News". -->
+  {latestPosts.length > 0 && (
+    <section class="bg-deep py-16">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-wrap items-end justify-between gap-4">
+          <div>
+            <h2 class="font-display text-3xl font-semibold text-white sm:text-4xl">
+              Explore <span class="text-amber">Latest News</span>
+            </h2>
+            <p class="mt-2 max-w-md text-sand/70">Fresh, practical San Blas content — new posts every few days.</p>
+          </div>
+          <a href="/blog" class="rounded-full bg-lime px-6 py-3 font-heading font-bold text-white shadow-lg shadow-lime/30 transition hover:bg-limedark">
+            See More Articles
+          </a>
+        </div>
+        <div class="mt-10 grid gap-6 sm:grid-cols-3">
+          {latestPosts.map((post) => {
+            const slug = post.id.replace(/^en\//, '');
+            return (
+              <a href={`/blog/${slug}`} class="group relative block h-64 overflow-hidden rounded-2xl">
+                {post.data.heroImage && (
+                  <img src={post.data.heroImage} alt={post.data.title} loading="lazy" class="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+                )}
+                <div class="absolute inset-0 bg-gradient-to-t from-deep via-deep/20 to-transparent" />
+                <div class="absolute right-3 top-3 rounded-lg bg-sand px-2.5 py-1.5 text-center">
+                  <p class="font-heading text-lg font-extrabold leading-none text-deep">{post.data.publishedAt.getDate()}</p>
+                  <p class="text-[10px] font-bold uppercase text-deep/60">{post.data.publishedAt.toLocaleDateString('en-US', { month: 'short' })}</p>
+                </div>
+                <div class="absolute bottom-0 left-0 right-0 p-4">
+                  <p class="text-xs font-bold text-amber">San Blas Travel Team</p>
+                  <h3 class="mt-1 font-heading text-lg font-bold text-white">{post.data.title}</h3>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="bg-sand py-20">
+    <div class="mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
+      <h2 class="font-display text-3xl font-semibold text-deep sm:text-4xl">Skip the <span class="text-amber">Contact Form</span></h2>
+      <p class="mx-auto mt-4 max-w-xl text-deep/70">
+        Tell us your dates, group size, and what you're after — even a fully custom package — and
+        get a real reply from a real person on WhatsApp, same day.
+      </p>
+      <BookingCta label="Message Us on WhatsApp" class="mt-8 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </section>
+</Layout>

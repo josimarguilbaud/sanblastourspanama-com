@@ -1,0 +1,65 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import BookingCta from '../../../components/BookingCta.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { localesForSlug } from '../../../i18n/content';
+import { useTranslations } from '../../../i18n/ui';
+
+export async function getStaticPaths() {
+  const allIslands = await getCollection('islands');
+  return allIslands
+    .filter((entry) => entry.id.startsWith('pt-br/'))
+    .map((entry) => ({
+      params: { slug: entry.id.replace(/^pt-br\//, '') },
+      props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { name, sector, heroImage, bestFor, isInhabited, seoTitle, seoDescription } = entry.data;
+const slug = entry.id.replace(/^pt-br\//, '');
+const t = useTranslations('pt-br');
+
+const allIslands = await getCollection('islands');
+const availableLocales = localesForSlug(allIslands, slug);
+---
+
+<Layout
+  title={seoTitle ?? `${name} — Ilhas de San Blas`}
+  description={seoDescription ?? name}
+  image={heroImage}
+  path={`/islands/${slug}`}
+  availableLocales={availableLocales}
+>
+  <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">
+    <img src={heroImage} alt={name} class="h-full w-full object-cover" />
+  </div>
+
+  <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Ilhas', href: '/islands' }, { label: name }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-12 pt-4 sm:px-6 lg:px-8">
+    <p class="text-sm font-semibold uppercase tracking-wide text-teal">
+      {sector} {isInhabited ? '· Comunidade Guna' : '· Ilha desabitada'}
+    </p>
+    <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">{name}</h1>
+
+    <div class="mt-4 flex flex-wrap gap-2">
+      {bestFor.map((tag: string) => (
+        <span class="rounded-full bg-lime/10 px-3 py-1 text-sm font-medium text-limedark">
+          {tag.replace(/-/g, ' ')}
+        </span>
+      ))}
+    </div>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <Content />
+    </div>
+
+    <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
+      <p class="font-heading text-xl font-bold text-white">Pronto para conhecer {name}?</p>
+      <BookingCta label={t('cta.checkAvailability')} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </article>
+</Layout>

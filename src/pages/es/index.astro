@@ -1,0 +1,302 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import BookingCta from '../../components/BookingCta.astro';
+import StatsCounters from '../../components/StatsCounters.astro';
+import TourAmenityCard from '../../components/TourAmenityCard.astro';
+import FaqTeaser from '../../components/FaqTeaser.astro';
+import PhotoGalleryStrip from '../../components/PhotoGalleryStrip.astro';
+import { useTranslations } from '../../i18n/ui';
+
+const t = useTranslations('es');
+const allIslands = await getCollection('islands');
+const featured = allIslands.filter((entry) => entry.id.startsWith('es/')).slice(0, 5);
+
+const allTours = await getCollection('tours');
+const dayTours = allTours
+  .filter((entry) => entry.id.startsWith('es/') && entry.data.category === 'day-tour')
+  .slice(0, 3);
+
+const allGuides = await getCollection('guides');
+const guideSlugs = ['how-to-get-to-san-blas', 'what-to-pack', 'best-time-to-visit', 'guna-culture', 'snorkeling-diving', 'overnight-stays', 'health-safety-vaccinations', 'top-beaches'];
+const infoGuides = guideSlugs
+  .map((slug) => allGuides.find((g) => g.id === `es/${slug}.md`))
+  .filter((g): g is NonNullable<typeof g> => Boolean(g));
+
+const stats = [
+  { value: '10+', label: 'Tours y paquetes personalizados reales' },
+  { value: '30+', label: 'Islas cubiertas en nuestras guías' },
+  { value: '5', label: 'Idiomas en este sitio' },
+  { value: '100%', label: 'Tours operados por la comunidad Guna' },
+];
+
+const faqItems = [
+  {
+    q: '¿Cómo reservo un tour realmente?',
+    a: 'Escríbenos por WhatsApp — cuéntanos tus fechas y tamaño de grupo, y una persona real coordina disponibilidad, pago y recogida directamente contigo. Sin formulario de contacto, sin esperar por correo.',
+  },
+  {
+    q: '¿Qué es el impuesto comunitario de Guna Yala?',
+    a: 'Aplica un impuesto de entrada aparte: $22 para extranjeros y $7 para residentes, pagado en efectivo en la frontera de Guna Yala — no está incluido en el precio del tour.',
+  },
+  {
+    q: '¿Pasadía o estadía nocturna — cuál elegir?',
+    a: 'Ambos incluyen island-hopping y snorkel sobre el arrecife del barco hundido. Una estadía nocturna suma un atardecer, un cielo nocturno genuinamente oscuro, y una cena tradicional Guna.',
+  },
+  {
+    q: '¿Ofrecen paquetes personalizados?',
+    a: 'Sí — cuéntanos tus fechas, tamaño de grupo, y qué quieres, y armamos un itinerario a medida por WhatsApp.',
+  },
+];
+
+---
+
+<Layout
+  title="Islas de San Blas — La Guía Completa, Reserva por WhatsApp | Guna Yala, Panamá"
+  description="Más de 30 islas de San Blas explicadas a fondo, cultura Guna real, y reserva directa por WhatsApp con una persona real — sin formularios ni esperas."
+  path="/"
+  availableLocales={['en', 'es', 'de', 'fr', 'pt-br']}
+>
+  <section class="relative overflow-hidden bg-sand">
+    <div class="mx-auto grid max-w-7xl items-center gap-8 px-4 py-14 sm:px-6 lg:grid-cols-2 lg:gap-4 lg:px-8 lg:py-20">
+      <div class="relative z-10 text-center lg:text-left">
+        <p class="font-script text-3xl text-teal">Es Hora</p>
+        <h1 class="mt-1 font-display text-4xl font-semibold leading-[1.1] text-deep sm:text-5xl lg:text-6xl">
+          De Descubrir el <span class="text-amber">Paraíso</span> de Guna Yala
+        </h1>
+        <p class="mx-auto mt-6 max-w-xl text-lg text-deep/70 lg:mx-0">
+          La guía en español más completa de las más de 30 islas de San Blas — escríbenos por
+          WhatsApp y una persona real planea tu viaje contigo, sin formularios de contacto.
+        </p>
+        <div class="mt-8 flex flex-wrap items-center justify-center gap-6 lg:justify-start">
+          <BookingCta label={t('cta.book')} class="!bg-lime !shadow-lime/30 hover:!bg-limedark" />
+          <a
+            href="https://wa.me/50760292571"
+            target="_blank"
+            rel="noopener"
+            class="flex items-center gap-2 text-left"
+          >
+            <svg class="h-8 w-8 text-teal" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.52 0-10 4.48-10 10 0 1.77.46 3.5 1.34 5.02L2 22l5.13-1.35A9.96 9.96 0 0012.04 22c5.52 0 10-4.48 10-10s-4.48-10-10-10zm0 18.15a8.1 8.1 0 01-4.14-1.13l-.3-.18-3.05.8.81-2.97-.2-.31a8.13 8.13 0 01-1.25-4.36c0-4.49 3.65-8.14 8.14-8.14 2.17 0 4.21.85 5.75 2.39a8.08 8.08 0 012.38 5.75c0 4.49-3.66 8.15-8.14 8.15z"/></svg>
+            <span>
+              <span class="block font-heading text-sm font-bold text-deep">Más Info</span>
+              <span class="block font-script text-xl text-amber">Escríbenos</span>
+            </span>
+          </a>
+        </div>
+      </div>
+
+      <div class="relative">
+        <div
+          class="h-72 overflow-hidden rounded-[2.5rem] sm:h-96 lg:h-[26rem]"
+          style="clip-path: polygon(8% 0%, 100% 0%, 100% 92%, 92% 100%, 0% 100%, 0% 8%);"
+        >
+          <img
+            src="https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+            alt="Islas de San Blas, Panamá"
+            class="h-full w-full object-cover"
+          />
+        </div>
+        <span class="absolute -left-4 -top-4 text-5xl motion-safe:animate-bounce" style="animation-duration: 3s;">🎈</span>
+        <span class="absolute -bottom-6 -right-2 text-6xl motion-safe:animate-bounce" style="animation-duration: 4s;">🌴</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
+    <StatsCounters stats={stats} />
+  </section>
+
+  <PhotoGalleryStrip
+    title="Galería"
+    titleAccent="del Sitio"
+    images={featured.map((i) => ({ src: i.data.heroImage, alt: i.data.name }))}
+  />
+
+  <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
+    <div class="grid gap-12 lg:grid-cols-2 lg:items-center">
+      <div class="relative mx-auto max-w-sm lg:mx-0">
+        <div class="overflow-hidden rounded-3xl">
+          <img
+            src="https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+            alt="Vida comunitaria Guna en San Blas"
+            class="h-80 w-full object-cover sm:h-96"
+          />
+        </div>
+        <div class="absolute -right-6 -top-6 h-28 w-28 overflow-hidden rounded-full border-4 border-white shadow-lg sm:h-32 sm:w-32">
+          <img src="https://sanblastourspty.com/img/isla-perrochico-panama.webp" alt="Snorkel en San Blas" class="h-full w-full object-cover" />
+        </div>
+        <div class="absolute -bottom-8 -right-8 h-36 w-36 overflow-hidden rounded-full border-4 border-white shadow-lg sm:h-40 sm:w-40">
+          <img src="https://sanblastourspty.com/img/isla-chichime-panama.webp" alt="Playa de Isla Chichime" class="h-full w-full object-cover" />
+        </div>
+      </div>
+
+      <div>
+        <h2 class="font-display text-3xl font-semibold text-deep sm:text-4xl">
+          <span class="text-amber">Recomendamos</span> San Blas Siempre
+        </h2>
+        <p class="mt-4 text-deep/70">
+          La mayoría de los sitios de San Blas son folletos de marketing puro o un solo botón de
+          "contáctanos" sin contenido real. Construimos el que es ambas cosas — guías profundas y
+          honestas de cada isla y tour, respaldadas por una persona real en WhatsApp que sí responde.
+        </p>
+        <div class="mt-8 grid gap-4 sm:grid-cols-2">
+          <div class="rounded-2xl border border-deep/10 p-5">
+            <svg class="h-8 w-8 text-teal" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a4 4 0 00-3-3.87M9 20H4v-2a4 4 0 013-3.87m6-1.13a4 4 0 10-4-4 4 4 0 004 4zm6 0a4 4 0 10-4-4" /></svg>
+            <h3 class="mt-3 font-heading font-bold text-deep">100% Operado por la Comunidad Guna</h3>
+            <p class="mt-1 text-sm text-deep/70">Cada tour es guiado por la comunidad Guna del territorio que visitas, no un operador externo.</p>
+          </div>
+          <div class="rounded-2xl border border-deep/10 p-5">
+            <svg class="h-8 w-8 text-teal" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.86 9.86 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" /></svg>
+            <h3 class="mt-3 font-heading font-bold text-deep">Persona Real, No un Formulario</h3>
+            <p class="mt-1 text-sm text-deep/70">Escríbenos por WhatsApp y recibe respuestas reales sobre fechas, grupo y paquetes personalizados, el mismo día.</p>
+          </div>
+        </div>
+
+        <div class="mt-8 flex flex-wrap items-center gap-6">
+          <BookingCta label={t('cta.book')} class="!bg-lime !shadow-lime/30 hover:!bg-limedark" />
+          <p class="text-sm text-deep/60">
+            <span class="font-display text-2xl font-semibold text-deep">30+</span><br />
+            islas cubiertas en nuestras guías
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="overflow-hidden bg-deep py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="grid gap-6 lg:grid-cols-2 lg:items-end">
+        <div>
+          <p class="font-display text-2xl text-amber">Las Más Visitadas</p>
+          <p class="font-display text-4xl font-semibold text-white sm:text-5xl">Islas Top</p>
+          <p class="mt-4 max-w-md text-sand/70">
+            Más de 30 islas forman el archipiélago de San Blas — estas son las que más preguntan los
+            viajeros, cada una con su propia guía completa.
+          </p>
+          <a href="/es/islands" class="mt-6 inline-block rounded-full bg-lime px-6 py-3 font-heading font-bold text-white shadow-lg shadow-lime/30 transition hover:bg-limedark">
+            Ver Todas las Islas
+          </a>
+        </div>
+      </div>
+
+      <div class="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
+        {featured.map((island) => {
+          const slug = island.id.replace(/^es\//, '');
+          return (
+            <a href={`/es/islands/${slug}`} class="group overflow-hidden rounded-2xl">
+              <div class="h-40 overflow-hidden sm:h-48">
+                <img src={island.data.heroImage} alt={island.data.name} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+              </div>
+              <p class="mt-2 font-heading font-bold text-white">{island.data.name}</p>
+              {island.data.sector && <p class="text-xs text-sand/60">{island.data.sector}</p>}
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
+    <div class="flex items-end justify-between">
+      <h2 class="font-heading text-3xl font-extrabold text-deep">Pasadías Populares</h2>
+      <a href="/es/tours" class="font-medium text-teal hover:underline">Ver todos los tours →</a>
+    </div>
+    <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {dayTours.map((tour) => {
+        const slug = tour.id.replace(/^es\//, '');
+        return (
+          <TourAmenityCard
+            href={`/es/tours/${slug}`}
+            heroImage={tour.data.heroImage}
+            name={tour.data.name}
+            tagline={tour.data.tagline}
+            duration={tour.data.duration}
+            amenities={tour.data.bestFor.slice(0, 4).map((tg) => tg.replace(/-/g, ' '))}
+            whatsappMessage={`¡Hola! Me interesa el ${tour.data.name}.`}
+            ctaLabel="Ver detalles"
+            whatsappLabel="Pregunta el precio"
+          />
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="bg-sand py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="text-center">
+        <h2 class="font-display text-3xl font-semibold text-deep sm:text-4xl">
+          Todo lo que Necesitas <span class="text-amber">Saber</span>
+        </h2>
+        <p class="mx-auto mt-2 max-w-xl text-deep/60">Información práctica para tu viaje, directo de las notas del operador del tour.</p>
+      </div>
+      <div class="mt-10 grid grid-cols-2 gap-5 sm:grid-cols-4">
+        {infoGuides.map((guide) => (
+          <a href={`/es/guides/${guide.id.replace(/^es\//, '')}`} class="group overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg">
+            {guide.data.heroImage && (
+              <div class="h-28 overflow-hidden">
+                <img src={guide.data.heroImage} alt={guide.data.title} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+              </div>
+            )}
+            <p class="p-3 text-center text-sm font-bold text-deep group-hover:text-lime">{guide.data.title}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Banner panorámico. NOTA de seguimiento: aún no hay un video real de San
+       Blas para este botón — cambiar por un link real (YouTube/Vimeo) antes
+       de tratarlo como un video funcional. La franja de stats usa los mismos
+       números reales de arriba, no el "25+ años / 3600 viajeros" inventado
+       de la referencia. -->
+  <section class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="relative overflow-hidden rounded-[2rem]">
+      <img
+        src="https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+        alt="San Blas desde arriba"
+        class="h-72 w-full object-cover sm:h-96"
+      />
+      <div class="absolute inset-0 flex items-center justify-center bg-deep/20">
+        <a
+          href="https://wa.me/50760292571?text=%C2%A1Hola!%20Me%20encantar%C3%ADa%20ver%20un%20video%20de%20San%20Blas."
+          target="_blank"
+          rel="noopener"
+          aria-label="Pedir contenido en video por WhatsApp"
+          class="flex h-16 w-16 items-center justify-center rounded-full border-2 border-white text-white transition hover:bg-white hover:text-deep"
+        >
+          <svg class="ml-1 h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" /></svg>
+        </a>
+      </div>
+      <div class="absolute inset-x-0 bottom-0 grid grid-cols-2 gap-4 bg-deep/70 px-6 py-5 backdrop-blur-sm sm:grid-cols-4">
+        {stats.map((stat) => (
+          <div class="text-center sm:text-left">
+            <p class="font-display text-2xl font-semibold text-white sm:text-3xl">{stat.value}</p>
+            <p class="text-xs text-sand/70 sm:text-sm">{stat.label}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <FaqTeaser
+    title="Encuentra Respuestas a"
+    titleAccent="Tus Preguntas"
+    description="Respuestas directas, tomadas de las propias notas del operador del tour."
+    quote="¡Danos la oportunidad de ayudarte a planear!"
+    image="https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+    items={faqItems}
+    viewAllHref="/es/faq"
+    viewAllLabel="Ver todas las preguntas"
+  />
+
+  <section class="bg-sand py-20">
+    <div class="mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
+      <h2 class="font-display text-3xl font-semibold text-deep sm:text-4xl">Sáltate el <span class="text-amber">Formulario</span></h2>
+      <p class="mx-auto mt-4 max-w-xl text-deep/70">
+        Cuéntanos tus fechas, tamaño de grupo, y qué buscas — hasta un paquete completamente
+        personalizado — y recibe una respuesta real de una persona real en WhatsApp, el mismo día.
+      </p>
+      <BookingCta label={t('cta.checkAvailability')} class="mt-8 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </section>
+</Layout>

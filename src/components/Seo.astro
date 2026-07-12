@@ -1,0 +1,60 @@
+---
+// Canonical + hreflang + OG/Twitter tags, centralized so every page gets the
+// same correct SEO markup instead of hand-copied <meta> blocks per page.
+import { defaultLocale, locales as allLocales } from '../i18n/ui';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  /** Path without locale prefix, e.g. "/islands/chichime". "/" for home. */
+  path?: string;
+  /**
+   * Locales that actually have a translated version of THIS page. Defaults to
+   * just the current locale — emitting hreflang for a locale with no real
+   * translation would tell Google a page exists when it doesn't (404 risk).
+   * Pass the full list explicitly once a page is confirmed translated.
+   */
+  availableLocales?: string[];
+}
+
+const { title, description, image, path = '/', availableLocales } = Astro.props;
+
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://sanblastourspanama.com';
+
+function urlFor(locale: string) {
+  const prefix = locale === defaultLocale ? '' : `/${locale}`;
+  const cleanPath = path === '/' ? '' : path;
+  return `${siteUrl}${prefix}${cleanPath}` || siteUrl;
+}
+
+const currentLocale = Astro.currentLocale ?? defaultLocale;
+const canonical = urlFor(currentLocale);
+const ogImage = image ?? `${siteUrl}/og-default.jpg`;
+const hreflangLocales = (availableLocales ?? [currentLocale]).filter((l) =>
+  (allLocales as readonly string[]).includes(l)
+);
+---
+
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href={canonical} />
+
+{hreflangLocales.map((locale) => (
+  <link rel="alternate" hreflang={locale} href={urlFor(locale)} />
+))}
+{hreflangLocales.includes(defaultLocale) && (
+  <link rel="alternate" hreflang="x-default" href={urlFor(defaultLocale)} />
+)}
+
+<meta property="og:type" content="website" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:url" content={canonical} />
+<meta property="og:locale" content={currentLocale.replace('-', '_')} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImage} />

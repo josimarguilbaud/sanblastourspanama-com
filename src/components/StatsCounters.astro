@@ -1,0 +1,24 @@
+---
+// Every number here is real and independently checkable elsewhere on the
+// site (tours index, islands index, footer language list) — no invented
+// "years of experience" or fabricated review counts.
+interface Stat {
+  value: string;
+  label: string;
+}
+
+interface Props {
+  stats: Stat[];
+}
+
+const { stats } = Astro.props;
+---
+
+<div class="grid grid-cols-2 gap-6 sm:grid-cols-4">
+  {stats.map((stat) => (
+    <div class="rounded-2xl bg-white p-6 text-center shadow-sm ring-1 ring-deep/5">
+      <p class="font-heading text-3xl font-extrabold text-teal sm:text-4xl">{stat.value}</p>
+      <p class="mt-1 text-sm text-deep/70">{stat.label}</p>
+    </div>
+  ))}
+</div>

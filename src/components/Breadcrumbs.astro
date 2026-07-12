@@ -1,0 +1,45 @@
+---
+// Consistent breadcrumb trail across every detail page — also emits
+// BreadcrumbList schema (Travlla-style detail pages always show a trail;
+// this is the SEO-correct way to do it rather than just visual decoration).
+import { localizedPath, defaultLocale } from '../i18n/ui';
+
+interface Crumb {
+  label: string;
+  href?: string;
+}
+
+interface Props {
+  items: Crumb[];
+}
+
+const { items } = Astro.props;
+const locale = Astro.currentLocale ?? defaultLocale;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: items.map((item, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: item.label,
+    ...(item.href ? { item: `${Astro.site?.toString().replace(/\/$/, '')}${localizedPath(locale, item.href)}` } : {}),
+  })),
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+<nav aria-label="Breadcrumb" class="mx-auto max-w-3xl px-4 pt-6 sm:px-6 lg:px-8">
+  <ol class="flex flex-wrap items-center gap-1.5 text-sm text-deep/60">
+    {items.map((item, i) => (
+      <li class="flex items-center gap-1.5">
+        {i > 0 && <span class="text-deep/30">/</span>}
+        {item.href ? (
+          <a href={localizedPath(locale, item.href)} class="hover:text-teal">{item.label}</a>
+        ) : (
+          <span class="font-medium text-deep/80">{item.label}</span>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>

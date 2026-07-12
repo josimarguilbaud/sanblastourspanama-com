@@ -1,0 +1,165 @@
+---
+import BookingCta from './BookingCta.astro';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+import { useTranslations, localizedPath, defaultLocale } from '../i18n/ui';
+import { navShortcuts } from '../i18n/nav';
+
+const locale = Astro.currentLocale ?? defaultLocale;
+const t = useTranslations(locale);
+
+// Full content (islands, tours, guides) currently only exists for en/es —
+// de/fr/pt-br are pipeline proof-of-concept (home + 1 island only), so their
+// header stays minimal rather than linking to pages that don't exist yet.
+const hasFullContent = locale === 'en' || locale === 'es';
+const menu = hasFullContent ? navShortcuts[locale as 'en' | 'es'] : null;
+const homeHref = localizedPath(locale, '/');
+const menuLabel = t('nav.menu');
+---
+
+<header class="sticky top-0 z-40 bg-white shadow-sm">
+  <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
+    <a href={homeHref} class="flex items-center gap-2">
+      <span class="text-2xl">🌴</span>
+      <span class="font-script text-3xl font-bold leading-none text-lime">San Blas</span>
+    </a>
+
+    {!menu && (
+      <nav aria-label={menuLabel} class="hidden items-center gap-7 md:flex">
+        <a href={homeHref} class="font-medium text-deep transition hover:text-lime">Home</a>
+        <a href={localizedPath(locale, '/islands')} class="font-medium text-deep transition hover:text-lime">{t('nav.islands')}</a>
+        <a href={localizedPath(locale, '/tours')} class="font-medium text-deep transition hover:text-lime">{t('nav.tours')}</a>
+        <a href={localizedPath(locale, '/guides')} class="font-medium text-deep transition hover:text-lime">{t('nav.guides')}</a>
+        <a href={localizedPath(locale, '/guna-yala')} class="font-medium text-deep transition hover:text-lime">Guna Yala</a>
+        <a href={localizedPath(locale, '/faq')} class="font-medium text-deep transition hover:text-lime">{t('nav.faq')}</a>
+      </nav>
+    )}
+
+    {menu && (
+      <nav aria-label={menuLabel} class="hidden items-center gap-7 md:flex">
+        <a href={localizedPath(locale, '/')} class="font-medium text-deep transition hover:text-lime">Home</a>
+
+        <div class="group relative" data-dropdown>
+          <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu-islands" class="flex items-center gap-1 font-medium text-deep transition hover:text-lime focus:outline-none focus-visible:text-lime">
+            {t('nav.islands')}
+            <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
+          </button>
+          <div id="menu-islands" class="invisible absolute left-0 top-full z-50 w-56 pt-2 opacity-0 transition group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
+            <div class="rounded-xl bg-white py-2 shadow-lg ring-1 ring-deep/10">
+              {menu.islands.map((item) => (
+                <a href={localizedPath(locale, item.href)} class="block px-4 py-2 text-sm text-deep/80 hover:bg-sand hover:text-lime">
+                  {item.label}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        <div class="group relative" data-dropdown>
+          <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu-tours" class="flex items-center gap-1 font-medium text-deep transition hover:text-lime focus:outline-none focus-visible:text-lime">
+            {t('nav.tours')}
+            <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
+          </button>
+          <div id="menu-tours" class="invisible absolute left-0 top-full z-50 w-56 pt-2 opacity-0 transition group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
+            <div class="rounded-xl bg-white py-2 shadow-lg ring-1 ring-deep/10">
+              {menu.tours.map((item) => (
+                <a href={localizedPath(locale, item.href)} class="block px-4 py-2 text-sm text-deep/80 hover:bg-sand hover:text-lime">
+                  {item.label}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        <div class="group relative" data-dropdown>
+          <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu-guides" class="flex items-center gap-1 font-medium text-deep transition hover:text-lime focus:outline-none focus-visible:text-lime">
+            {t('nav.guides')}
+            <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" /></svg>
+          </button>
+          <div id="menu-guides" class="invisible absolute left-0 top-full z-50 w-56 pt-2 opacity-0 transition group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
+            <div class="rounded-xl bg-white py-2 shadow-lg ring-1 ring-deep/10">
+              {menu.guides.map((item) => (
+                <a href={localizedPath(locale, item.href)} class="block px-4 py-2 text-sm text-deep/80 hover:bg-sand hover:text-lime">
+                  {item.label}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        <a href={localizedPath(locale, '/blog')} class="font-medium text-deep transition hover:text-lime">
+          {t('nav.blog')}
+        </a>
+        <a href={localizedPath(locale, '/faq')} class="font-medium text-deep transition hover:text-lime">
+          {t('nav.faq')}
+        </a>
+      </nav>
+    )}
+
+    <div class="flex items-center gap-3">
+      <button type="button" aria-label="Search" class="hidden text-deep/60 hover:text-lime sm:block">
+        <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 10a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
+      </button>
+      <LanguageSwitcher />
+      <BookingCta label={t('cta.book')} class="!bg-lime !py-2.5 !px-5 text-sm !shadow-lime/30 hover:!bg-limedark" />
+      {menu && (
+        <button
+          type="button"
+          id="mobile-menu-toggle"
+          aria-expanded="false"
+          aria-controls="mobile-menu-panel"
+          aria-label={menuLabel}
+          class="text-deep/70 hover:text-lime md:hidden"
+        >
+          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" /></svg>
+        </button>
+      )}
+    </div>
+  </div>
+
+  {menu && (
+    <nav id="mobile-menu-panel" aria-label={menuLabel} hidden class="border-t border-deep/10 bg-white px-4 py-4 md:hidden">
+      <a href={localizedPath(locale, '/')} class="block py-2 font-medium text-deep hover:text-lime">Home</a>
+
+      <p class="mt-3 text-xs font-semibold uppercase tracking-wide text-deep/40">{t('nav.islands')}</p>
+      {menu.islands.map((item) => (
+        <a href={localizedPath(locale, item.href)} class="block py-2 pl-2 text-sm text-deep/80 hover:text-lime">{item.label}</a>
+      ))}
+
+      <p class="mt-3 text-xs font-semibold uppercase tracking-wide text-deep/40">{t('nav.tours')}</p>
+      {menu.tours.map((item) => (
+        <a href={localizedPath(locale, item.href)} class="block py-2 pl-2 text-sm text-deep/80 hover:text-lime">{item.label}</a>
+      ))}
+
+      <p class="mt-3 text-xs font-semibold uppercase tracking-wide text-deep/40">{t('nav.guides')}</p>
+      {menu.guides.map((item) => (
+        <a href={localizedPath(locale, item.href)} class="block py-2 pl-2 text-sm text-deep/80 hover:text-lime">{item.label}</a>
+      ))}
+
+      <a href={localizedPath(locale, '/blog')} class="mt-3 block py-2 font-medium text-deep hover:text-lime">{t('nav.blog')}</a>
+      <a href={localizedPath(locale, '/faq')} class="block py-2 font-medium text-deep hover:text-lime">{t('nav.faq')}</a>
+    </nav>
+  )}
+</header>
+
+<script>
+  const toggle = document.getElementById('mobile-menu-toggle');
+  const panel = document.getElementById('mobile-menu-panel');
+  toggle?.addEventListener('click', () => {
+    const isOpen = toggle.getAttribute('aria-expanded') === 'true';
+    toggle.setAttribute('aria-expanded', String(!isOpen));
+    panel?.toggleAttribute('hidden', isOpen);
+  });
+
+  document.querySelectorAll('[data-dropdown]').forEach((group) => {
+    const button = group.querySelector('button');
+    if (!button) return;
+    const open = () => button.setAttribute('aria-expanded', 'true');
+    const close = () => button.setAttribute('aria-expanded', 'false');
+    group.addEventListener('mouseenter', open);
+    group.addEventListener('mouseleave', close);
+    group.addEventListener('focusin', open);
+    group.addEventListener('focusout', (e) => {
+      if (!group.contains((e as FocusEvent).relatedTarget as Node)) close();
+    });
+  });
+</script>

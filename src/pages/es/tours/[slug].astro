@@ -1,0 +1,92 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import BookingCta from '../../../components/BookingCta.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import RelatedCards from '../../../components/RelatedCards.astro';
+import { localesForSlug } from '../../../i18n/content';
+import { useTranslations } from '../../../i18n/ui';
+
+export async function getStaticPaths() {
+  const allTours = await getCollection('tours');
+  return allTours
+    .filter((entry) => entry.id.startsWith('es/'))
+    .map((entry) => ({
+      params: { slug: entry.id.replace(/^es\//, '') },
+      props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { name, category, tagline, heroImage, duration, bestFor, relatedIslandSlugs, seoTitle, seoDescription } = entry.data;
+const slug = entry.id.replace(/^es\//, '');
+const t = useTranslations('es');
+
+const allTours = await getCollection('tours');
+const availableLocales = localesForSlug(allTours, slug);
+
+const allIslands = await getCollection('islands');
+const relatedIslands = allIslands
+  .filter((i) => i.id.startsWith('es/') && relatedIslandSlugs.includes(i.id.replace(/^es\//, '')))
+  .map((i) => ({
+    href: `/es/islands/${i.id.replace(/^es\//, '')}`,
+    heroImage: i.data.heroImage,
+    title: i.data.name,
+    subtitle: i.data.sector,
+  }));
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TouristTrip',
+  name,
+  description: seoDescription ?? tagline,
+  image: heroImage,
+  touristType: bestFor,
+  provider: { '@type': 'TravelAgency', name: 'San Blas Tours Panamá' },
+};
+---
+
+<Layout
+  title={seoTitle ?? `${name} — Tours de San Blas`}
+  description={seoDescription ?? tagline}
+  image={heroImage}
+  path={`/tours/${slug}`}
+  availableLocales={availableLocales}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">
+    <img src={heroImage} alt={name} class="h-full w-full object-cover" />
+  </div>
+
+  <Breadcrumbs items={[{ label: 'Inicio', href: '/' }, { label: 'Tours', href: '/tours' }, { label: name }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-12 pt-4 sm:px-6 lg:px-8">
+    <p class="text-sm font-semibold uppercase tracking-wide text-teal">
+      {category === 'day-tour' ? 'Pasadía' : 'Estadía Nocturna'} · {duration}
+    </p>
+    <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">{name}</h1>
+    <p class="mt-3 text-lg text-deep/70">{tagline}</p>
+
+    <div class="mt-4 flex flex-wrap gap-2">
+      {bestFor.map((tag: string) => (
+        <span class="rounded-full bg-lime/10 px-3 py-1 text-sm font-medium text-limedark">
+          {tag.replace(/-/g, ' ')}
+        </span>
+      ))}
+    </div>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <Content />
+    </div>
+
+    <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
+      <p class="font-heading text-xl font-bold text-white">¿Te interesa {name}?</p>
+      <p class="mt-2 text-sand/70">Escríbenos por WhatsApp — una persona real confirma fechas, tamaño de grupo y precio directamente contigo.</p>
+      <BookingCta label={t('cta.book')} message={`¡Hola! Me interesa el ${name}.`} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </article>
+
+  <RelatedCards title="Islas en Este Tour" items={relatedIslands} />
+</Layout>

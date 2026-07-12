@@ -1,0 +1,149 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import BookingCta from '../../components/BookingCta.astro';
+
+const faqGroups = [
+  {
+    title: 'Cómo Llegar',
+    items: [
+      {
+        q: '¿Cómo llego a San Blas desde Ciudad de Panamá?',
+        a: 'Los tours incluyen recogida puerta a puerta en tu hospedaje en Ciudad de Panamá, un traslado en 4x4 de aproximadamente 2.5 horas hasta el punto de embarque de Cartí, y un cruce en lancha rápida hasta las islas. El tiempo total puerta a puerta de un pasadía es de unas 14 horas. Ver nuestra guía completa de cómo llegar a San Blas.',
+      },
+      {
+        q: '¿Puedo volar a San Blas?',
+        a: 'Un pequeño número de pistas de aterrizaje de Guna Yala (como El Porvenir) reciben vuelos domésticos ocasionales, pero esto solo te lleva a un punto del archipiélago — de todas formas necesitarías transporte local en lancha para llegar a islas específicas. La mayoría de los visitantes encuentra más simple el traslado estándar en 4x4 y lancha del tour, ya que es una sola reserva que incluye todo.',
+      },
+      {
+        q: '¿Puedo navegar de Cartagena a San Blas?',
+        a: 'Existen viajes independientes en velero de varios días entre Cartagena, Colombia y Panamá que sí pasan por parte de San Blas, tomando típicamente de 4 a 5 días. Ese es un viaje distinto a un tour dedicado a San Blas — si específicamente quieres vivir las islas, el snorkel y la cultura de San Blas en vez de un cruce de varios días en mar abierto, un pasadía o estadía nocturna desde Ciudad de Panamá es más rápido y predecible.',
+      },
+    ],
+  },
+  {
+    title: 'Qué Esperar',
+    items: [
+      {
+        q: '¿Qué incluye un pasadía a San Blas?',
+        a: 'Transporte puerta a puerta, traslados en lancha, almuerzo con bebida, chalecos salvavidas y guía Guna son estándar en los pasadías de San Blas. Lo incluido exacto (snorkel, cantidad de islas, visita a comunidad Guna) varía según el tipo de tour — ver nuestra página de tours para las diferencias entre cada paquete.',
+      },
+      {
+        q: '¿San Blas es apto para niños o adultos mayores?',
+        a: 'La mayoría de los tours reciben niños (de 0 a 4 años suelen viajar gratis) y adultos mayores en buena salud. San Blas no es recomendado para viajeras embarazadas, personas con condiciones de espalda o cadera, ni nadie con una condición médica seria, y no es accesible para sillas de ruedas.',
+      },
+      {
+        q: '¿Hay wifi o señal celular en San Blas?',
+        a: 'No hay wifi en ninguna isla. La señal celular es inconsistente — algunas islas tienen señal utilizable, la mayoría no. Prepárate para desconectarte; la mayoría de los visitantes terminan nombrándolo como algo destacado, no como una desventaja.',
+      },
+      {
+        q: '¿Qué es el impuesto comunitario de Guna Yala?',
+        a: 'Aplica un impuesto de entrada comarcal aparte: $22 para extranjeros y $7 para residentes (se requiere pasaporte válido o cédula de residencia para aplicar la tarifa de residente). Se paga en efectivo en la frontera de Guna Yala, no está incluido en el precio del tour, y va directo a la comunidad Guna.',
+      },
+    ],
+  },
+  {
+    title: 'Reserva y Pago',
+    items: [
+      {
+        q: '¿Cómo reservo un tour de San Blas?',
+        a: 'Escríbenos por WhatsApp con tus fechas y tamaño de grupo — una persona real confirma disponibilidad, te guía en el pago, y coordina la recogida directamente contigo. También podemos armar un paquete completamente personalizado si ninguno de nuestros tours estándar encaja con lo que buscas.',
+      },
+      {
+        q: '¿Ofrecen paquetes personalizados?',
+        a: 'Sí — cuéntanos tus fechas, tamaño de grupo, y qué quieres (islas extra, una ocasión especial, una estadía más larga) y armamos un itinerario a medida coordinado por WhatsApp.',
+      },
+      {
+        q: '¿Cuál es la política de cancelación?',
+        a: 'Cancela con 72+ horas de anticipación a tu tour y tu depósito se reembolsa por completo. Las cancelaciones dentro de las 72 horas no son reembolsables. Si el operador cancela por razones de seguridad (clima, condiciones inseguras), recibes reembolso completo o reprogramación.',
+      },
+      {
+        q: '¿Pasadía o estadía nocturna — cuál elegir?',
+        a: 'Ambos incluyen island-hopping y snorkel sobre el arrecife del barco hundido. Una estadía nocturna suma un atardecer y amanecer sobre la misma playa, un cielo nocturno genuinamente oscuro, y una cena tradicional Guna — vale la pena si San Blas es un punto destacado del viaje y no solo un agregado rápido. Ver nuestra comparación completa.',
+      },
+    ],
+  },
+];
+
+const allFaqs = faqGroups.flatMap((g) => g.items);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: allFaqs.map((item) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: { '@type': 'Answer', text: item.a },
+  })),
+};
+---
+
+<Layout
+  title="Preguntas Frecuentes de San Blas — Respuestas a Todo | Islas de San Blas"
+  description="Respuestas a las preguntas más comunes sobre San Blas: cómo llegar, qué incluye, seguridad, reserva y cancelación — directo del operador del tour."
+  path="/faq"
+  availableLocales={['en', 'es', 'de', 'fr', 'pt-br']}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <section class="bg-teal/5 py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="grid gap-10 lg:grid-cols-2 lg:items-center">
+        <div>
+          <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">
+            Encuentra <span class="text-amber">Respuestas</span> a Tus Preguntas
+          </h1>
+          <p class="mt-4 max-w-md text-deep/70">Respuestas directas, tomadas de las propias notas del operador del tour — no relleno genérico de blog de viajes.</p>
+
+          <div class="relative mt-8 max-w-sm">
+            <div class="overflow-hidden rounded-3xl">
+              <img src="https://sanblastourspty.com/img/isla-perrochico-panama.webp" alt="San Blas" class="h-64 w-full object-cover" />
+            </div>
+            <div class="absolute -bottom-6 left-6 right-6 rounded-2xl bg-white p-4 shadow-lg ring-1 ring-deep/5">
+              <p class="font-heading text-lg font-bold text-deep">
+                <span class="mr-1 text-2xl text-amber">&ldquo;</span>¡Danos la oportunidad de ayudarte a planear!
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="rounded-3xl bg-white p-3 shadow-sm ring-1 ring-deep/5 sm:p-4">
+          {faqGroups[0].items.map((item, i) => (
+            <details class="group border-b border-deep/10 px-3 py-3 last:border-0" open={i === 0}>
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-heading font-bold text-deep marker:content-none">
+                {item.q}
+                <svg class="h-4 w-4 shrink-0 text-amber transition group-open:rotate-90" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+              </summary>
+              <p class="mt-2 text-sm text-deep/70">{item.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
+    <div class="grid gap-8 lg:grid-cols-2">
+      {faqGroups.slice(1).map((group) => (
+        <div>
+          <h2 class="font-display text-2xl font-semibold text-deep">{group.title}</h2>
+          <div class="mt-4 rounded-3xl bg-white p-3 shadow-sm ring-1 ring-deep/5 sm:p-4">
+            {group.items.map((item) => (
+              <details class="group border-b border-deep/10 px-3 py-3 last:border-0">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-heading font-bold text-deep marker:content-none">
+                  {item.q}
+                  <svg class="h-4 w-4 shrink-0 text-amber transition group-open:rotate-90" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+                </summary>
+                <p class="mt-2 text-sm text-deep/70">{item.a}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+      <p class="font-display text-2xl font-semibold text-white">¿Aún Tienes Preguntas?</p>
+      <p class="mt-2 text-sand/70">Escríbenos por WhatsApp — una persona real responde, el mismo día.</p>
+      <BookingCta label="Escríbenos por WhatsApp" class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </section>
+</Layout>

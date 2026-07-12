@@ -1,0 +1,109 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import BookingCta from '../../../components/BookingCta.astro';
+import TourAmenityCard from '../../../components/TourAmenityCard.astro';
+import { useTranslations } from '../../../i18n/ui';
+
+const t = useTranslations('de');
+const allTours = await getCollection('tours');
+const tours = allTours.filter((entry) => entry.id.startsWith('de/'));
+const dayTours = tours.filter((tr) => tr.data.category === 'day-tour');
+const overnightStays = tours.filter((tr) => tr.data.category === 'overnight');
+
+const allPackages = await getCollection('packages');
+const customPackages = allPackages.filter((entry) => entry.id.startsWith('de/'));
+---
+
+<Layout
+  title="San-Blas-Touren & Individuelle Pakete | San-Blas-Inseln"
+  description="Vergleichen Sie jede San-Blas-Tagestour und Übernachtung im Detail, oder fragen Sie nach einem individuellen Paket. Schreiben Sie uns auf WhatsApp."
+  path="/tours"
+  availableLocales={['en', 'es', 'de']}
+>
+  <section class="bg-sand py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="text-center">
+        <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">
+          San-Blas-<span class="text-amber">Touren</span>
+        </h1>
+        <p class="mx-auto mt-4 max-w-2xl text-lg text-deep/70">
+          Fünf Tagestour-Optionen und fünf Übernachtungstypen, jede mit einer wirklich anderen Route.
+        </p>
+      </div>
+
+      <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Tagestouren</h2>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {dayTours.map((tour) => {
+          const slug = tour.id.replace(/^de\//, '');
+          return (
+            <TourAmenityCard
+              href={`/de/tours/${slug}`}
+              heroImage={tour.data.heroImage}
+              name={tour.data.name}
+              tagline={tour.data.tagline}
+              duration={tour.data.duration}
+              amenities={tour.data.bestFor.slice(0, 4).map((tg) => tg.replace(/-/g, ' '))}
+              whatsappMessage={`Hallo! Ich interessiere mich für die ${tour.data.name}.`}
+              ctaLabel="Details ansehen"
+              whatsappLabel="Preis erfragen"
+            />
+          );
+        })}
+      </div>
+
+      <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Übernachtungen</h2>
+      <p class="mt-2 text-deep/60">
+        Buchung nach Hüttentyp, nicht nach fester Insel — siehe unseren <a href="/de/guides/overnight-stays" class="text-teal underline">Übernachtungsguide</a>.
+      </p>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {overnightStays.map((tour) => {
+          const slug = tour.id.replace(/^de\//, '');
+          return (
+            <TourAmenityCard
+              href={`/de/tours/${slug}`}
+              heroImage={tour.data.heroImage}
+              name={tour.data.name}
+              tagline={tour.data.tagline}
+              duration={tour.data.duration}
+              amenities={tour.data.bestFor.slice(0, 4).map((tg) => tg.replace(/-/g, ' '))}
+              whatsappMessage={`Hallo! Ich interessiere mich für die ${tour.data.name}.`}
+              ctaLabel="Details ansehen"
+              whatsappLabel="Preis erfragen"
+            />
+          );
+        })}
+      </div>
+
+      {customPackages.length > 0 && (
+        <>
+          <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Individuelle Pakete</h2>
+          <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {customPackages.map((pkg) => {
+              const slug = pkg.id.replace(/^de\//, '');
+              return (
+                <TourAmenityCard
+                  href={`/de/tours/packages/${slug}`}
+                  heroImage={pkg.data.heroImage}
+                  name={pkg.data.name}
+                  tagline={pkg.data.tagline}
+                  duration={pkg.data.duration}
+                  amenities={pkg.data.highlights}
+                  whatsappMessage={`Hallo! Ich interessiere mich für das individuelle Paket "${pkg.data.name}".`}
+                  ctaLabel="Details ansehen"
+                  whatsappLabel="Per WhatsApp fragen"
+                />
+              );
+            })}
+          </div>
+        </>
+      )}
+
+      <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+        <p class="font-display text-2xl font-semibold text-white">Preise und Verfügbarkeit Erfragen</p>
+        <p class="mx-auto mt-2 max-w-md text-sand/70">Schreiben Sie uns auf WhatsApp mit Ihren Daten und Gruppengröße.</p>
+        <BookingCta label={t('cta.book')} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+      </div>
+    </div>
+  </section>
+</Layout>

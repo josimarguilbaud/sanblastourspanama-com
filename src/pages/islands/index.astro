@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const allIslands = await getCollection('islands');
+const islands = allIslands
+  .filter((entry) => entry.id.startsWith('en/'))
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<Layout
+  title="San Blas Islands — Full Guide to 30+ Islands in Guna Yala | San Blas Islands"
+  description="Explore every San Blas island worth visiting: Chichime, Isla Diablo, Perro Chico, the Limones Cays and more — with what to expect, best-for tags, and how to book a tour that visits them."
+  path="/islands"
+  availableLocales={['en', 'es']}
+>
+  <section class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">The Islands of San Blas</h1>
+    <p class="mt-4 max-w-2xl text-lg text-deep/70">
+      Guna Yala is home to more than 30 named islands and cays, each with its own character — from
+      snorkeling reefs to Guna fishing communities. Here's the full guide, growing as we add more.
+    </p>
+
+    <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {islands.map((island) => {
+        const slug = island.id.replace(/^en\//, '');
+        return (
+          <a
+            href={`/islands/${slug}`}
+            class="group overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg"
+          >
+            <div class="h-48 overflow-hidden">
+              <img
+                src={island.data.heroImage}
+                alt={island.data.name}
+                loading="lazy"
+                class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+              />
+            </div>
+            <div class="p-5">
+              <h2 class="font-heading text-lg font-bold text-deep">{island.data.name}</h2>
+              {island.data.sector && <p class="mt-1 text-sm text-teal">{island.data.sector}</p>}
+              <div class="mt-3 flex flex-wrap gap-1.5">
+                {island.data.bestFor.slice(0, 3).map((tag) => (
+                  <span class="rounded-full bg-sand px-2.5 py-1 text-xs font-medium text-deep/70">
+                    {tag.replace(/-/g, ' ')}
+                  </span>
+                ))}
+              </div>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</Layout>

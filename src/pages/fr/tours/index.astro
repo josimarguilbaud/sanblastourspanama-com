@@ -1,0 +1,109 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import BookingCta from '../../../components/BookingCta.astro';
+import TourAmenityCard from '../../../components/TourAmenityCard.astro';
+import { useTranslations } from '../../../i18n/ui';
+
+const t = useTranslations('fr');
+const allTours = await getCollection('tours');
+const tours = allTours.filter((entry) => entry.id.startsWith('fr/'));
+const dayTours = tours.filter((tr) => tr.data.category === 'day-tour');
+const overnightStays = tours.filter((tr) => tr.data.category === 'overnight');
+
+const allPackages = await getCollection('packages');
+const customPackages = allPackages.filter((entry) => entry.id.startsWith('fr/'));
+---
+
+<Layout
+  title="Excursions & Forfaits Personnalisés San Blas | Îles de San Blas"
+  description="Comparez chaque excursion d'une journée et séjour en cabane de San Blas en détail, ou demandez un forfait entièrement personnalisé. Écrivez-nous sur WhatsApp."
+  path="/tours"
+  availableLocales={['en', 'es', 'fr']}
+>
+  <section class="bg-sand py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="text-center">
+        <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">
+          Excursions <span class="text-amber">San Blas</span>
+        </h1>
+        <p class="mx-auto mt-4 max-w-2xl text-lg text-deep/70">
+          Cinq options d'excursion d'une journée et cinq types de cabanes, chacun avec un itinéraire vraiment différent.
+        </p>
+      </div>
+
+      <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Excursions d'une Journée</h2>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {dayTours.map((tour) => {
+          const slug = tour.id.replace(/^fr\//, '');
+          return (
+            <TourAmenityCard
+              href={`/fr/tours/${slug}`}
+              heroImage={tour.data.heroImage}
+              name={tour.data.name}
+              tagline={tour.data.tagline}
+              duration={tour.data.duration}
+              amenities={tour.data.bestFor.slice(0, 4).map((tg) => tg.replace(/-/g, ' '))}
+              whatsappMessage={`Bonjour ! Je suis intéressé(e) par ${tour.data.name}.`}
+              ctaLabel="Voir les détails"
+              whatsappLabel="Demander le prix"
+            />
+          );
+        })}
+      </div>
+
+      <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Séjours Nocturnes</h2>
+      <p class="mt-2 text-deep/60">
+        Réservés par type de cabane, pas par île fixe — voir notre <a href="/fr/guides/overnight-stays" class="text-teal underline">guide des séjours nocturnes</a>.
+      </p>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {overnightStays.map((tour) => {
+          const slug = tour.id.replace(/^fr\//, '');
+          return (
+            <TourAmenityCard
+              href={`/fr/tours/${slug}`}
+              heroImage={tour.data.heroImage}
+              name={tour.data.name}
+              tagline={tour.data.tagline}
+              duration={tour.data.duration}
+              amenities={tour.data.bestFor.slice(0, 4).map((tg) => tg.replace(/-/g, ' '))}
+              whatsappMessage={`Bonjour ! Je suis intéressé(e) par ${tour.data.name}.`}
+              ctaLabel="Voir les détails"
+              whatsappLabel="Demander le prix"
+            />
+          );
+        })}
+      </div>
+
+      {customPackages.length > 0 && (
+        <>
+          <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Forfaits Personnalisés</h2>
+          <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {customPackages.map((pkg) => {
+              const slug = pkg.id.replace(/^fr\//, '');
+              return (
+                <TourAmenityCard
+                  href={`/fr/tours/packages/${slug}`}
+                  heroImage={pkg.data.heroImage}
+                  name={pkg.data.name}
+                  tagline={pkg.data.tagline}
+                  duration={pkg.data.duration}
+                  amenities={pkg.data.highlights}
+                  whatsappMessage={`Bonjour ! Je suis intéressé(e) par le forfait personnalisé "${pkg.data.name}".`}
+                  ctaLabel="Voir les détails"
+                  whatsappLabel="Demander sur WhatsApp"
+                />
+              );
+            })}
+          </div>
+        </>
+      )}
+
+      <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+        <p class="font-display text-2xl font-semibold text-white">Demandez les Prix et Disponibilités</p>
+        <p class="mx-auto mt-2 max-w-md text-sand/70">Écrivez-nous sur WhatsApp avec vos dates et la taille de votre groupe.</p>
+        <BookingCta label={t('cta.book')} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+      </div>
+    </div>
+  </section>
+</Layout>

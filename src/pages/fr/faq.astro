@@ -1,0 +1,113 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import BookingCta from '../../components/BookingCta.astro';
+import { useTranslations } from '../../i18n/ui';
+
+const t = useTranslations('fr');
+
+const faqGroups = [
+  {
+    title: "S'y Rendre",
+    items: [
+      {
+        q: 'Comment se rendre à San Blas depuis Panama City ?',
+        a: "Les excursions incluent une prise en charge directement à votre hébergement à Panama City, un transfert en 4x4 d'environ 2h30 jusqu'au point d'embarquement de Cartí, puis une traversée en hors-bord jusqu'aux îles. La durée totale pour une excursion d'une journée est d'environ 14 heures.",
+      },
+      {
+        q: 'Puis-je prendre l\'avion pour San Blas ?',
+        a: "Quelques pistes d'atterrissage de Guna Yala (comme El Porvenir) reçoivent occasionnellement des vols intérieurs, mais cela ne vous amène qu'à un seul point de l'archipel — il vous faudrait tout de même un transport en bateau local pour atteindre des îles spécifiques. La plupart des visiteurs trouvent le transfert standard en 4x4 et bateau plus simple, car il s'agit d'une seule réservation qui inclut tout.",
+      },
+    ],
+  },
+  {
+    title: 'À Quoi S\'attendre',
+    items: [
+      {
+        q: "Qu'est-ce qui est inclus dans une excursion d'une journée à San Blas ?",
+        a: "Le transport porte-à-porte, les transferts en bateau, le déjeuner avec une boisson, les gilets de sauvetage et un guide Guna sont standards pour les excursions d'une journée à San Blas. Les inclusions exactes (snorkeling, nombre d'îles, visite d'une communauté Guna) varient selon le type d'excursion.",
+      },
+      {
+        q: 'San Blas convient-il aux enfants ou aux voyageurs âgés ?',
+        a: "La plupart des excursions accueillent les enfants (0-4 ans voyagent généralement gratuitement) et les voyageurs âgés en bonne santé. San Blas n'est pas recommandé pour les femmes enceintes, les personnes souffrant de problèmes de dos ou de hanche, ou toute condition médicale sérieuse, et n'est pas accessible en fauteuil roulant.",
+      },
+      {
+        q: 'Y a-t-il du wifi ou du réseau à San Blas ?',
+        a: "Il n'y a de wifi sur aucune île. Le réseau est irrégulier — certaines îles captent un signal utilisable, la plupart non. Prévoyez de vous déconnecter ; la plupart des visiteurs finissent par citer cela comme un point fort, pas un inconvénient.",
+      },
+      {
+        q: "Qu'est-ce que la taxe communautaire de Guna Yala ?",
+        a: "Une taxe d'entrée séparée de la comarca s'applique par visiteur : 22 $ pour les étrangers et 7 $ pour les résidents (un passeport valide ou une carte de résidence est requis pour le tarif résident). Elle se paie en espèces à la frontière de Guna Yala, n'est pas incluse dans le prix de l'excursion, et va directement à la communauté Guna.",
+      },
+    ],
+  },
+  {
+    title: 'Réservation & Paiement',
+    items: [
+      {
+        q: 'Comment réserver une excursion à San Blas ?',
+        a: 'Écrivez-nous sur WhatsApp avec vos dates et la taille de votre groupe — une vraie personne confirme la disponibilité, vous guide pour le paiement et coordonne la prise en charge directement avec vous.',
+      },
+      {
+        q: 'Proposez-vous des forfaits sur mesure ?',
+        a: "Oui — indiquez-nous vos dates, la taille de votre groupe et ce que vous souhaitez, et nous vous préparons un itinéraire sur mesure, coordonné via WhatsApp.",
+      },
+      {
+        q: "Quelle est la politique d'annulation ?",
+        a: "Annulez plus de 72 heures avant votre excursion et votre acompte est intégralement remboursé. Les annulations dans les 72 heures ne sont pas remboursables. Si l'opérateur annule pour des raisons de sécurité (météo, conditions dangereuses), vous êtes intégralement remboursé ou reprogrammé.",
+      },
+    ],
+  },
+];
+
+const allFaqs = faqGroups.flatMap((g) => g.items);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: allFaqs.map((item) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: { '@type': 'Answer', text: item.a },
+  })),
+};
+---
+
+<Layout
+  title="FAQ San Blas — Réponses aux Questions Fréquentes | Îles de San Blas"
+  description="Réponses aux questions les plus fréquentes sur San Blas : s'y rendre, ce qui est inclus, sécurité, réservation et annulation — directement de l'opérateur."
+  path="/faq"
+  availableLocales={['en', 'es', 'fr']}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <section class="mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">
+      Questions <span class="text-amber">Fréquentes</span>
+    </h1>
+    <p class="mt-4 max-w-2xl text-deep/70">Des réponses directes, venant de l'opérateur lui-même — pas de contenu générique de blog de voyage.</p>
+
+    <div class="mt-10 grid gap-8">
+      {faqGroups.map((group) => (
+        <div>
+          <h2 class="font-display text-2xl font-semibold text-deep">{group.title}</h2>
+          <div class="mt-4 rounded-3xl bg-white p-3 shadow-sm ring-1 ring-deep/5 sm:p-4">
+            {group.items.map((item) => (
+              <details class="group border-b border-deep/10 px-3 py-3 last:border-0">
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-heading font-bold text-deep marker:content-none">
+                  {item.q}
+                  <svg class="h-4 w-4 shrink-0 text-amber transition group-open:rotate-90" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+                </summary>
+                <p class="mt-2 text-sm text-deep/70">{item.a}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+      <p class="font-display text-2xl font-semibold text-white">Encore des Questions ?</p>
+      <p class="mt-2 text-sand/70">Écrivez-nous sur WhatsApp — une vraie personne répond le jour même.</p>
+      <BookingCta label={t('cta.book')} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </section>
+</Layout>

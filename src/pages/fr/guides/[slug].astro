@@ -1,0 +1,78 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import BookingCta from '../../../components/BookingCta.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import RelatedCards from '../../../components/RelatedCards.astro';
+import { localesForSlug } from '../../../i18n/content';
+import { useTranslations } from '../../../i18n/ui';
+
+export async function getStaticPaths() {
+  const allGuides = await getCollection('guides');
+  return allGuides
+    .filter((entry) => entry.id.startsWith('fr/'))
+    .map((entry) => ({
+      params: { slug: entry.id.replace(/^fr\//, '') },
+      props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, heroImage, relatedGuideSlugs, relatedIslandSlugs, seoTitle, seoDescription } = entry.data;
+const slug = entry.id.replace(/^fr\//, '');
+const t = useTranslations('fr');
+
+const allGuides = await getCollection('guides');
+const availableLocales = localesForSlug(allGuides, slug);
+
+const relatedGuides = allGuides
+  .filter((g) => g.id.startsWith('fr/') && relatedGuideSlugs.includes(g.id.replace(/^fr\//, '')))
+  .map((g) => ({
+    href: `/fr/guides/${g.id.replace(/^fr\//, '')}`,
+    heroImage: g.data.heroImage ?? '/favicon.svg',
+    title: g.data.title,
+  }));
+
+const allIslands = await getCollection('islands');
+const relatedIslands = allIslands
+  .filter((i) => i.id.startsWith('fr/') && relatedIslandSlugs.includes(i.id.replace(/^fr\//, '')))
+  .map((i) => ({
+    href: `/fr/islands/${i.id.replace(/^fr\//, '')}`,
+    heroImage: i.data.heroImage,
+    title: i.data.name,
+  }));
+---
+
+<Layout
+  title={seoTitle ?? `${title} — Îles de San Blas`}
+  description={seoDescription ?? title}
+  image={heroImage}
+  path={`/guides/${slug}`}
+  availableLocales={availableLocales}
+>
+  {heroImage && (
+    <div class="h-[35vh] min-h-[260px] w-full overflow-hidden">
+      <img src={heroImage} alt={title} class="h-full w-full object-cover" />
+    </div>
+  )}
+
+  <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: 'Guides de Voyage', href: '/guides' }, { label: title }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-12 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">{title}</h1>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <Content />
+    </div>
+
+    <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
+      <p class="font-heading text-xl font-bold text-white">Prêt à planifier votre voyage ?</p>
+      <p class="mt-2 text-sand/70">Écrivez-nous sur WhatsApp — une vraie personne vous aide.</p>
+      <BookingCta label={t('cta.book')} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </article>
+
+  <RelatedCards title="Îles à Combiner" items={relatedIslands} />
+  <RelatedCards title="Guides Associés" items={relatedGuides} />
+</Layout>

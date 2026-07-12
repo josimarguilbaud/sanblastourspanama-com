@@ -1,0 +1,110 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import BookingCta from '../../components/BookingCta.astro';
+import TourAmenityCard from '../../components/TourAmenityCard.astro';
+
+const allTours = await getCollection('tours');
+const tours = allTours.filter((entry) => entry.id.startsWith('en/'));
+const dayTours = tours.filter((t) => t.data.category === 'day-tour');
+const overnightStays = tours.filter((t) => t.data.category === 'overnight');
+
+// Custom packages: real concepts with real duration/detail bullets, but no
+// fixed price or fixed island — every one is built around the traveler's
+// actual dates and group over WhatsApp, using our real cabin types and
+// islands as building blocks rather than a separate pre-priced product.
+// Each one has its own detail page at /tours/packages/[slug] (see
+// src/content/packages) with unique body content, not just this card.
+const allPackages = await getCollection('packages');
+const customPackages = allPackages.filter((entry) => entry.id.startsWith('en/'));
+---
+
+<Layout
+  title="San Blas Tours & Custom Packages | San Blas Islands"
+  description="Compare every San Blas day tour and overnight cabin stay in detail, or ask about a fully custom package. Message us on WhatsApp — a real person coordinates your trip."
+  path="/tours"
+  availableLocales={['en', 'es']}
+>
+  <section class="bg-sand py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="text-center">
+        <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">
+          San Blas <span class="text-amber">Tours</span>
+        </h1>
+        <p class="mx-auto mt-4 max-w-2xl text-lg text-deep/70">
+          Five day-tour options and five overnight cabin types, each with a genuinely different
+          itinerary. Tap into any tour below for the full hour-by-hour details.
+        </p>
+      </div>
+
+      <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Day Tours</h2>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {dayTours.map((tour) => {
+          const slug = tour.id.replace(/^en\//, '');
+          return (
+            <TourAmenityCard
+              href={`/tours/${slug}`}
+              heroImage={tour.data.heroImage}
+              name={tour.data.name}
+              tagline={tour.data.tagline}
+              duration={tour.data.duration}
+              amenities={tour.data.bestFor.slice(0, 4).map((t) => t.replace(/-/g, ' '))}
+              whatsappMessage={`Hi! I'm interested in the ${tour.data.name}.`}
+            />
+          );
+        })}
+      </div>
+
+      <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Overnight Stays</h2>
+      <p class="mt-2 text-deep/60">
+        Booked by cabin type, not a fixed island — see our <a href="/guides/overnight-stays" class="text-teal underline">overnight stays guide</a> for how that works.
+      </p>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {overnightStays.map((tour) => {
+          const slug = tour.id.replace(/^en\//, '');
+          return (
+            <TourAmenityCard
+              href={`/tours/${slug}`}
+              heroImage={tour.data.heroImage}
+              name={tour.data.name}
+              tagline={tour.data.tagline}
+              duration={tour.data.duration}
+              amenities={tour.data.bestFor.slice(0, 4).map((t) => t.replace(/-/g, ' '))}
+              whatsappMessage={`Hi! I'm interested in the ${tour.data.name}.`}
+            />
+          );
+        })}
+      </div>
+
+      <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Custom Packages</h2>
+      <p class="mt-2 text-deep/60">
+        Don't see what you're after? These are starting concepts, not fixed products — every one is
+        built around your actual dates and group, coordinated directly over WhatsApp.
+      </p>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {customPackages.map((pkg) => {
+          const slug = pkg.id.replace(/^en\//, '');
+          return (
+            <TourAmenityCard
+              href={`/tours/packages/${slug}`}
+              heroImage={pkg.data.heroImage}
+              name={pkg.data.name}
+              tagline={pkg.data.tagline}
+              duration={pkg.data.duration}
+              amenities={pkg.data.highlights}
+              whatsappMessage={`Hi! I'm interested in a custom "${pkg.data.name}" package.`}
+              ctaLabel="See Details"
+              whatsappLabel="Ask on WhatsApp"
+            />
+          );
+        })}
+      </div>
+
+      <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+        <p class="font-display text-2xl font-semibold text-white">Get Prices and Availability</p>
+        <p class="mx-auto mt-2 max-w-md text-sand/70">Message us on WhatsApp with your dates and group size — a real person confirms exact pricing and availability.</p>
+        <BookingCta label="Message Us on WhatsApp" class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+      </div>
+    </div>
+  </section>
+</Layout>

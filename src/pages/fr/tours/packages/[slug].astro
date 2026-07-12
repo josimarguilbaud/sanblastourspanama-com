@@ -1,0 +1,94 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../../layouts/Layout.astro';
+import BookingCta from '../../../../components/BookingCta.astro';
+import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
+import RelatedCards from '../../../../components/RelatedCards.astro';
+import { localesForSlug } from '../../../../i18n/content';
+
+export async function getStaticPaths() {
+  const allPackages = await getCollection('packages');
+  return allPackages
+    .filter((entry) => entry.id.startsWith('fr/'))
+    .map((entry) => ({
+      params: { slug: entry.id.replace(/^fr\//, '') },
+      props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { name, tagline, duration, heroImage, highlights, relatedTourSlugs, relatedIslandSlugs, seoTitle, seoDescription } = entry.data;
+const slug = entry.id.replace(/^fr\//, '');
+
+const allPackages = await getCollection('packages');
+const availableLocales = localesForSlug(allPackages, slug);
+
+const allTours = await getCollection('tours');
+const relatedTours = allTours
+  .filter((t) => t.id.startsWith('fr/') && relatedTourSlugs.includes(t.id.replace(/^fr\//, '')))
+  .map((t) => ({
+    href: `/fr/tours/${t.id.replace(/^fr\//, '')}`,
+    heroImage: t.data.heroImage,
+    title: t.data.name,
+    subtitle: t.data.category === 'day-tour' ? "Excursion d'un Jour" : 'Séjour Nocturne',
+  }));
+
+const allIslands = await getCollection('islands');
+const relatedIslands = allIslands
+  .filter((i) => i.id.startsWith('fr/') && relatedIslandSlugs.includes(i.id.replace(/^fr\//, '')))
+  .map((i) => ({
+    href: `/fr/islands/${i.id.replace(/^fr\//, '')}`,
+    heroImage: i.data.heroImage,
+    title: i.data.name,
+  }));
+
+const whatsappMessage = `Bonjour ! Je suis intéressé(e) par le forfait personnalisé "${name}".`;
+---
+
+<Layout
+  title={seoTitle ?? `${name} — Forfait San Blas Personnalisé`}
+  description={seoDescription ?? tagline}
+  image={heroImage}
+  path={`/tours/packages/${slug}`}
+  availableLocales={availableLocales}
+>
+  <div class="h-[40vh] min-h-[280px] w-full overflow-hidden">
+    <img src={heroImage} alt={name} class="h-full w-full object-cover" />
+  </div>
+
+  <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: 'Excursions', href: '/tours' }, { label: name }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-12 pt-4 sm:px-6 lg:px-8">
+    <p class="flex items-center gap-1.5 text-sm font-semibold uppercase tracking-wide text-teal">
+      <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+      {duration} · Forfait Personnalisé
+    </p>
+    <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">{name}</h1>
+    <p class="mt-2 text-lg text-deep/70">{tagline}</p>
+
+    <ul class="mt-6 grid grid-cols-1 gap-2 text-sm text-deep/70 sm:grid-cols-2">
+      {highlights.map((item: string) => (
+        <li class="flex items-center gap-2">
+          <svg class="h-4 w-4 shrink-0 text-amber" fill="currentColor" viewBox="0 0 20 20">
+            <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
+          </svg>
+          {item}
+        </li>
+      ))}
+    </ul>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <Content />
+    </div>
+
+    <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
+      <p class="font-heading text-xl font-bold text-white">Demandez ce Forfait</p>
+      <p class="mt-2 text-sand/70">Pas de prix ni d'itinéraire fixe — écrivez-nous sur WhatsApp avec vos dates et la taille de votre groupe.</p>
+      <BookingCta label="Écrivez-nous sur WhatsApp" message={whatsappMessage} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </article>
+
+  <RelatedCards title="Excursions & Séjours Réels à la Base" items={relatedTours} />
+  <RelatedCards title="Îles Concernées" items={relatedIslands} />
+</Layout>
