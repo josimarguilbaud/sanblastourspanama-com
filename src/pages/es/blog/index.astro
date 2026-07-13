@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+const allPosts = await getCollection('posts');
+const posts = allPosts
+  .filter((entry) => entry.id.startsWith('es/') && !entry.data.draft)
+  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+---
+
+<Layout
+  title="Blog de San Blas — Tips, Guías e Historias | Islas de San Blas"
+  description="Contenido práctico y fresco sobre San Blas: qué saber antes de ir, comparaciones, e historias de Guna Yala — publicaciones nuevas cada pocos días."
+  path="/blog"
+  availableLocales={['en', 'es']}
+>
+  <section class="mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Blog de San Blas</h1>
+    <p class="mt-4 max-w-2xl text-lg text-deep/70">
+      Publicaciones prácticas y honestas sobre visitar San Blas — sin relleno, escritas por quienes
+      realmente operan los tours.
+    </p>
+
+    <div class="mt-12 space-y-8">
+      {posts.map((post) => {
+        const slug = post.id.replace(/^es\//, '');
+        return (
+          <a href={`/es/blog/${slug}`} class="group flex flex-col gap-4 sm:flex-row">
+            {post.data.heroImage && (
+              <div class="h-48 w-full flex-shrink-0 overflow-hidden rounded-2xl sm:w-64">
+                <img
+                  src={post.data.heroImage}
+                  alt={post.data.title}
+                  loading="lazy"
+                  class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+                />
+              </div>
+            )}
+            <div>
+              <p class="text-sm text-deep/50">
+                {post.data.publishedAt.toLocaleDateString('es-PA', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </p>
+              <h2 class="mt-1 font-heading text-2xl font-bold text-deep group-hover:text-teal">
+                {post.data.title}
+              </h2>
+              <p class="mt-2 text-deep/70">{post.data.excerpt}</p>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</Layout>

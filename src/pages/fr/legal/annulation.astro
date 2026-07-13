@@ -1,0 +1,35 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Politique d'Annulation | Îles de San Blas"
+  description="Politique d'annulation et de remboursement pour les excursions et séjours à San Blas avec San Blas Travel."
+  path="/legal/cancellation-policy"
+  availableLocales={['en', 'es', 'fr']}
+>
+  <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: "Politique d'Annulation" }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Politique d'Annulation</h1>
+    <p class="mt-2 text-sm text-deep/50">Dernière mise à jour : 13 juillet 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Brouillon initial — en cours de révision par l'entreprise avant d'être considéré comme définitif.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Annulation gratuite</h2>
+      <p>Vous pouvez annuler votre réservation gratuitement jusqu'à <strong>72 heures avant</strong> la date de votre excursion ou l'arrivée de votre séjour, et recevoir un remboursement complet du montant payé.</p>
+
+      <h2>2. Annulations dans les 72 heures</h2>
+      <p>Les annulations demandées avec moins de 72 heures de préavis ne sont pas éligibles à un remboursement, car des ressources (transport, guide, place sur l'île) sont déjà engagées à ce stade.</p>
+
+      <h2>3. Comment annuler</h2>
+      <p>Pour annuler ou modifier votre réservation, écrivez-nous sur WhatsApp avec votre numéro de commande. Nous traiterons votre demande dans les plus brefs délais.</p>
+
+      <h2>4. Report en raison de la météo</h2>
+      <p>Si une excursion est annulée en raison de conditions météorologiques ou de sécurité indépendantes de votre volonté, nous vous proposerons un report gratuit ou un remboursement complet.</p>
+    </div>
+  </article>
+</Layout>

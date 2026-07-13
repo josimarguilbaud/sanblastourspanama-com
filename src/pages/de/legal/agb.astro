@@ -1,0 +1,43 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Allgemeine Geschäftsbedingungen | San-Blas-Inseln"
+  description="Allgemeine Geschäftsbedingungen für die Buchung von San-Blas-Touren und Übernachtungen bei San Blas Travel."
+  path="/legal/terms"
+  availableLocales={['en', 'es', 'de']}
+>
+  <Breadcrumbs items={[{ label: 'Startseite', href: '/' }, { label: 'AGB' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Allgemeine Geschäftsbedingungen</h1>
+    <p class="mt-2 text-sm text-deep/50">Letzte Aktualisierung: 13. Juli 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Erster Entwurf — wird vom Unternehmen geprüft, bevor er als endgültig gilt.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Zweck</h2>
+      <p>Diese AGB regeln die Buchung und den Kauf von Touren und Aufenthalten, die von San Blas Travel ("wir") über diese Website und per WhatsApp angeboten werden. Mit Abschluss einer Buchung akzeptieren Sie diese Bedingungen.</p>
+
+      <h2>2. Buchung und Zahlung</h2>
+      <ul>
+        <li>Tagestouren können mit einer Teilanzahlung gebucht werden; der Rest wird direkt am Tourtag an den Guide gezahlt, sofern Sie nicht 100% im Voraus zahlen möchten.</li>
+        <li>Übernachtungen (Hütten/Unterkunft) erfordern vollständige Vorauszahlung, da die Inseln die vollständige Zahlung zur Bestätigung und Reservierung verlangen.</li>
+        <li>Kartenzahlungen beinhalten eine Servicegebühr von 7% zur Deckung der Bearbeitungskosten.</li>
+        <li>Die Guna-Yala-Comarca-Steuer ist nicht im Preis enthalten und wird bar bei Ankunft bezahlt.</li>
+      </ul>
+
+      <h2>3. Änderungen und Verfügbarkeit</h2>
+      <p>Bei Übernachtungen wird die genaue Insel oder Hütte je nach Verfügbarkeit näher am Reisedatum bestätigt. Falls die gewählte Option nicht verfügbar ist, wird eine gleichwertige Alternative unter unseren Partnerinseln zugewiesen.</p>
+
+      <h2>4. Verhalten und Tourbedingungen</h2>
+      <p>Touren können ohne Vorankündigung aufgrund von Wetter- oder Sicherheitsbedingungen geändert werden. Gäste sind verantwortlich, jederzeit den Anweisungen des Guides zu folgen.</p>
+
+      <h2>5. Kontakt</h2>
+      <p>Bei Fragen zu Ihrer Buchung schreiben Sie uns jederzeit auf WhatsApp.</p>
+    </div>
+  </article>
+</Layout>

@@ -1,0 +1,43 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Termos e Condições | Ilhas de San Blas"
+  description="Termos e condições para reservar passeios e estadias em San Blas com San Blas Travel."
+  path="/legal/terms"
+  availableLocales={['en', 'es', 'pt-br']}
+>
+  <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Termos e Condições' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Termos e Condições</h1>
+    <p class="mt-2 text-sm text-deep/50">Última atualização: 13 de julho de 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Rascunho inicial — em revisão pelo negócio antes de ser considerado definitivo.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Objeto</h2>
+      <p>Estes Termos e Condições regem a reserva e compra de passeios e estadias oferecidos por San Blas Travel ("nós") através deste site e pelo WhatsApp. Ao completar uma reserva, você aceita estes termos.</p>
+
+      <h2>2. Reservas e pagamento</h2>
+      <ul>
+        <li>Os passeios de um dia podem ser reservados com um depósito parcial; o restante é pago diretamente ao guia no dia do passeio, a menos que você opte por pagar 100% adiantado.</li>
+        <li>As estadias noturnas (cabanas/hospedagem) exigem pagamento integral adiantado, já que as ilhas exigem pagamento total para confirmar e reservar sua vaga.</li>
+        <li>Pagamentos com cartão incluem uma taxa de serviço de 7% para cobrir custos de processamento.</li>
+        <li>A taxa da comarca de Guna Yala não está incluída no preço e é paga em dinheiro na chegada.</li>
+      </ul>
+
+      <h2>3. Mudanças e disponibilidade</h2>
+      <p>Para estadias noturnas, a ilha ou cabana exata é confirmada de acordo com a disponibilidade mais próxima da sua data. Se a opção escolhida não tiver vaga, uma alternativa equivalente entre nossas ilhas parceiras será atribuída.</p>
+
+      <h2>4. Conduta e condições do passeio</h2>
+      <p>Os passeios estão sujeitos a mudanças sem aviso prévio devido a condições climáticas ou de segurança. Os hóspedes são responsáveis por seguir as instruções do guia o tempo todo.</p>
+
+      <h2>5. Contato</h2>
+      <p>Para dúvidas sobre sua reserva, fale conosco no WhatsApp a qualquer momento.</p>
+    </div>
+  </article>
+</Layout>

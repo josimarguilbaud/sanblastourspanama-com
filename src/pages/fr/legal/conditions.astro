@@ -1,0 +1,43 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Conditions Générales | Îles de San Blas"
+  description="Conditions générales pour réserver des excursions et séjours à San Blas avec San Blas Travel."
+  path="/legal/terms"
+  availableLocales={['en', 'es', 'fr']}
+>
+  <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: 'Conditions Générales' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Conditions Générales</h1>
+    <p class="mt-2 text-sm text-deep/50">Dernière mise à jour : 13 juillet 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Brouillon initial — en cours de révision par l'entreprise avant d'être considéré comme définitif.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Objet</h2>
+      <p>Ces Conditions Générales régissent la réservation et l'achat d'excursions et de séjours proposés par San Blas Travel (« nous ») via ce site et WhatsApp. Finaliser une réservation signifie que vous acceptez ces conditions.</p>
+
+      <h2>2. Réservation et paiement</h2>
+      <ul>
+        <li>Les excursions d'une journée peuvent être réservées avec un acompte partiel ; le reste est payé directement au guide le jour de l'excursion, sauf si vous choisissez de payer 100% à l'avance.</li>
+        <li>Les séjours nocturnes (cabanes/hébergement) nécessitent un paiement intégral à l'avance, car les îles exigent le paiement complet pour confirmer et réserver votre place.</li>
+        <li>Les paiements par carte incluent des frais de service de 7% pour couvrir les coûts de traitement.</li>
+        <li>La taxe de la comarca de Guna Yala n'est pas incluse dans le prix et se paie en espèces à l'arrivée.</li>
+      </ul>
+
+      <h2>3. Changements et disponibilité</h2>
+      <p>Pour les séjours nocturnes, l'île ou la cabane exacte est confirmée selon la disponibilité à l'approche de votre date. Si l'option choisie n'est pas disponible, une alternative équivalente parmi nos îles partenaires sera attribuée.</p>
+
+      <h2>4. Conduite et conditions de l'excursion</h2>
+      <p>Les excursions peuvent être modifiées sans préavis en raison des conditions météorologiques ou de sécurité. Les clients sont responsables de suivre les instructions du guide à tout moment.</p>
+
+      <h2>5. Contact</h2>
+      <p>Pour toute question sur votre réservation, écrivez-nous sur WhatsApp à n'importe quel moment.</p>
+    </div>
+  </article>
+</Layout>

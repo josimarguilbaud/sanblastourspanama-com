@@ -1,0 +1,39 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Politique de Confidentialité | Îles de San Blas"
+  description="Politique de confidentialité de San Blas Travel : quelles informations nous collectons lors d'une réservation et comment elles sont utilisées."
+  path="/legal/privacy"
+  availableLocales={['en', 'es', 'fr']}
+>
+  <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: 'Politique de Confidentialité' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Politique de Confidentialité</h1>
+    <p class="mt-2 text-sm text-deep/50">Dernière mise à jour : 13 juillet 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Brouillon initial — en cours de révision par l'entreprise (et un conseiller juridique) avant d'être considéré comme définitif.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Quelles informations nous collectons</h2>
+      <p>Lorsque vous réservez une excursion, nous collectons votre nom, email, numéro WhatsApp et, le cas échéant, votre lieu de prise en charge (hôtel ou adresse). Si vous payez par carte, le traitement du paiement est géré de manière sécurisée par notre prestataire de paiement — nous ne stockons pas vos coordonnées de carte complètes.</p>
+
+      <h2>2. À quoi servent vos informations</h2>
+      <ul>
+        <li>Coordonner et confirmer votre réservation.</li>
+        <li>Vous envoyer votre confirmation, rappels et reçus par email ou WhatsApp.</li>
+        <li>Vous contacter en cas de changement de votre excursion (par exemple, en raison de la météo).</li>
+      </ul>
+
+      <h2>3. Avec qui nous partageons vos informations</h2>
+      <p>Nous ne vendons pas vos informations. Nous les partageons uniquement avec les prestataires nécessaires à l'exploitation de votre réservation (prestataire de paiement, et guides/opérateurs locaux sur l'île qui ont besoin de votre nom et du nombre de voyageurs).</p>
+
+      <h2>4. Vos droits</h2>
+      <p>Vous pouvez demander la correction ou la suppression de vos coordonnées en nous écrivant sur WhatsApp.</p>
+    </div>
+  </article>
+</Layout>

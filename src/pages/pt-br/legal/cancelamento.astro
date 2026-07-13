@@ -1,0 +1,35 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Política de Cancelamento | Ilhas de San Blas"
+  description="Política de cancelamento e reembolso para passeios e estadias em San Blas com San Blas Travel."
+  path="/legal/cancellation-policy"
+  availableLocales={['en', 'es', 'pt-br']}
+>
+  <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Política de Cancelamento' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Política de Cancelamento</h1>
+    <p class="mt-2 text-sm text-deep/50">Última atualização: 13 de julho de 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Rascunho inicial — em revisão pelo negócio antes de ser considerado definitivo.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Cancelamento gratuito</h2>
+      <p>Você pode cancelar sua reserva sem custo até <strong>72 horas antes</strong> da data do passeio ou chegada da sua estadia, e receberá um reembolso total do valor pago.</p>
+
+      <h2>2. Cancelamentos dentro de 72 horas</h2>
+      <p>Cancelamentos solicitados com menos de 72 horas de antecedência não são elegíveis para reembolso, já que a essa altura os recursos (transporte, guia, vaga na ilha) já foram comprometidos.</p>
+
+      <h2>3. Como cancelar</h2>
+      <p>Para cancelar ou modificar sua reserva, fale conosco no WhatsApp informando seu número de pedido. Processaremos sua solicitação o mais rápido possível.</p>
+
+      <h2>4. Reagendamento por clima</h2>
+      <p>Se um passeio for cancelado por condições climáticas ou de segurança fora do seu controle, ofereceremos reagendamento gratuito ou reembolso total.</p>
+    </div>
+  </article>
+</Layout>

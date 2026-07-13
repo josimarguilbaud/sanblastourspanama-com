@@ -1,0 +1,39 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Política de Privacidade | Ilhas de San Blas"
+  description="Política de privacidade da San Blas Travel: quais informações coletamos ao reservar um passeio e como são usadas."
+  path="/legal/privacy"
+  availableLocales={['en', 'es', 'pt-br']}
+>
+  <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Política de Privacidade' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Política de Privacidade</h1>
+    <p class="mt-2 text-sm text-deep/50">Última atualização: 13 de julho de 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Rascunho inicial — em revisão pelo negócio (e por um assessor jurídico) antes de ser considerado definitivo.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Quais informações coletamos</h2>
+      <p>Ao reservar um passeio, coletamos seu nome, e-mail, número de WhatsApp e, se aplicável, seu local de busca (hotel ou endereço). Se você pagar com cartão, o processamento do pagamento é feito com segurança pelo nosso provedor de pagamentos — não armazenamos os dados completos do seu cartão.</p>
+
+      <h2>2. Para que usamos suas informações</h2>
+      <ul>
+        <li>Coordenar e confirmar sua reserva.</li>
+        <li>Enviar sua confirmação, lembretes e comprovantes por e-mail ou WhatsApp.</li>
+        <li>Contatá-lo se houver mudanças no seu passeio (por exemplo, devido ao clima).</li>
+      </ul>
+
+      <h2>3. Com quem compartilhamos suas informações</h2>
+      <p>Não vendemos suas informações. Compartilhamos apenas com provedores necessários para operar sua reserva (processador de pagamentos, e guias/operadores locais na ilha que precisam do seu nome e número de viajantes).</p>
+
+      <h2>4. Seus direitos</h2>
+      <p>Você pode solicitar a correção ou exclusão das suas informações de contato falando conosco pelo WhatsApp.</p>
+    </div>
+  </article>
+</Layout>

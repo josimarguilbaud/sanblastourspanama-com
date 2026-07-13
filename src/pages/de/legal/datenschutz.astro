@@ -1,0 +1,39 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Datenschutzerklärung | San-Blas-Inseln"
+  description="Datenschutzerklärung von San Blas Travel: welche Informationen wir bei einer Tourbuchung erfassen und wie sie verwendet werden."
+  path="/legal/privacy"
+  availableLocales={['en', 'es', 'de']}
+>
+  <Breadcrumbs items={[{ label: 'Startseite', href: '/' }, { label: 'Datenschutz' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Datenschutzerklärung</h1>
+    <p class="mt-2 text-sm text-deep/50">Letzte Aktualisierung: 13. Juli 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Erster Entwurf — wird vom Unternehmen (und einem Rechtsberater) geprüft, bevor er als endgültig gilt.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Welche Informationen wir erfassen</h2>
+      <p>Bei einer Tourbuchung erfassen wir Ihren Namen, Ihre E-Mail-Adresse, WhatsApp-Nummer und, falls zutreffend, Ihren Abholort (Hotel oder Adresse). Bei Kartenzahlung erfolgt die Zahlungsabwicklung sicher über unseren Zahlungsdienstleister — wir speichern Ihre vollständigen Kartendaten nicht.</p>
+
+      <h2>2. Wofür wir Ihre Informationen verwenden</h2>
+      <ul>
+        <li>Koordination und Bestätigung Ihrer Buchung.</li>
+        <li>Versand Ihrer Bestätigung, Erinnerungen und Belege per E-Mail oder WhatsApp.</li>
+        <li>Kontaktaufnahme bei Änderungen Ihrer Tour (z. B. wegen Wetter).</li>
+      </ul>
+
+      <h2>3. Mit wem wir Ihre Informationen teilen</h2>
+      <p>Wir verkaufen Ihre Informationen nicht. Wir teilen sie nur mit Anbietern, die für die Durchführung Ihrer Buchung notwendig sind (Zahlungsabwickler und lokale Guides/Betreiber auf der Insel, die Ihren Namen und die Anzahl der Reisenden benötigen).</p>
+
+      <h2>4. Ihre Rechte</h2>
+      <p>Sie können die Berichtigung oder Löschung Ihrer Kontaktdaten beantragen, indem Sie uns auf WhatsApp schreiben.</p>
+    </div>
+  </article>
+</Layout>

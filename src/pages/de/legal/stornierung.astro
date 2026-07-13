@@ -1,0 +1,35 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Stornierungsbedingungen | San-Blas-Inseln"
+  description="Stornierungs- und Rückerstattungsbedingungen für San-Blas-Touren und Übernachtungen bei San Blas Travel."
+  path="/legal/cancellation-policy"
+  availableLocales={['en', 'es', 'de']}
+>
+  <Breadcrumbs items={[{ label: 'Startseite', href: '/' }, { label: 'Stornierungsbedingungen' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Stornierungsbedingungen</h1>
+    <p class="mt-2 text-sm text-deep/50">Letzte Aktualisierung: 13. Juli 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Erster Entwurf — wird vom Unternehmen geprüft, bevor er als endgültig gilt.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Kostenlose Stornierung</h2>
+      <p>Sie können Ihre Buchung bis zu <strong>72 Stunden vorher</strong> kostenlos stornieren und erhalten eine vollständige Rückerstattung des gezahlten Betrags.</p>
+
+      <h2>2. Stornierungen innerhalb von 72 Stunden</h2>
+      <p>Stornierungen mit weniger als 72 Stunden Vorlauf sind nicht rückerstattungsfähig, da zu diesem Zeitpunkt bereits Ressourcen (Transport, Guide, Inselplatz) gebunden sind.</p>
+
+      <h2>3. Wie man storniert</h2>
+      <p>Um Ihre Buchung zu stornieren oder zu ändern, schreiben Sie uns auf WhatsApp mit Ihrer Bestellnummer. Wir bearbeiten Ihre Anfrage so schnell wie möglich.</p>
+
+      <h2>4. Wetterbedingte Umbuchungen</h2>
+      <p>Wird eine Tour aufgrund von Wetter- oder Sicherheitsbedingungen außerhalb Ihrer Kontrolle abgesagt, bieten wir eine kostenlose Umbuchung oder volle Rückerstattung an.</p>
+    </div>
+  </article>
+</Layout>
