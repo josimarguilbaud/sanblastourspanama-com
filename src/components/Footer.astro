@@ -10,13 +10,22 @@ const year = new Date().getFullYear();
 const hasFullContent = locale === 'en' || locale === 'es';
 const islandLinks = hasFullContent ? navShortcuts[locale as 'en' | 'es'].islands.slice(0, 5) : [];
 
-// Real legal pages already live on the booking app (widget/resources/views/legal/*)
-// — link out to them rather than duplicating terms/privacy content here.
-const legalLinks = [
-  { href: 'https://reservas.sanblastravel.com/terminos', label: locale === 'es' ? 'Términos y Condiciones' : 'Terms & Conditions' },
-  { href: 'https://reservas.sanblastravel.com/politica-cancelacion', label: locale === 'es' ? 'Política de Cancelación' : 'Cancellation Policy' },
-  { href: 'https://reservas.sanblastravel.com/privacidad', label: locale === 'es' ? 'Privacidad' : 'Privacy Policy' },
-];
+// Legal pages live on this site (src/pages/legal/*, src/pages/es/legal/*) so
+// they share this site's design and never send visitors to another domain.
+// de/fr/pt-br fall back to the English versions (still same-site) until
+// those get their own translations.
+const legalLinks =
+  locale === 'es'
+    ? [
+        { href: '/es/legal/terminos', label: 'Términos y Condiciones' },
+        { href: '/es/legal/politica-cancelacion', label: 'Política de Cancelación' },
+        { href: '/es/legal/privacidad', label: 'Privacidad' },
+      ]
+    : [
+        { href: '/legal/terms', label: 'Terms & Conditions' },
+        { href: '/legal/cancellation-policy', label: 'Cancellation Policy' },
+        { href: '/legal/privacy', label: 'Privacy Policy' },
+      ];
 ---
 
 <footer class="bg-sand">
@@ -64,7 +73,7 @@ const legalLinks = [
         <p class="font-heading font-bold text-deep">{locale === 'es' ? 'Legal' : 'Legal'}</p>
         <ul class="mt-3 space-y-2 text-sm text-deep/70">
           {legalLinks.map((item) => (
-            <li><a href={item.href} target="_blank" rel="noopener" class="hover:text-lime">{item.label}</a></li>
+            <li><a href={item.href} class="hover:text-lime">{item.label}</a></li>
           ))}
         </ul>
       </div>

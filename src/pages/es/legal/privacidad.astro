@@ -1,0 +1,39 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Política de Privacidad | Islas de San Blas"
+  description="Política de privacidad de San Blas Travel: qué información recopilamos al reservar un tour y cómo se usa."
+  path="/legal/privacy"
+  availableLocales={['en', 'es']}
+>
+  <Breadcrumbs items={[{ label: 'Inicio', href: '/' }, { label: 'Política de Privacidad' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Política de Privacidad</h1>
+    <p class="mt-2 text-sm text-deep/50">Última actualización: 13 de julio de 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Borrador inicial — en revisión por el negocio (y un asesor legal) antes de considerarlo definitivo.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Qué información recopilamos</h2>
+      <p>Cuando reservas un tour, recopilamos tu nombre, correo electrónico, número de WhatsApp y, si aplica, tu lugar de recogida (hotel o dirección). Si pagas con tarjeta, el procesamiento del pago lo realiza nuestro proveedor de pagos de forma segura — nosotros no almacenamos los datos completos de tu tarjeta.</p>
+
+      <h2>2. Para qué usamos tu información</h2>
+      <ul>
+        <li>Coordinar y confirmar tu reserva.</li>
+        <li>Enviarte tu confirmación, recordatorios y comprobantes por correo o WhatsApp.</li>
+        <li>Contactarte si hay cambios en tu tour (por ejemplo, por clima).</li>
+      </ul>
+
+      <h2>3. Con quién compartimos tu información</h2>
+      <p>No vendemos tu información. La compartimos únicamente con proveedores necesarios para operar tu reserva (procesador de pagos, y guías/operadores locales en la isla que necesitan tu nombre y cantidad de viajeros).</p>
+
+      <h2>4. Tus derechos</h2>
+      <p>Puedes solicitar que corrijamos o eliminemos tu información de contacto escribiéndonos por WhatsApp.</p>
+    </div>
+  </article>
+</Layout>

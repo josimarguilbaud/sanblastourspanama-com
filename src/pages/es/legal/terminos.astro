@@ -1,0 +1,43 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Términos y Condiciones | Islas de San Blas"
+  description="Términos y condiciones para reservar tours y estadías en San Blas con San Blas Travel."
+  path="/legal/terms"
+  availableLocales={['en', 'es']}
+>
+  <Breadcrumbs items={[{ label: 'Inicio', href: '/' }, { label: 'Términos y Condiciones' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Términos y Condiciones</h1>
+    <p class="mt-2 text-sm text-deep/50">Última actualización: 13 de julio de 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Borrador inicial — en revisión por el negocio antes de considerarlo definitivo.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Objeto</h2>
+      <p>Estos Términos y Condiciones regulan la reserva y compra de tours y estadías ofrecidos por San Blas Travel ("nosotros") a través de este sitio web y por WhatsApp. Al completar una reserva, aceptas estos términos.</p>
+
+      <h2>2. Reservas y pago</h2>
+      <ul>
+        <li>Los tours de día pueden reservarse con un abono parcial; el resto se paga directamente al guía el día del tour, salvo que elijas pagar el 100% por adelantado.</li>
+        <li>Las estadías (cabañas/alojamiento) requieren el pago completo por adelantado, ya que las islas exigen el pago total para confirmar y separar el cupo.</li>
+        <li>Los pagos con tarjeta incluyen un cargo por servicio del 7% para cubrir los costos de procesamiento.</li>
+        <li>El Impuesto de la Comarca Guna Yala no está incluido en el precio y se paga en efectivo al llegar.</li>
+      </ul>
+
+      <h2>3. Cambios y disponibilidad</h2>
+      <p>Para estadías, la isla o cabaña exacta se confirma según disponibilidad al momento de la llegada. Si la opción elegida no tiene cupo, se asignará una alternativa equivalente entre nuestras islas asociadas.</p>
+
+      <h2>4. Conducta y condiciones del tour</h2>
+      <p>El tour está sujeto a cambios sin previo aviso por condiciones climáticas o de seguridad. El cliente es responsable de seguir las indicaciones del guía en todo momento.</p>
+
+      <h2>5. Contacto</h2>
+      <p>Para dudas sobre tu reserva, puedes escribirnos por WhatsApp desde cualquier paso del proceso.</p>
+    </div>
+  </article>
+</Layout>

@@ -1,0 +1,35 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Cancellation Policy | San Blas Islands"
+  description="Cancellation and refund policy for San Blas tours and overnight stays with San Blas Travel."
+  path="/legal/cancellation-policy"
+  availableLocales={['en', 'es']}
+>
+  <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Cancellation Policy' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Cancellation Policy</h1>
+    <p class="mt-2 text-sm text-deep/50">Last updated: July 13, 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Initial draft — under review by the business before being treated as final.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Free cancellation</h2>
+      <p>You can cancel your booking at no cost up to <strong>72 hours before</strong> your tour date or overnight arrival, and receive a full refund of the amount paid.</p>
+
+      <h2>2. Cancellations within 72 hours</h2>
+      <p>Cancellations requested with less than 72 hours' notice are not eligible for a refund, since resources (transport, guide, island spot) are already committed by that point.</p>
+
+      <h2>3. How to cancel</h2>
+      <p>To cancel or modify your booking, message us on WhatsApp with your order number. We'll process your request as quickly as possible.</p>
+
+      <h2>4. Weather-related rescheduling</h2>
+      <p>If a tour is cancelled due to weather or safety conditions outside your control, we'll offer a free reschedule or a full refund.</p>
+    </div>
+  </article>
+</Layout>

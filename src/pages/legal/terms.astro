@@ -1,0 +1,43 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Terms & Conditions | San Blas Islands"
+  description="Terms and conditions for booking San Blas tours and overnight stays with San Blas Travel."
+  path="/legal/terms"
+  availableLocales={['en', 'es']}
+>
+  <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Terms & Conditions' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Terms & Conditions</h1>
+    <p class="mt-2 text-sm text-deep/50">Last updated: July 13, 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Initial draft — under review by the business before being treated as final.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. Purpose</h2>
+      <p>These Terms & Conditions govern the booking and purchase of tours and stays offered by San Blas Travel ("we," "us") through this website and via WhatsApp. Completing a booking means you accept these terms.</p>
+
+      <h2>2. Booking and payment</h2>
+      <ul>
+        <li>Day tours can be booked with a partial deposit; the remainder is paid directly to the guide on the day of the tour, unless you choose to pay 100% in advance.</li>
+        <li>Overnight stays (cabins/accommodation) require full payment in advance, since the islands require full payment to confirm and hold your spot.</li>
+        <li>Card payments include a 7% service charge to cover processing costs.</li>
+        <li>The Guna Yala comarca tax is not included in the price and is paid in cash on arrival.</li>
+      </ul>
+
+      <h2>3. Changes and availability</h2>
+      <p>For overnight stays, the exact island or cabin is confirmed based on availability closer to your date. If your chosen option isn't available, an equivalent alternative among our partner islands will be assigned.</p>
+
+      <h2>4. Conduct and tour conditions</h2>
+      <p>Tours are subject to change without notice due to weather or safety conditions. Guests are responsible for following the guide's instructions at all times.</p>
+
+      <h2>5. Contact</h2>
+      <p>For questions about your booking, message us on WhatsApp at any point in the process.</p>
+    </div>
+  </article>
+</Layout>

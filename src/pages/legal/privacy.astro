@@ -1,0 +1,39 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+---
+
+<Layout
+  title="Privacy Policy | San Blas Islands"
+  description="Privacy policy for San Blas Travel: what information we collect when you book a tour, and how it's used."
+  path="/legal/privacy"
+  availableLocales={['en', 'es']}
+>
+  <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Privacy Policy' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-16 pt-4 sm:px-6 lg:px-8">
+    <h1 class="font-display text-4xl font-semibold text-deep sm:text-5xl">Privacy Policy</h1>
+    <p class="mt-2 text-sm text-deep/50">Last updated: July 13, 2026</p>
+    <p class="mt-4 rounded-xl border border-amber/40 bg-amber/10 px-4 py-3 text-sm text-deep/70">
+      Initial draft — under review by the business (and a legal advisor) before being treated as final.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>1. What information we collect</h2>
+      <p>When you book a tour, we collect your name, email, WhatsApp number, and, if applicable, your pickup location (hotel or address). If you pay by card, payment processing is handled securely by our payment provider — we don't store your full card details.</p>
+
+      <h2>2. What we use your information for</h2>
+      <ul>
+        <li>Coordinating and confirming your booking.</li>
+        <li>Sending your confirmation, reminders, and receipts by email or WhatsApp.</li>
+        <li>Contacting you if there are changes to your tour (for example, due to weather).</li>
+      </ul>
+
+      <h2>3. Who we share your information with</h2>
+      <p>We don't sell your information. We share it only with providers necessary to operate your booking (payment processor, and local island guides/operators who need your name and traveler count).</p>
+
+      <h2>4. Your rights</h2>
+      <p>You can request that we correct or delete your contact information by messaging us on WhatsApp.</p>
+    </div>
+  </article>
+</Layout>
