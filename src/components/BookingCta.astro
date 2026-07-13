@@ -1,13 +1,12 @@
 ---
 // This site sends 100% of booking traffic to WhatsApp — no online widget,
-// no online payment here. Number is the verified real one used everywhere
-// in the reservas.sanblastravel.com app (config/sanblas.php fallback,
-// Vue store default, resolveWhatsappNumber() in TourController — see
-// widget/app/Http/Controllers/Api/TourController.php:306). Coordinating by
-// WhatsApp is a deliberate choice per the client, not a stopgap.
+// no online payment here. Coordinating by WhatsApp is a deliberate choice
+// per the client, not a stopgap. This number is specific to this site
+// (sanblastourspanama.com), separate from the main reservas.sanblastravel.com
+// app's chatbot number.
 import { defaultLocale } from '../i18n/ui';
 
-const WHATSAPP_NUMBER = '50760292571';
+const WHATSAPP_NUMBER = '50764684720';
 
 interface Props {
   label?: string;
