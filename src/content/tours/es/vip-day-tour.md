@@ -9,7 +9,7 @@ bestFor: ["mas-popular", "snorkel", "cultura-guna", "parejas"]
 tourKey: "day_tour_vip"
 relatedIslandSlugs: ["perro-chico", "piscina-natural"]
 seoTitle: "Tour VIP a San Blas — Snorkel y Comunidad Guna | Reserva por WhatsApp"
-seoDescription: "El Tour VIP a San Blas es nuestro paquete más reservado: snorkel guiado en arrecife, visita a comunidad Guna, y más paradas que el Tour Clásico. Reserva hoy en línea."
+seoDescription: "El Tour VIP a San Blas es nuestro paquete más reservado: snorkel guiado en arrecife, visita a comunidad Guna, y más paradas que el Tour Clásico. Escríbenos por WhatsApp para reservar."
 ---
 
 Este es el tour que eligen la mayoría de los primeros visitantes, y es fácil ver por qué: toma todo lo bueno del día Clásico y suma las dos experiencias que más piden los viajeros — snorkel guiado real y una visita genuina a comunidad Guna.

@@ -9,7 +9,7 @@ bestFor: ["primera-vez", "economico", "familias"]
 tourKey: "day_tour_basico"
 relatedIslandSlugs: ["piscina-natural"]
 seoTitle: "Tour Clásico a San Blas — Reserva por WhatsApp | Desde Ciudad de Panamá"
-seoDescription: "El Tour Clásico a San Blas: una isla más la famosa Piscina Natural, transporte puerta a puerta, almuerzo incluido. Reserva en línea con un depósito seguro."
+seoDescription: "El Tour Clásico a San Blas: una isla más la famosa Piscina Natural, transporte puerta a puerta, almuerzo incluido. Escríbenos por WhatsApp para reservar."
 ---
 
 Si esta es tu primera vez en San Blas y quieres la versión directa — sin extras, sin fatiga de decisión, solo el archipiélago en su forma más esencial — este es tu tour. Una isla, la legendaria Piscina Natural, y todo resuelto desde el momento en que te recogemos.

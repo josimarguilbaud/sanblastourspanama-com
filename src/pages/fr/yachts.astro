@@ -1,0 +1,112 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import BookingCta from '../../components/BookingCta.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import RelatedCards from '../../components/RelatedCards.astro';
+
+const allIslands = await getCollection('islands');
+const exclusiveIslands = allIslands
+  .filter((i) => i.id.startsWith('fr/') && ['cayos-holandeses', 'isla-pelicano', 'nugnudub', 'cayos-limones'].includes(i.id.replace(/^fr\//, '')))
+  .map((i) => ({
+    href: `/fr/islands/${i.id.replace(/^fr\//, '')}`,
+    heroImage: i.data.heroImage,
+    title: i.data.name,
+  }));
+
+const relatedGuides = [
+  { href: '/fr/guides/sailing-cartagena-to-san-blas', heroImage: 'https://sanblastourspty.com/img/island_hopping-2.webp', title: 'Naviguer de Cartagena à San Blas' },
+  { href: '/fr/guides/overnight-stays', heroImage: 'https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp', title: 'Séjours Nocturnes — 5 Types de Cabanes' },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TouristTrip',
+  name: 'Charters Privés de Yacht et Voile de Luxe — San Blas',
+  description: 'Charters privés de yacht et catamaran entièrement équipés à travers San Blas, coordonnés sur WhatsApp pour les voyageurs qui veulent l\'archipel selon leurs propres conditions.',
+  touristType: 'Voyageurs de luxe, lunes de miel, groupes privés',
+  provider: { '@type': 'TravelAgency', name: 'San Blas Tours Panamá' },
+};
+---
+
+<Layout
+  title="Charters Privés de Yacht et Voile de Luxe à San Blas | San Blas Travel"
+  description="Charters privés de yacht et catamaran entièrement équipés à travers les îles de San Blas — votre propre itinéraire, les coins les plus exclusifs de l'archipel, sans groupes partagés. Coordonné directement sur WhatsApp."
+  path="/yachts"
+  availableLocales={['en', 'es', 'de', 'fr', 'pt-br']}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <div class="h-[55vh] min-h-[380px] w-full overflow-hidden">
+    <img src="https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp" alt="Charter privé de yacht à San Blas" class="h-full w-full object-cover" />
+  </div>
+
+  <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: 'Charters Privés de Yacht' }]} />
+
+  <article class="mx-auto max-w-3xl px-4 pb-12 pt-4 sm:px-6 lg:px-8">
+    <p class="text-sm font-semibold uppercase tracking-wide text-amber">Ultra-Premium &middot; Entièrement Privé</p>
+    <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">
+      Charters Privés de Yacht et Voile de Luxe
+    </h1>
+    <p class="mt-4 text-lg text-deep/70">
+      Pour les voyageurs qui ne veulent partager ni bateau, ni plage, ni horaire avec personne
+      d'autre — un yacht ou catamaran privé et équipé à travers San Blas, entièrement construit
+      autour de votre propre itinéraire, rythme et intimité.
+    </p>
+
+    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+      <h2>Ce que c'est réellement</h2>
+      <p>
+        Ce n'est pas une version plus grande de nos excursions d'une journée — c'est une manière
+        entièrement différente de vivre San Blas. Nous coordonnons directement avec des partenaires de
+        voile de confiance et vérifiés pour organiser un charter privé de yacht ou catamaran équipé :
+        votre propre navire, votre propre capitaine et équipage, et un itinéraire construit
+        spécifiquement autour des îles, du rythme et du niveau d'intimité que vous souhaitez.
+      </p>
+
+      <h2>Ce qui est généralement inclus</h2>
+      <ul>
+        <li><strong>Un navire privé et entièrement équipé</strong> — le capitaine et l'équipage gèrent la navigation, la sécurité et la logistique pendant tout le charter.</li>
+        <li><strong>Des repas préparés à bord</strong>, adaptés à vos préférences et à tout besoin alimentaire signalé à l'avance.</li>
+        <li><strong>Un itinéraire personnalisé de plusieurs jours</strong> à travers les îles et récifs les moins visités de San Blas — y compris des mouillages reculés qu'une excursion standard n'atteint jamais, comme le récif extérieur de <a href="/fr/islands/cayos-holandeses">Cayos Holandeses</a>.</li>
+        <li><strong>Du temps de snorkeling selon votre propre horaire</strong>, pas selon un départ de bateau fixe.</li>
+        <li><strong>Des choix de timing qui comptent</strong> — mouillages au lever du soleil, arrêts privés au coucher du soleil, et temps insulaire sans l'horaire d'un autre groupe.</li>
+      </ul>
+
+      <h2>Durée et tarif</h2>
+      <p>
+        Les charters durent généralement <strong>plusieurs jours</strong> — la plupart des groupes
+        réservent de 2 à 7+ nuits à bord, selon le navire et l'itinéraire. Comme chaque charter dépend
+        de la taille du navire, de la saison, de l'équipage et de votre itinéraire spécifique,
+        <strong>il n'y a pas de tarif fixe à publier ici</strong> — la même approche honnête que pour
+        nos autres forfaits personnalisés. Indiquez-nous vos dates, la taille de votre groupe, et ce
+        que vous imaginez, et nous vous rapporterons un devis réel de nos partenaires de voile.
+      </p>
+
+      <h2>À qui cela s'adresse</h2>
+      <ul>
+        <li>Lunes de miel et anniversaires où l'intimité compte plus que le prix.</li>
+        <li>Petits groupes d'entreprise ou familiaux qui veulent San Blas sans le partager avec des inconnus.</li>
+        <li>Photographes et créateurs de contenu ayant besoin d'un accès exclusif et non encombré à des îles spécifiques.</li>
+        <li>Voyageurs ayant déjà fait une excursion ou un séjour nocturne standard et voulant la version sans limites.</li>
+      </ul>
+
+      <h2>Comment commencer</h2>
+      <p>
+        C'est véritablement sur mesure — la bonne première étape est une vraie conversation, pas un
+        formulaire. Écrivez-nous sur WhatsApp avec vos dates de voyage, la taille de votre groupe, et
+        ce que vous imaginez, et nous vous rapporterons de véritables options de navires et un devis
+        sérieux de nos partenaires de charter.
+      </p>
+    </div>
+
+    <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
+      <p class="font-heading text-xl font-bold text-white">Prêt à Discuter d'un Charter Privé ?</p>
+      <p class="mt-2 text-sand/70">Écrivez-nous sur WhatsApp avec vos dates et la taille de votre groupe — nous vous rapporterons de véritables options de nos partenaires de voile.</p>
+      <BookingCta label="Écrivez-nous sur WhatsApp" message="Bonjour ! Je suis intéressé(e) par un charter privé de yacht/voile à travers San Blas." class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+    </div>
+  </article>
+
+  <RelatedCards title="Îles qu'un Charter Privé Peut Atteindre" items={exclusiveIslands} />
+  <RelatedCards title="Lecture Associée" items={relatedGuides} />
+</Layout>

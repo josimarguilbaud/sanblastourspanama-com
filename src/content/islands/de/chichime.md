@@ -1,8 +1,4 @@
 ---
-# AI-drafted translation (Claude) — needs native-speaker review before this
-# locale is treated as launch-ready. Kept in the repo as a working proof that
-# the 5-locale pipeline (routing + hreflang + content collections) functions
-# end-to-end; not yet part of the "reviewed" content set.
 name: "Chichime-Insel"
 sector: "Cayos Chichime"
 heroImage: "https://sanblastourspty.com/img/isla-chichime-panama.webp"

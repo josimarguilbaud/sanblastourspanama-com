@@ -1,7 +1,4 @@
 ---
-# AI-drafted translation (Claude) — needs native-speaker review before this
-# locale is treated as launch-ready. Kept as a working proof that the
-# 5-locale pipeline functions end-to-end for tour/product pages too.
 name: "VIP Tagestour"
 category: "day-tour"
 tagline: "Unsere meistgebuchte Tour — Schnorcheln, Guna-Gemeinde und mehr"
@@ -11,8 +8,8 @@ duration: "Ganzer Tag (~14 Stunden Tür zu Tür)"
 bestFor: ["beliebteste", "schnorcheln", "guna-kultur", "paare"]
 tourKey: "day_tour_vip"
 relatedIslandSlugs: ["perro-chico", "piscina-natural"]
-seoTitle: "VIP San-Blas-Tagestour — Schnorcheln & Guna-Gemeinde | Online Buchen"
-seoDescription: "Die VIP San-Blas-Tagestour ist unser meistgebuchtes Paket: geführtes Riff-Schnorcheln, Besuch einer Guna-Gemeinde und mehr Stopps als die Classic-Tour. Jetzt online buchen."
+seoTitle: "VIP San-Blas-Tagestour — Schnorcheln & Guna-Gemeinde | Per WhatsApp Buchen"
+seoDescription: "Die VIP San-Blas-Tagestour ist unser meistgebuchtes Paket: geführtes Riff-Schnorcheln, Besuch einer Guna-Gemeinde und mehr Stopps als die Classic-Tour. Schreiben Sie uns auf WhatsApp."
 ---
 
 Dies ist die Tour, für die sich die meisten Erstbesucher entscheiden — aus gutem Grund: Sie vereint alles Gute am Classic-Tag mit den zwei Erlebnissen, nach denen am häufigsten gefragt wird — echtes geführtes Schnorcheln und ein authentischer Besuch einer Guna-Gemeinde.

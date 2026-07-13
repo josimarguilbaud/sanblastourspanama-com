@@ -8,7 +8,7 @@ duration: "1–3 nights (max 3 per booking)"
 bestFor: ["premium", "honeymoon", "photography", "couples"]
 relatedIslandSlugs: []
 seoTitle: "San Blas Overwater Cabin — Book the Premium Overnight Stay"
-seoDescription: "Cabaña Overwater is San Blas's premium overnight option — a private cabin built directly over the water. See what's included and book your stay online."
+seoDescription: "Cabaña Overwater is San Blas's premium overnight option — a private cabin built directly over the water. See what's included and message us on WhatsApp to book."
 ---
 
 This is San Blas's most photographed way to sleep — a cabin built directly out over the water, where the sound of the sea is literally underneath you all night.

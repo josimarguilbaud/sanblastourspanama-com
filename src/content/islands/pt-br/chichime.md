@@ -1,7 +1,4 @@
 ---
-# AI-drafted translation (Claude) — needs native-speaker review before this
-# locale is treated as launch-ready. Kept as a working proof that the
-# 5-locale pipeline functions end-to-end; not yet part of the reviewed set.
 name: "Ilha Chichime"
 sector: "Cayos Chichime"
 heroImage: "https://sanblastourspty.com/img/isla-chichime-panama.webp"

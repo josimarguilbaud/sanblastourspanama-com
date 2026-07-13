@@ -20,6 +20,7 @@ export const navShortcuts: Record<'en' | 'es', { islands: NavItem[]; tours: NavI
       { href: '/tours/isla-diablo-day-tour', label: 'Isla Diablo Tour' },
       { href: '/tours/dutch-cays-day-tour', label: 'Dutch Cays Tour' },
       { href: '/tours/overwater-cabin-overnight', label: 'Overnight Stays' },
+      { href: '/yachts', label: '★ Private Yacht Charters' },
       { href: '/tours', label: 'View all tours →' },
     ],
     guides: [
@@ -46,6 +47,7 @@ export const navShortcuts: Record<'en' | 'es', { islands: NavItem[]; tours: NavI
       { href: '/tours/isla-diablo-day-tour', label: 'Tour Isla Diablo' },
       { href: '/tours/dutch-cays-day-tour', label: 'Tour Cayos Holandeses' },
       { href: '/tours/overwater-cabin-overnight', label: 'Estadías Nocturnas' },
+      { href: '/yachts', label: '★ Charters Privados de Yate' },
       { href: '/tours', label: 'Ver todos los tours →' },
     ],
     guides: [

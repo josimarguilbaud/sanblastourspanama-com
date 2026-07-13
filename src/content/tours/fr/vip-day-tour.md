@@ -1,7 +1,4 @@
 ---
-# AI-drafted translation (Claude) — needs native-speaker review before this
-# locale is treated as launch-ready. Kept as a working proof that the
-# 5-locale pipeline functions end-to-end for tour/product pages too.
 name: "Excursion VIP d'une Journée"
 category: "day-tour"
 tagline: "Notre excursion la plus réservée — plongée libre, communauté Guna et plus"
@@ -11,8 +8,8 @@ duration: "Journée complète (~14 heures porte-à-porte)"
 bestFor: ["plus-populaire", "plongee-libre", "culture-guna", "couples"]
 tourKey: "day_tour_vip"
 relatedIslandSlugs: ["perro-chico", "piscina-natural"]
-seoTitle: "Excursion VIP San Blas — Plongée Libre & Communauté Guna | Réserver en Ligne"
-seoDescription: "L'excursion VIP San Blas est notre forfait le plus réservé : plongée libre guidée sur récif, visite d'une communauté Guna, et plus d'arrêts que l'excursion Classique. Réservez en ligne."
+seoTitle: "Excursion VIP San Blas — Plongée Libre & Communauté Guna | Réserver sur WhatsApp"
+seoDescription: "L'excursion VIP San Blas est notre forfait le plus réservé : plongée libre guidée sur récif, visite d'une communauté Guna, et plus d'arrêts que l'excursion Classique. Écrivez-nous sur WhatsApp."
 ---
 
 C'est l'excursion que choisissent la plupart des primo-visiteurs, et on comprend pourquoi : elle reprend tout ce qui fait la force de la journée Classique et y ajoute les deux expériences les plus demandées — une véritable plongée libre guidée et une visite authentique d'une communauté Guna.

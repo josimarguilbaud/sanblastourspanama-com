@@ -10,8 +10,8 @@ const featured = allIslands.filter((entry) => entry.id.startsWith('de/'));
 ---
 
 <Layout
-  title="San-Blas-Inseln — Der Komplette Guide & Online-Buchung | Guna Yala, Panama"
-  description="Über 30 San-Blas-Inseln erklärt, echte Guna-Kultur, und die einzige San-Blas-Seite, auf der Sie Ihre Tour online mit sicherer Anzahlung buchen können."
+  title="San-Blas-Inseln — Der Komplette Guide, Buchung per WhatsApp | Guna Yala, Panama"
+  description="Über 30 San-Blas-Inseln erklärt, echte Guna-Kultur, und direkte WhatsApp-Buchung mit einer echten Person — kein Kontaktformular, kein Callcenter."
   path="/"
   availableLocales={['en', 'es', 'de', 'fr', 'pt-br']}
 >
@@ -26,9 +26,9 @@ const featured = allIslands.filter((entry) => entry.id.startsWith('de/'));
         San-Blas-Inseln, Panama
       </h1>
       <p class="mx-auto mt-6 max-w-2xl text-lg text-sand/90">
-        Der ausführlichste deutschsprachige Guide zu den über 30 Inseln von Guna Yala — und die
-        einzige San-Blas-Seite, auf der Sie Ihre Tour tatsächlich online buchen können, mit
-        sicherer Anzahlung.
+        Der ausführlichste deutschsprachige Guide zu den über 30 Inseln von Guna Yala — schreiben
+        Sie uns auf WhatsApp und eine echte Person plant Ihre Reise mit Ihnen, kein Kontaktformular
+        nötig.
       </p>
       <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
         <BookingCta label={t('cta.book')} />
@@ -40,8 +40,8 @@ const featured = allIslands.filter((entry) => entry.id.startsWith('de/'));
   </section>
 
   <section class="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
-    <h2 class="font-heading text-3xl font-extrabold text-deep">Ausgewählte Inseln</h2>
-    <p class="mt-2 text-deep/60">Diese Sprache ist noch im Aufbau — weitere Inseln folgen laufend.</p>
+    <h2 class="font-heading text-3xl font-extrabold text-deep">Alle Inseln</h2>
+    <p class="mt-2 text-deep/60">Alle 11 San-Blas-Inseln, Touren, Reiseführer und mehr sind jetzt auf Deutsch verfügbar.</p>
 
     <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
       {featured.map((island) => {
@@ -67,5 +67,24 @@ const featured = allIslands.filter((entry) => entry.id.startsWith('de/'));
         );
       })}
     </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 pb-20 sm:px-6 lg:px-8">
+    <a href="/de/yachts" class="flex flex-col items-center gap-8 overflow-hidden rounded-3xl bg-gradient-to-br from-deep to-[#04212b] p-8 sm:flex-row sm:p-12">
+      <div class="flex-1 text-center sm:text-left">
+        <p class="text-sm font-semibold uppercase tracking-wide text-amber">Ultra-Premium &middot; Vollständig Privat</p>
+        <h2 class="mt-2 font-display text-3xl font-semibold text-white sm:text-4xl">Private Yacht- & Luxus-Segelcharter</h2>
+        <p class="mx-auto mt-3 max-w-lg text-sand/70 sm:mx-0">
+          Eine vollständig bemannte private Yacht, Ihre eigene mehrtägige Route, und die exklusivsten
+          Inseln des Archipels. Keine geteilten Gruppen, kein fester Zeitplan.
+        </p>
+        <span class="mt-6 inline-block rounded-full border-2 border-amber px-6 py-3 text-sm font-bold text-amber transition hover:bg-amber hover:text-deep">
+          Private Charter Entdecken →
+        </span>
+      </div>
+      <div class="h-48 w-full flex-1 overflow-hidden rounded-2xl sm:h-64">
+        <img src="https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp" alt="Privater Yacht-Charter in San Blas" class="h-full w-full object-cover" />
+      </div>
+    </a>
   </section>
 </Layout>

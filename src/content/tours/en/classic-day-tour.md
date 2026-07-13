@@ -9,7 +9,7 @@ bestFor: ["first-timers", "budget-conscious", "families"]
 tourKey: "day_tour_basico"
 relatedIslandSlugs: ["piscina-natural"]
 seoTitle: "Classic San Blas Day Tour — Book via WhatsApp | From Panama City"
-seoDescription: "The Classic San Blas day tour: one island plus the famous Natural Pool, door-to-door transport, lunch included. Book online with a secure deposit."
+seoDescription: "The Classic San Blas day tour: one island plus the famous Natural Pool, door-to-door transport, lunch included. Message us on WhatsApp to book."
 ---
 
 If this is your first trip to San Blas and you want the straightforward version — no add-ons, no decision fatigue, just the archipelago at its most essential — this is the tour. One island, the legendary Natural Pool, and everything handled for you from the moment you're picked up.

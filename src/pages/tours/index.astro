@@ -100,7 +100,16 @@ const customPackages = allPackages.filter((entry) => entry.id.startsWith('en/'))
         })}
       </div>
 
-      <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+      <a href="/yachts" class="mt-14 flex flex-col items-center gap-6 rounded-3xl bg-gradient-to-br from-deep to-[#04212b] p-8 text-center sm:flex-row sm:justify-between sm:p-10 sm:text-left">
+        <div>
+          <p class="text-sm font-semibold uppercase tracking-wide text-amber">Ultra-Premium</p>
+          <p class="mt-1 font-display text-2xl font-semibold text-white">Private Yacht & Luxury Sailing Charters</p>
+          <p class="mx-auto mt-2 max-w-md text-sand/70 sm:mx-0">A fully crewed private yacht, your own itinerary, and San Blas's most exclusive islands — no shared groups, no fixed schedule.</p>
+        </div>
+        <span class="shrink-0 rounded-full border-2 border-amber px-6 py-3 text-sm font-bold text-amber transition hover:bg-amber hover:text-deep">Explore Private Charters →</span>
+      </a>
+
+      <div class="mt-8 rounded-3xl bg-deep p-8 text-center sm:p-10">
         <p class="font-display text-2xl font-semibold text-white">Get Prices and Availability</p>
         <p class="mx-auto mt-2 max-w-md text-sand/70">Message us on WhatsApp with your dates and group size — a real person confirms exact pricing and availability.</p>
         <BookingCta label="Message Us on WhatsApp" class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />

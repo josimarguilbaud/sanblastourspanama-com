@@ -106,7 +106,16 @@ const customPackages = allPackages.filter((entry) => entry.id.startsWith('es/'))
         })}
       </div>
 
-      <div class="mt-14 rounded-3xl bg-deep p-8 text-center sm:p-10">
+      <a href="/es/yachts" class="mt-14 flex flex-col items-center gap-6 rounded-3xl bg-gradient-to-br from-deep to-[#04212b] p-8 text-center sm:flex-row sm:justify-between sm:p-10 sm:text-left">
+        <div>
+          <p class="text-sm font-semibold uppercase tracking-wide text-amber">Ultra Premium</p>
+          <p class="mt-1 font-display text-2xl font-semibold text-white">Charters Privados de Yate y Vela de Lujo</p>
+          <p class="mx-auto mt-2 max-w-md text-sand/70 sm:mx-0">Un yate privado totalmente tripulado, tu propio itinerario, y las islas más exclusivas de San Blas — sin grupos compartidos, sin horario fijo.</p>
+        </div>
+        <span class="shrink-0 rounded-full border-2 border-amber px-6 py-3 text-sm font-bold text-amber transition hover:bg-amber hover:text-deep">Explorar Charters Privados →</span>
+      </a>
+
+      <div class="mt-8 rounded-3xl bg-deep p-8 text-center sm:p-10">
         <p class="font-display text-2xl font-semibold text-white">Consulta Precios y Disponibilidad</p>
         <p class="mx-auto mt-2 max-w-md text-sand/70">Escríbenos por WhatsApp con tus fechas y tamaño de grupo — una persona real confirma el precio exacto y disponibilidad.</p>
         <BookingCta label={t('cta.book')} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
