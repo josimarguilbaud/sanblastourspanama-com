@@ -30,7 +30,7 @@ function urlFor(locale: string) {
 
 const currentLocale = Astro.currentLocale ?? defaultLocale;
 const canonical = urlFor(currentLocale);
-const ogImage = image ?? `${siteUrl}/og-default.jpg`;
+const ogImage = image ?? `${siteUrl}/og-default.webp`;
 const hreflangLocales = (availableLocales ?? [currentLocale]).filter((l) =>
   (allLocales as readonly string[]).includes(l)
 );
