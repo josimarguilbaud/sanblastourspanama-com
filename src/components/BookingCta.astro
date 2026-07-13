@@ -23,9 +23,19 @@ const defaultMessages: Record<string, string> = {
   'pt-br': 'Olá! Gostaria de mais informações sobre os passeios em San Blas.',
 };
 
+// Short, single-line label by default so the button never wraps on mobile —
+// callers can still override with a longer label prop where there's room.
+const defaultLabels: Record<string, string> = {
+  en: 'Book Now',
+  es: 'Reservar',
+  de: 'Buchen',
+  fr: 'Réserver',
+  'pt-br': 'Reservar',
+};
+
 const locale = Astro.currentLocale ?? defaultLocale;
 const {
-  label = 'Message Us on WhatsApp',
+  label = defaultLabels[locale] ?? defaultLabels[defaultLocale],
   message = defaultMessages[locale] ?? defaultMessages[defaultLocale],
   class: className = '',
 } = Astro.props;
