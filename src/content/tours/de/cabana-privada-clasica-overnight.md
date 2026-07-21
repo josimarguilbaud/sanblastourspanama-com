@@ -2,7 +2,7 @@
 name: "Cabaña Privada Clásica"
 category: "overnight"
 tagline: "Ihre eigene, einfache Strandhütte, ohne den Premium-Preis"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/cabana-colorida-san-blas.webp"
 gallery: []
 duration: "1–3 Nächte (max. 3 pro Buchung)"
 bestFor: ["couples", "privacy", "mid-range"]

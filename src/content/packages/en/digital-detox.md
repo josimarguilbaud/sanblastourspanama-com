@@ -2,7 +2,7 @@
 name: "Multi-Day Digital Detox"
 tagline: "Unhurried island time, at your pace"
 duration: "4 days / 3 nights (max)"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/hamaca-palmeras-san-blas.webp"
 highlights: ["No fixed daily itinerary", "A full free day built in", "Kayak & paddle time", "Zero wifi, on purpose"]
 relatedTourSlugs: ["camping-under-stars-overnight", "cabana-privada-deluxe-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]

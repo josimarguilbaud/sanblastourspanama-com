@@ -15,8 +15,8 @@ const exclusiveIslands = allIslands
   }));
 
 const relatedGuides = [
-  { href: '/de/guides/sailing-cartagena-to-san-blas', heroImage: 'https://sanblastourspty.com/img/island_hopping-2.webp', title: 'Segeln von Cartagena nach San Blas' },
-  { href: '/de/guides/overnight-stays', heroImage: 'https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp', title: 'Übernachtungen — 5 Hüttentypen' },
+  { href: '/de/guides/sailing-cartagena-to-san-blas', heroImage: '/img/paddle-velero-san-blas.webp', title: 'Segeln von Cartagena nach San Blas' },
+  { href: '/de/guides/overnight-stays', heroImage: '/img/isla-turquesa-lanchas-san-blas.webp', title: 'Übernachtungen — 5 Hüttentypen' },
 ];
 
 const jsonLd = {
@@ -38,7 +38,7 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <div class="h-[55vh] min-h-[380px] w-full overflow-hidden">
-    <img src="https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp" alt="Privater Yacht-Charter durch San Blas" class="h-full w-full object-cover" />
+    <img src="/img/catamaran-atardecer-san-blas.webp" alt="Privater Yacht-Charter durch San Blas" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Startseite', href: '/' }, { label: 'Private Yacht-Charter' }]} />

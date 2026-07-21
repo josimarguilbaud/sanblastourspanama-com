@@ -2,7 +2,7 @@
 name: "Camping Bajo las Estrellas"
 category: "overnight"
 tagline: "Die direkteste Verbindung zur Insel — schlafen unter freiem Himmel"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/atardecer-palmeras-san-blas.webp"
 gallery: []
 duration: "1–3 Nächte (max. 3 pro Buchung)"
 bestFor: ["adventurous", "stargazing", "unique-experience"]

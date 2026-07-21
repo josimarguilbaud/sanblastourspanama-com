@@ -2,7 +2,7 @@
 name: "Demande en Mariage sur Île Privée"
 tagline: "Un moment privé sur une île, organisé autour du moment réel"
 duration: "2 jours / 1 nuit"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/flores-playa-san-blas.webp"
 highlights: ["Fenêtre de moment privé sur l'île", "Cabane overwater ou en bord de plage", "Chronométré pour la lumière du coucher de soleil", "Discret — pas de photographe mis en scène sauf demande"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]

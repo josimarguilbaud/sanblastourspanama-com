@@ -1,7 +1,7 @@
 ---
 title: "Passeio de Um Dia ou Estadia Noturna em San Blas? Como Escolher"
 excerpt: "Ambas as opções levam você para island-hopping e snorkel sobre um navio afundado. Aqui está a diferença real — e para quem cada uma é."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-07-08
 seoTitle: "Passeio de Um Dia vs Estadia Noturna em San Blas — O Que Reservar?"
 seoDescription: "Comparando um passeio de um dia em San Blas com uma estadia de várias noites em cabana: o que realmente muda, o que permanece igual, e como decidir."

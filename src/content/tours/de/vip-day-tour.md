@@ -2,7 +2,7 @@
 name: "VIP Tagestour"
 category: "day-tour"
 tagline: "Unsere meistgebuchte Tour — Schnorcheln, Guna-Gemeinde und mehr"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 gallery: []
 duration: "Ganzer Tag (~14 Stunden Tür zu Tür)"
 bestFor: ["beliebteste", "schnorcheln", "guna-kultur", "paare"]

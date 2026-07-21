@@ -1,6 +1,6 @@
 ---
 title: "Eco-Tourism in San Blas: How Your Visit Helps"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
 relatedIslandSlugs: ["nugnudub"]
 seoTitle: "San Blas Eco-Tourism — Sustainable, Community-Run Travel in Guna Yala"

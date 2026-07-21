@@ -1,7 +1,7 @@
 ---
 title: "Where Does the Guna Yala Community Tax Actually Go?"
 excerpt: "The $22 entry tax you pay in cash isn't a generic tourism fee. Here's an honest look at what it is and why it works differently from a typical destination tax."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-23
 seoTitle: "The Guna Yala Community Tax Explained — What It's For"
 seoDescription: "San Blas's community entry tax ($22 foreigners / $7 residents) goes directly to the Guna comarca, not a generic tourism board — here's what that actually means."

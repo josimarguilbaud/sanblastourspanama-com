@@ -1,7 +1,7 @@
 ---
 title: "Les Meilleurs Spots Photo de San Blas (Et Quand les Photographier)"
 excerpt: "La Piscine Naturelle à midi et Cayos Holandeses au lever du soleil ne sont pas interchangeables — voici un vrai guide, spot par spot, pour bien photographier San Blas."
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-05-27
 seoTitle: "Meilleurs Spots Photo à San Blas — Un Vrai Guide Prise de Vue par Prise de Vue"
 seoDescription: "Où et quand photographier San Blas : le banc de sable aux étoiles de mer de la Piscine Naturelle, les plages de carte postale de Chichime, Cayos Holandeses au lever du soleil, et plus."

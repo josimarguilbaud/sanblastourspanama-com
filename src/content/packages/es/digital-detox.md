@@ -2,7 +2,7 @@
 name: "Desconexión Digital de Varios Días"
 tagline: "Tiempo de isla sin apuro, a tu ritmo"
 duration: "4 días / 3 noches (máximo)"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/hamaca-palmeras-san-blas.webp"
 highlights: ["Sin itinerario diario fijo", "Un día libre completo", "Kayak y paddle", "Cero wifi, a propósito"]
 relatedTourSlugs: ["camping-under-stars-overnight", "cabana-privada-deluxe-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]

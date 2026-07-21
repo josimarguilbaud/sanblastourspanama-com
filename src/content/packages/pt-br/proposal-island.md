@@ -2,7 +2,7 @@
 name: "Pedido de Casamento em Ilha Privativa"
 tagline: "Um momento privativo em uma ilha, organizado em torno do momento real"
 duration: "2 dias / 1 noite"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/flores-playa-san-blas.webp"
 highlights: ["Janela de momento privativo na ilha", "Cabana overwater ou à beira-mar", "Cronometrado para a luz do pôr do sol", "Discreto — sem fotógrafo encenado a menos que solicitado"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]

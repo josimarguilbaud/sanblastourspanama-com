@@ -1,7 +1,7 @@
 ---
 title: "15 Faits Amusants et Surprenants sur San Blas"
 excerpt: "Une nation autogouvernée au sein du Panama, un lieu de tournage Netflix, et un banc de sable aux étoiles de mer — voici 15 faits réels sur San Blas qui surprennent la plupart des primo-visiteurs."
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-04-13
 seoTitle: "15 Faits Surprenants sur les Îles de San Blas, Panama"
 seoDescription: "Faits réels et surprenants sur San Blas, Panama : la Révolution Guna de 1925, un lieu de tournage Netflix, aucun distributeur automatique, et plus encore."

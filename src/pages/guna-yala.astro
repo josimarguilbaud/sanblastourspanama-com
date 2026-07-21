@@ -15,9 +15,9 @@ const communityIslands = allIslands
   }));
 
 const deeperGuides = [
-  { href: '/guides/history-of-san-blas', heroImage: 'https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp', title: 'History of San Blas: The 1925 Guna Revolution' },
-  { href: '/guides/guna-culture', heroImage: 'https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp', title: "Guna Culture: A Respectful Traveler's Guide" },
-  { href: '/guides/eco-tourism', heroImage: 'https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp', title: 'Eco-Tourism: How Your Visit Helps' },
+  { href: '/guides/history-of-san-blas', heroImage: '/img/calle-aldea-guna-yala.webp', title: 'History of San Blas: The 1925 Guna Revolution' },
+  { href: '/guides/guna-culture', heroImage: '/img/calle-aldea-guna-yala.webp', title: "Guna Culture: A Respectful Traveler's Guide" },
+  { href: '/guides/eco-tourism', heroImage: '/img/isla-turquesa-lanchas-san-blas.webp', title: 'Eco-Tourism: How Your Visit Helps' },
 ];
 
 const jsonLd = {
@@ -47,7 +47,7 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">
-    <img src="https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp" alt="Guna Yala community island" class="h-full w-full object-cover" />
+    <img src="/img/calle-aldea-guna-yala.webp" alt="Guna Yala community island" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Guna Yala' }]} />

@@ -2,7 +2,7 @@
 name: "Escapada de Trabajo Remoto"
 tagline: "Una mirada honesta a trabajar desde San Blas — y por qué es más difícil de lo que sugieren las fotos"
 duration: "4 días / 3 noches (máximo)"
-heroImage: "https://sanblastourspty.com/img/isla-aguja-san-blas-panama.webp"
+heroImage: "/img/desayuno-velero-san-blas.webp"
 highlights: ["Conversación realista sobre conectividad primero", "Horario flexible alrededor de tus horas de trabajo", "Islas más tranquilas con menos ruido de lanchas", "Estadía de varios días para justificar el arreglo"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["isla-aguja", "nugnudub"]

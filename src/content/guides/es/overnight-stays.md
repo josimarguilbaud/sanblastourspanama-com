@@ -1,6 +1,6 @@
 ---
 title: "Estadía en San Blas — Los 5 Tipos de Cabaña Explicados"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
 seoTitle: "Estadía en San Blas — Tipos de Cabaña, Itinerarios y Qué Incluye"

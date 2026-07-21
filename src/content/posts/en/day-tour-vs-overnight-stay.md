@@ -1,7 +1,7 @@
 ---
 title: "Day Tour or Overnight Stay in San Blas? How to Choose"
 excerpt: "Both options take you island-hopping and snorkeling over a sunken ship. Here's the real difference — and who each one is actually for."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-07-08
 seoTitle: "San Blas Day Tour vs Overnight Stay — Which Should You Book?"
 seoDescription: "Comparing a San Blas day tour to a multi-night cabin stay: what's actually different, what stays the same, and how to decide which fits your trip."

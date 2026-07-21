@@ -2,7 +2,7 @@
 name: "Dutch Cays Tour (Cayos Holandeses)"
 category: "day-tour"
 tagline: "Das entfernteste, unberührteste Riff in San Blas — für ernsthafte Schnorchler"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 gallery: []
 duration: "Ganztägig, frühere Abfahrt (~4:30 Uhr Abholung)"
 bestFor: ["premium", "snorkeling", "reef-quality"]

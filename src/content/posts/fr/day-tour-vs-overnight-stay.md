@@ -1,7 +1,7 @@
 ---
 title: "Excursion d'un Jour ou Séjour Nocturne à San Blas ? Comment Choisir"
 excerpt: "Les deux options vous emmènent faire de l'island-hopping et du snorkeling au-dessus d'un navire coulé. Voici la vraie différence — et à qui chacune convient."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-07-08
 seoTitle: "Excursion d'un Jour vs Séjour Nocturne à San Blas — Que Réserver ?"
 seoDescription: "Comparaison d'une excursion d'une journée à San Blas avec un séjour de plusieurs nuits en cabane : ce qui change vraiment, ce qui reste pareil, et comment décider."

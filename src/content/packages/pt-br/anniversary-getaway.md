@@ -2,7 +2,7 @@
 name: "Escapada de Aniversário em Ilha"
 tagline: "Uma segunda (ou décima) lua de mel, sem o preço de lua de mel"
 duration: "3 dias / 2 noites"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/pareja-aguas-turquesas-san-blas.webp"
 highlights: ["Cabana overwater ou deluxe privativa", "Um dia completamente livre", "Ritmo relaxado, sem pressa", "Escolha de ilha baseada no que vocês amaram (ou perderam) antes"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["isla-diablo", "perro-grande"]

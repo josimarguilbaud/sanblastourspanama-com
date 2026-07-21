@@ -1,7 +1,7 @@
 ---
 title: "Los Mejores Puntos de Fotografía en San Blas (Y Cuándo Fotografiarlos)"
 excerpt: "La Piscina Natural al mediodía y Cayos Holandeses al amanecer no son intercambiables — aquí una guía real, punto por punto, para fotografiar bien San Blas."
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-05-27
 seoTitle: "Mejores Puntos de Fotografía en San Blas — Una Guía Real Toma por Toma"
 seoDescription: "Dónde y cuándo fotografiar San Blas: el banco de arena de estrellas de mar de la Piscina Natural, las playas de postal de Chichime, Cayos Holandeses al amanecer, y más."

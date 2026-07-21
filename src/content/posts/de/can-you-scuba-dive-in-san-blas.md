@@ -1,7 +1,7 @@
 ---
 title: "Kann Man in San Blas Gerätetauchen? Die Ehrliche Antwort"
 excerpt: "San Blas ist für Schnorcheln gebaut, nicht für Gerätetauchen. Hier die direkte Antwort, was tatsächlich verfügbar ist, und warum."
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-04-25
 seoTitle: "Gerätetauchen in San Blas — Ist es Verfügbar? Die Echte Antwort"
 seoDescription: "Standard-San-Blas-Touren beinhalten kein Gerätetauchen mit Flaschen. Hier, warum der Archipel stattdessen fürs Schnorcheln gebaut ist, und was realistisch zu erwarten ist."

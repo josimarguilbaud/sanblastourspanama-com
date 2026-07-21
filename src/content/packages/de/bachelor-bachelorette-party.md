@@ -2,7 +2,7 @@
 name: "Junggesellen(innen)-Abschied auf der Insel"
 tagline: "Eine Gruppenfeier über mehrere Inseln"
 duration: "2 Tage / 1 Nacht"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Hütte für die Gruppe", "Island-Hopping", "Schnorcheln am Schiffswrack", "Strandzeit inklusive"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]

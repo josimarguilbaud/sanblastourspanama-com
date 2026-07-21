@@ -1,7 +1,7 @@
 ---
 title: "15 Lustige und Überraschende Fakten Über San Blas"
 excerpt: "Eine selbstverwaltete Nation innerhalb Panamas, ein Netflix-Drehort, und eine Seestern-Sandbank — hier 15 echte Fakten über San Blas, die die meisten Erstbesucher überraschen."
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-04-13
 seoTitle: "15 Überraschende Fakten über die San-Blas-Inseln, Panama"
 seoDescription: "Echte, überraschende Fakten über San Blas, Panama: die Guna-Revolution von 1925, ein Netflix-Drehort, keine Geldautomaten, und mehr."

@@ -1,7 +1,7 @@
 ---
 name: "Cayos Holandeses"
 sector: "Cayos Holandeses"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 gallery: []
 bestFor: ["snorkel", "tour-premium", "calidad-de-arrecife"]
 isInhabited: false

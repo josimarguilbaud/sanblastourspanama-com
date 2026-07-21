@@ -2,7 +2,7 @@
 name: "Hostal Isleño"
 category: "overnight"
 tagline: "La forma más económica de quedarte a dormir en San Blas — y conocer otros viajeros"
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/aldea-guna-atardecer.webp"
 gallery: []
 duration: "1–3 noches (máximo 3 por reserva)"
 bestFor: ["economico", "viajero-solo", "social", "mochileros"]

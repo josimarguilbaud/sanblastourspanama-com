@@ -1,6 +1,6 @@
 ---
 title: "Que Mettre dans sa Valise pour San Blas"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
 relatedIslandSlugs: []
 seoTitle: "Liste de Bagages San Blas — Quoi Apporter pour une Excursion ou un Séjour"

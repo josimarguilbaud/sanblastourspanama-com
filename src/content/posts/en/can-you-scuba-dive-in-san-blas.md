@@ -1,7 +1,7 @@
 ---
 title: "Can You Scuba Dive in San Blas? The Honest Answer"
 excerpt: "San Blas is built for snorkeling, not scuba diving. Here's the direct answer on what's actually available, and why."
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-04-25
 seoTitle: "Scuba Diving in San Blas — Is It Available? The Real Answer"
 seoDescription: "Standard San Blas tours don't include scuba diving with tanks. Here's why the archipelago is built for snorkeling instead, and what's realistic to expect."

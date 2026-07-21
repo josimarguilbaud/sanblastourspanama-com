@@ -2,7 +2,7 @@
 name: "Excursion VIP d'une Journée"
 category: "day-tour"
 tagline: "Notre excursion la plus réservée — plongée libre, communauté Guna et plus"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 gallery: []
 duration: "Journée complète (~14 heures porte-à-porte)"
 bestFor: ["plus-populaire", "plongee-libre", "culture-guna", "couples"]

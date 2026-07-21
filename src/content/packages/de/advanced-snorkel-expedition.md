@@ -2,7 +2,7 @@
 name: "Fortgeschrittene Schnorchel- & Riff-Expedition"
 tagline: "Die entferntesten Riffe, für eine Gruppe, die die Grundlagen bereits kennt"
 duration: "2 Tage / 1 Nacht"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Entlegenes Riff der Dutch Cays", "Schiffswrack-Schnorcheln inklusive", "Kleinere Gruppe, mehr Wasserzeit", "Frühere Abfahrt für ruhigere Bedingungen"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]

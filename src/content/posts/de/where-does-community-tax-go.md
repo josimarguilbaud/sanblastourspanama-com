@@ -1,7 +1,7 @@
 ---
 title: "Wohin Geht die Guna-Yala-Gemeinschaftssteuer Tatsächlich?"
 excerpt: "Die 22-Dollar-Eintrittssteuer, die Sie bar bezahlen, ist keine generische Tourismusgebühr. Hier ein ehrlicher Blick darauf, was sie ist und warum sie anders funktioniert als eine typische Zielortsteuer."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-23
 seoTitle: "Die Guna-Yala-Gemeinschaftssteuer Erklärt — Wofür Sie Ist"
 seoDescription: "San Blas' Gemeinschaftseintrittssteuer (22 $ Ausländer / 7 $ Einwohner) geht direkt an die Guna-Comarca, nicht an eine generische Tourismusbehörde — hier, was das tatsächlich bedeutet."

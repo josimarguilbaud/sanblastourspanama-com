@@ -1,7 +1,7 @@
 ---
 title: "5 Things Nobody Tells You Before Visiting San Blas"
 excerpt: "The packing list covers sunscreen and swimsuits. It doesn't cover these five things that actually surprise first-time visitors."
-heroImage: "https://sanblastourspty.com/img/isla-aguja-san-blas-panama.webp"
+heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-06-30
 seoTitle: "5 Things Nobody Tells You Before Visiting San Blas Islands"
 seoDescription: "Practical, lesser-known tips for San Blas Islands: cash, wildlife, timing, and other things first-time visitors are usually surprised by."

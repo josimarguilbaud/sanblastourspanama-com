@@ -2,7 +2,7 @@
 name: "Tour VIP"
 category: "day-tour"
 tagline: "Nuestro tour más reservado — snorkel, comunidad Guna y más"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 gallery: []
 duration: "Día completo (~14 horas puerta a puerta)"
 bestFor: ["mas-popular", "snorkel", "cultura-guna", "parejas"]

@@ -1,7 +1,7 @@
 ---
 title: "¿Pasadía o Estadía Nocturna en San Blas? Cómo Elegir"
 excerpt: "Ambas opciones te llevan a island-hopping y snorkel sobre un barco hundido. Aquí está la diferencia real — y para quién es cada una."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-07-08
 seoTitle: "Pasadía vs Estadía Nocturna en San Blas — ¿Cuál Deberías Reservar?"
 seoDescription: "Comparando un pasadía de San Blas con una estadía de varias noches en cabaña: qué es realmente diferente, qué se mantiene igual, y cómo decidir cuál encaja con tu viaje."

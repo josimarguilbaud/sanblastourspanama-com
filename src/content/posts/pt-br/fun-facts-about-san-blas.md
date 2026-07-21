@@ -1,7 +1,7 @@
 ---
 title: "15 Fatos Divertidos e Surpreendentes Sobre San Blas"
 excerpt: "Uma nação autogovernada dentro do Panamá, uma locação de filmagem da Netflix, e um banco de areia de estrelas-do-mar — aqui 15 fatos reais sobre San Blas que surpreendem a maioria dos visitantes de primeira viagem."
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-04-13
 seoTitle: "15 Fatos Surpreendentes Sobre as Ilhas de San Blas, Panamá"
 seoDescription: "Fatos reais e surpreendentes sobre San Blas, Panamá: a Revolução Guna de 1925, uma locação de filmagem da Netflix, zero caixas eletrônicos, e mais."

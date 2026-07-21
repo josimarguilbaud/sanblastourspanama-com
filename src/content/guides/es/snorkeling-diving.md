@@ -1,6 +1,6 @@
 ---
 title: "Snorkel y Buceo en San Blas"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
 relatedIslandSlugs: ["perro-chico", "cayos-holandeses", "piscina-natural"]
 seoTitle: "Snorkel en San Blas — Mejores Lugares y Qué Esperar (Respuesta Honesta sobre Buceo)"

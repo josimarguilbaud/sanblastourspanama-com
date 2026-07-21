@@ -2,7 +2,7 @@
 name: "Large Group Adventure"
 tagline: "Private transport for groups a shared tour can't fit"
 duration: "Flexible, full day+"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/grupo-grande-isla-san-blas.webp"
 highlights: ["Private 4x4 + boat", "Custom island route", "Group-rate coordination", "One point of contact"]
 relatedTourSlugs: ["super-vip-private-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["cayos-limones", "el-porvenir"]

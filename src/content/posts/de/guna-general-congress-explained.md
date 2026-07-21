@@ -1,7 +1,7 @@
 ---
 title: "Der Guna-Generalkongress: Wie Guna Yala Sich Tatsächlich Selbst Regiert"
 excerpt: "Guna Yala wird nicht von Panamas Provinzregierung geführt — es hat seine eigene politische Struktur, aufgebaut auf der 1925 gewonnenen Autonomie. Hier, wie es tatsächlich funktioniert."
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-05-11
 seoTitle: "Der Guna-Generalkongress — Selbstverwaltung in San Blas Erklärt"
 seoDescription: "Guna Yala wird durch seine eigene politische Struktur regiert, zentriert um den Guna-Generalkongress, getrennt von Panamas Provinzverwaltung — ein direktes Ergebnis der Guna-Revolution von 1925."

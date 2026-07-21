@@ -1,7 +1,7 @@
 ---
 name: "Perro Chico Island"
 sector: "Isla Perro"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 gallery: []
 bestFor: ["snorkeling", "shipwreck", "day-trip"]
 isInhabited: false

@@ -2,7 +2,7 @@
 name: "Traum des Fotografen"
 tagline: "Goldene Stunde statt jede Insel abzuhaken"
 duration: "2 Tage / 1 Nacht"
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 highlights: ["Zugang zu Sonnenauf- und -untergang", "Unberührte, entlegene Cays", "Flexible Inselstopps", "Overwater- oder Strandhütte"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "isla-pelicano"]

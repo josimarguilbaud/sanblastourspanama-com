@@ -1,9 +1,9 @@
 ---
 name: "Chichime Island"
 sector: "Cayos Chichime"
-heroImage: "https://sanblastourspty.com/img/isla-chichime-panama.webp"
+heroImage: "/img/palmeras-playa-virgen-san-blas.webp"
 gallery:
-  - "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+  - "/img/turistas-piscina-natural-san-blas.webp"
 bestFor: ["snorkeling", "day-trip", "photography", "families"]
 isInhabited: true
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]

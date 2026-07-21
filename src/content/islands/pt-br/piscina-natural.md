@@ -1,7 +1,7 @@
 ---
 name: "The Natural Pool (Piscina Natural)"
 sector: "Central San Blas"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/banco-arena-san-blas.webp"
 gallery: []
 bestFor: ["families", "wading", "photography", "starfish"]
 isInhabited: false

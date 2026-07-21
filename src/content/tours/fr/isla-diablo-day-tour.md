@@ -2,7 +2,7 @@
 name: "Isla Diablo Tour"
 category: "day-tour"
 tagline: "Un itinéraire distinct à travers le groupe Isla Perro — pas juste un rebranding VIP"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 gallery: []
 duration: "Journée complète (~14h porte-à-porte), 8h30–15h00 sur les îles"
 bestFor: ["variety-seekers", "families", "guna-culture"]

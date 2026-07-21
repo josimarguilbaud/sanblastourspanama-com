@@ -1,7 +1,7 @@
 ---
 title: "Avez-vous Besoin d'Espèces à San Blas ? La Réponse Complète"
 excerpt: "Il n'y a aucun distributeur automatique nulle part à Guna Yala, et les cartes ne sont pas acceptées sur les îles. Voici exactement combien d'espèces apporter et à quoi elles servent."
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-29
 seoTitle: "Espèces à San Blas — Distributeurs, Cartes, et la Taxe Communautaire Expliqués"
 seoDescription: "Il n'y a pas de distributeurs automatiques à Guna Yala et les cartes ne sont pas acceptées sur les îles. Voici exactement à quoi vous avez besoin d'espèces à San Blas, et combien apporter."

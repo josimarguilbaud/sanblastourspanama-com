@@ -1,6 +1,6 @@
 ---
 title: "San Blas Übernachtungen — 5 Hüttentypen Erklärt"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
 seoTitle: "San Blas Übernachtung — Hüttentypen, Reiserouten & Enthaltenes"

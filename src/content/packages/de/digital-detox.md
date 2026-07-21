@@ -2,7 +2,7 @@
 name: "Mehrtägige Digitale Entgiftung"
 tagline: "Unbeeilte Inselzeit, in Ihrem Tempo"
 duration: "4 Tage / 3 Nächte (maximal)"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/hamaca-palmeras-san-blas.webp"
 highlights: ["Kein fester Tagesplan", "Ein komplett freier Tag", "Kajak- & Paddelzeit", "Absichtlich kein WLAN"]
 relatedTourSlugs: ["camping-under-stars-overnight", "cabana-privada-deluxe-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]

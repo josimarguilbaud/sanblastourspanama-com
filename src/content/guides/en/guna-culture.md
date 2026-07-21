@@ -1,6 +1,6 @@
 ---
 title: "Guna Culture: What to Know Before You Visit San Blas"
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/mujeres-guna-molas-celebracion.webp"
 relatedGuideSlugs: ["history-of-san-blas", "about-san-blas", "eco-tourism"]
 relatedIslandSlugs: ["nugnudub", "el-porvenir"]
 seoTitle: "Guna Culture in San Blas — A Respectful Traveler's Guide"

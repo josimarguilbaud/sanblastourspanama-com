@@ -1,7 +1,7 @@
 ---
 title: "15 Fun and Surprising Facts About San Blas"
 excerpt: "A self-governed nation within Panama, a Netflix filming location, and a starfish sandbar — here are 15 real facts about San Blas that surprise most first-time visitors."
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-04-13
 seoTitle: "15 Surprising Facts About San Blas Islands, Panama"
 seoDescription: "Real, surprising facts about San Blas, Panama: the Guna Revolution of 1925, a Netflix filming location, no ATMs anywhere, and more."

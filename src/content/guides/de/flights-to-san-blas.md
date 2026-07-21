@@ -1,6 +1,6 @@
 ---
 title: "Flüge nach San Blas: Ist Fliegen eine Option?"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "Flüge nach San Blas, Panama — Was Sie Wissen Sollten"

@@ -2,7 +2,7 @@
 name: "Passeio VIP de Um Dia"
 category: "day-tour"
 tagline: "Nosso passeio mais reservado — mergulho livre, comunidade Guna e mais"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 gallery: []
 duration: "Dia inteiro (~14 horas porta a porta)"
 bestFor: ["mais-popular", "mergulho-livre", "cultura-guna", "casais"]

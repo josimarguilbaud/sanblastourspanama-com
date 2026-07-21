@@ -1,7 +1,7 @@
 ---
 title: "What You'll Actually Eat in San Blas: A Real Guide to Guna Food"
 excerpt: "Fresh fish, coconut rice, and plantains — here's an honest look at what meals in San Blas actually look like, and where the real limits are."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-04-09
 seoTitle: "San Blas Food Guide — What You'll Actually Eat (Guna Cuisine)"
 seoDescription: "What meals in San Blas actually include: fresh fish, coconut rice, plantains, and traditional Guna dinners — plus an honest look at vegetarian, vegan, and dietary options."

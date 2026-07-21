@@ -2,7 +2,7 @@
 name: "Escapada Romântica"
 tagline: "Uma noite overwater construída em torno de vocês dois"
 duration: "2 dias / 1 noite"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/pina-colada-atardecer-san-blas.webp"
 highlights: ["Cabana overwater", "Momento em lancha privada", "Pôr do sol + nascer do sol", "Jantar Guna para dois"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]

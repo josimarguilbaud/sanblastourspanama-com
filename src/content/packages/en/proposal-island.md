@@ -2,7 +2,7 @@
 name: "Marriage Proposal Island"
 tagline: "One private island moment, arranged around the actual moment"
 duration: "2 days / 1 night"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/flores-playa-san-blas.webp"
 highlights: ["Private island moment window", "Overwater or beachfront cabin", "Timed for sunset light", "Discreet — no staged photographer unless you ask"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]

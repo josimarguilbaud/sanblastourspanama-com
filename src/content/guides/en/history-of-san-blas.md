@@ -1,6 +1,6 @@
 ---
 title: "History of San Blas: The Guna Revolution and Guna Yala's Autonomy"
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/mujer-guna-cabana-tradicional.webp"
 relatedGuideSlugs: ["guna-culture", "about-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "History of San Blas — The 1925 Guna Revolution Explained"

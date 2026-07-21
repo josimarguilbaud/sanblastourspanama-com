@@ -1,7 +1,7 @@
 ---
 title: "Is San Blas Safe? A Practical Answer for First-Time Visitors"
 excerpt: "Boats, remote islands, no cell signal on some of them — a fair question. Here's what actually matters for safety in San Blas."
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-07-04
 seoTitle: "Is San Blas Safe to Visit? Boats, Islands & Practical Safety Info"
 seoDescription: "A practical look at safety in San Blas, Panama: boat safety, medical access, theft risk, and who the trip isn't recommended for."

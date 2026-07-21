@@ -2,7 +2,7 @@
 name: "Le Rêve du Photographe"
 tagline: "L'heure dorée plutôt que cocher chaque île"
 duration: "2 jours / 1 nuit"
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 highlights: ["Accès au lever et coucher de soleil", "Cayos reculés et dégagés", "Arrêts flexibles", "Cabane overwater ou en bord de plage"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "isla-pelicano"]

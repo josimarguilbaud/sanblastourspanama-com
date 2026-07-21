@@ -1,7 +1,7 @@
 ---
 title: "San Blas Faz Parte do Tampão do Darién? Esclarecendo uma Confusão Comum"
 excerpt: "San Blas e o Tampão do Darién são ambas partes remotas do Panamá perto da Colômbia — mas não são o mesmo lugar, e confundi-los pode afetar como você planeja sua viagem."
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-04-21
 seoTitle: "San Blas é o Tampão do Darién? Não — Aqui a Diferença Real"
 seoDescription: "San Blas (Guna Yala) e o Tampão do Darién são duas regiões separadas do Panamá perto da fronteira colombiana. Aqui o que as distingue e por que ocorre a confusão."

@@ -1,6 +1,6 @@
 ---
 title: "Meilleure Période pour Visiter San Blas"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
 relatedIslandSlugs: ["piscina-natural", "chichime"]
 seoTitle: "Meilleure Période pour Visiter les Îles de San Blas — Météo & Saisons"

@@ -1,7 +1,7 @@
 ---
 name: "Isla Nugnudub"
 sector: "Isla Perro"
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/playa-bote-tradicional-san-blas.webp"
 gallery: []
 bestFor: ["fuera-de-ruta", "cultura-guna", "relax"]
 isInhabited: true

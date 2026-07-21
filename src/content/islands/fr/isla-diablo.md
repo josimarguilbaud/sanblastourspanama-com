@@ -1,7 +1,7 @@
 ---
 name: "Isla Diablo (Devil's Island)"
 sector: "Isla Perro"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 gallery: []
 bestFor: ["overnight-stay", "snorkeling", "families", "budget"]
 isInhabited: true

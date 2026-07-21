@@ -15,9 +15,9 @@ const communityIslands = allIslands
   }));
 
 const deeperGuides = [
-  { href: '/es/guides/history-of-san-blas', heroImage: 'https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp', title: 'Historia de San Blas: La Revolución Guna de 1925' },
-  { href: '/es/guides/guna-culture', heroImage: 'https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp', title: 'Cultura Guna: Guía Respetuosa para Viajeros' },
-  { href: '/es/guides/eco-tourism', heroImage: 'https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp', title: 'Eco-Turismo: Cómo Ayuda tu Visita' },
+  { href: '/es/guides/history-of-san-blas', heroImage: '/img/calle-aldea-guna-yala.webp', title: 'Historia de San Blas: La Revolución Guna de 1925' },
+  { href: '/es/guides/guna-culture', heroImage: '/img/calle-aldea-guna-yala.webp', title: 'Cultura Guna: Guía Respetuosa para Viajeros' },
+  { href: '/es/guides/eco-tourism', heroImage: '/img/isla-turquesa-lanchas-san-blas.webp', title: 'Eco-Turismo: Cómo Ayuda tu Visita' },
 ];
 
 const jsonLd = {
@@ -47,7 +47,7 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">
-    <img src="https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp" alt="Isla comunitaria de Guna Yala" class="h-full w-full object-cover" />
+    <img src="/img/calle-aldea-guna-yala.webp" alt="Isla comunitaria de Guna Yala" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Inicio', href: '/' }, { label: 'Guna Yala' }]} />

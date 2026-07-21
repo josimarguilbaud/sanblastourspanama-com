@@ -1,7 +1,7 @@
 ---
 title: "¿Travesía en Velero, Pasadía, o Charter de Lujo? Cómo Elegir tu Entrada a San Blas"
 excerpt: "Hay tres formas genuinamente distintas de experimentar San Blas — una travesía en velero de varios días, un pasadía o estadía nocturna estándar, y un charter privado de lujo. Aquí cómo elegir."
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/catamaran-atardecer-san-blas.webp"
 publishedAt: 2026-05-19
 seoTitle: "Travesía en Velero vs Pasadía vs Charter Privado de Yate — San Blas Comparado"
 seoDescription: "Tres formas reales de experimentar San Blas: una travesía de varios días entre Cartagena y Panamá, un pasadía o estadía nocturna estándar, o un charter privado de yate de lujo. Cómo se comparan."

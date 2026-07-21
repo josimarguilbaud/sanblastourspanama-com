@@ -1,7 +1,7 @@
 ---
 name: "Limones Cays"
 sector: "Cayos Limones"
-heroImage: "https://sanblastourspty.com/img/island_hopping-2.webp"
+heroImage: "/img/paddle-velero-san-blas.webp"
 gallery: []
 bestFor: ["island-hopping", "snorkeling", "photography"]
 isInhabited: false

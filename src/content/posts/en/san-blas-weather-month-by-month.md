@@ -1,7 +1,7 @@
 ---
 title: "San Blas Weather Month-by-Month: A Real Traveler's Breakdown"
 excerpt: "Dry season and rainy season only tell you so much. Here's a more honest, month-by-month look at what weather actually shapes a San Blas trip."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-15
 seoTitle: "San Blas Weather by Month — Dry Season, Rainy Season, and What to Expect"
 seoDescription: "A month-by-month breakdown of San Blas weather: the December-April dry season, the May-November rainy season, and what actually changes for travelers each way."

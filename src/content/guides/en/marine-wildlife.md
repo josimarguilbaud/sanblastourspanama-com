@@ -1,6 +1,6 @@
 ---
 title: "Marine Life & Wildlife of San Blas"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]
 seoTitle: "San Blas Marine Life & Wildlife — What You'll See Snorkeling"

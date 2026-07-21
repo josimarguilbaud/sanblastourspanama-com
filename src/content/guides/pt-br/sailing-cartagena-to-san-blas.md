@@ -1,6 +1,6 @@
 ---
 title: "Navegando de Cartagena a San Blas: O Que Saber"
-heroImage: "https://sanblastourspty.com/img/island_hopping-2.webp"
+heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
 relatedIslandSlugs: ["cayos-holandeses"]
 seoTitle: "Cartagena a San Blas de Barco — Rota de Navegação Explicada"

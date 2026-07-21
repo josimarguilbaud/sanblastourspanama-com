@@ -1,7 +1,7 @@
 ---
 title: "Best San Blas Photography Spots (And When to Shoot Them)"
 excerpt: "The Natural Pool at midday and Cayos Holandeses at sunrise aren't interchangeable — here's a real, spot-by-spot guide to shooting San Blas well."
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-05-27
 seoTitle: "Best Photography Spots in San Blas — A Real Shot-by-Shot Guide"
 seoDescription: "Where and when to shoot San Blas: the Natural Pool's starfish sandbar, Chichime's postcard beaches, Cayos Holandeses at sunrise, and more — a practical photography guide."

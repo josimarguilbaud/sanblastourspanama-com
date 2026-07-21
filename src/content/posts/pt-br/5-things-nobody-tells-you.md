@@ -1,7 +1,7 @@
 ---
 title: "5 Coisas que Ninguém Te Conta Antes de Visitar San Blas"
 excerpt: "A lista de bagagem cobre protetor solar e maiô. Ela não cobre estas cinco coisas que realmente surpreendem os visitantes de primeira viagem."
-heroImage: "https://sanblastourspty.com/img/isla-aguja-san-blas-panama.webp"
+heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-06-30
 seoTitle: "5 Coisas que Ninguém Te Conta Antes de Visitar as Ilhas de San Blas"
 seoDescription: "Dicas práticas e pouco conhecidas para as Ilhas de San Blas: dinheiro, fauna, timing, e outras coisas que costumam surpreender visitantes de primeira viagem."

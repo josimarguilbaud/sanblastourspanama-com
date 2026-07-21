@@ -1,7 +1,7 @@
 ---
 title: "Lo Que Realmente Comerás en San Blas: Una Guía Real de la Comida Guna"
 excerpt: "Pescado fresco, arroz con coco, y plátanos — aquí una mirada honesta a cómo son realmente las comidas en San Blas, y dónde están los límites reales."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-04-09
 seoTitle: "Guía de Comida en San Blas — Lo Que Realmente Comerás (Cocina Guna)"
 seoDescription: "Lo que realmente incluyen las comidas en San Blas: pescado fresco, arroz con coco, plátanos, y cenas Guna tradicionales — más una mirada honesta a opciones vegetarianas, veganas y alimenticias."

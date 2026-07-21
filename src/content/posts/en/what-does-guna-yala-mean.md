@@ -1,7 +1,7 @@
 ---
 title: "What Does 'Guna Yala' Actually Mean?"
 excerpt: "The name behind 'San Blas' has a real, specific meaning in the Guna language — and understanding it tells you something the tourist name never does."
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-05-07
 seoTitle: "What Does Guna Yala Mean? The Name Behind San Blas Explained"
 seoDescription: "Guna Yala translates roughly to 'Guna land' or 'Guna territory' in the Guna language — the region's own name for itself, distinct from the Spanish colonial name San Blas."

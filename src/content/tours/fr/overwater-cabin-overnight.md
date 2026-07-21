@@ -2,7 +2,7 @@
 name: "Cabaña Overwater"
 category: "overnight"
 tagline: "Notre séjour premium — une cabane privée construite au-dessus de l'eau"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/muelle-isla-san-blas.webp"
 gallery: []
 duration: "1 à 3 nuits (max. 3 par réservation)"
 bestFor: ["premium", "honeymoon", "photography", "couples"]

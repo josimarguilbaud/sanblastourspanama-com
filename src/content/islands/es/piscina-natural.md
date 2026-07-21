@@ -1,7 +1,7 @@
 ---
 name: "Piscina Natural"
 sector: "San Blas Central"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/banco-arena-san-blas.webp"
 gallery: []
 bestFor: ["familias", "vadear", "fotografia", "estrellas-de-mar"]
 isInhabited: false

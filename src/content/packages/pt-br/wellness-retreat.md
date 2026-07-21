@@ -2,7 +2,7 @@
 name: "Retiro de Bem-Estar e Silêncio"
 tagline: "Uma base tranquila em ilha para sua própria prática — não um retiro com equipe"
 duration: "3 dias / 2 noites"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/relax-playa-san-blas.webp"
 highlights: ["Ilha tranquila, pouco tráfego", "Praia e deck abertos", "Dias flexíveis, sem horário fixo", "Traga sua própria prática"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]

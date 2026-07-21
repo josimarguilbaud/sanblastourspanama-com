@@ -2,7 +2,7 @@
 name: "Remote-Work-Inselauszeit"
 tagline: "Ein ehrlicher Blick auf Arbeiten von San Blas aus — schwerer als die Fotos vermuten lassen"
 duration: "4 Tage / 3 Nächte (maximal)"
-heroImage: "https://sanblastourspty.com/img/isla-aguja-san-blas-panama.webp"
+heroImage: "/img/desayuno-velero-san-blas.webp"
 highlights: ["Realistisches Gespräch über Konnektivität zuerst", "Flexibler Tagesplan um Arbeitszeiten", "Ruhigere Inseln mit weniger Bootslärm", "Mehrtägiger Aufenthalt, um den Aufwand zu rechtfertigen"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["isla-aguja", "nugnudub"]

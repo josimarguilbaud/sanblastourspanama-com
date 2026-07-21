@@ -2,7 +2,7 @@
 name: "Tour Clásico"
 category: "day-tour"
 tagline: "El día esencial de San Blas, hecho simple y bien"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 gallery: []
 duration: "Día completo (~14 horas puerta a puerta)"
 bestFor: ["primera-vez", "economico", "familias"]

@@ -2,7 +2,7 @@
 name: "Cabaña Privada Deluxe"
 category: "overnight"
 tagline: "Mehr Komfort, weiterhin privat, weiterhin am Strand"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/columpios-cabanas-san-blas.webp"
 gallery: []
 duration: "1–3 Nächte (max. 3 pro Buchung)"
 bestFor: ["couples", "comfort", "honeymoon"]

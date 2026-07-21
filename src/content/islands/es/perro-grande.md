@@ -1,7 +1,7 @@
 ---
 name: "Isla Perro Grande"
 sector: "Isla Perro"
-heroImage: "https://sanblastourspty.com/img/viajes-sanblas-panama.webp"
+heroImage: "/img/viajera-arbol-san-blas.webp"
 gallery: []
 bestFor: ["hospedaje", "natacion", "playas-amplias"]
 isInhabited: true

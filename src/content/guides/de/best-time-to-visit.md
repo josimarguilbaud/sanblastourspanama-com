@@ -1,6 +1,6 @@
 ---
 title: "Beste Reisezeit für San Blas"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
 relatedIslandSlugs: ["piscina-natural", "chichime"]
 seoTitle: "Beste Reisezeit für die San-Blas-Inseln, Panama — Wetter & Jahreszeiten"

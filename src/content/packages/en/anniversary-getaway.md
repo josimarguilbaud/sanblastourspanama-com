@@ -2,7 +2,7 @@
 name: "Anniversary Island Getaway"
 tagline: "A second (or tenth) honeymoon, without the honeymoon markup"
 duration: "3 days / 2 nights"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/pareja-aguas-turquesas-san-blas.webp"
 highlights: ["Overwater or deluxe private cabin", "One flexible free day", "Revisit-friendly, low-rush pace", "Island choice based on what you loved (or missed) before"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["isla-diablo", "perro-grande"]

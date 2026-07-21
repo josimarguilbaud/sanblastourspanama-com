@@ -2,7 +2,7 @@
 name: "Classic Day Tour"
 category: "day-tour"
 tagline: "The essential San Blas day, done simply and right"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 gallery: []
 duration: "Full day (~14 hours door-to-door)"
 bestFor: ["first-timers", "budget-conscious", "families"]

@@ -1,7 +1,7 @@
 ---
 title: "El Congreso General Guna: Cómo se Gobierna Realmente Guna Yala"
 excerpt: "Guna Yala no es manejada por el gobierno provincial de Panamá — tiene su propia estructura política, construida sobre la autonomía ganada en 1925. Aquí cómo funciona realmente."
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-05-11
 seoTitle: "El Congreso General Guna — Autogobierno en San Blas Explicado"
 seoDescription: "Guna Yala se gobierna a través de su propia estructura política, centrada en el Congreso General Guna, separada de la administración provincial de Panamá — resultado directo de la Revolución Guna de 1925."

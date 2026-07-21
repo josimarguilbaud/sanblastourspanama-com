@@ -1,7 +1,7 @@
 ---
 title: "Isla Perro vs Perro Chico vs Perro Grande: San Blas' Verwirrende Inselnamen Gelöst"
 excerpt: "Drei verschiedene Inseln mit 'Perro' im Namen verwirren fast jeden Erstbesucher, der eine San-Blas-Reise plant. So unterscheiden Sie sie tatsächlich."
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-05-03
 seoTitle: "Perro Chico vs Perro Grande vs Isla Perro — San-Blas-Inseln Erklärt"
 seoDescription: "San Blas hat mehrere Inseln mit 'Perro' im Namen, und es ist eine genuin häufige Verwirrungsquelle. So hängen Perro Chico, Perro Grande, und die weitere Isla-Perro-Gruppe tatsächlich zusammen."

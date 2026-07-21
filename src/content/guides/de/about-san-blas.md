@@ -1,6 +1,6 @@
 ---
 title: "Über San Blas: Der Komplette Guide zu Guna Yala, Panama"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 relatedGuideSlugs: ["history-of-san-blas", "guna-culture", "how-to-get-to-san-blas"]
 relatedIslandSlugs: ["chichime", "el-porvenir"]
 seoTitle: "Über die San-Blas-Inseln — Guna Yala, Panama Erklärt"

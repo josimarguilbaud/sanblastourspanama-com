@@ -1,6 +1,6 @@
 ---
 title: "Les Meilleures Plages de San Blas"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/playa-caminata-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "best-time-to-visit"]
 relatedIslandSlugs: ["perro-grande", "isla-aguja", "piscina-natural"]
 seoTitle: "Meilleures Plages des Îles de San Blas — Un Guide Sélectionné"

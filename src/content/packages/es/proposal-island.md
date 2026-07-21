@@ -2,7 +2,7 @@
 name: "Propuesta de Matrimonio en Isla Privada"
 tagline: "Un momento privado en isla, armado alrededor del momento real"
 duration: "2 días / 1 noche"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/flores-playa-san-blas.webp"
 highlights: ["Ventana de momento privado en isla", "Cabaña overwater o frente al mar", "Sincronizado con la luz del atardecer", "Discreto — sin fotógrafo armado a menos que lo pidas"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]

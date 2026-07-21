@@ -1,7 +1,7 @@
 ---
 title: "Segeltour, Tagestour, oder Luxus-Charter? Wie Sie Ihren Weg nach San Blas Wählen"
 excerpt: "Es gibt drei genuin unterschiedliche Wege, San Blas zu erleben — eine mehrtägige Segelüberfahrt, eine Standard-Tagestour oder Übernachtung, und einen privaten Luxus-Charter. Hier, wie Sie wählen."
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/catamaran-atardecer-san-blas.webp"
 publishedAt: 2026-05-19
 seoTitle: "Segelüberfahrt vs Tagestour vs Privater Yacht-Charter — San Blas im Vergleich"
 seoDescription: "Drei echte Wege, San Blas zu erleben: eine mehrtägige Cartagena-nach-Panama-Segelüberfahrt, eine Standard-Tagestour oder Übernachtung, oder ein vollständig privater Luxus-Yacht-Charter."

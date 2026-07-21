@@ -1,6 +1,6 @@
 ---
 title: "Santé, Sécurité et Vaccinations pour San Blas"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: []
 seoTitle: "Santé et Vaccinations San Blas — À Vérifier Avant de Partir"

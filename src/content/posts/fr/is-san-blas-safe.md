@@ -1,7 +1,7 @@
 ---
 title: "San Blas Est-il Sûr ? Une Réponse Pratique pour les Primo-Visiteurs"
 excerpt: "Bateaux, îles reculées, pas de réseau sur certaines — une question légitime. Voici ce qui compte vraiment pour la sécurité à San Blas."
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-07-04
 seoTitle: "San Blas Est-il Sûr à Visiter ? Bateaux, Îles et Infos Pratiques de Sécurité"
 seoDescription: "Un regard pratique sur la sécurité à San Blas, Panama : sécurité des bateaux, accès médical, risque de vol, et pour qui le voyage n'est pas recommandé."

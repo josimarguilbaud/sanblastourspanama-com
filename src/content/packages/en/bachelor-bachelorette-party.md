@@ -2,7 +2,7 @@
 name: "Bachelor(ette) Island Party"
 tagline: "A group celebration across islands"
 duration: "2 days / 1 night"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Group-size cabin", "Multi-island hopping", "Snorkel over the shipwreck", "Beach time built in"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]

@@ -2,7 +2,7 @@
 name: "Advanced Snorkel & Reef Expedition"
 tagline: "The farthest reefs, for a group that's done San Blas's basics before"
 duration: "2 days / 1 night"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Dutch Cays' remote reef", "Shipwreck snorkel included", "Smaller group, more water time", "Early departure for calmer water"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]

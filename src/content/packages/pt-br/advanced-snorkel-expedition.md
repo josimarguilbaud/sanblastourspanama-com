@@ -2,7 +2,7 @@
 name: "Expedição Avançada de Snorkel e Recife"
 tagline: "Os recifes mais distantes, para um grupo que já conhece o básico"
 duration: "2 dias / 1 noite"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Recife remoto de Cayos Holandeses", "Snorkel no naufrágio incluído", "Grupo menor, mais tempo na água", "Saída mais cedo para condições mais calmas"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]

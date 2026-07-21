@@ -1,7 +1,7 @@
 ---
 title: "Les Molas Expliquées : La Vraie Histoire Derrière l'Art Textile le Plus Célèbre de San Blas"
 excerpt: "Les molas ne sont pas des souvenirs faits pour les touristes — c'est une forme d'art Guna vivante, cousue main en couches et traditionnellement portée comme vêtement. Voici comment elles sont réellement faites."
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-04-05
 seoTitle: "Qu'est-ce qu'une Mola ? L'Art Textile Guna de San Blas Expliqué"
 seoDescription: "Les molas sont des panneaux textiles cousus main, multicouches, fabriqués par des femmes Guna à San Blas, Panama — traditionnellement portés comme vêtements, pas faits pour les touristes."

@@ -1,7 +1,7 @@
 ---
 title: "Is San Blas Part of the Darién Gap? Clearing Up a Common Mix-Up"
 excerpt: "San Blas and the Darién Gap are both remote parts of Panama near Colombia — but they're not the same place, and confusing them can affect how you plan your trip."
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-04-21
 seoTitle: "Is San Blas the Darién Gap? No — Here's the Real Difference"
 seoDescription: "San Blas (Guna Yala) and the Darién Gap are two separate regions of Panama near the Colombian border. Here's what distinguishes them and why the mix-up happens."

@@ -2,7 +2,7 @@
 name: "Wellness & Quiet Retreat"
 tagline: "A quiet island base for your own practice — not a staffed retreat"
 duration: "3 days / 2 nights"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/relax-playa-san-blas.webp"
 highlights: ["Quiet, low-traffic island", "Open beach and deck space", "Flexible, unscheduled days", "Bring-your-own-practice setup"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]

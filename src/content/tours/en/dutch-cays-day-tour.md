@@ -2,7 +2,7 @@
 name: "Dutch Cays Tour (Cayos Holandeses)"
 category: "day-tour"
 tagline: "The farthest, most pristine reef in San Blas — for serious snorkelers"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 gallery: []
 duration: "Full day, earlier departure (~4:30 AM pickup)"
 bestFor: ["premium", "snorkeling", "reef-quality"]

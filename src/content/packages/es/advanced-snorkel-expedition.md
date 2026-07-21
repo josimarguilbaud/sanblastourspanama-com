@@ -2,7 +2,7 @@
 name: "Expedición Avanzada de Snorkel y Arrecife"
 tagline: "Los arrecifes más lejanos, para un grupo que ya conoce lo básico de San Blas"
 duration: "2 días / 1 noche"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Arrecife remoto de Cayos Holandeses", "Snorkel en el barco hundido incluido", "Grupo más pequeño, más tiempo en el agua", "Salida temprana para aguas más calmas"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]

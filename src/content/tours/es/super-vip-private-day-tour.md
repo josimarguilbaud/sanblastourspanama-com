@@ -2,7 +2,7 @@
 name: "Tour Super VIP Privado"
 category: "day-tour"
 tagline: "Auto y lancha 100% privados, itinerario flexible, precio fijo por grupo"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/paddle-aguas-cristalinas-san-blas.webp"
 gallery: []
 duration: "Día completo, horario flexible"
 bestFor: ["privado", "flexible", "grupos", "ocasiones-especiales"]

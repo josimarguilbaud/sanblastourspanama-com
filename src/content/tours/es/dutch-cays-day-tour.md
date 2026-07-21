@@ -2,7 +2,7 @@
 name: "Tour Cayos Holandeses"
 category: "day-tour"
 tagline: "El arrecife más lejano y prístino de San Blas — para snorkelistas serios"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 gallery: []
 duration: "Día completo, salida más temprana (~4:30 AM recogida)"
 bestFor: ["premium", "snorkel", "calidad-de-arrecife"]

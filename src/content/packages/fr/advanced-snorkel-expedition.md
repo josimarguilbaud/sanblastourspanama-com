@@ -2,7 +2,7 @@
 name: "Expédition Snorkeling & Récif Avancée"
 tagline: "Les récifs les plus éloignés, pour un groupe déjà familier avec les bases"
 duration: "2 jours / 1 nuit"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Récif reculé des Dutch Cays", "Snorkeling sur l'épave inclus", "Groupe plus petit, plus de temps dans l'eau", "Départ plus matinal pour des conditions plus calmes"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]

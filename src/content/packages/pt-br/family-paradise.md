@@ -2,7 +2,7 @@
 name: "Paraíso Familiar"
 tagline: "Ilhas mais calmas e um ritmo que funciona com crianças"
 duration: "3 dias / 2 noites"
-heroImage: "https://sanblastourspty.com/img/isla-aguja-san-blas-panama.webp"
+heroImage: "/img/familia-aguas-tranquilas-san-blas.webp"
 highlights: ["Traslados mais curtos", "Ilhas de águas calmas", "Cabana familiar privativa", "Ritmo diário flexível"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "classic-day-tour"]
 relatedIslandSlugs: ["isla-aguja", "perro-grande"]

@@ -1,7 +1,7 @@
 ---
 title: "The Guna General Congress: How Guna Yala Actually Governs Itself"
 excerpt: "Guna Yala isn't run by Panama's provincial government — it has its own political structure, built on the autonomy won in 1925. Here's how it actually works."
-heroImage: "https://sanblastourspty.com/img/isla-nugnudub-san-blas-panama.webp"
+heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-05-11
 seoTitle: "The Guna General Congress — Self-Government in San Blas Explained"
 seoDescription: "Guna Yala is governed through its own political structure, centered on the Guna General Congress, separate from Panama's provincial administration — a direct result of the 1925 Guna Revolution."

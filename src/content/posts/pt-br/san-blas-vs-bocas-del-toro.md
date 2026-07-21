@@ -1,7 +1,7 @@
 ---
 title: "San Blas vs Bocas del Toro: Qual Viagem de Ilhas do Panamá Você Deveria Reservar?"
 excerpt: "Ambos são os escapes de ilha mais conhecidos do Panamá, mas são viagens genuinamente diferentes. Aqui uma comparação honesta para ajudar você a escolher — ou decidir fazer ambos."
-heroImage: "https://sanblastourspty.com/img/isla-aguja-san-blas-panama.webp"
+heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-04-17
 seoTitle: "San Blas vs Bocas del Toro — O Que Visitar no Panamá?"
 seoDescription: "San Blas e Bocas del Toro são os dois destinos de ilha mais conhecidos do Panamá, mas são viagens muito diferentes. Uma comparação honesta de acesso, ambiente, e para que cada um é feito."

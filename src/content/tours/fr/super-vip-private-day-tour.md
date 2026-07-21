@@ -2,7 +2,7 @@
 name: "Super VIP Private Day Tour"
 category: "day-tour"
 tagline: "Voiture et bateau 100% privés, itinéraire flexible, prix de groupe fixe"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/paddle-aguas-cristalinas-san-blas.webp"
 gallery: []
 duration: "Journée complète, horaire flexible"
 bestFor: ["private", "flexible", "groups", "special-occasions"]

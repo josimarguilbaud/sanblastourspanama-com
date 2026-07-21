@@ -1,7 +1,7 @@
 ---
 name: "Isla Diablo"
 sector: "Isla Perro"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 gallery: []
 bestFor: ["hospedaje", "snorkel", "familias", "economico"]
 isInhabited: true

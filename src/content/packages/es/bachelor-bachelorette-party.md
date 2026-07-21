@@ -2,7 +2,7 @@
 name: "Despedida de Soltero/a en Isla"
 tagline: "Una celebración grupal entre islas"
 duration: "2 días / 1 noche"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Cabaña para el grupo", "Island-hopping", "Snorkel en el barco hundido", "Tiempo de playa incluido"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]

@@ -1,7 +1,7 @@
 ---
 name: "El Porvenir"
 sector: "Guna Yala Occidental"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/cayuco-playa-san-blas.webp"
 gallery: []
 bestFor: ["gobierno-guna", "punto-de-entrada"]
 isInhabited: true

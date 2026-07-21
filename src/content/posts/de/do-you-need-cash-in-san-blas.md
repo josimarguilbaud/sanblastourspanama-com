@@ -1,7 +1,7 @@
 ---
 title: "Braucht Man Bargeld in San Blas? Die Vollständige Antwort"
 excerpt: "Es gibt nirgendwo in Guna Yala Geldautomaten, und Karten werden auf den Inseln nicht akzeptiert. Hier genau, wie viel Bargeld Sie mitbringen sollten und wofür es ist."
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-29
 seoTitle: "Bargeld in San Blas — Geldautomaten, Karten, und die Gemeinschaftssteuer Erklärt"
 seoDescription: "Es gibt keine Geldautomaten in Guna Yala und Karten werden auf den Inseln nicht akzeptiert. Hier genau, wofür Sie Bargeld in San Blas brauchen, und wie viel Sie mitbringen sollten."

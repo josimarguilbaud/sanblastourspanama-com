@@ -1,6 +1,6 @@
 ---
 title: "Salud, Seguridad y Vacunas para San Blas"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: []
 seoTitle: "Salud y Vacunas para San Blas — Qué Revisar Antes de Ir"

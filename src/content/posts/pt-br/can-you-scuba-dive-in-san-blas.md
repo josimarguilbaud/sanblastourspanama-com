@@ -1,7 +1,7 @@
 ---
 title: "Dá Para Mergulhar com Cilindro em San Blas? A Resposta Honesta"
 excerpt: "San Blas é feito para snorkel, não mergulho com cilindro. Aqui a resposta direta sobre o que realmente está disponível, e por quê."
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-04-25
 seoTitle: "Mergulho com Cilindro em San Blas — Está Disponível? A Resposta Real"
 seoDescription: "Passeios padrão de San Blas não incluem mergulho com cilindro. Aqui por que o arquipélago é feito para snorkel em vez disso, e o que esperar realisticamente."

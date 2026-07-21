@@ -1,7 +1,7 @@
 ---
 name: "Isla Aguja"
 sector: "Cayos perto de Cartí"
-heroImage: "https://sanblastourspty.com/img/isla-aguja-san-blas-panama.webp"
+heroImage: "/img/islote-cayuco-san-blas.webp"
 gallery: []
 bestFor: ["families", "calm-water", "short-transfer"]
 isInhabited: false

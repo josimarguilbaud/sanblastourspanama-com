@@ -1,6 +1,6 @@
 ---
 title: "San Blas Overnight Stays — 5 Cabin Types Explained"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
 seoTitle: "San Blas Overnight Stay — Cabin Types, Itineraries & What's Included"

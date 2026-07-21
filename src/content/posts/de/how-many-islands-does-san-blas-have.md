@@ -1,7 +1,7 @@
 ---
 title: "Wie Viele Inseln Hat San Blas Wirklich?"
 excerpt: "Sie werden 365, 378, und über 400 als 'die' Zahl finden. Hier ist, warum die Zählung variiert und was die ehrliche Antwort tatsächlich ist."
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-01
 seoTitle: "Wie Viele Inseln Hat San Blas? Die Echte Zahl Erklärt"
 seoDescription: "San Blas hat zwischen 365 und über 378 Inseln und Cays, je nachdem wie kleine Sandbänke gezählt werden — und nur etwa 40-50 sind bewohnt. Hier die ehrliche Aufschlüsselung."

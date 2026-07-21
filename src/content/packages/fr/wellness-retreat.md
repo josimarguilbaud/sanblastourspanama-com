@@ -2,7 +2,7 @@
 name: "Retraite Bien-Être & Silence"
 tagline: "Une base insulaire tranquille pour votre propre pratique — pas une retraite avec personnel"
 duration: "3 jours / 2 nuits"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/relax-playa-san-blas.webp"
 highlights: ["Île tranquille, peu de trafic", "Plage et terrasse ouvertes", "Journées flexibles, sans horaire fixe", "Apportez votre propre pratique"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]

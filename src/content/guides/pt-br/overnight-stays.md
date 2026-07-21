@@ -1,6 +1,6 @@
 ---
 title: "Estadias Noturnas em San Blas — 5 Tipos de Cabana Explicados"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
 seoTitle: "Estadia Noturna San Blas — Tipos de Cabana, Roteiros e Inclusões"

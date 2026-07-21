@@ -2,7 +2,7 @@
 name: "Desintoxicação Digital de Vários Dias"
 tagline: "Tempo de ilha sem pressa, no seu ritmo"
 duration: "4 dias / 3 noites (máximo)"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/hamaca-palmeras-san-blas.webp"
 highlights: ["Sem roteiro diário fixo", "Um dia completamente livre", "Tempo de caiaque e stand-up paddle", "Zero wifi, de propósito"]
 relatedTourSlugs: ["camping-under-stars-overnight", "cabana-privada-deluxe-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]

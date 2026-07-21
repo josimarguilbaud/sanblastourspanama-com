@@ -1,7 +1,7 @@
 ---
 title: "5 Dinge, Die Ihnen Niemand Vor Ihrem Besuch in San Blas Sagt"
 excerpt: "Die Packliste deckt Sonnencreme und Badeanzug ab. Sie deckt nicht diese fünf Dinge ab, die Erstbesucher tatsächlich überraschen."
-heroImage: "https://sanblastourspty.com/img/isla-aguja-san-blas-panama.webp"
+heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-06-30
 seoTitle: "5 Dinge, Die Ihnen Niemand Vor dem Besuch der San-Blas-Inseln Sagt"
 seoDescription: "Praktische, wenig bekannte Tipps für die San-Blas-Inseln: Bargeld, Tierwelt, Timing, und andere Dinge, die Erstbesucher meist überraschen."

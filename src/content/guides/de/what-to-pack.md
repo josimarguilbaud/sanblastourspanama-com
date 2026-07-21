@@ -1,6 +1,6 @@
 ---
 title: "Packliste für San Blas"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
 relatedIslandSlugs: []
 seoTitle: "San-Blas-Packliste — Was für Tagestour oder Übernachtung Mitzubringen Ist"

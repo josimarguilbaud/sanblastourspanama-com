@@ -1,7 +1,7 @@
 ---
 name: "Isla Pelícano"
 sector: "Cayos Holandeses"
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 gallery: []
 bestFor: ["fotografia", "snorkel", "tour-premium"]
 isInhabited: false

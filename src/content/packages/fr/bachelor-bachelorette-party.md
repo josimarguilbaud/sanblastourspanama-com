@@ -2,7 +2,7 @@
 name: "Fête d'Enterrement de Vie de Garçon/Fille sur Île"
 tagline: "Une célébration de groupe à travers les îles"
 duration: "2 jours / 1 nuit"
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Cabane pour le groupe", "Island-hopping", "Snorkeling sur l'épave", "Temps de plage inclus"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]

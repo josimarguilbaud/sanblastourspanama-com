@@ -1,7 +1,7 @@
 ---
 title: "¿A Dónde Va Realmente el Impuesto Comunitario de Guna Yala?"
 excerpt: "El impuesto de entrada de $22 que pagas en efectivo no es una tarifa turística genérica. Aquí una mirada honesta a qué es y por qué funciona distinto a un impuesto de destino típico."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-23
 seoTitle: "El Impuesto Comunitario de Guna Yala Explicado — Para Qué Es"
 seoDescription: "El impuesto de entrada comunitario de San Blas ($22 extranjeros / $7 residentes) va directamente a la comarca Guna, no a una junta de turismo genérica — aquí lo que eso realmente significa."

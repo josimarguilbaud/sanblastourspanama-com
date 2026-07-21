@@ -1,7 +1,7 @@
 ---
 name: "Isla Franklin"
 sector: "San Blas"
-heroImage: "https://sanblastourspty.com/img/viajes-sanblas-panama.webp"
+heroImage: "/img/playa-caminata-san-blas.webp"
 gallery: []
 bestFor: ["vegan-friendly", "overnight-stay"]
 isInhabited: true

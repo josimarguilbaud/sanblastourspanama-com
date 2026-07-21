@@ -1,7 +1,7 @@
 ---
 title: "La Météo de San Blas Mois par Mois : Une Vraie Analyse de Voyageur"
 excerpt: "Saison sèche et saison des pluies ne vous en disent que jusqu'à un certain point. Voici un regard plus honnête, mois par mois, sur ce qui façonne réellement un voyage à San Blas."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-15
 seoTitle: "Météo de San Blas par Mois — Saison Sèche, Saison des Pluies, et à Quoi s'Attendre"
 seoDescription: "Une analyse mois par mois de la météo de San Blas : la saison sèche de décembre à avril, la saison des pluies de mai à novembre, et ce qui change réellement pour les voyageurs dans chaque cas."

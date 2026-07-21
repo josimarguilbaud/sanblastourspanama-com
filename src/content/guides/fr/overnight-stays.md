@@ -1,6 +1,6 @@
 ---
 title: "Séjours Nocturnes à San Blas — 5 Types de Cabanes Expliqués"
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
 seoTitle: "Séjour Nocturne San Blas — Types de Cabanes, Itinéraires & Inclusions"

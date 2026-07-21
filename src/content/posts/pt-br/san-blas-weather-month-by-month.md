@@ -1,7 +1,7 @@
 ---
 title: "O Clima de San Blas Mês a Mês: Um Resumo Real de Viajante"
 excerpt: "Estação seca e estação chuvosa só te dizem até certo ponto. Aqui um olhar mais honesto, mês a mês, sobre qual clima realmente molda uma viagem a San Blas."
-heroImage: "https://sanblastourspty.com/img/isla-diablo-san-blas-panama.webp"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-15
 seoTitle: "Clima de San Blas por Mês — Estação Seca, Chuvosa, e o Que Esperar"
 seoDescription: "Um resumo mês a mês do clima de San Blas: a estação seca de dezembro a abril, a estação chuvosa de maio a novembro, e o que realmente muda para os viajantes em cada uma."

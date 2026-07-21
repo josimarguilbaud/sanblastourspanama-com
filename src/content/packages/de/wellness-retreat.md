@@ -2,7 +2,7 @@
 name: "Wellness- & Ruhe-Rückzug"
 tagline: "Eine ruhige Inselbasis für Ihre eigene Praxis — kein Retreat mit Personal"
 duration: "3 Tage / 2 Nächte"
-heroImage: "https://sanblastourspty.com/img/full-day-tour-san-blas-panama.webp"
+heroImage: "/img/relax-playa-san-blas.webp"
 highlights: ["Ruhige Insel, wenig Verkehr", "Offener Strand und Deck", "Flexible, unverplante Tage", "Bringen Sie Ihre eigene Praxis mit"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]

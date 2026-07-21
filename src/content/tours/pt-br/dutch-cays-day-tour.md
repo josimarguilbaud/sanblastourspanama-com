@@ -2,7 +2,7 @@
 name: "Dutch Cays Tour (Cayos Holandeses)"
 category: "day-tour"
 tagline: "O recife mais distante e preservado de San Blas — para snorkelers sérios"
-heroImage: "https://sanblastourspty.com/img/cayos-holandeses-vip-island-hopping.webp"
+heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 gallery: []
 duration: "Dia inteiro, saída mais cedo (~4h30 de busca)"
 bestFor: ["premium", "snorkeling", "reef-quality"]

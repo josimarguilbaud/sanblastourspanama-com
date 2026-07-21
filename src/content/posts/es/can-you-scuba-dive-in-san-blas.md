@@ -1,7 +1,7 @@
 ---
 title: "¿Se Puede Bucear con Tanque en San Blas? La Respuesta Honesta"
 excerpt: "San Blas está construido para snorkel, no para buceo con tanque. Aquí la respuesta directa sobre lo que realmente hay disponible, y por qué."
-heroImage: "https://sanblastourspty.com/img/isla-perrochico-panama.webp"
+heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-04-25
 seoTitle: "Buceo con Tanque en San Blas — ¿Está Disponible? La Respuesta Real"
 seoDescription: "Los tours estándar de San Blas no incluyen buceo con tanque. Aquí por qué el archipiélago está construido para snorkel en su lugar, y qué esperar realistamente."

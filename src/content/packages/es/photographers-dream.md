@@ -2,7 +2,7 @@
 name: "El Sueño del Fotógrafo"
 tagline: "Hora dorada, no marcar cada isla de la lista"
 duration: "2 días / 1 noche"
-heroImage: "https://sanblastourspty.com/img/isla-pelicano-casa-de-papel-netflix-san-blas-panama.webp"
+heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 highlights: ["Acceso a amanecer y atardecer", "Cayos remotos y despejados", "Paradas flexibles", "Cabaña overwater o frente al mar"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "isla-pelicano"]

@@ -1,6 +1,6 @@
 ---
 title: "Comment se Rendre à San Blas Depuis Panama City"
-heroImage: "https://sanblastourspty.com/img/san-blas-tours-panama1.jpg"
+heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "Comment se Rendre aux Îles de San Blas Depuis Panama City"
