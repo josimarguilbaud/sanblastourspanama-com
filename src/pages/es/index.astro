@@ -49,6 +49,19 @@ const faqItems = [
   },
 ];
 
+// Las 4 preguntas de arriba se pintan en la portada pero no se le declaraban
+// a Google. /faq si las declara, y es la portada la que compite. Se marca solo
+// lo que esta en pantalla: el resto de paginas no lleva FAQPage.
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map((item) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: { '@type': 'Answer', text: item.a },
+  })),
+};
+
 ---
 
 <Layout
@@ -56,6 +69,7 @@ const faqItems = [
   description="Más de 30 islas de San Blas explicadas a fondo, cultura Guna real, y reserva directa por WhatsApp con una persona real — sin formularios ni esperas."
   path="/"
   availableLocales={['en', 'es', 'de', 'fr', 'pt-br']}
+  jsonld={faqJsonLd}
 >
   <section class="relative overflow-hidden bg-sand">
     <div class="mx-auto grid max-w-7xl items-center gap-8 px-4 py-14 sm:px-6 lg:grid-cols-2 lg:gap-4 lg:px-8 lg:py-20">

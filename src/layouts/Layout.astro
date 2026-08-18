@@ -11,21 +11,52 @@ interface Props {
   image?: string;
   path?: string;
   availableLocales?: string[];
+  /** Extra JSON-LD for this page (object or array), emitted after the
+   *  sitewide TravelAgency. Only pass markup whose content is VISIBLE on the
+   *  page: Google penalises structured data that describes nothing on screen. */
+  jsonld?: object | object[];
 }
 
-const { title, description, image, path, availableLocales } = Astro.props;
+const { title, description, image, path, availableLocales, jsonld } = Astro.props;
 
 // Sitewide business entity — same on every page so Google has one consistent
 // TravelAgency record rather than only on the homepage.
+//
+// The address / geo / opening-hours triple came back from the static HTML this
+// site replaced (subir-webs/sanblastourspanama/index.html in the chatbot-sanblas
+// repo). The Astro port carried the name, url and phone across and dropped the
+// rest, which is what tells Google this is a real business at a real place with
+// real hours: the signals local results are built on. Same hole the sibling
+// sanblasfull.com had, found on 2026-08-18 while fixing that one.
 const organizationJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'TravelAgency',
   name: 'San Blas Tours Panamá',
   url: 'https://sanblastourspanama.com',
+  image: 'https://sanblastourspanama.com/img/barco-hundido-snorkel-san-blas.webp',
   telephone: '+50764684720',
   areaServed: 'Guna Yala, Panama',
   priceRange: '$$',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Ciudad de Panamá',
+    addressLocality: 'Panamá',
+    addressRegion: 'Panamá',
+    postalCode: '0801',
+    addressCountry: 'PA',
+  },
+  geo: { '@type': 'GeoCoordinates', latitude: 8.9824, longitude: -79.5199 },
+  // Tours leave at 5 AM and get back after dark, so the phone is answered
+  // across that whole window, every day.
+  openingHoursSpecification: {
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+    opens: '06:00',
+    closes: '20:00',
+  },
 };
+
+const ldItems = [organizationJsonLd, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [])];
 ---
 
 <!DOCTYPE html>
@@ -34,7 +65,7 @@ const organizationJsonLd = {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <Seo title={title} description={description} image={image} path={path} availableLocales={availableLocales} />
-    <script type="application/ld+json" set:html={JSON.stringify(organizationJsonLd)} />
+    {ldItems.map((item) => <script type="application/ld+json" set:html={JSON.stringify(item)} />)}
     <script is:inline>
       (function (w, d, s, l, i) {
         w[l] = w[l] || [];
