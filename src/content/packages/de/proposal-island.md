@@ -2,7 +2,7 @@
 name: "Heiratsantrag auf Privater Insel"
 tagline: "Ein privater Inselmoment, um den echten Moment herum geplant"
 duration: "2 Tage / 1 Nacht"
-heroImage: "/img/flores-playa-san-blas.webp"
+heroImage: "/img/veleros-atardecer-san-blas.webp"
 highlights: ["Privates Zeitfenster auf der Insel", "Overwater- oder Strandhütte", "Auf Sonnenuntergangslicht abgestimmt", "Diskret — kein gestellter Fotograf, außer gewünscht"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
