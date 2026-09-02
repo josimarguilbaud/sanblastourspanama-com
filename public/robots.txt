@@ -1,3 +1,51 @@
+# sanblastourspanama.com — la guía del archipiélago.
+#
+# Los rastreadores de IA van declarados uno a uno y no solo por `User-agent: *`.
+# No es que el comodín no baste técnicamente: es que dejarlo implícito hace que
+# nadie sepa si la decisión de dejarlos entrar está tomada o simplemente no se
+# ha pensado. Aquí está tomada, y es que sí: esta web explica el archipiélago,
+# así que le conviene que la citen.
+#
+# Medido el 02/09/2026 en Search Console: la pestaña «Aparición en búsquedas»
+# de esta propiedad dice «Sin datos». Cero resultados enriquecidos y cero
+# apariciones en funciones de IA generativa, en tres meses y 14.900 impresiones.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
 User-agent: *
 Allow: /
 
