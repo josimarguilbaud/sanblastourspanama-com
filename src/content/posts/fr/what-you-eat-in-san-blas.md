@@ -3,8 +3,8 @@ title: "Ce Que Vous Mangerez Vraiment à San Blas : Un Vrai Guide de la Cuisine 
 excerpt: "Poisson frais, riz au coco, et plantains — voici un regard honnête sur ce à quoi ressemblent réellement les repas à San Blas, et où se trouvent les vraies limites."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-04-09
-seoTitle: "Guide de la Nourriture à San Blas — Ce que Vous Mangerez Vraiment (Cuisine Guna)"
-seoDescription: "Ce que les repas à San Blas incluent réellement : poisson frais, riz au coco, plantains, et dîners Guna traditionnels — plus un regard honnête sur les options végétariennes, véganes et alimentaires."
+seoTitle: "Guide de la Nourriture à San Blas"
+seoDescription: "Ce que les repas à San Blas incluent réellement : poisson frais, riz au coco, plantains."
 ---
 
 **Les repas à San Blas s'articulent autour du poisson frais, du riz au coco, et des plantains, préparés par des familles Guna dans le cadre de votre excursion ou séjour nocturne. Les fruits de mer comme le homard, le crabe, ou le calmar dépendent de ce qui est frais ce jour-là, et les options végétariennes ou véganes existent mais sont limitées — cela vaut la peine de le signaler à l'avance si c'est important pour votre voyage.**

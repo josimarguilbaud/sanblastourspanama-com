@@ -3,8 +3,8 @@ title: "Ist San Blas Sicher? Eine Praktische Antwort für Erstbesucher"
 excerpt: "Boote, abgelegene Inseln, auf manchen kein Handyempfang — eine berechtigte Frage. Hier ist, was für die Sicherheit in San Blas tatsächlich zählt."
 heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-07-04
-seoTitle: "Ist San Blas Sicher zu Besuchen? Boote, Inseln & Praktische Sicherheitsinfos"
-seoDescription: "Ein praktischer Blick auf die Sicherheit in San Blas, Panama: Bootssicherheit, medizinischer Zugang, Diebstahlrisiko, und für wen die Reise nicht empfohlen wird."
+seoTitle: "Ist San Blas Sicher? Boote, Inseln und Praxis"
+seoDescription: "Ein praktischer Blick auf die Sicherheit in San Blas, Panama: Bootssicherheit, medizinischer Zugang, Diebstahlrisiko."
 ---
 
 San Blas wird aus einem ehrlichen Grund öfter danach gefragt als die meisten karibischen Ziele: es ist abgelegen, beinhaltet Bootsfahrten auf offenem Wasser, und es gibt keinen schnellen Weg zurück, sobald man dort ist. Hier ist eine direkte Antwort.

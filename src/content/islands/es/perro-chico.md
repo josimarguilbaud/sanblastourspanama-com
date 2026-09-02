@@ -7,7 +7,7 @@ bestFor: ["snorkel", "barco-hundido", "pasadia"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
 seoTitle: "Isla Perro Chico, San Blas — Snorkel en el Barco Hundido"
-seoDescription: "Perro Chico es la parada de snorkel más conocida de San Blas, con un arrecife de barco hundido poco profundo lleno de peces. Qué esperar y cómo encaja en un pasadía a San Blas."
+seoDescription: "Perro Chico es la parada de snorkel más conocida de San Blas, con un arrecife de barco hundido poco profundo lleno de peces."
 ---
 
 Isla Perro Chico es pequeña — se puede recorrer su orilla caminando en menos de diez minutos — pero destaca por una razón muy concreta: el barco hundido. Una embarcación descansa en aguas poco profundas frente a la isla, convertida hoy en un arrecife artificial cubierto de coral y recorrido por bancos de peces de colores.

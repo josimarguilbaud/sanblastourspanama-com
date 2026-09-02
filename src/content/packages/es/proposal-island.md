@@ -6,8 +6,8 @@ heroImage: "/img/veleros-atardecer-san-blas.webp"
 highlights: ["Ventana de momento privado en isla", "Cabaña overwater o frente al mar", "Sincronizado con la luz del atardecer", "Discreto — sin fotógrafo armado a menos que lo pidas"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
-seoTitle: "Viaje para Propuesta de Matrimonio en San Blas — Momento Privado en Isla"
-seoDescription: "Cómo planear una propuesta de matrimonio en San Blas: cómo armar una ventana privada en una isla más tranquila sincronizada con el atardecer, con cabaña overwater o frente al mar — coordinado con discreción por WhatsApp, sin paquete armado."
+seoTitle: "Viaje para Propuesta de Matrimonio en San Blas"
+seoDescription: "Cómo planear una propuesta de matrimonio en San Blas: cómo armar una ventana privada en una isla más tranquila sincronizada con el atardecer."
 ---
 
 Si estás planeando una propuesta, las dos cosas que realmente importan son el tiempo y la privacidad — qué isla se usa para la foto no importa tanto como asegurarse de que el momento en sí no esté rodeado de otros grupos de tour.

@@ -7,8 +7,8 @@ gallery: []
 duration: "1–3 nights (max 3 per booking)"
 bestFor: ["couples", "comfort", "honeymoon"]
 relatedIslandSlugs: []
-seoTitle: "San Blas Deluxe Cabin Stay (Cabaña Privada Deluxe) — Book Overnight"
-seoDescription: "Cabaña Privada Deluxe offers upgraded comfort in a private San Blas beachfront cabin. See what's included in this overnight stay and message us on WhatsApp."
+seoTitle: "San Blas Deluxe Cabin Stay (Cabaña Privada Deluxe)"
+seoDescription: "Cabaña Privada Deluxe offers upgraded comfort in a private San Blas beachfront cabin."
 ---
 
 Same private beachfront setting as our Classic cabin, with a genuine step up in comfort — the choice for travelers who want privacy without compromising on how the night actually feels.

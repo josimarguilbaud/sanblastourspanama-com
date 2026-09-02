@@ -3,7 +3,7 @@ title: "Séjours Nocturnes à San Blas — 5 Types de Cabanes Expliqués"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "Séjour Nocturne San Blas — Types de Cabanes, Itinéraires & Inclusions"
+seoTitle: "Séjour Nocturne San Blas"
 seoDescription: "Vous envisagez de dormir à San Blas ? Comparez les 5 types de cabanes, ce qui est inclus, et des exemples d'itinéraires de 2 à 4 jours."
 ---
 

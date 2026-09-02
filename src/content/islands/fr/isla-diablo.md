@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["overnight-stay", "snorkeling", "families", "budget"]
 isInhabited: true
 relatedTourKeys: ["day_tour_isla_diablo"]
-seoTitle: "Isla Diablo, San Blas — Cabanes Guna, Volleyball & Snorkeling"
+seoTitle: "Isla Diablo, San Blas"
 seoDescription: "Isla Diablo (l'île du Diable) est une île de San Blas familiale près d'Isla Perro, connue pour ses cabanes gérées par les Guna et ses eaux calmes."
 ---
 

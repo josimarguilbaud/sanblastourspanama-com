@@ -6,7 +6,7 @@ heroImage: "/img/grupo-grande-isla-san-blas.webp"
 highlights: ["Privates 4x4 + Boot", "Individuelle Inselroute", "Koordinierter Gruppenpreis", "Ein Ansprechpartner"]
 relatedTourSlugs: ["super-vip-private-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["cayos-limones", "el-porvenir"]
-seoTitle: "San-Blas-Gruppentouren — Privates 4x4 + Boot für 10+ Personen"
+seoTitle: "San-Blas-Gruppentouren"
 seoDescription: "Eine San-Blas-Reise für Gruppen, die zu groß für eine geteilte Standardtour sind — privater 4x4- und Bootstransport, individuelle Inselroute."
 ---
 

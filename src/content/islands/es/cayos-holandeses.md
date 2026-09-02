@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["snorkel", "tour-premium", "calidad-de-arrecife"]
 isInhabited: false
 relatedTourKeys: ["day_tour_cayos_holandeses"]
-seoTitle: "Cayos Holandeses, San Blas — El Arrecife Más Lejano y Prístino"
-seoDescription: "Cayos Holandeses es el arrecife más remoto y mejor conservado de San Blas — un tour premium de snorkel con salida más temprana y mínimo de personas. Qué saber antes de reservar."
+seoTitle: "Cayos Holandeses, San Blas"
+seoDescription: "Cayos Holandeses es el arrecife más remoto y mejor conservado de San Blas — un tour premium de snorkel con salida más temprana y mínimo de personas."
 ---
 
 Pregúntale a cualquier guía de San Blas cuál arrecife tiene el mejor snorkel, y Cayos Holandeses es el primero en la lista. Es el punto más lejano que alcanzan la mayoría de los tours — una laguna turquesa protegida por un anillo de coral, ubicada deliberadamente lejos de los cayos más concurridos y cercanos.

@@ -7,8 +7,8 @@ gallery: []
 duration: "1–3 noches (máximo 3 por reserva)"
 bestFor: ["parejas", "privacidad", "gama-media"]
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "Estadía en Cabaña Privada Clásica San Blas — Reserva tu Noche"
-seoDescription: "Cabaña Privada Clásica es la opción sencilla y privada de San Blas frente al mar — tu propio espacio sin el precio premium. Ve qué incluye y escríbenos por WhatsApp."
+seoTitle: "Estadía en Cabaña Privada Clásica San Blas"
+seoDescription: "Cabaña Privada Clásica es la opción sencilla y privada de San Blas frente al mar — tu propio espacio sin el precio premium."
 ---
 
 Para parejas o grupos pequeños que quieren su propio espacio privado sin pagar por la experiencia premium sobre el agua, Cabaña Privada Clásica es el punto justo — sencilla, privada, y justo en la playa.

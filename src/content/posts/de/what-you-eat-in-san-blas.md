@@ -3,8 +3,8 @@ title: "Was Sie in San Blas Wirklich Essen Werden: Ein Echter Guide zur Guna-Kü
 excerpt: "Frischer Fisch, Kokosreis, und Kochbananen — hier ein ehrlicher Blick darauf, wie Mahlzeiten in San Blas tatsächlich aussehen, und wo die echten Grenzen liegen."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-04-09
-seoTitle: "San Blas Essens-Guide — Was Sie Tatsächlich Essen Werden (Guna-Küche)"
-seoDescription: "Was Mahlzeiten in San Blas tatsächlich beinhalten: frischer Fisch, Kokosreis, Kochbananen, und traditionelle Guna-Abendessen — plus ein ehrlicher Blick auf vegetarische, vegane und diätetische Optionen."
+seoTitle: "San Blas Essens-Guide"
+seoDescription: "Was Mahlzeiten in San Blas tatsächlich beinhalten: frischer Fisch, Kokosreis, Kochbananen."
 ---
 
 **Mahlzeiten in San Blas drehen sich um frischen Fisch, Kokosreis, und Kochbananen, zubereitet von Guna-Familien als Teil Ihrer Tour oder Übernachtung. Meeresfrüchte wie Languste, Krabbe, oder Calamari hängen davon ab, was an diesem Tag frisch ist, und vegetarische oder vegane Optionen existieren, sind aber begrenzt — es lohnt sich, dies im Voraus mitzuteilen, wenn es Ihnen wichtig ist.**

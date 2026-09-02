@@ -4,7 +4,7 @@ excerpt: "The $22 entry tax you pay in cash isn't a generic tourism fee. Here's 
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-23
 seoTitle: "The Guna Yala Community Tax Explained — What It's For"
-seoDescription: "San Blas's community entry tax ($22 foreigners / $7 residents) goes directly to the Guna comarca, not a generic tourism board — here's what that actually means."
+seoDescription: "San Blas's community entry tax ($22 foreigners / $7 residents) goes directly to the Guna comarca."
 ---
 
 **The Guna Yala community entry tax — $22 for foreign visitors, $7 for residents — is paid in cash directly at the Guna Yala border and goes to the Guna comarca itself, not to Panama's national government or a generic regional tourism board. It's a direct expression of Guna authority over their own territory, not a standard destination fee.**

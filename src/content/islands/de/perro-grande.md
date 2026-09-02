@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["overnight-stay", "swimming", "wide-beaches"]
 isInhabited: true
 relatedTourKeys: []
-seoTitle: "Perro Grande Island, San Blas — Breite Strände & Ruhiges Wasser"
+seoTitle: "Perro Grande Island, San Blas"
 seoDescription: "Perro Grande ist eine der größeren, geräumigeren San-Blas-Inseln, bekannt für breite weiße Sandstrände und ruhiges türkisfarbenes Wasser."
 ---
 

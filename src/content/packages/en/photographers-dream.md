@@ -6,8 +6,8 @@ heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 highlights: ["Sunrise + sunset access", "Uncrowded, remote cays", "Flexible island stops", "Overwater or beachfront cabin"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "isla-pelicano"]
-seoTitle: "San Blas Photography Trip — Golden Hour, Remote Cays | Custom Package"
-seoDescription: "A San Blas trip built for photography: sunrise and sunset access from an overnight cabin, remote islands like Cayos Holandeses instead of the busiest stops, and a flexible schedule."
+seoTitle: "San Blas Photography Trip"
+seoDescription: "A San Blas trip built for photography: sunrise and sunset access from an overnight cabin."
 ---
 
 A standard day tour is built for coverage — as many islands as fit into daylight hours. That's the wrong shape for photography, where the two best windows (first and last light) fall outside a day tour's actual hours entirely.

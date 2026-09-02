@@ -7,7 +7,7 @@ bestFor: ["families", "calm-water", "short-transfer"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico"]
 seoTitle: "Isla Aguja, San Blas — Eau Calme Près du Continent"
-seoDescription: "Isla Aguja est l'une des îles de San Blas les plus proches du point d'embarquement de Cartí, connue pour son eau calme et peu profonde, idéale pour les familles."
+seoDescription: "Isla Aguja est l'une des îles de San Blas les plus proches du point d'embarquement de Cartí, connue pour son eau calme et peu profonde."
 ---
 
 Si votre temps de transfert en bateau est limité ou si vous voyagez avec de jeunes enfants, Isla Aguja est souvent le premier arrêt de l'itinéraire — c'est l'un des cayos les plus proches du point d'embarquement de Cartí.

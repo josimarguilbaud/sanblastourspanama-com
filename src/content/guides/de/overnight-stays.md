@@ -3,7 +3,7 @@ title: "San Blas Übernachtungen — 5 Hüttentypen Erklärt"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "San Blas Übernachtung — Hüttentypen, Reiserouten & Enthaltenes"
+seoTitle: "San Blas Übernachtung"
 seoDescription: "Erwägen Sie eine Übernachtung in San Blas? Vergleichen Sie alle 5 Hüttentypen, was enthalten ist, und Beispiel-Reiserouten von 2-4 Tagen."
 ---
 

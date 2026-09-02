@@ -3,8 +3,8 @@ title: "Cómo Llegar a San Blas desde Ciudad de Panamá"
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
 relatedIslandSlugs: ["el-porvenir"]
-seoTitle: "Cómo Llegar a las Islas de San Blas desde Ciudad de Panamá (Guía 2026)"
-seoDescription: "Todo lo que necesitas saber para llegar de Ciudad de Panamá a las Islas de San Blas: el traslado en 4x4, el cruce en lancha desde Cartí, tiempos y qué esperar en el camino."
+seoTitle: "Cómo Llegar a San Blas desde Ciudad de Panamá"
+seoDescription: "Todo lo que necesitas saber para llegar de Ciudad de Panamá a las Islas de San Blas: el traslado en 4x4, el cruce en lancha desde Cartí."
 ---
 
 No hay una carretera directa a San Blas — llegar es parte de la aventura, y vale la pena saber qué esperar antes de salir.

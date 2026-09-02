@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["off-the-beaten-path", "guna-culture", "relaxation"]
 isInhabited: true
 relatedTourKeys: []
-seoTitle: "Nugnudub Island, San Blas — Eine Ruhige Guna-Gemeinde Abseits der Massen"
+seoTitle: "Nugnudub Island, San Blas"
 seoDescription: "Nugnudub ist eine weniger besuchte San-Blas-Insel mit einer kleinen Guna-Gemeinde, ideal für Reisende, die einen ruhigeren, authentischeren Stopp suchen."
 ---
 

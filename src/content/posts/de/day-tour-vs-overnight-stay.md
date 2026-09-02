@@ -3,7 +3,7 @@ title: "Tagestour oder Übernachtung in San Blas? So Wählen Sie Richtig"
 excerpt: "Beide Optionen bringen Sie zum Island-Hopping und Schnorcheln über einem gesunkenen Schiff. Hier ist der echte Unterschied — und für wen jede Option gedacht ist."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-07-08
-seoTitle: "San Blas Tagestour vs. Übernachtung — Was Sollten Sie Buchen?"
+seoTitle: "San Blas Tagestour vs. Übernachtung"
 seoDescription: "Vergleich einer San-Blas-Tagestour mit einem mehrtägigen Hüttenaufenthalt: was sich wirklich unterscheidet, was gleich bleibt, und wie Sie entscheiden."
 ---
 

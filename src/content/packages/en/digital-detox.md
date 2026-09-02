@@ -7,7 +7,7 @@ highlights: ["No fixed daily itinerary", "A full free day built in", "Kayak & pa
 relatedTourSlugs: ["camping-under-stars-overnight", "cabana-privada-deluxe-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]
 seoTitle: "San Blas Digital Detox — Multi-Day Unplugged Island Package"
-seoDescription: "A genuinely unplugged San Blas trip: no fixed daily itinerary, a full free day, and islands with real quiet like Nugnudub — most San Blas islands have no reliable signal anyway, this package leans into that instead of fighting it."
+seoDescription: "A genuinely unplugged San Blas trip: no fixed daily itinerary, a full free day."
 ---
 
 Most of San Blas already has weak or no phone signal — this package is for travelers who want to plan around that instead of treating it as a problem to solve.

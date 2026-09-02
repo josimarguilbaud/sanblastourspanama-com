@@ -4,7 +4,7 @@ heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "Vuelos a las Islas de San Blas, Panamá — Qué Saber"
-seoDescription: "¿Se puede volar a San Blas? Un vistazo honesto a los vuelos en avioneta hacia las pistas de Guna Yala, y por qué la mayoría de los visitantes de pasadía prefieren la ruta en 4x4 y lancha."
+seoDescription: "¿Se puede volar a San Blas? Un vistazo honesto a los vuelos en avioneta hacia las pistas de Guna Yala."
 ---
 
 Guna Yala sí tiene un pequeño número de pistas de aterrizaje locales, y avionetas domésticas ocasionalmente sirven a algunas desde Ciudad de Panamá — así que sí, volar a parte del archipiélago es técnicamente posible. Esto es lo que realmente hay que saber antes de planear alrededor de eso.

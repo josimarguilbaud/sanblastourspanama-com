@@ -3,8 +3,8 @@ title: "Avez-vous Besoin d'Espèces à San Blas ? La Réponse Complète"
 excerpt: "Il n'y a aucun distributeur automatique nulle part à Guna Yala, et les cartes ne sont pas acceptées sur les îles. Voici exactement combien d'espèces apporter et à quoi elles servent."
 heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-29
-seoTitle: "Espèces à San Blas — Distributeurs, Cartes, et la Taxe Communautaire Expliqués"
-seoDescription: "Il n'y a pas de distributeurs automatiques à Guna Yala et les cartes ne sont pas acceptées sur les îles. Voici exactement à quoi vous avez besoin d'espèces à San Blas, et combien apporter."
+seoTitle: "Espèces à San Blas : Distributeurs et Cartes"
+seoDescription: "Il n'y a pas de distributeurs automatiques à Guna Yala et les cartes ne sont pas acceptées sur les îles."
 ---
 
 **Oui — vous avez besoin d'espèces à San Blas. Il n'y a aucun distributeur automatique nulle part à Guna Yala, et les cartes ne sont pas acceptées sur les îles elles-mêmes. La principale dépense en espèces est la taxe d'entrée communautaire : 22 $ pour les visiteurs étrangers et 7 $ pour les résidents, payée à l'arrivée à la frontière de Guna Yala.**

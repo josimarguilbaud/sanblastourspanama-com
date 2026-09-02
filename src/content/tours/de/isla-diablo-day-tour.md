@@ -8,7 +8,7 @@ duration: "Ganztägig (~14 Std. Tür-zu-Tür), 8:30–15:00 Uhr auf den Inseln"
 bestFor: ["variety-seekers", "families", "guna-culture"]
 tourKey: "day_tour_isla_diablo"
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "Isla Diablo Tagestour, San Blas — Volles Programm | Buchung per WhatsApp"
+seoTitle: "Isla Diablo Tagestour, San Blas"
 seoDescription: "Die Isla-Diablo-Tagestour besucht eine eigene Route durch die Isla-Perro-Gruppe, mit Guna-Gemeindestopp und dem Seestern-Pool."
 ---
 

@@ -6,7 +6,7 @@ heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Récif reculé des Dutch Cays", "Snorkeling sur l'épave inclus", "Groupe plus petit, plus de temps dans l'eau", "Départ plus matinal pour des conditions plus calmes"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]
-seoTitle: "Forfait Snorkeling Avancé San Blas — Expédition au Récif des Dutch Cays"
+seoTitle: "Forfait Snorkeling Avancé San Blas"
 seoDescription: "Un forfait snorkeling à San Blas pour les groupes qui veulent prioriser le temps dans l'eau : le récif reculé des Dutch Cays, l'épave de Perro Chico."
 ---
 

@@ -3,7 +3,7 @@ title: "Vie Marine & Faune de San Blas"
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]
-seoTitle: "Vie Marine & Faune de San Blas — Ce que Vous Verrez en Snorkeling"
+seoTitle: "Vie Marine & Faune de San Blas"
 seoDescription: "La vie marine et la faune de San Blas, Panama : poissons de récif, corail, et ce à quoi s'attendre réalistement en snorkeling."
 ---
 

@@ -7,8 +7,8 @@ gallery: []
 duration: "1–3 nights (max 3 per booking)"
 bestFor: ["budget", "solo-travelers", "social", "backpackers"]
 relatedIslandSlugs: []
-seoTitle: "San Blas Hostel Stay (Hostal Isleño) — Book a Shared Dorm Overnight"
-seoDescription: "Hostal Isleño is San Blas's budget-friendly shared dormitory option for overnight stays — the easiest way to sleep over and meet other travelers. See what's included."
+seoTitle: "San Blas Hostel Stay (Hostal Isleño)"
+seoDescription: "Hostal Isleño is San Blas's budget-friendly shared dormitory option for overnight stays — the easiest way to sleep over and meet other travelers."
 ---
 
 If a day tour leaves you wanting more time in San Blas but a private cabin isn't in the budget, Hostal Isleño is the answer: a shared dormitory stay that's the most affordable way to wake up on a San Blas island.

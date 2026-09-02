@@ -7,7 +7,7 @@ highlights: ["Realistic connectivity conversation first", "Flexible daily schedu
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["isla-aguja", "nugnudub"]
 seoTitle: "Working Remotely From San Blas — What's Actually Realistic"
-seoDescription: "Before you book a 'remote work' trip to San Blas: most islands have weak or no signal. Here's the honest version of what's possible, and how we'd build a longer, flexible stay around it if it still makes sense for you."
+seoDescription: "Before you book a 'remote work' trip to San Blas: most islands have weak or no signal. Here's the honest version of what's possible."
 ---
 
 We'd rather talk you out of this than oversell it: most San Blas islands have weak or no cell signal, and there's no dedicated coworking infrastructure. If your job needs reliable video calls every day, this is not the trip for that — a short vacation with real time off is a better fit.

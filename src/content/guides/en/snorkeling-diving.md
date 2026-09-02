@@ -3,7 +3,7 @@ title: "Snorkeling & Diving in San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
 relatedIslandSlugs: ["perro-chico", "cayos-holandeses", "piscina-natural"]
-seoTitle: "Snorkeling in San Blas — Best Spots & What to Expect (Scuba Diving Honest Answer)"
+seoTitle: "Snorkeling in San Blas"
 seoDescription: "San Blas snorkeling guide: the best reef and shipwreck spots, what gear you need, and an honest answer on scuba diving availability in the archipelago."
 ---
 

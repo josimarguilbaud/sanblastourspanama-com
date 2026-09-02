@@ -4,7 +4,7 @@ excerpt: "Guna Yala não é administrada pelo governo provincial do Panamá — 
 heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-05-11
 seoTitle: "O Congresso Geral Guna — Autogoverno em San Blas Explicado"
-seoDescription: "Guna Yala é governada através de sua própria estrutura política, centrada no Congresso Geral Guna, separada da administração provincial do Panamá — resultado direto da Revolução Guna de 1925."
+seoDescription: "Guna Yala é governada através de sua própria estrutura política, centrada no Congresso Geral Guna."
 ---
 
 **Guna Yala é governada através de sua própria estrutura política interna, centrada no Congresso Geral Guna, em vez da administração provincial padrão do Panamá. Esse autogoverno existe graças à Revolução Guna de 1925, que conquistou para o povo Guna o reconhecimento formal de sua autoridade sobre seu próprio território.**

@@ -7,7 +7,7 @@ gallery: []
 duration: "1 à 3 nuits (max. 3 par réservation)"
 bestFor: ["budget", "solo-travelers", "social", "backpackers"]
 relatedIslandSlugs: []
-seoTitle: "Auberge San Blas (Hostal Isleño) — Dortoir Partagé pour la Nuit"
+seoTitle: "Auberge San Blas (Hostal Isleño)"
 seoDescription: "Hostal Isleño est l'option de dortoir partagé économique de San Blas pour les séjours nocturnes."
 ---
 

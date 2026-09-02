@@ -3,8 +3,8 @@ title: "¿Necesitas Efectivo en San Blas? La Respuesta Completa"
 excerpt: "No hay cajeros automáticos en ningún lugar de Guna Yala, y las tarjetas no se aceptan en las islas. Aquí exactamente cuánto efectivo llevar y para qué es."
 heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-29
-seoTitle: "Efectivo en San Blas — Cajeros, Tarjetas, y el Impuesto Comunitario Explicados"
-seoDescription: "No hay cajeros automáticos en Guna Yala y las tarjetas no se aceptan en las islas. Aquí exactamente para qué necesitas efectivo en San Blas, y cuánto llevar."
+seoTitle: "Efectivo en San Blas"
+seoDescription: "No hay cajeros automáticos en Guna Yala y las tarjetas no se aceptan en las islas. Aquí exactamente para qué necesitas efectivo en San Blas."
 ---
 
 **Sí — necesitas efectivo en San Blas. No hay cajeros automáticos en ningún lugar de Guna Yala, y las tarjetas no se aceptan en las islas mismas. El gasto principal en efectivo es el impuesto comunitario de entrada: $22 para visitantes extranjeros y $7 para residentes, pagado a la llegada a la frontera de Guna Yala.**

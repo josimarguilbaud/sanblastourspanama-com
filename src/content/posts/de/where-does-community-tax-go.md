@@ -4,7 +4,7 @@ excerpt: "Die 22-Dollar-Eintrittssteuer, die Sie bar bezahlen, ist keine generis
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-23
 seoTitle: "Die Guna-Yala-Gemeinschaftssteuer Erklärt — Wofür Sie Ist"
-seoDescription: "San Blas' Gemeinschaftseintrittssteuer (22 $ Ausländer / 7 $ Einwohner) geht direkt an die Guna-Comarca, nicht an eine generische Tourismusbehörde — hier, was das tatsächlich bedeutet."
+seoDescription: "San Blas' Gemeinschaftseintrittssteuer (22 $ Ausländer / 7 $ Einwohner) geht direkt an die Guna-Comarca, nicht an eine generische Tourismusbehörde — hier."
 ---
 
 **Die Guna-Yala-Gemeinschaftseintrittssteuer — 22 $ für ausländische Besucher, 7 $ für Einwohner — wird bar direkt an der Guna-Yala-Grenze bezahlt und geht an die Guna-Comarca selbst, nicht an Panamas Nationalregierung oder eine generische regionale Tourismusbehörde. Es ist ein direkter Ausdruck der Guna-Autorität über ihr eigenes Territorium, keine Standard-Zielortgebühr.**

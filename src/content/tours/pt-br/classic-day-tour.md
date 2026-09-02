@@ -8,7 +8,7 @@ duration: "Dia inteiro (~14 horas porta a porta)"
 bestFor: ["first-timers", "budget-conscious", "families"]
 tourKey: "day_tour_basico"
 relatedIslandSlugs: ["piscina-natural"]
-seoTitle: "Passeio Classic San Blas — Reserva pelo WhatsApp | Saindo da Cidade do Panamá"
+seoTitle: "Passeio Classic San Blas"
 seoDescription: "O passeio Classic de San Blas: uma ilha mais a famosa Piscina Natural, transporte porta a porta, almoço incluído."
 ---
 

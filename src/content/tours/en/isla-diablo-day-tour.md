@@ -8,8 +8,8 @@ duration: "Full day (~14 hours door-to-door), 8:30 AM–3:00 PM on the islands"
 bestFor: ["variety-seekers", "families", "guna-culture"]
 tourKey: "day_tour_isla_diablo"
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "Isla Diablo Day Tour, San Blas — Full Itinerary | Book via WhatsApp"
-seoDescription: "The Isla Diablo day tour visits its own route through the Isla Perro group, with a Guna community stop and the Starfish Pool. See the full hour-by-hour itinerary and message us on WhatsApp."
+seoTitle: "Isla Diablo Day Tour, San Blas"
+seoDescription: "The Isla Diablo day tour visits its own route through the Isla Perro group, with a Guna community stop and the Starfish Pool."
 ---
 
 Same starting point as our other day tours, genuinely different destination. The Isla Diablo Tour runs its own route through the Isla Perro group, built around [Isla Diablo](/islands/isla-diablo) itself — relaxed, family-friendly, and distinct enough that it's worth comparing carefully against our VIP tour before you choose.

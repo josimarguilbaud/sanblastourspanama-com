@@ -8,8 +8,8 @@ duration: "Día completo, salida más temprana (~4:30 AM recogida)"
 bestFor: ["premium", "snorkel", "calidad-de-arrecife"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Tour Cayos Holandeses, San Blas — Snorkel Premium | Reserva por WhatsApp"
-seoDescription: "El Tour Cayos Holandeses llega al arrecife más remoto y mejor conservado de San Blas. Salida más temprana, mínimo de personas, snorkel premium. Ve los detalles y reserva."
+seoTitle: "Tour Cayos Holandeses, San Blas"
+seoDescription: "El Tour Cayos Holandeses llega al arrecife más remoto y mejor conservado de San Blas. Salida más temprana, mínimo de personas, snorkel premium."
 ---
 
 Pregúntale a cualquier guía de San Blas cuál tour tiene el mejor snorkel, y esta es la respuesta. El Tour Cayos Holandeses llega a [Cayos Holandeses](/es/islands/cayos-holandeses), el arrecife más lejano y prístino del archipiélago — vale la pena la salida más temprana para viajeros que priorizan la calidad del arrecife por encima de todo.

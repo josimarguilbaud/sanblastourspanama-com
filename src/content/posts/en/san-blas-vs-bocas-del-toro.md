@@ -3,8 +3,8 @@ title: "San Blas vs Bocas del Toro: Which Panama Island Trip Should You Book?"
 excerpt: "Both are Panama's best-known island escapes, but they're genuinely different trips. Here's an honest comparison to help you pick — or decide to do both."
 heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-04-17
-seoTitle: "San Blas vs Bocas del Toro — Which Should You Visit in Panama?"
-seoDescription: "San Blas and Bocas del Toro are Panama's two best-known island destinations, but they're very different trips. An honest comparison of access, vibe, and what each is actually built for."
+seoTitle: "San Blas vs Bocas del Toro"
+seoDescription: "San Blas and Bocas del Toro are Panama's two best-known island destinations, but they're very different trips. An honest comparison of access, vibe."
 ---
 
 **San Blas is a remote, Guna-governed archipelago reached by 4x4 and boat from Panama City, built around day trips and simple overnight cabins with no nightlife. Bocas del Toro is a more developed Caribbean island town near the Costa Rica border, reachable by flight or a longer overland trip, with hotels, restaurants, bars, and a backpacker social scene San Blas doesn't have.**

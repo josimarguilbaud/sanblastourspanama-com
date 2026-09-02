@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["overnight-stay", "snorkeling", "families", "budget"]
 isInhabited: true
 relatedTourKeys: ["day_tour_isla_diablo"]
-seoTitle: "Isla Diablo, San Blas — Guna-Hütten, Beachvolleyball & Schnorcheln"
+seoTitle: "Isla Diablo, San Blas"
 seoDescription: "Isla Diablo (Devil's Island) ist eine familienfreundliche San-Blas-Insel nahe Isla Perro, bekannt für Guna-geführte Hütten und ruhiges Schwimmwasser."
 ---
 

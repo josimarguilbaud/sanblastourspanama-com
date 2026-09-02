@@ -3,8 +3,8 @@ title: "Isla Perro vs Perro Chico vs Perro Grande: Resolvendo os Nomes Confusos 
 excerpt: "Três ilhas diferentes com 'Perro' no nome confundem quase todo visitante de primeira viagem planejando uma viagem a San Blas. Aqui como realmente diferenciá-las."
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-05-03
-seoTitle: "Perro Chico vs Perro Grande vs Isla Perro — Ilhas de San Blas Explicadas"
-seoDescription: "San Blas tem várias ilhas com 'Perro' no nome, e é uma fonte de confusão genuinamente comum. Aqui como Perro Chico, Perro Grande, e o grupo mais amplo de Isla Perro realmente se relacionam."
+seoTitle: "Perro Chico vs Perro Grande vs Isla Perro"
+seoDescription: "San Blas tem várias ilhas com 'Perro' no nome, e é uma fonte de confusão genuinamente comum. Aqui como Perro Chico, Perro Grande."
 ---
 
 **"Isla Perro" se refere a um grupo de ilhas em San Blas, não a um único destino. Dentro desse grupo, Perro Chico ("cachorro pequeno") é a ilha pequena e desabitada famosa por seu naufrágio apropriado para snorkel, enquanto Perro Grande ("cachorro grande") é uma ilha maior e habitada conhecida por praias largas e estadias noturnas em cabana. São vizinhas, não o mesmo lugar.**

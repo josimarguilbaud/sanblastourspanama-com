@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["hospedaje", "natacion", "playas-amplias"]
 isInhabited: true
 relatedTourKeys: []
-seoTitle: "Isla Perro Grande, San Blas — Playas Amplias y Agua Tranquila"
+seoTitle: "Isla Perro Grande, San Blas"
 seoDescription: "Perro Grande es una de las islas más espaciosas de San Blas, conocida por sus amplias playas de arena blanca y agua turquesa tranquila, ideal para nadar."
 ---
 

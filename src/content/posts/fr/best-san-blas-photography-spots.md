@@ -3,8 +3,8 @@ title: "Les Meilleurs Spots Photo de San Blas (Et Quand les Photographier)"
 excerpt: "La Piscine Naturelle à midi et Cayos Holandeses au lever du soleil ne sont pas interchangeables — voici un vrai guide, spot par spot, pour bien photographier San Blas."
 heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-05-27
-seoTitle: "Meilleurs Spots Photo à San Blas — Un Vrai Guide Prise de Vue par Prise de Vue"
-seoDescription: "Où et quand photographier San Blas : le banc de sable aux étoiles de mer de la Piscine Naturelle, les plages de carte postale de Chichime, Cayos Holandeses au lever du soleil, et plus."
+seoTitle: "Meilleurs Spots Photo à San Blas"
+seoDescription: "Où et quand photographier San Blas : le banc de sable aux étoiles de mer de la Piscine Naturelle, les plages de carte postale de Chichime."
 ---
 
 **Les meilleurs spots photo de San Blas sont Chichime pour les clichés classiques de plage de carte postale, la Piscine Naturelle pour les photos d'étoiles de mer et de banc de sable en eau libre, Cayos Holandeses pour des prises de vue de récif et de lever/coucher de soleil sans foule, et un séjour en cabane pour une véritable photographie d'heure dorée et de ciel nocturne que l'horaire d'une excursion d'un jour ne peut atteindre.**

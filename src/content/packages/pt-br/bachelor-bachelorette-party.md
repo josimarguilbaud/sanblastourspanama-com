@@ -6,7 +6,7 @@ heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Cabana para o grupo", "Island-hopping", "Snorkel no navio naufragado", "Tempo de praia incluído"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]
-seoTitle: "Despedida de Solteiro/a em San Blas — Pacote em Grupo Entre Ilhas"
+seoTitle: "Despedida de Solteiro/a em San Blas"
 seoDescription: "Uma viagem em grupo a San Blas para uma despedida de solteiro ou solteira: island-hopping, snorkel no naufrágio de Perro Chico, cabana de grupo."
 ---
 

@@ -3,8 +3,8 @@ title: "Snorkel y Buceo en San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
 relatedIslandSlugs: ["perro-chico", "cayos-holandeses", "piscina-natural"]
-seoTitle: "Snorkel en San Blas — Mejores Lugares y Qué Esperar (Respuesta Honesta sobre Buceo)"
-seoDescription: "Guía de snorkel en San Blas: los mejores puntos de arrecife y barco hundido, qué equipo necesitas, y una respuesta honesta sobre la disponibilidad de buceo con tanque en el archipiélago."
+seoTitle: "Snorkel en San Blas: Mejores Lugares y Qué Esperar"
+seoDescription: "Guía de snorkel en San Blas: los mejores puntos de arrecife y barco hundido, qué equipo necesitas."
 ---
 
 San Blas está hecho para el snorkel, no para el buceo con tanque — y saber esa diferencia de antemano te va a ahorrar planear alrededor de la actividad equivocada.

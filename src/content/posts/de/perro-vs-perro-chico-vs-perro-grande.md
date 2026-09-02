@@ -3,8 +3,8 @@ title: "Isla Perro vs Perro Chico vs Perro Grande: San Blas' Verwirrende Inselna
 excerpt: "Drei verschiedene Inseln mit 'Perro' im Namen verwirren fast jeden Erstbesucher, der eine San-Blas-Reise plant. So unterscheiden Sie sie tatsächlich."
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-05-03
-seoTitle: "Perro Chico vs Perro Grande vs Isla Perro — San-Blas-Inseln Erklärt"
-seoDescription: "San Blas hat mehrere Inseln mit 'Perro' im Namen, und es ist eine genuin häufige Verwirrungsquelle. So hängen Perro Chico, Perro Grande, und die weitere Isla-Perro-Gruppe tatsächlich zusammen."
+seoTitle: "Perro Chico vs Perro Grande vs Isla Perro"
+seoDescription: "San Blas hat mehrere Inseln mit 'Perro' im Namen, und es ist eine genuin häufige Verwirrungsquelle. So hängen Perro Chico, Perro Grande."
 ---
 
 **"Isla Perro" bezieht sich auf eine Inselgruppe in San Blas, nicht auf ein einzelnes Ziel. Innerhalb dieser Gruppe ist Perro Chico ("kleiner Hund") die kleine, unbewohnte Insel, berühmt für ihr schnorchelbares Schiffswrack, während Perro Grande ("großer Hund") eine größere, bewohnte Insel ist, bekannt für breite Strände und Übernachtungen in Hütten. Sie sind Nachbarn, nicht derselbe Ort.**

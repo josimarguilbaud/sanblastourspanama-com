@@ -8,7 +8,7 @@ duration: "Ganztägig, flexibler Zeitplan"
 bestFor: ["private", "flexible", "groups", "special-occasions"]
 tourKey: "day_tour_super_vip_privado"
 relatedIslandSlugs: []
-seoTitle: "Super VIP Private San-Blas-Tour — Privates Auto & Boot | WhatsApp"
+seoTitle: "Super VIP Private San-Blas-Tour"
 seoDescription: "Die Super VIP Private Tour bietet Ihrer Gruppe ein vollständig privates Auto und Boot für San Blas, mit flexibler, gemeinsam gestalteter Route."
 ---
 

@@ -3,8 +3,8 @@ title: "5 Choses que Personne ne Vous Dit Avant de Visiter San Blas"
 excerpt: "La liste de bagages couvre la crème solaire et le maillot de bain. Elle ne couvre pas ces cinq choses qui surprennent réellement les visiteurs de première fois."
 heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-06-30
-seoTitle: "5 Choses que Personne ne Vous Dit Avant de Visiter les Îles de San Blas"
-seoDescription: "Conseils pratiques et peu connus pour les Îles de San Blas : argent liquide, faune, timing, et autres choses qui surprennent généralement les visiteurs de première fois."
+seoTitle: "5 Choses que Personne ne Vous Dit sur San Blas"
+seoDescription: "Conseils pratiques et peu connus pour les Îles de San Blas : argent liquide, faune, timing."
 ---
 
 La plupart des guides de San Blas couvrent l'évident : apportez de la crème solaire, apportez de l'argent liquide, portez un maillot de bain. Juste, mais voici ce qui prend réellement les gens au dépourvu.

@@ -3,8 +3,8 @@ title: "Estadía en San Blas — Los 5 Tipos de Cabaña Explicados"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "Estadía en San Blas — Tipos de Cabaña, Itinerarios y Qué Incluye"
-seoDescription: "¿Piensas quedarte a dormir en San Blas? Compara los 5 tipos de cabaña (desde hostal compartido hasta cabaña sobre el agua), qué incluye, e itinerarios de ejemplo de 2 a 4 días."
+seoTitle: "Dormir en San Blas: Tipos de Cabaña e Itinerarios"
+seoDescription: "¿Piensas quedarte a dormir en San Blas? Compara los 5 tipos de cabaña (desde hostal compartido hasta cabaña sobre el agua), qué incluye."
 ---
 
 Un pasadía te muestra San Blas. Quedarte a dormir te deja realmente vivirlo — amanecer y atardecer sobre la misma franja de arena, un cielo lleno de estrellas sin contaminación lumínica, y una noche junto al fuego con la familia Guna que te recibe. Las estadías son de **1 a 3 noches máximo**, y se reservan por TIPO de cabaña, no por una isla específica con nombre — la mayoría de las islas de San Blas ofrecen cabañas casi idénticas dentro de cada categoría, y la isla exacta se confirma más cerca de tu fecha según disponibilidad.

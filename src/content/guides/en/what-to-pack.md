@@ -3,7 +3,7 @@ title: "What to Pack for San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
 relatedIslandSlugs: []
-seoTitle: "San Blas Packing List — What to Bring for a Day Tour or Overnight Stay"
+seoTitle: "San Blas Packing List"
 seoDescription: "A practical packing list for San Blas Islands, Panama, covering both day tours and overnight cabin stays — including what NOT to bring."
 ---
 

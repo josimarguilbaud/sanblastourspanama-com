@@ -4,7 +4,7 @@ excerpt: "Molas aren't souvenirs made for tourists — they're a living Guna art
 heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-04-05
 seoTitle: "What Is a Mola? San Blas's Guna Textile Art Explained"
-seoDescription: "Molas are hand-stitched, multi-layered textile panels made by Guna women in San Blas, Panama — traditionally worn as clothing, not made for tourists. How they're made and why it matters."
+seoDescription: "Molas are hand-stitched, multi-layered textile panels made by Guna women in San Blas, Panama — traditionally worn as clothing, not made for tourists."
 ---
 
 **A mola is a hand-stitched, multi-layered textile panel made by Guna women in San Blas, traditionally sewn as the front and back panel of a blouse. The technique — called reverse appliqué — involves stacking several layers of colored cloth and cutting through the top layers to reveal the colors underneath, then hand-stitching every cut edge closed.**

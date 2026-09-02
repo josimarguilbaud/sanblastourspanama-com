@@ -6,8 +6,8 @@ heroImage: "/img/relax-playa-san-blas.webp"
 highlights: ["Quiet, low-traffic island", "Open beach and deck space", "Flexible, unscheduled days", "Bring-your-own-practice setup"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]
-seoTitle: "San Blas Wellness Retreat — Quiet Island Base for Yoga & Meditation"
-seoDescription: "An honest wellness package: a quiet San Blas island with open beach and deck space for your own yoga or meditation practice, unscheduled days, and a calm cabin base — we don't provide instructors, we provide the right island."
+seoTitle: "San Blas Wellness Retreat"
+seoDescription: "An honest wellness package: a quiet San Blas island with open beach and deck space for your own yoga or meditation practice, unscheduled days."
 ---
 
 Let's be direct about what this is: we don't have a yoga instructor or a wellness program on staff, so this isn't a retreat with scheduled classes. What we can genuinely offer is the setting — a quiet island, unscheduled time, and a cabin base that isn't packed with day-tour groups.

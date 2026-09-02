@@ -3,8 +3,8 @@ title: "Snorkel & Mergulho em San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
 relatedIslandSlugs: ["perro-chico", "cayos-holandeses", "piscina-natural"]
-seoTitle: "Snorkel em San Blas — Melhores Pontos (Resposta Honesta sobre Mergulho)"
-seoDescription: "Guia de snorkel em San Blas: os melhores pontos de recife e naufrágio, o equipamento necessário, e uma resposta honesta sobre a disponibilidade de mergulho."
+seoTitle: "Snorkel em San Blas: Melhores Pontos e o Que Esperar"
+seoDescription: "Guia de snorkel em San Blas: os melhores pontos de recife e naufrágio, o equipamento necessário."
 ---
 
 San Blas é feito para snorkel, não para mergulho com cilindro.

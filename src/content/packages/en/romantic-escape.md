@@ -6,8 +6,8 @@ heroImage: "/img/pina-colada-atardecer-san-blas.webp"
 highlights: ["Overwater cabin", "Private boat moment", "Sunset + sunrise", "Guna dinner for two"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
-seoTitle: "Romantic San Blas Getaway — Overwater Cabin for Two | Custom Package"
-seoDescription: "A San Blas romantic escape built around an overwater cabin, a private boat moment, and a genuinely dark, star-filled sky — coordinated over WhatsApp, no fixed price or package deal."
+seoTitle: "Romantic San Blas Getaway"
+seoDescription: "A San Blas romantic escape built around an overwater cabin, a private boat moment, and a genuinely dark, star-filled sky — coordinated over WhatsApp."
 ---
 
 Most "romantic package" listings online are a generic beach-resort template with San Blas photos pasted on top. This one is the opposite: it starts from what actually exists here — a handful of overwater cabins built by Guna families on islands with real privacy, not a resort with a couples' suite.

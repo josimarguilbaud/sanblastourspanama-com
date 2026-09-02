@@ -8,7 +8,7 @@ duration: "Ganztägig, frühere Abfahrt (~4:30 Uhr Abholung)"
 bestFor: ["premium", "snorkeling", "reef-quality"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Dutch Cays Tagestour — Premium-Schnorcheln | Buchung per WhatsApp"
+seoTitle: "Dutch Cays Tagestour"
 seoDescription: "Die Dutch-Cays-Tagestour erreicht das entfernteste, am besten erhaltene Riff von San Blas. Frühere Abfahrt, Mindestgruppengröße, Premium-Schnorcheln."
 ---
 

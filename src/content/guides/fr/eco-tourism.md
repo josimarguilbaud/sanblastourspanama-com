@@ -4,7 +4,7 @@ heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
 relatedIslandSlugs: ["nugnudub"]
 seoTitle: "Écotourisme à San Blas — Voyage Durable et Communautaire"
-seoDescription: "Comment fonctionne l'écotourisme à San Blas : tourisme géré par les Guna, conservation des récifs et des îles, et ce que les voyageurs responsables peuvent faire."
+seoDescription: "Comment fonctionne l'écotourisme à San Blas : tourisme géré par les Guna, conservation des récifs et des îles."
 ---
 
 San Blas a largement évité le développement massif de complexes hôteliers qui a transformé une grande partie des Caraïbes — pas par accident.

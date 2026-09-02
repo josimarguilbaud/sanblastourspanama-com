@@ -3,8 +3,8 @@ title: "Sailing Trip, Day Tour, or Luxury Charter? How to Choose Your Way Into S
 excerpt: "There are three genuinely different ways to experience San Blas — a multi-day sailing crossing, a standard day tour or overnight stay, and a private luxury charter. Here's how to pick."
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 publishedAt: 2026-05-19
-seoTitle: "Sailing Crossing vs Day Tour vs Private Yacht Charter — San Blas Compared"
-seoDescription: "Three real ways to experience San Blas: a multi-day Cartagena-to-Panama sailing crossing, a standard day tour or overnight cabin stay, or a fully private luxury yacht charter. How they compare."
+seoTitle: "Sailing Crossing vs Day Tour vs Private Yacht Charter"
+seoDescription: "Three real ways to experience San Blas: a multi-day Cartagena-to-Panama sailing crossing, a standard day tour or overnight cabin stay."
 ---
 
 **San Blas can be experienced three genuinely different ways: a multi-day sailing crossing between Cartagena and Panama (a border crossing that passes through San Blas waters), a standard day tour or overnight cabin stay departing from Panama City (the most direct way to actually spend time on the islands), or a fully private luxury yacht charter (a bespoke, multi-day experience with no fixed group or schedule).**

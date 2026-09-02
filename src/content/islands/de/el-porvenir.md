@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["guna-governance", "entry-point"]
 isInhabited: true
 relatedTourKeys: []
-seoTitle: "El Porvenir, San Blas — Die Verwaltungshauptstadt von Guna Yala"
+seoTitle: "El Porvenir, San Blas"
 seoDescription: "El Porvenir ist die kleine Insel, die als Verwaltungszentrum von Guna Yala dient — Sitz der Hauptlandebahn der Region und ihrer Regierungsbüros."
 ---
 

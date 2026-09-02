@@ -7,7 +7,7 @@ highlights: ["Cabaña overwater", "Momento en lancha privada", "Atardecer + aman
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
 seoTitle: "Escapada Romántica en San Blas — Cabaña Overwater para Dos"
-seoDescription: "Una escapada romántica en San Blas armada alrededor de una cabaña overwater, un momento en lancha privada, y un cielo genuinamente oscuro y estrellado — coordinado por WhatsApp, sin precio fijo ni paquete predefinido."
+seoDescription: "Una escapada romántica en San Blas armada alrededor de una cabaña overwater, un momento en lancha privada."
 ---
 
 La mayoría de los "paquetes románticos" que ves en línea son una plantilla genérica de resort de playa con fotos de San Blas pegadas encima. Este es lo contrario: parte de lo que realmente existe aquí — un puñado de cabañas overwater construidas por familias Guna en islas con privacidad real, no un resort con suite de parejas.

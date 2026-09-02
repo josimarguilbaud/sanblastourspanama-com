@@ -4,7 +4,7 @@ heroImage: "/img/mujeres-guna-molas-celebracion.webp"
 relatedGuideSlugs: ["history-of-san-blas", "about-san-blas", "eco-tourism"]
 relatedIslandSlugs: ["nugnudub", "el-porvenir"]
 seoTitle: "Guna-Kultur in San Blas — Ein Respektvoller Reiseführer"
-seoDescription: "San Blas (Guna Yala) ist ein autonomes Territorium, regiert vom Guna-Volk. Was Reisende über Kultur, Etikette und das gemeinschaftsbasierte Tourismusmodell wissen sollten."
+seoDescription: "San Blas (Guna Yala) ist ein autonomes Territorium, regiert vom Guna-Volk. Was Reisende über Kultur."
 ---
 
 San Blas ist nicht nur eine Ansammlung schöner Inseln — es ist Guna Yala, eine autonome Comarca, die vom Guna-Volk regiert wird.

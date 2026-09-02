@@ -3,8 +3,8 @@ title: "Vols vers San Blas : Est-ce une Option ?"
 heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
-seoTitle: "Vols vers les Îles de San Blas, Panama — Ce Qu'il Faut Savoir"
-seoDescription: "Peut-on voler vers San Blas ? Un regard honnête sur les petits avions vers les pistes de Guna Yala, et pourquoi la plupart des visiteurs préfèrent le 4x4 et le bateau."
+seoTitle: "Vols vers les Îles de San Blas, Panama"
+seoDescription: "Peut-on voler vers San Blas ? Un regard honnête sur les petits avions vers les pistes de Guna Yala."
 ---
 
 Guna Yala compte quelques petites pistes d'atterrissage locales, desservies occasionnellement par de petits avions depuis Panama City.

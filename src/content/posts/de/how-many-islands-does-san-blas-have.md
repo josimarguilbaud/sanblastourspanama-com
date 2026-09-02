@@ -4,7 +4,7 @@ excerpt: "Sie werden 365, 378, und über 400 als 'die' Zahl finden. Hier ist, wa
 heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-01
 seoTitle: "Wie Viele Inseln Hat San Blas? Die Echte Zahl Erklärt"
-seoDescription: "San Blas hat zwischen 365 und über 378 Inseln und Cays, je nachdem wie kleine Sandbänke gezählt werden — und nur etwa 40-50 sind bewohnt. Hier die ehrliche Aufschlüsselung."
+seoDescription: "San Blas hat zwischen 365 und über 378 Inseln und Cays, je nachdem wie kleine Sandbänke gezählt werden — und nur etwa 40-50 sind bewohnt."
 ---
 
 **San Blas (Guna Yala) hat mehr als 365 Inseln und Cays, wobei manche Zählungen bis zu 378 reichen — die genaue Zahl hängt davon ab, wie kleine, unbewohnte Sandbänke gezählt werden. Nur etwa 40 bis 50 davon sind tatsächlich von Guna-Gemeinden bewohnt.**

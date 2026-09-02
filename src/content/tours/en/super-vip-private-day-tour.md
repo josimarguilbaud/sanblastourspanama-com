@@ -8,8 +8,8 @@ duration: "Full day, flexible schedule"
 bestFor: ["private", "flexible", "groups", "special-occasions"]
 tourKey: "day_tour_super_vip_privado"
 relatedIslandSlugs: []
-seoTitle: "Super VIP Private San Blas Tour — Private Car & Boat | Book via WhatsApp"
-seoDescription: "The Super VIP Private tour gives your group a fully private car and boat for San Blas, with a flexible itinerary you help decide. Fixed group price, not per person."
+seoTitle: "Super VIP Private San Blas Tour"
+seoDescription: "The Super VIP Private tour gives your group a fully private car and boat for San Blas, with a flexible itinerary you help decide."
 ---
 
 For travelers who want San Blas entirely on their own terms — no sharing a boat with strangers, no fixed stop list — the Super VIP Private tour is a fully private experience from pickup to drop-off.

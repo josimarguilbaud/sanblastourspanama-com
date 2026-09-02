@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["fuera-de-ruta", "cultura-guna", "relax"]
 isInhabited: true
 relatedTourKeys: []
-seoTitle: "Isla Nugnudub, San Blas — Una Comunidad Guna Tranquila, Lejos del Bullicio"
-seoDescription: "Nugnudub es una isla de San Blas poco visitada con una pequeña comunidad Guna, ideal para viajeros que buscan una parada más tranquila y auténtica, lejos de los cayos más concurridos."
+seoTitle: "Isla Nugnudub, San Blas"
+seoDescription: "Nugnudub es una isla de San Blas poco visitada con una pequeña comunidad Guna, ideal para viajeros que buscan una parada más tranquila y auténtica."
 ---
 
 Si las islas más populares de San Blas se sienten algo concurridas en un día de tour ocupado, Nugnudub es el antídoto. Es una isla pequeña y poco visitada con una comunidad Guna activa, y suele aparecer en itinerarios que priorizan un ritmo más pausado y una conexión real con la vida en la isla, en vez de enlazar playas una tras otra.

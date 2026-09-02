@@ -3,8 +3,8 @@ title: "San Blas Wetter Monat für Monat: Eine Echte Reisende-Aufschlüsselung"
 excerpt: "Trockenzeit und Regenzeit sagen Ihnen nur so viel. Hier ein ehrlicherer, monatsweiser Blick darauf, welches Wetter eine San-Blas-Reise tatsächlich prägt."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-15
-seoTitle: "San-Blas-Wetter nach Monat — Trockenzeit, Regenzeit, und Was zu Erwarten Ist"
-seoDescription: "Eine monatsweise Aufschlüsselung des San-Blas-Wetters: die Trockenzeit von Dezember bis April, die Regenzeit von Mai bis November, und was sich für Reisende jeweils tatsächlich ändert."
+seoTitle: "San-Blas-Wetter nach Monat"
+seoDescription: "Eine monatsweise Aufschlüsselung des San-Blas-Wetters: die Trockenzeit von Dezember bis April, die Regenzeit von Mai bis November."
 ---
 
 **San Blas hat eine Trockenzeit von etwa Dezember bis April, mit klarerem Himmel und der geschäftigsten Reisezeit, und eine Regenzeit von Mai bis November, geprägt von kurzen, heftigen Schauern statt Dauerregen. Touren finden das ganze Jahr über in beiden Jahreszeiten statt.**

@@ -7,8 +7,8 @@ gallery: []
 duration: "1–3 noches (máximo 3 por reserva)"
 bestFor: ["economico", "viajero-solo", "social", "mochileros"]
 relatedIslandSlugs: []
-seoTitle: "Estadía en Hostal Isleño San Blas — Reserva un Dormitorio Compartido"
-seoDescription: "Hostal Isleño es la opción económica de dormitorio compartido de San Blas para estadías nocturnas — la forma más fácil de quedarte a dormir y conocer otros viajeros."
+seoTitle: "Estadía en Hostal Isleño San Blas"
+seoDescription: "Hostal Isleño es la opción de dormitorio compartido de San Blas: la forma más económica de quedarse a dormir en la isla."
 ---
 
 Si un pasadía te deja con ganas de más tiempo en San Blas pero una cabaña privada no entra en el presupuesto, Hostal Isleño es la respuesta: una estadía en dormitorio compartido, la forma más económica de despertar en una isla de San Blas.

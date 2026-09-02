@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["snorkeling", "premium-tour", "reef-quality"]
 isInhabited: false
 relatedTourKeys: ["day_tour_cayos_holandeses"]
-seoTitle: "Cayos Holandeses, San Blas — O Recife Mais Distante e Preservado"
+seoTitle: "Cayos Holandeses, San Blas"
 seoDescription: "Cayos Holandeses é o recife mais remoto e mais bem preservado de San Blas — um passeio de snorkel premium com saída mais cedo e tamanho mínimo de grupo."
 ---
 

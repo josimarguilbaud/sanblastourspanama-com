@@ -4,7 +4,7 @@ heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "Wie man von Panama-Stadt zu den San-Blas-Inseln Kommt"
-seoDescription: "Alles über die Anreise von Panama-Stadt zu den San-Blas-Inseln: der 4x4-Transfer, die Bootsüberfahrt von Cartí, Timing und was auf der Straße zu erwarten ist."
+seoDescription: "Alles über die Anreise von Panama-Stadt zu den San-Blas-Inseln: der 4x4-Transfer, die Bootsüberfahrt von Cartí."
 ---
 
 Es gibt keine direkte Autobahn nach San Blas — die Anreise ist Teil des Abenteuers.

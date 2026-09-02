@@ -8,7 +8,7 @@ duration: "Journée complète, départ plus matinal (~4h30 prise en charge)"
 bestFor: ["premium", "snorkeling", "reef-quality"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Excursion Dutch Cays — Snorkeling Premium | Réservation via WhatsApp"
+seoTitle: "Excursion Dutch Cays"
 seoDescription: "L'excursion Dutch Cays atteint le récif le plus éloigné et le mieux préservé de San Blas. Départ plus matinal, taille de groupe minimale."
 ---
 

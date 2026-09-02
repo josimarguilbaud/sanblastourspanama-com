@@ -4,7 +4,7 @@ heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "Flüge nach San Blas, Panama — Was Sie Wissen Sollten"
-seoDescription: "Kann man nach San Blas fliegen? Ein ehrlicher Blick auf Kleinflugzeuge zu Guna Yalas Landebahnen, und warum die meisten Besucher stattdessen die 4x4-und-Boot-Route nehmen."
+seoDescription: "Kann man nach San Blas fliegen? Ein ehrlicher Blick auf Kleinflugzeuge zu Guna Yalas Landebahnen."
 ---
 
 Guna Yala hat einige wenige lokale Landebahnen, und kleine Inlandsflugzeuge bedienen gelegentlich einige davon ab Panama-Stadt.

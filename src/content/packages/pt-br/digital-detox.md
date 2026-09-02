@@ -6,7 +6,7 @@ heroImage: "/img/hamaca-palmeras-san-blas.webp"
 highlights: ["Sem roteiro diário fixo", "Um dia completamente livre", "Tempo de caiaque e stand-up paddle", "Zero wifi, de propósito"]
 relatedTourSlugs: ["camping-under-stars-overnight", "cabana-privada-deluxe-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]
-seoTitle: "Desintoxicação Digital em San Blas — Pacote Desconectado de Vários Dias"
+seoTitle: "Desintoxicação Digital em San Blas"
 seoDescription: "Uma viagem genuinamente desconectada a San Blas: sem roteiro diário fixo, um dia totalmente livre, e ilhas realmente tranquilas como Nugnudub."
 ---
 

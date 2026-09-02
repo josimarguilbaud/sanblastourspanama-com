@@ -3,7 +3,7 @@ title: "Qué Llevar a San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
 relatedIslandSlugs: []
-seoTitle: "Lista de Empaque para San Blas — Qué Llevar en Pasadía o Estadía"
+seoTitle: "Lista de Empaque para San Blas"
 seoDescription: "Una lista práctica de qué llevar a las Islas de San Blas, Panamá, tanto para un pasadía como para una estadía en cabaña — incluyendo qué NO llevar."
 ---
 

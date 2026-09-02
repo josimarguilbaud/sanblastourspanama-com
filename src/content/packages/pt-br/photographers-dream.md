@@ -7,7 +7,7 @@ highlights: ["Acesso ao nascer e pôr do sol", "Cayos remotos e desimpedidos", "
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "isla-pelicano"]
 seoTitle: "Viagem Fotográfica a San Blas — Hora Dourada, Cayos Remotos"
-seoDescription: "Uma viagem a San Blas construída para fotografia: acesso ao nascer e pôr do sol saindo de uma cabana noturna, ilhas remotas em vez das paradas mais movimentadas."
+seoDescription: "Uma viagem a San Blas construída para fotografia: acesso ao nascer e pôr do sol saindo de uma cabana noturna."
 ---
 
 Ancoramos isso em uma estadia noturna para que você esteja realmente em uma ilha no nascer e pôr do sol, não em uma lancha voltando.

@@ -3,7 +3,7 @@ title: "Meeresleben & Tierwelt von San Blas"
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]
-seoTitle: "San Blas Meeresleben & Tierwelt — Was Sie beim Schnorcheln Sehen"
+seoTitle: "San Blas Meeresleben & Tierwelt"
 seoDescription: "Das Meeresleben und die Tierwelt von San Blas, Panama: Riffische, Korallen, und was realistisch beim Schnorcheln in den flachen Riffen zu erwarten ist."
 ---
 

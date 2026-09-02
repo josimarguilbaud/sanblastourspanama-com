@@ -8,8 +8,8 @@ duration: "Full day, earlier departure (~4:30 AM pickup)"
 bestFor: ["premium", "snorkeling", "reef-quality"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Dutch Cays (Cayos Holandeses) Day Tour — Premium Snorkeling | Book via WhatsApp"
-seoDescription: "The Dutch Cays day tour reaches San Blas's most remote, best-preserved reef. Earlier departure, minimum group size, premium snorkeling. See details and message us on WhatsApp."
+seoTitle: "Dutch Cays (Cayos Holandeses) Day Tour"
+seoDescription: "The Dutch Cays day tour reaches San Blas's most remote, best-preserved reef. Earlier departure, minimum group size, premium snorkeling."
 ---
 
 Ask any San Blas guide which tour has the best snorkeling, and this is the answer. The Dutch Cays Tour reaches [Cayos Holandeses](/islands/cayos-holandeses), the farthest and most pristine reef in the archipelago — worth the earlier start for travelers who prioritize reef quality above all else.

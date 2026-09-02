@@ -4,7 +4,7 @@ heroImage: "/img/mujer-guna-cabana-tradicional.webp"
 relatedGuideSlugs: ["guna-culture", "about-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "Historia de San Blas — La Revolución Guna de 1925 Explicada"
-seoDescription: "La historia real detrás de San Blas: cómo la Revolución Guna de 1925 ganó la autonomía de Guna Yala frente a Panamá, y qué significa esa historia para los visitantes hoy."
+seoDescription: "La historia real detrás de San Blas: cómo la Revolución Guna de 1925 ganó la autonomía de Guna Yala frente a Panamá."
 ---
 
 Las playas de postal son solo la mitad de la historia. San Blas existe hoy como un territorio autónomo, gobernado por los Guna, gracias a un acto de resistencia específico y bien documentado — y conocerlo cambia cómo se siente una visita aquí.

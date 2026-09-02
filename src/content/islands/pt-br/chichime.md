@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["mergulho-livre", "passeio-de-um-dia", "fotografia", "familias"]
 isInhabited: true
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Ilha Chichime, San Blas — As Ilhas de Cartão-Postal de Guna Yala"
-seoDescription: "Tudo sobre a Ilha Chichime em San Blas: dois pequenos cayos cobertos de coqueiros, uma vila de pescadores Guna, recifes para mergulho livre e como chegar a partir da Cidade do Panamá."
+seoTitle: "Ilha Chichime, San Blas"
+seoDescription: "Tudo sobre a Ilha Chichime em San Blas: dois pequenos cayos cobertos de coqueiros, uma vila de pescadores Guna."
 ---
 
 Chichime é, na verdade, formada por dois pequenos cayos lado a lado, separados por um canal raso que dá para atravessar a pé na maré baixa — e é exatamente por isso que é um dos lugares mais fotografados de todo o arquipélago de San Blas. Areia branca fininha, uma fileira de coqueiros inclinados e uma água que muda de turquesa claro a azul profundo em poucos metros a partir da praia.

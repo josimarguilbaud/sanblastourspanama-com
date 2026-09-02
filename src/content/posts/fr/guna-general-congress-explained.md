@@ -3,8 +3,8 @@ title: "Le Congrès Général Guna : Comment Guna Yala se Gouverne Réellement"
 excerpt: "Guna Yala n'est pas géré par le gouvernement provincial du Panama — elle a sa propre structure politique, construite sur l'autonomie gagnée en 1925. Voici comment cela fonctionne réellement."
 heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-05-11
-seoTitle: "Le Congrès Général Guna — L'Autogouvernance à San Blas Expliquée"
-seoDescription: "Guna Yala est gouvernée à travers sa propre structure politique, centrée sur le Congrès Général Guna, séparée de l'administration provinciale du Panama — un résultat direct de la Révolution Guna de 1925."
+seoTitle: "Le Congrès Général Guna"
+seoDescription: "Guna Yala est gouvernée à travers sa propre structure politique, centrée sur le Congrès Général Guna."
 ---
 
 **Guna Yala est gouvernée à travers sa propre structure politique interne, centrée sur le Congrès Général Guna, plutôt qu'à travers l'administration provinciale standard du Panama. Cette autogouvernance existe grâce à la Révolution Guna de 1925, qui a valu au peuple Guna la reconnaissance formelle de son autorité sur son propre territoire.**

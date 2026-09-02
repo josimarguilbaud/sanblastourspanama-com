@@ -7,7 +7,7 @@ gallery: []
 duration: "1–3 Nächte (max. 3 pro Buchung)"
 bestFor: ["budget", "solo-travelers", "social", "backpackers"]
 relatedIslandSlugs: []
-seoTitle: "San Blas Hostel (Hostal Isleño) — Übernachtung im Gemeinschaftsschlafsaal"
+seoTitle: "San Blas Hostel (Hostal Isleño)"
 seoDescription: "Hostal Isleño ist die budgetfreundliche Gemeinschaftsschlafsaal-Option von San Blas für Übernachtungen."
 ---
 

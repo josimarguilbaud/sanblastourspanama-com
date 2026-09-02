@@ -6,7 +6,7 @@ heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Cabane pour le groupe", "Island-hopping", "Snorkeling sur l'épave", "Temps de plage inclus"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]
-seoTitle: "Enterrement de Vie de Garçon/Fille à San Blas — Forfait Groupe"
+seoTitle: "Enterrement de Vie de Garçon/Fille à San Blas"
 seoDescription: "Un voyage de groupe à San Blas pour un enterrement de vie de garçon ou de fille : island-hopping, snorkeling sur l'épave de Perro Chico, cabane de groupe."
 ---
 

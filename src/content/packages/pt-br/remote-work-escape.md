@@ -6,7 +6,7 @@ heroImage: "/img/desayuno-velero-san-blas.webp"
 highlights: ["Conversa realista sobre conectividade primeiro", "Horário flexível em torno das horas de trabalho", "Ilhas mais tranquilas com menos ruído de lanchas", "Estadia de vários dias para justificar a estrutura"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["isla-aguja", "nugnudub"]
-seoTitle: "Trabalhar Remotamente a Partir de San Blas — O Que É Realmente Realista"
+seoTitle: "Trabalhar Remotamente a Partir de San Blas"
 seoDescription: "Antes de reservar uma viagem de 'trabalho remoto' a San Blas: a maioria das ilhas tem sinal fraco ou nenhum. Aqui está a versão honesta do que é possível."
 ---
 

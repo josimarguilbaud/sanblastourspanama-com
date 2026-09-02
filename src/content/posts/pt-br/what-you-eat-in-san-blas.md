@@ -3,8 +3,8 @@ title: "O Que Você Realmente Vai Comer em San Blas: Um Guia Real da Comida Guna
 excerpt: "Peixe fresco, arroz de coco, e banana-da-terra — aqui um olhar honesto sobre como são realmente as refeições em San Blas, e onde estão os limites reais."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-04-09
-seoTitle: "Guia de Comida em San Blas — O Que Você Vai Realmente Comer (Culinária Guna)"
-seoDescription: "O que as refeições em San Blas realmente incluem: peixe fresco, arroz de coco, banana-da-terra, e jantares Guna tradicionais — mais um olhar honesto sobre opções vegetarianas, veganas e alimentares."
+seoTitle: "Guia de Comida em San Blas"
+seoDescription: "O que as refeições em San Blas realmente incluem: peixe fresco, arroz de coco, banana-da-terra."
 ---
 
 **As refeições em San Blas giram em torno de peixe fresco, arroz de coco, e banana-da-terra, preparados por famílias Guna como parte do seu passeio ou estadia noturna. Frutos do mar como lagosta, caranguejo, ou lula dependem do que está fresco naquele dia, e opções vegetarianas ou veganas existem mas são limitadas — vale a pena avisar com antecedência se isso importa para sua viagem.**

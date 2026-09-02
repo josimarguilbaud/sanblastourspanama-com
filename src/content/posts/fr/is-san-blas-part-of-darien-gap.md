@@ -3,8 +3,8 @@ title: "San Blas Fait-il Partie du Bouchon du Darién ? Clarifier une Confusion 
 excerpt: "San Blas et le Bouchon du Darién sont tous deux des régions reculées du Panama près de la Colombie — mais ce ne sont pas les mêmes endroits, et les confondre peut affecter la planification de votre voyage."
 heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-04-21
-seoTitle: "San Blas est-il le Bouchon du Darién ? Non — Voici la Vraie Différence"
-seoDescription: "San Blas (Guna Yala) et le Bouchon du Darién sont deux régions séparées du Panama près de la frontière colombienne. Voici ce qui les distingue et pourquoi la confusion survient."
+seoTitle: "San Blas est-il le Bouchon du Darién ? Non"
+seoDescription: "San Blas (Guna Yala) et le Bouchon du Darién sont deux régions séparées du Panama près de la frontière colombienne."
 ---
 
 **Non, San Blas n'est pas le Bouchon du Darién. Les deux sont des régions reculées du Panama près de la frontière colombienne, mais San Blas (Guna Yala) est un archipel insulaire de la côte caraïbe qui est une destination touristique établie et sûre, tandis que le Bouchon du Darién est une région forestière intérieure plus au sud, connue pour son terrain sans routes et ses routes migratoires — pas une destination touristique.**

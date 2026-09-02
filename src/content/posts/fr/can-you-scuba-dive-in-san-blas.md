@@ -3,8 +3,8 @@ title: "Peut-on Faire de la Plongée Sous-Marine à San Blas ? La Réponse Honn�
 excerpt: "San Blas est conçu pour le snorkeling, pas la plongée sous-marine. Voici la réponse directe sur ce qui est réellement disponible, et pourquoi."
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-04-25
-seoTitle: "Plongée Sous-Marine à San Blas — Est-ce Disponible ? La Vraie Réponse"
-seoDescription: "Les excursions standard de San Blas n'incluent pas la plongée avec bouteilles. Voici pourquoi l'archipel est conçu pour le snorkeling à la place, et ce à quoi s'attendre réalistement."
+seoTitle: "Plongée Sous-Marine à San Blas"
+seoDescription: "Les excursions standard de San Blas n'incluent pas la plongée avec bouteilles. Voici pourquoi l'archipel est conçu pour le snorkeling à la place."
 ---
 
 **Non — les excursions d'une journée et séjours nocturnes standard de San Blas n'incluent pas la plongée avec bouteilles. San Blas est construit autour du snorkeling en eau claire et peu profonde : les récifs ici ne font typiquement que quelques mètres de profondeur, idéaux pour le snorkeling mais pas aménagés pour des excursions de plongée avec bouteille.**

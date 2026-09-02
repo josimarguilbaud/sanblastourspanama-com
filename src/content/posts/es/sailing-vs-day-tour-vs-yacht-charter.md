@@ -3,8 +3,8 @@ title: "¿Travesía en Velero, Pasadía, o Charter de Lujo? Cómo Elegir tu Entr
 excerpt: "Hay tres formas genuinamente distintas de experimentar San Blas — una travesía en velero de varios días, un pasadía o estadía nocturna estándar, y un charter privado de lujo. Aquí cómo elegir."
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 publishedAt: 2026-05-19
-seoTitle: "Travesía en Velero vs Pasadía vs Charter Privado de Yate — San Blas Comparado"
-seoDescription: "Tres formas reales de experimentar San Blas: una travesía de varios días entre Cartagena y Panamá, un pasadía o estadía nocturna estándar, o un charter privado de yate de lujo. Cómo se comparan."
+seoTitle: "Travesía en Velero vs Pasadía vs Charter Privado de Yate"
+seoDescription: "Tres formas reales de experimentar San Blas: una travesía de varios días entre Cartagena y Panamá, un pasadía o estadía nocturna estándar."
 ---
 
 **San Blas se puede experimentar de tres formas genuinamente distintas: una travesía en velero de varios días entre Cartagena y Panamá (un cruce fronterizo que pasa por aguas de San Blas), un pasadía o estadía nocturna estándar saliendo de la Ciudad de Panamá (la forma más directa de realmente pasar tiempo en las islas), o un charter privado de yate de lujo (una experiencia a medida, de varios días, sin grupo ni horario fijo).**

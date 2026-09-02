@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
 
 export async function getStaticPaths() {
@@ -21,6 +22,13 @@ const { title, excerpt, heroImage, publishedAt, seoTitle, seoDescription } = ent
 const slug = entry.id.replace(/^pt-br\//, '');
 const t = useTranslations('pt-br');
 
+// Los idiomas en los que existe este post. Sin esto el blog no declaraba
+// sus traducciones: medido el 02/09/2026, 90 posts que SI existen en los
+// cinco idiomas se anunciaban con un solo hreflang, asi que Google no podia
+// emparejarlos. Las guias, islas, tours y paquetes ya lo hacian; el blog no.
+const allPostsParaLocales = await getCollection('posts');
+const availableLocales = localesForSlug(allPostsParaLocales, slug);
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -32,6 +40,7 @@ const jsonLd = {
 ---
 
 <Layout
+  availableLocales={availableLocales}
   title={seoTitle ?? `${title} — Blog das Ilhas de San Blas`}
   description={seoDescription ?? excerpt}
   image={heroImage}

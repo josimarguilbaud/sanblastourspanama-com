@@ -6,8 +6,8 @@ heroImage: "/img/familia-aguas-tranquilas-san-blas.webp"
 highlights: ["Shorter boat transfers", "Shallow, calm-water islands", "Family-size private cabin", "Flexible daily pace"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "classic-day-tour"]
 relatedIslandSlugs: ["isla-aguja", "perro-grande"]
-seoTitle: "San Blas With Kids — Family Package (Calm Islands, Short Transfers)"
-seoDescription: "A San Blas family trip built around shallow, calm-water islands and shorter boat transfers instead of the longest routes — a private cabin, a slower pace, and a real itinerary you help shape over WhatsApp."
+seoTitle: "San Blas With Kids: Family Package"
+seoDescription: "A San Blas family trip built around shallow, calm-water islands and shorter boat transfers instead of the longest routes — a private cabin, a slower pace."
 ---
 
 The single biggest mistake families make booking San Blas on their own is picking the tour with the most islands per day. More stops means more open-water boat time, which is the part that wears kids out and worries parents — not the islands themselves.

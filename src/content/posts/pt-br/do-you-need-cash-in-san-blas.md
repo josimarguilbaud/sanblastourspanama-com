@@ -3,7 +3,7 @@ title: "Você Precisa de Dinheiro em San Blas? A Resposta Completa"
 excerpt: "Não há caixas eletrônicos em nenhum lugar de Guna Yala, e cartões não são aceitos nas ilhas. Aqui exatamente quanto dinheiro levar e para que serve."
 heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-29
-seoTitle: "Dinheiro em San Blas — Caixas Eletrônicos, Cartões, e a Taxa Comunitária Explicados"
+seoTitle: "Dinheiro em San Blas"
 seoDescription: "Não há caixas eletrônicos em Guna Yala e cartões não são aceitos nas ilhas. Aqui exatamente para que você precisa de dinheiro em San Blas, e quanto levar."
 ---
 

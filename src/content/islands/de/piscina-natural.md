@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["families", "wading", "photography", "starfish"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Der Naturpool, San Blas — Waten auf der Berühmten Seestern-Sandbank"
+seoTitle: "Der Naturpool, San Blas"
 seoDescription: "Der Naturpool (Piscina Natural) ist die berühmteste Sandbank von San Blas — ein hüfttiefer Abschnitt offenen Wassers, bekannt für sichtbare Seesterne."
 ---
 

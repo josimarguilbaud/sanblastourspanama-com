@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["photography", "snorkeling", "premium-tour"]
 isInhabited: false
 relatedTourKeys: ["day_tour_super_vip_privado"]
-seoTitle: "Isla Pelícano, San Blas — Le Lieu de Tournage de La Casa de Papel"
+seoTitle: "Isla Pelícano, San Blas"
 seoDescription: "Isla Pelícano est la petite île de San Blas utilisée comme lieu de tournage pour La Casa de Papel (Money Heist) de Netflix."
 ---
 

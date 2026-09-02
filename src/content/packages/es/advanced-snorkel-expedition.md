@@ -6,8 +6,8 @@ heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Arrecife remoto de Cayos Holandeses", "Snorkel en el barco hundido incluido", "Grupo más pequeño, más tiempo en el agua", "Salida temprana para aguas más calmas"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]
-seoTitle: "Paquete de Snorkel Avanzado en San Blas — Expedición al Arrecife de Cayos Holandeses"
-seoDescription: "Un paquete de snorkel en San Blas armado para grupos que quieren priorizar tiempo en el agua sobre marcar islas: el arrecife remoto de Cayos Holandeses, el barco hundido de Perro Chico, y una salida más temprana para mejores condiciones."
+seoTitle: "Paquete de Snorkel Avanzado en San Blas"
+seoDescription: "Un paquete de snorkel en San Blas armado para grupos que quieren priorizar tiempo en el agua sobre marcar islas: el arrecife remoto de Cayos Holandeses."
 ---
 
 Somos directos: San Blas no tiene infraestructura de buceo con tanque — ve nuestra guía de snorkel y buceo para la respuesta honesta completa sobre eso. Lo que sí tiene es snorkel genuinamente fuerte, y este paquete es para grupos que quieren priorizar tiempo en el agua sobre hacer island-hopping.

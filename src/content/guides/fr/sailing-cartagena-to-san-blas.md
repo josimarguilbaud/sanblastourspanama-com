@@ -3,7 +3,7 @@ title: "Naviguer de Cartagena à San Blas : Ce Qu'il Faut Savoir"
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Cartagena à San Blas en Bateau — Itinéraire de Navigation Expliqué"
+seoTitle: "Cartagena à San Blas en Bateau"
 seoDescription: "Vous envisagez de naviguer de Cartagena, Colombie à San Blas, Panama ? Voici un aperçu honnête de comment cet itinéraire fonctionne."
 ---
 

@@ -6,7 +6,7 @@ heroImage: "/img/pareja-aguas-turquesas-san-blas.webp"
 highlights: ["Overwater- oder Deluxe-Privathütte", "Ein flexibler freier Tag", "Entspanntes Tempo", "Inselwahl nach dem, was Sie letztes Mal liebten"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["isla-diablo", "perro-grande"]
-seoTitle: "San-Blas-Jahrestagsreise — Inselauszeit für Wiederkehrende Paare"
+seoTitle: "San-Blas-Jahrestagsreise"
 seoDescription: "Ein San-Blas-Jahrestagspaket für Paare, die schon einmal da waren oder mehr Zeit als eine Standard-Übernachtung wollen."
 ---
 

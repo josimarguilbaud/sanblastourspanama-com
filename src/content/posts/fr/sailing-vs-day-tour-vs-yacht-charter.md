@@ -3,8 +3,8 @@ title: "Traversée en Voilier, Excursion d'un Jour, ou Charter de Luxe ? Comment
 excerpt: "Il existe trois façons réellement différentes de vivre San Blas — une traversée en voilier de plusieurs jours, une excursion d'un jour ou un séjour nocturne standard, et un charter privé de luxe. Voici comment choisir."
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 publishedAt: 2026-05-19
-seoTitle: "Traversée en Voilier vs Excursion d'un Jour vs Charter de Yacht Privé — San Blas Comparé"
-seoDescription: "Trois façons réelles de vivre San Blas : une traversée en voilier de plusieurs jours entre Cartagena et Panama, une excursion d'un jour ou un séjour nocturne standard, ou un charter de yacht privé de luxe entièrement sur mesure."
+seoTitle: "Voilier, Excursion ou Yacht : San Blas Comparé"
+seoDescription: "Trois façons réelles de vivre San Blas : une traversée en voilier de plusieurs jours entre Cartagena et Panama."
 ---
 
 **San Blas peut être vécu de trois façons réellement différentes : une traversée en voilier de plusieurs jours entre Cartagena et Panama (une frontière traversant les eaux de San Blas), une excursion d'un jour ou un séjour nocturne standard au départ de Panama City (le moyen le plus direct de réellement passer du temps sur les îles), ou un charter de yacht privé de luxe (une expérience sur mesure de plusieurs jours sans groupe ni horaire fixe).**

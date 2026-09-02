@@ -3,8 +3,8 @@ title: "Para Onde Vai Realmente a Taxa Comunitária de Guna Yala?"
 excerpt: "A taxa de entrada de $22 que você paga em dinheiro não é uma taxa turística genérica. Aqui um olhar honesto sobre o que ela é e por que funciona diferente de uma taxa de destino típica."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-23
-seoTitle: "A Taxa Comunitária de Guna Yala Explicada — Para Que Ela Serve"
-seoDescription: "A taxa de entrada comunitária de San Blas ($22 estrangeiros / $7 residentes) vai diretamente para a comarca Guna, não para uma junta de turismo genérica — aqui o que isso realmente significa."
+seoTitle: "A Taxa Comunitária de Guna Yala Explicada"
+seoDescription: "A taxa de entrada comunitária de San Blas ($22 estrangeiros / $7 residentes) vai diretamente para a comarca Guna."
 ---
 
 **A taxa de entrada comunitária de Guna Yala — $22 para visitantes estrangeiros, $7 para residentes — é paga em dinheiro diretamente na fronteira de Guna Yala e vai para a própria comarca Guna, não para o governo nacional do Panamá nem para uma junta de turismo regional genérica. É uma expressão direta da autoridade Guna sobre seu próprio território, não uma taxa de destino padrão.**

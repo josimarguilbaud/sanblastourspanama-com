@@ -7,8 +7,8 @@ gallery: []
 duration: "1–3 noches (máximo 3 por reserva)"
 bestFor: ["aventurero", "observar-estrellas", "experiencia-unica"]
 relatedIslandSlugs: []
-seoTitle: "Camping Bajo las Estrellas San Blas — Reserva una Noche Inolvidable"
-seoDescription: "Camping Bajo las Estrellas te deja dormir bajo el cielo genuinamente oscuro y estrellado de San Blas — la forma más directa de vivir una estadía nocturna en Guna Yala."
+seoTitle: "Camping Bajo las Estrellas San Blas"
+seoDescription: "Camping Bajo las Estrellas: dormir bajo el cielo genuinamente oscuro de San Blas, sin luz artificial en kilómetros."
 ---
 
 Guna Yala prácticamente no tiene contaminación lumínica, y esta es la opción de estadía nocturna construida específicamente alrededor de ese hecho — dormir bajo un cielo abierto, con más estrellas visibles de las que la mayoría de los viajeros ha visto en un solo lugar.

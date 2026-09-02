@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["families", "wading", "photography", "starfish"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "A Piscina Natural, San Blas — Ande no Famoso Banco de Areia das Estrelas-do-Mar"
+seoTitle: "A Piscina Natural, San Blas"
 seoDescription: "A Piscina Natural é o banco de areia mais famoso de San Blas — um trecho de água na altura da cintura conhecido por suas estrelas-do-mar visíveis."
 ---
 

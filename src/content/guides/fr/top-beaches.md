@@ -3,7 +3,7 @@ title: "Les Meilleures Plages de San Blas"
 heroImage: "/img/playa-caminata-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "best-time-to-visit"]
 relatedIslandSlugs: ["perro-grande", "isla-aguja", "piscina-natural"]
-seoTitle: "Meilleures Plages des Îles de San Blas — Un Guide Sélectionné"
+seoTitle: "Meilleures Plages des Îles de San Blas"
 seoDescription: "Les meilleures plages de San Blas pour le snorkeling, les familles, la photographie et les escapades tranquilles."
 ---
 

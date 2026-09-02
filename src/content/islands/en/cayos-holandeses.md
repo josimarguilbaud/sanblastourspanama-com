@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["snorkeling", "premium-tour", "reef-quality"]
 isInhabited: false
 relatedTourKeys: ["day_tour_cayos_holandeses"]
-seoTitle: "Dutch Cays (Cayos Holandeses), San Blas — The Farthest, Most Pristine Reef"
-seoDescription: "Cayos Holandeses is San Blas's most remote and best-preserved reef — a premium snorkeling tour with its own earlier departure and minimum group size. What to know before booking."
+seoTitle: "Dutch Cays (Cayos Holandeses), San Blas"
+seoDescription: "Cayos Holandeses is San Blas's most remote and best-preserved reef — a premium snorkeling tour with its own earlier departure and minimum group size."
 ---
 
 Ask any San Blas guide which reef has the best snorkeling, and Cayos Holandeses comes up first. It's the farthest point most tours reach — a turquoise lagoon protected by a ring of coral, deliberately positioned away from the busier, closer-in cays.

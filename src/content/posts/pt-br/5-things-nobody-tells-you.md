@@ -3,8 +3,8 @@ title: "5 Coisas que Ninguém Te Conta Antes de Visitar San Blas"
 excerpt: "A lista de bagagem cobre protetor solar e maiô. Ela não cobre estas cinco coisas que realmente surpreendem os visitantes de primeira viagem."
 heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-06-30
-seoTitle: "5 Coisas que Ninguém Te Conta Antes de Visitar as Ilhas de San Blas"
-seoDescription: "Dicas práticas e pouco conhecidas para as Ilhas de San Blas: dinheiro, fauna, timing, e outras coisas que costumam surpreender visitantes de primeira viagem."
+seoTitle: "5 Coisas que Ninguém Te Conta sobre San Blas"
+seoDescription: "Dicas práticas e pouco conhecidas para as Ilhas de San Blas: dinheiro, fauna, timing."
 ---
 
 A maioria dos guias de San Blas cobre o óbvio: leve protetor solar, leve dinheiro, use maiô. Justo, mas aqui está o que realmente pega as pessoas de surpresa.

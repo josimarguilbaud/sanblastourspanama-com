@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["island-hopping", "snorkeling", "photography"]
 isInhabited: false
 relatedTourKeys: ["day_tour_vip"]
-seoTitle: "Limones Cays, San Blas — Island-Hopping dans une Eau Cristalline"
-seoDescription: "Les Limones Cays sont un groupe de petites îles inhabitées de San Blas, parfaites pour l'island-hopping, avec certaines des eaux les plus claires de l'archipel."
+seoTitle: "Limones Cays, San Blas"
+seoDescription: "Les Limones Cays sont un groupe de petites îles inhabitées de San Blas, parfaites pour l'island-hopping."
 ---
 
 Les Limones Cays ne sont pas une seule île, mais un petit groupe d'entre elles, assez proches pour que les bateaux puissent passer de l'une à l'autre en l'espace d'un après-midi. De minuscules cercles de sable blanc entourés de palmiers, dans une eau si claire qu'on voit le fond depuis le bateau.

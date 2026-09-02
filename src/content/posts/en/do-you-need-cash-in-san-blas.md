@@ -3,7 +3,7 @@ title: "Do You Need Cash in San Blas? The Complete Answer"
 excerpt: "There are no ATMs anywhere in Guna Yala, and cards aren't accepted on the islands. Here's exactly how much cash to bring and what it's for."
 heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-29
-seoTitle: "Cash in San Blas — ATMs, Cards, and the Community Tax Explained"
+seoTitle: "Cash in San Blas: ATMs, Cards and the Tax"
 seoDescription: "There are no ATMs in Guna Yala and cards aren't accepted on the islands. Here's exactly what you need cash for in San Blas, and how much to bring."
 ---
 

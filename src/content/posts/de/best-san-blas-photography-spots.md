@@ -3,7 +3,7 @@ title: "Die Besten Fotospots in San Blas (Und Wann Man Sie Fotografiert)"
 excerpt: "Der Naturpool am Mittag und Cayos Holandeses bei Sonnenaufgang sind nicht austauschbar — hier ein echter Spot-für-Spot-Guide, um San Blas gut zu fotografieren."
 heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-05-27
-seoTitle: "Beste Fotospots in San Blas — Ein Echter Aufnahme-für-Aufnahme-Guide"
+seoTitle: "Beste Fotospots in San Blas"
 seoDescription: "Wo und wann Sie San Blas fotografieren: der Seestern-Sandstrand des Naturpools, Chichimes Postkartenstrände, Cayos Holandeses bei Sonnenaufgang, und mehr."
 ---
 

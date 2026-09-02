@@ -6,8 +6,8 @@ heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Cabaña para el grupo", "Island-hopping", "Snorkel en el barco hundido", "Tiempo de playa incluido"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]
-seoTitle: "Despedida de Soltero/a en San Blas — Paquete Grupal entre Islas"
-seoDescription: "Un viaje grupal a San Blas para una despedida de soltero o soltera: island-hopping, snorkel en el barco hundido de Perro Chico, y cabaña grupal — coordinado por WhatsApp según el tamaño real de tu grupo."
+seoTitle: "Despedida de Soltero/a en San Blas"
+seoDescription: "Un viaje grupal a San Blas para una despedida de soltero o soltera: island-hopping, snorkel en el barco hundido de Perro Chico."
 ---
 
 San Blas funciona bien para una despedida de grupo justamente porque no hay una zona de bares que gestionar — el día se arma alrededor de islas, snorkel y tiempo de playa, y el grupo se mantiene junto en vez de dividirse en distintos bares.

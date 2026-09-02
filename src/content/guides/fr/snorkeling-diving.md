@@ -3,8 +3,8 @@ title: "Snorkeling & Plongée à San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
 relatedIslandSlugs: ["perro-chico", "cayos-holandeses", "piscina-natural"]
-seoTitle: "Snorkeling à San Blas — Meilleurs Spots (Réponse Honnête sur la Plongée)"
-seoDescription: "Guide de snorkeling à San Blas : les meilleurs spots de récif et d'épave, l'équipement nécessaire, et une réponse honnête sur la disponibilité de la plongée."
+seoTitle: "Snorkeling à San Blas"
+seoDescription: "Guide de snorkeling à San Blas : les meilleurs spots de récif et d'épave, l'équipement nécessaire."
 ---
 
 San Blas est conçu pour le snorkeling, pas la plongée sous-marine.

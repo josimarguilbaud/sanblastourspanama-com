@@ -4,7 +4,7 @@ heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "Flights to San Blas Islands, Panama — What to Know"
-seoDescription: "Can you fly to San Blas? An honest look at small-aircraft flights to Guna Yala's airstrips, and why most day-tour visitors take the 4x4 and boat route instead."
+seoDescription: "Can you fly to San Blas? An honest look at small-aircraft flights to Guna Yala's airstrips."
 ---
 
 Guna Yala does have a small number of local airstrips, and small domestic aircraft occasionally serve a few of them from Panama City — so yes, flying into part of the archipelago is technically possible. Here's what to actually know before planning around it.

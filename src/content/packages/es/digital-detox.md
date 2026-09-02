@@ -6,8 +6,8 @@ heroImage: "/img/hamaca-palmeras-san-blas.webp"
 highlights: ["Sin itinerario diario fijo", "Un día libre completo", "Kayak y paddle", "Cero wifi, a propósito"]
 relatedTourSlugs: ["camping-under-stars-overnight", "cabana-privada-deluxe-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]
-seoTitle: "Desconexión Digital en San Blas — Paquete de Varios Días sin Conexión"
-seoDescription: "Un viaje genuinamente desconectado a San Blas: sin itinerario diario fijo, un día libre completo, e islas de verdadera tranquilidad como Nugnudub — la mayoría de San Blas ya no tiene señal confiable, este paquete aprovecha eso en vez de pelear contra ello."
+seoTitle: "Desconexión Digital en San Blas"
+seoDescription: "Un viaje genuinamente desconectado a San Blas: sin itinerario diario fijo, un día libre completo."
 ---
 
 La mayor parte de San Blas ya tiene señal débil o nula — este paquete es para viajeros que quieren planear alrededor de eso en vez de tratarlo como un problema a resolver.

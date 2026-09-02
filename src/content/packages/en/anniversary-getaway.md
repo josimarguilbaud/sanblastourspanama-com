@@ -6,8 +6,8 @@ heroImage: "/img/pareja-aguas-turquesas-san-blas.webp"
 highlights: ["Overwater or deluxe private cabin", "One flexible free day", "Revisit-friendly, low-rush pace", "Island choice based on what you loved (or missed) before"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["isla-diablo", "perro-grande"]
-seoTitle: "San Blas Anniversary Trip — Island Getaway for Returning Couples"
-seoDescription: "A San Blas anniversary package for couples who've been before or want more time than a standard overnight — a deluxe or overwater cabin, one fully open day, and an itinerary shaped around what you actually want this time."
+seoTitle: "San Blas Anniversary Trip"
+seoDescription: "A San Blas anniversary package for couples who've been before or want more time than a standard overnight — a deluxe or overwater cabin."
 ---
 
 A lot of anniversary trips end up as a repeat of the honeymoon itinerary by default, just because that's what the couple already knows. This package starts from a different question: what do you want to do differently this time?

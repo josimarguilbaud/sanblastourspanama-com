@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["snorkeling", "premium-tour", "reef-quality"]
 isInhabited: false
 relatedTourKeys: ["day_tour_cayos_holandeses"]
-seoTitle: "Cayos Holandeses, San Blas — Le Récif le Plus Éloigné et Préservé"
-seoDescription: "Cayos Holandeses est le récif le plus éloigné et le mieux préservé de San Blas — une excursion snorkeling premium avec départ plus matinal et taille de groupe minimale."
+seoTitle: "Cayos Holandeses, San Blas"
+seoDescription: "Cayos Holandeses est le récif le plus éloigné et le mieux préservé de San Blas : une sortie snorkeling premium au large."
 ---
 
 Demandez à n'importe quel guide de San Blas quel récif offre le meilleur snorkeling, et Cayos Holandeses arrive en premier. C'est le point le plus éloigné que la plupart des excursions atteignent — un lagon turquoise protégé par un anneau de corail, délibérément situé à l'écart des cayos plus proches et fréquentés.

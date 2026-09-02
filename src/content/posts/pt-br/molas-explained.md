@@ -4,7 +4,7 @@ excerpt: "Molas não são souvenirs feitos para turistas — são uma forma de a
 heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-04-05
 seoTitle: "O que é uma Mola? A Arte Têxtil Guna de San Blas Explicada"
-seoDescription: "Molas são painéis têxteis costurados à mão e em múltiplas camadas feitos por mulheres Guna em San Blas, Panamá — tradicionalmente usadas como roupa, não feitas para turistas."
+seoDescription: "Molas são painéis têxteis costurados à mão e em múltiplas camadas feitos por mulheres Guna em San Blas, Panamá — tradicionalmente usadas como roupa."
 ---
 
 **Uma mola é um painel têxtil costurado à mão e em múltiplas camadas feito por mulheres Guna em San Blas, tradicionalmente costurado como o painel frontal e traseiro de uma blusa. A técnica — chamada aplicação reversa — envolve empilhar várias camadas de tecido colorido e cortar através das camadas superiores para revelar as cores por baixo, depois costurar à mão cada borda cortada.**

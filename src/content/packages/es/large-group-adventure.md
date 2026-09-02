@@ -6,8 +6,8 @@ heroImage: "/img/grupo-grande-isla-san-blas.webp"
 highlights: ["4x4 y lancha privados", "Ruta de islas a medida", "Tarifa grupal coordinada", "Un solo punto de contacto"]
 relatedTourSlugs: ["super-vip-private-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["cayos-limones", "el-porvenir"]
-seoTitle: "Tours Grupales a San Blas — 4x4 y Lancha Privados para 10+ Personas"
-seoDescription: "Un viaje a San Blas para grupos demasiado grandes para un pasadía compartido estándar — transporte privado en 4x4 y lancha, ruta de islas a medida, y un solo punto de contacto por WhatsApp coordinando todo el grupo."
+seoTitle: "Tours Grupales a San Blas"
+seoDescription: "Un viaje a San Blas para grupos demasiado grandes para un pasadía compartido estándar — transporte privado en 4x4 y lancha, ruta de islas a medida."
 ---
 
 Los pasadías compartidos están armados alrededor de un tamaño de grupo fijo — una vez que una salida corporativa, un viaje familiar extendido o un grupo grande de amigos supera ese número, dividirse entre varios tours compartidos significa que tu grupo en realidad no viaja junto.

@@ -6,8 +6,8 @@ heroImage: "/img/grupo-grande-isla-san-blas.webp"
 highlights: ["Private 4x4 + boat", "Custom island route", "Group-rate coordination", "One point of contact"]
 relatedTourSlugs: ["super-vip-private-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["cayos-limones", "el-porvenir"]
-seoTitle: "San Blas Large Group Tours — Private 4x4 + Boat for 10+ People"
-seoDescription: "A San Blas trip for groups too large for a standard shared day tour — private 4x4 and boat transport, a custom island route, and one WhatsApp point of contact coordinating the whole group."
+seoTitle: "San Blas Large Group Tours"
+seoDescription: "A San Blas trip for groups too large for a standard shared day tour — private 4x4 and boat transport, a custom island route."
 ---
 
 Shared day tours are built around a fixed group size — once a corporate outing, extended family trip, or large friend group goes past that, splitting across multiple shared tours means your group doesn't actually travel together.

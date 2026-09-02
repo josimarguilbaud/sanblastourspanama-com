@@ -6,8 +6,8 @@ heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Group-size cabin", "Multi-island hopping", "Snorkel over the shipwreck", "Beach time built in"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]
-seoTitle: "San Blas Bachelor & Bachelorette Party — Group Island Package"
-seoDescription: "A San Blas group trip for a bachelor or bachelorette party: island-hopping, snorkeling over the Perro Chico shipwreck, and a group cabin — coordinated by WhatsApp around your actual group size."
+seoTitle: "San Blas Bachelor & Bachelorette Party"
+seoDescription: "A San Blas group trip for a bachelor or bachelorette party: island-hopping, snorkeling over the Perro Chico shipwreck."
 ---
 
 San Blas works well for a group send-off precisely because there isn't a nightlife strip to manage — the day is built around islands, snorkeling, and beach time, and the group stays together instead of splitting off to different bars.

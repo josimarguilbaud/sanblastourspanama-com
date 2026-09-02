@@ -8,8 +8,8 @@ duration: "Full day (~14 hours door-to-door)"
 bestFor: ["most-popular", "snorkeling", "guna-culture", "couples"]
 tourKey: "day_tour_vip"
 relatedIslandSlugs: ["perro-chico", "piscina-natural"]
-seoTitle: "VIP San Blas Day Tour — Snorkeling & Guna Community | Book via WhatsApp"
-seoDescription: "The VIP San Blas day tour is our most booked package: guided reef snorkeling, a Guna community visit, and more stops than the Classic tour. Message us on WhatsApp to book."
+seoTitle: "VIP San Blas Day Tour"
+seoDescription: "The VIP San Blas day tour is our most booked package: guided reef snorkeling, a Guna community visit, and more stops than the Classic tour."
 ---
 
 This is the tour most first-time visitors end up choosing, and it's easy to see why: it takes everything solid about the Classic day and adds the two experiences people ask for most — real guided snorkeling and a genuine visit to a Guna community.

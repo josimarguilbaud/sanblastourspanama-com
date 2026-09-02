@@ -7,7 +7,7 @@ bestFor: ["families", "calm-water", "short-transfer"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico"]
 seoTitle: "Isla Aguja, San Blas — Calm Water Close to the Mainland"
-seoDescription: "Isla Aguja is one of the closest San Blas islands to the Carti embarkation point, known for calm, shallow water that's ideal for families and less confident swimmers."
+seoDescription: "Isla Aguja is one of the closest San Blas islands to the Carti embarkation point, known for calm."
 ---
 
 If you're short on boat-transfer time or traveling with young kids, Isla Aguja is often the first stop on the itinerary — it's one of the closest cays to the Carti embarkation point, which means less time bouncing across open water and more time on the beach.

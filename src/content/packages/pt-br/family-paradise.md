@@ -6,7 +6,7 @@ heroImage: "/img/familia-aguas-tranquilas-san-blas.webp"
 highlights: ["Traslados mais curtos", "Ilhas de águas calmas", "Cabana familiar privativa", "Ritmo diário flexível"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "classic-day-tour"]
 relatedIslandSlugs: ["isla-aguja", "perro-grande"]
-seoTitle: "San Blas com Crianças — Pacote Familiar (Ilhas Calmas, Traslados Curtos)"
+seoTitle: "San Blas com Crianças"
 seoDescription: "Uma viagem em família a San Blas construída em torno de ilhas rasas e calmas e traslados mais curtos."
 ---
 

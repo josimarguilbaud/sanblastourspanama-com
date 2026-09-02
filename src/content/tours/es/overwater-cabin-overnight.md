@@ -7,8 +7,8 @@ gallery: []
 duration: "1–3 noches (máximo 3 por reserva)"
 bestFor: ["premium", "luna-de-miel", "fotografia", "parejas"]
 relatedIslandSlugs: []
-seoTitle: "Cabaña Overwater San Blas — Reserva la Estadía Nocturna Premium"
-seoDescription: "Cabaña Overwater es la opción nocturna premium de San Blas — una cabaña privada construida directamente sobre el agua. Ve qué incluye y reserva tu estadía en línea."
+seoTitle: "Cabaña Overwater San Blas"
+seoDescription: "Cabaña Overwater es la opción nocturna premium de San Blas — una cabaña privada construida directamente sobre el agua."
 ---
 
 Esta es la forma más fotografiada de dormir en San Blas — una cabaña construida directamente sobre el agua, donde el sonido del mar está literalmente debajo de ti toda la noche.

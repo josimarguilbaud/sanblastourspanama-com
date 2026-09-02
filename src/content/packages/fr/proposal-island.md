@@ -6,7 +6,7 @@ heroImage: "/img/veleros-atardecer-san-blas.webp"
 highlights: ["Fenêtre de moment privé sur l'île", "Cabane overwater ou en bord de plage", "Chronométré pour la lumière du coucher de soleil", "Discret — pas de photographe mis en scène sauf demande"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
-seoTitle: "Voyage pour Demande en Mariage à San Blas — Moment Privé sur Île"
+seoTitle: "Voyage pour Demande en Mariage à San Blas"
 seoDescription: "Planifier une demande en mariage à San Blas : comment organiser une fenêtre privée sur une île plus calme chronométrée pour le coucher du soleil."
 ---
 

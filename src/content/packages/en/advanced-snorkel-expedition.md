@@ -6,8 +6,8 @@ heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Dutch Cays' remote reef", "Shipwreck snorkel included", "Smaller group, more water time", "Early departure for calmer water"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]
-seoTitle: "San Blas Advanced Snorkeling Package — Dutch Cays Reef Expedition"
-seoDescription: "A San Blas snorkeling package built for groups who want more time in the water and fewer islands ticked off: Dutch Cays' remote reef, the Perro Chico shipwreck, and an earlier departure for calmer conditions."
+seoTitle: "San Blas Advanced Snorkeling Package"
+seoDescription: "A San Blas snorkeling package built for groups who want more time in the water and fewer islands ticked off: Dutch Cays' remote reef."
 ---
 
 We're upfront that San Blas doesn't have scuba diving infrastructure — see our snorkeling and diving guide for the full honest answer on that. What it does have is genuinely strong snorkeling, and this package is for groups who want to prioritize water time over island-hopping.

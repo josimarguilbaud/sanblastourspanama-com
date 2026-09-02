@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["families", "wading", "photography", "starfish"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "The Natural Pool, San Blas — Wade the Famous Starfish Sandbar"
-seoDescription: "The Natural Pool (Piscina Natural) is San Blas's most famous sandbar — a waist-deep stretch of open water known for its visible starfish. What to expect and which tours include it."
+seoTitle: "The Natural Pool, San Blas"
+seoDescription: "The Natural Pool (Piscina Natural) is San Blas's most famous sandbar — a waist-deep stretch of open water known for its visible starfish."
 ---
 
 Not every San Blas stop is an island — the Natural Pool is a sandbar rising out of open water, shallow enough to stand in comfortably while the sea stretches out around you in every direction. It's one of the most consistently included stops across San Blas itineraries, and for good reason.

@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["opciones-veganas", "hospedaje"]
 isInhabited: true
 relatedTourKeys: []
-seoTitle: "Isla Franklin, San Blas — La Isla Amigable con la Dieta Vegana"
+seoTitle: "Isla Franklin, San Blas"
 seoDescription: "Isla Franklin es una isla de San Blas conocida por algo poco común en el archipiélago: opciones de comida vegana genuinas para huéspedes que pernoctan."
 ---
 

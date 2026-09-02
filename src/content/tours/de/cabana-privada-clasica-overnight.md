@@ -7,7 +7,7 @@ gallery: []
 duration: "1–3 Nächte (max. 3 pro Buchung)"
 bestFor: ["couples", "privacy", "mid-range"]
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "San Blas Private Hütte (Cabaña Privada Clásica) — Übernachtung"
+seoTitle: "San Blas Private Hütte (Cabaña Privada Clásica)"
 seoDescription: "Cabaña Privada Clásica ist die einfache, private Strandhütten-Option von San Blas — Ihr eigener Raum ohne Premium-Preis."
 ---
 

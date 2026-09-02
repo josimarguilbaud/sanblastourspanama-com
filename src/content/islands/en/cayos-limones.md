@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["island-hopping", "snorkeling", "photography"]
 isInhabited: false
 relatedTourKeys: ["day_tour_vip"]
-seoTitle: "Limones Cays, San Blas — Island-Hopping Through Crystal-Clear Water"
+seoTitle: "Limones Cays, San Blas"
 seoDescription: "The Limones Cays are a cluster of small, uninhabited San Blas islands perfect for island-hopping, with some of the clearest water in the archipelago."
 ---
 

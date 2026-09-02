@@ -8,7 +8,7 @@ duration: "Journée complète (~14 heures porte-à-porte)"
 bestFor: ["first-timers", "budget-conscious", "families"]
 tourKey: "day_tour_basico"
 relatedIslandSlugs: ["piscina-natural"]
-seoTitle: "Excursion Classic San Blas — Réservation via WhatsApp | Depuis Panama City"
+seoTitle: "Excursion Classic San Blas"
 seoDescription: "L'excursion Classic à San Blas : une île plus la célèbre Piscine Naturelle, transport porte-à-porte, déjeuner inclus."
 ---
 

@@ -8,7 +8,7 @@ bestFor: ["snorkeling", "day-trip", "photography", "families"]
 isInhabited: true
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
 seoTitle: "Chichime Island, San Blas — The Postcard Cays of Guna Yala"
-seoDescription: "Everything you need to know about Chichime Island in San Blas: two tiny palm-covered cays, a Guna fishing village, snorkeling reefs, and how to get there from Panama City."
+seoDescription: "Everything you need to know about Chichime Island in San Blas: two tiny palm-covered cays, a Guna fishing village, snorkeling reefs."
 ---
 
 Chichime is actually two small cays sitting side by side, separated by a shallow channel you can wade across at low tide — which is exactly why it's one of the most photographed spots in the whole San Blas archipelago. Powder-white sand, a curtain of leaning palm trees, and water that shifts from pale turquoise to deep blue within a few meters of the shore.

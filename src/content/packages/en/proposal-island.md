@@ -6,8 +6,8 @@ heroImage: "/img/veleros-atardecer-san-blas.webp"
 highlights: ["Private island moment window", "Overwater or beachfront cabin", "Timed for sunset light", "Discreet — no staged photographer unless you ask"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
-seoTitle: "San Blas Proposal Trip — Private Island Moment | Custom Package"
-seoDescription: "Planning a proposal in San Blas: how to arrange a private window on a quieter island timed for sunset, with an overwater or beachfront cabin — coordinated discreetly over WhatsApp, no staged package."
+seoTitle: "San Blas Proposal Trip"
+seoDescription: "Planning a proposal in San Blas: how to arrange a private window on a quieter island timed for sunset."
 ---
 
 If you're planning a proposal, the two things that actually matter are timing and privacy — which island gets used for a photo doesn't matter nearly as much as making sure the moment itself isn't surrounded by other tour groups.

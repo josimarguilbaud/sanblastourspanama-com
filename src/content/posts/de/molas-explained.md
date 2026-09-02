@@ -4,7 +4,7 @@ excerpt: "Molas sind keine für Touristen gemachten Souvenirs — sie sind eine 
 heroImage: "/img/calle-aldea-guna-yala.webp"
 publishedAt: 2026-04-05
 seoTitle: "Was Ist eine Mola? San Blas' Guna-Textilkunst Erklärt"
-seoDescription: "Molas sind handgenähte, mehrschichtige Textilpaneele, hergestellt von Guna-Frauen in San Blas, Panama — traditionell als Kleidung getragen, nicht für Touristen gemacht."
+seoDescription: "Molas sind handgenähte, mehrschichtige Textilpaneele, hergestellt von Guna-Frauen in San Blas, Panama — traditionell als Kleidung getragen."
 ---
 
 **Eine Mola ist ein handgenähtes, mehrschichtiges Textilpaneel, hergestellt von Guna-Frauen in San Blas, traditionell als Vorder- und Rückenteil einer Bluse genäht. Die Technik — genannt umgekehrte Applikation — besteht darin, mehrere Schichten farbigen Stoffs zu stapeln und durch die oberen Schichten zu schneiden, um die Farben darunter freizulegen, dann jeden Schnittrand von Hand zuzunähen.**

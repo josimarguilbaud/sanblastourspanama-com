@@ -3,7 +3,7 @@ title: "Estadias Noturnas em San Blas — 5 Tipos de Cabana Explicados"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "Estadia Noturna San Blas — Tipos de Cabana, Roteiros e Inclusões"
+seoTitle: "Estadia Noturna San Blas"
 seoDescription: "Pensando em dormir em San Blas? Compare os 5 tipos de cabana, o que está incluído, e exemplos de roteiros de 2 a 4 dias."
 ---
 

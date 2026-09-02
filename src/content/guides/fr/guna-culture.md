@@ -3,8 +3,8 @@ title: "Culture Guna : Ce Qu'il Faut Savoir Avant de Visiter San Blas"
 heroImage: "/img/mujeres-guna-molas-celebracion.webp"
 relatedGuideSlugs: ["history-of-san-blas", "about-san-blas", "eco-tourism"]
 relatedIslandSlugs: ["nugnudub", "el-porvenir"]
-seoTitle: "Culture Guna à San Blas — Un Guide Respectueux pour Voyageurs"
-seoDescription: "San Blas (Guna Yala) est un territoire autonome gouverné par le peuple Guna. Ce que les voyageurs devraient savoir sur la culture, l'étiquette et le modèle touristique communautaire."
+seoTitle: "Culture Guna à San Blas"
+seoDescription: "San Blas (Guna Yala) est un territoire autonome gouverné par le peuple Guna. Ce que les voyageurs devraient savoir sur la culture."
 ---
 
 San Blas n'est pas seulement un ensemble de belles îles — c'est Guna Yala, une comarca autonome gouvernée par le peuple Guna.

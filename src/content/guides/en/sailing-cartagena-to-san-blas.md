@@ -4,7 +4,7 @@ heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
 relatedIslandSlugs: ["cayos-holandeses"]
 seoTitle: "Cartagena to San Blas by Boat — Sailing Route Explained"
-seoDescription: "Thinking about sailing from Cartagena, Colombia to San Blas, Panama? Here's an honest overview of how that route works, and a simpler alternative if you just want to see San Blas."
+seoDescription: "Thinking about sailing from Cartagena, Colombia to San Blas, Panama? Here's an honest overview of how that route works."
 ---
 
 If you've searched "Cartagena to San Blas," you've probably seen multi-day sailing trips advertised as a way to cross between Colombia and Panama, with San Blas as a scenic stop along the way. Here's a straight answer on how that works — and how it's different from what we offer.

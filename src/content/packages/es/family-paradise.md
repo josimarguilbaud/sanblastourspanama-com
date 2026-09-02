@@ -6,8 +6,8 @@ heroImage: "/img/familia-aguas-tranquilas-san-blas.webp"
 highlights: ["Traslados más cortos", "Islas de aguas tranquilas", "Cabaña privada familiar", "Ritmo diario flexible"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "classic-day-tour"]
 relatedIslandSlugs: ["isla-aguja", "perro-grande"]
-seoTitle: "San Blas con Niños — Paquete Familiar (Islas Tranquilas, Traslados Cortos)"
-seoDescription: "Un viaje familiar a San Blas armado alrededor de islas de aguas poco profundas y tranquilas, y traslados más cortos en vez de las rutas más largas — cabaña privada, ritmo más lento, itinerario real que ayudas a armar por WhatsApp."
+seoTitle: "San Blas con Niños: Paquete Familiar"
+seoDescription: "Un viaje familiar a San Blas armado alrededor de islas de aguas poco profundas y tranquilas."
 ---
 
 El error más común de las familias que reservan San Blas por su cuenta es elegir el tour con más islas por día. Más paradas significa más tiempo en mar abierto, y esa es la parte que cansa a los niños y preocupa a los padres — no las islas en sí.

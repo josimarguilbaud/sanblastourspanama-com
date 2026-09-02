@@ -3,8 +3,8 @@ title: "¿Pasadía o Estadía Nocturna en San Blas? Cómo Elegir"
 excerpt: "Ambas opciones te llevan a island-hopping y snorkel sobre un barco hundido. Aquí está la diferencia real — y para quién es cada una."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-07-08
-seoTitle: "Pasadía vs Estadía Nocturna en San Blas — ¿Cuál Deberías Reservar?"
-seoDescription: "Comparando un pasadía de San Blas con una estadía de varias noches en cabaña: qué es realmente diferente, qué se mantiene igual, y cómo decidir cuál encaja con tu viaje."
+seoTitle: "Pasadía vs Estadía Nocturna en San Blas"
+seoDescription: "Comparando un pasadía de San Blas con una estadía de varias noches en cabaña: qué es realmente diferente, qué se mantiene igual."
 ---
 
 Es la primera decisión real que enfrenta la mayoría de la gente al planear un viaje a San Blas: ¿ir por un solo día, o quedarse una noche (o tres)? Ambas te llevan a las islas, ambas incluyen el paseo en lancha hasta el arrecife y snorkel sobre el famoso barco hundido — entonces, ¿qué cambia realmente?

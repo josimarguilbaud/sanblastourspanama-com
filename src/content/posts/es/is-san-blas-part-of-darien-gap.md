@@ -3,8 +3,8 @@ title: "¿Es San Blas Parte del Tapón del Darién? Aclarando una Confusión Com
 excerpt: "San Blas y el Tapón del Darién son ambos partes remotas de Panamá cerca de Colombia — pero no son el mismo lugar, y confundirlos puede afectar cómo planeas tu viaje."
 heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-04-21
-seoTitle: "¿Es San Blas el Tapón del Darién? No — Aquí la Diferencia Real"
-seoDescription: "San Blas (Guna Yala) y el Tapón del Darién son dos regiones separadas de Panamá cerca de la frontera con Colombia. Aquí lo que las distingue y por qué ocurre la confusión."
+seoTitle: "¿Es San Blas el Tapón del Darién? No"
+seoDescription: "San Blas (Guna Yala) y el Tapón del Darién son dos regiones separadas de Panamá cerca de la frontera con Colombia."
 ---
 
 **No, San Blas no es el Tapón del Darién. Ambos son regiones remotas de Panamá cerca de la frontera con Colombia, pero San Blas (Guna Yala) es un archipiélago de islas en la costa caribeña que es un destino turístico establecido y seguro, mientras que el Tapón del Darién es una región selvática en el interior, más al sur, conocida por su terreno sin carreteras y rutas migratorias — no un destino turístico.**

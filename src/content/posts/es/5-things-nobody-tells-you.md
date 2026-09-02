@@ -3,7 +3,7 @@ title: "5 Cosas Que Nadie Te Dice Antes de Visitar San Blas"
 excerpt: "La lista de empaque cubre protector solar y traje de baño. No cubre estas cinco cosas que realmente sorprenden a los visitantes primerizos."
 heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-06-30
-seoTitle: "5 Cosas Que Nadie Te Dice Antes de Visitar las Islas de San Blas"
+seoTitle: "5 Cosas Que Nadie Te Dice de San Blas"
 seoDescription: "Consejos prácticos y poco conocidos para las Islas de San Blas: efectivo, fauna, tiempos, y otras cosas que suelen sorprender a los visitantes primerizos."
 ---
 

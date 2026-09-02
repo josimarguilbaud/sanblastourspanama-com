@@ -3,8 +3,8 @@ title: "Dá Para Mergulhar com Cilindro em San Blas? A Resposta Honesta"
 excerpt: "San Blas é feito para snorkel, não mergulho com cilindro. Aqui a resposta direta sobre o que realmente está disponível, e por quê."
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-04-25
-seoTitle: "Mergulho com Cilindro em San Blas — Está Disponível? A Resposta Real"
-seoDescription: "Passeios padrão de San Blas não incluem mergulho com cilindro. Aqui por que o arquipélago é feito para snorkel em vez disso, e o que esperar realisticamente."
+seoTitle: "Mergulho com Cilindro em San Blas"
+seoDescription: "Passeios padrão de San Blas não incluem mergulho com cilindro. Aqui por que o arquipélago é feito para snorkel em vez disso."
 ---
 
 **Não — passeios de um dia e estadias noturnas padrão de San Blas não incluem mergulho com cilindro. San Blas é construído em torno de snorkel em águas rasas e claras: os recifes aqui geralmente têm apenas alguns metros de profundidade, ideais para snorkel mas não preparados para excursões de mergulho com cilindro.**

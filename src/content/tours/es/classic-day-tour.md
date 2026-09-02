@@ -8,7 +8,7 @@ duration: "Día completo (~14 horas puerta a puerta)"
 bestFor: ["primera-vez", "economico", "familias"]
 tourKey: "day_tour_basico"
 relatedIslandSlugs: ["piscina-natural"]
-seoTitle: "Tour Clásico a San Blas — Reserva por WhatsApp | Desde Ciudad de Panamá"
+seoTitle: "Tour Clásico a San Blas"
 seoDescription: "El Tour Clásico a San Blas: una isla más la famosa Piscina Natural, transporte puerta a puerta, almuerzo incluido. Escríbenos por WhatsApp para reservar."
 ---
 

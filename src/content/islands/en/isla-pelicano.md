@@ -7,7 +7,7 @@ bestFor: ["photography", "snorkeling", "premium-tour"]
 isInhabited: false
 relatedTourKeys: ["day_tour_super_vip_privado"]
 seoTitle: "Isla Pelícano, San Blas — The Money Heist Filming Location"
-seoDescription: "Isla Pelícano is the small San Blas island used as a filming location for Netflix's Money Heist (La Casa de Papel). Here's how to visit it and what makes it worth the extra distance."
+seoDescription: "Isla Pelícano is the small San Blas island used as a filming location for Netflix's Money Heist (La Casa de Papel)."
 ---
 
 Isla Pelícano — known by its Guna name **Isla Gorgidub** — earned a very specific kind of fame: it's one of the filming locations used for Netflix's *Money Heist* (*La Casa de Papel*), and fans of the show sometimes plan their whole San Blas trip around seeing it in person. Even without the Netflix connection, it's a striking island — set further out toward the [Dutch Cays](/islands/cayos-holandeses), with clearer water and fewer boats than the islands closer to Carti.

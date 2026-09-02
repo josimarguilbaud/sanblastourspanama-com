@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import BookingCta from '../../components/BookingCta.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { localesForSlug } from '../../i18n/content';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('posts');
@@ -19,6 +20,11 @@ const { Content } = await render(entry);
 const { title, excerpt, heroImage, publishedAt, seoTitle, seoDescription } = entry.data;
 const slug = entry.id.replace(/^en\//, '');
 
+// Los idiomas en los que existe este post. Sin esto el blog no declaraba sus
+// traducciones y Google no podia emparejarlas; el resto del sitio ya lo hacia.
+const allPostsParaLocales = await getCollection('posts');
+const availableLocales = localesForSlug(allPostsParaLocales, slug);
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -30,6 +36,7 @@ const jsonLd = {
 ---
 
 <Layout
+  availableLocales={availableLocales}
   title={seoTitle ?? `${title} — San Blas Islands Blog`}
   description={seoDescription ?? excerpt}
   image={heroImage}

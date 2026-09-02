@@ -8,7 +8,7 @@ duration: "Journée complète (~14h porte-à-porte), 8h30–15h00 sur les îles"
 bestFor: ["variety-seekers", "families", "guna-culture"]
 tourKey: "day_tour_isla_diablo"
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "Excursion Isla Diablo, San Blas — Itinéraire Complet | WhatsApp"
+seoTitle: "Excursion Isla Diablo, San Blas"
 seoDescription: "L'excursion Isla Diablo suit son propre itinéraire à travers le groupe Isla Perro, avec un arrêt communauté Guna et la Piscine aux Étoiles de Mer."
 ---
 

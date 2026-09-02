@@ -3,8 +3,8 @@ title: "Que Mettre dans sa Valise pour San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
 relatedIslandSlugs: []
-seoTitle: "Liste de Bagages San Blas — Quoi Apporter pour une Excursion ou un Séjour"
-seoDescription: "Une liste de bagages pratique pour les Îles de San Blas, Panama, couvrant les excursions d'une journée et les séjours en cabane — y compris ce qu'il NE FAUT PAS apporter."
+seoTitle: "Liste de Bagages San Blas"
+seoDescription: "Une liste de bagages pratique pour San Blas, Panama, pour les excursions d’une journée comme pour les nuits sur l’île."
 ---
 
 San Blas est isolé — pas de distributeurs automatiques, peu de magasins, espace de rangement limité sur les bateaux.

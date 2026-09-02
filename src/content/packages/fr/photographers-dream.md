@@ -7,7 +7,7 @@ highlights: ["Accès au lever et coucher de soleil", "Cayos reculés et dégagé
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "isla-pelicano"]
 seoTitle: "Voyage Photo à San Blas — Heure Dorée, Cayos Reculés"
-seoDescription: "Un voyage à San Blas construit pour la photographie : accès au lever et coucher de soleil depuis une cabane nocturne, îles reculées plutôt que les arrêts les plus fréquentés."
+seoDescription: "Un voyage à San Blas construit pour la photographie : accès au lever et coucher de soleil depuis une cabane nocturne."
 ---
 
 Nous ancrons ceci autour d'un séjour nocturne pour que vous soyez réellement sur une île au lever et au coucher du soleil, pas sur un bateau de retour.

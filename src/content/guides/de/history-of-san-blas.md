@@ -3,7 +3,7 @@ title: "Geschichte von San Blas: Die Guna-Revolution und Guna Yalas Autonomie"
 heroImage: "/img/mujer-guna-cabana-tradicional.webp"
 relatedGuideSlugs: ["guna-culture", "about-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
-seoTitle: "Geschichte von San Blas — Die Guna-Revolution von 1925 Erklärt"
+seoTitle: "Geschichte von San Blas"
 seoDescription: "Die reale Geschichte hinter San Blas: wie die Guna-Revolution von 1925 Guna Yala die Autonomie von Panama erkämpfte."
 ---
 

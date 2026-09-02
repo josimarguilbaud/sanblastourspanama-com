@@ -6,8 +6,8 @@ heroImage: "/img/relax-playa-san-blas.webp"
 highlights: ["Ruhige Insel, wenig Verkehr", "Offener Strand und Deck", "Flexible, unverplante Tage", "Bringen Sie Ihre eigene Praxis mit"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]
-seoTitle: "Wellness-Retreat in San Blas — Ruhige Inselbasis für Yoga & Meditation"
-seoDescription: "Ein ehrliches Wellness-Paket: eine ruhige San-Blas-Insel mit offenem Strand für Ihre eigene Yoga- oder Meditationspraxis — wir bieten die richtige Insel, keinen Kursleiter."
+seoTitle: "Wellness-Retreat in San Blas"
+seoDescription: "Ein ehrliches Wellness-Paket: eine ruhige San-Blas-Insel mit offenem Strand für Ihre eigene Yoga- oder Meditationspraxis — wir bieten die richtige Insel."
 ---
 
 Seien wir direkt: Wir haben keinen Yogalehrer oder ein Wellness-Programm im Personal. Was wir bieten können, ist das Setting — eine ruhige Insel, unverplante Zeit.

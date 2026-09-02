@@ -3,8 +3,8 @@ title: "How Many Islands Does San Blas Actually Have?"
 excerpt: "You'll see 365, 378, and 400+ all cited as 'the' number. Here's why the count varies and what the honest answer actually is."
 heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-01
-seoTitle: "How Many Islands Does San Blas Have? The Real Number Explained"
-seoDescription: "San Blas has somewhere between 365 and 378+ islands and cays, depending on how small sandbars are counted — and only about 40-50 are inhabited. Here's the honest breakdown."
+seoTitle: "How Many Islands Does San Blas Have?"
+seoDescription: "San Blas has somewhere between 365 and 378+ islands and cays, depending on how small sandbars are counted — and only about 40-50 are inhabited."
 ---
 
 **San Blas (Guna Yala) has more than 365 islands and cays, with some counts running as high as 378 — the exact number depends on how small, uninhabited sandbars are counted. Only around 40 to 50 of them are actually inhabited by Guna communities.**

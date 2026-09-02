@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["guna-governance", "entry-point"]
 isInhabited: true
 relatedTourKeys: []
-seoTitle: "El Porvenir, San Blas — A Capital Administrativa de Guna Yala"
-seoDescription: "El Porvenir é a pequena ilha que serve como centro administrativo de Guna Yala — sede da principal pista de pouso da região e de seus escritórios de governo."
+seoTitle: "El Porvenir, San Blas"
+seoDescription: "El Porvenir é o centro administrativo de Guna Yala: sede da pista de pouso e porta de entrada oficial do arquipélago."
 ---
 
 A maioria dos roteiros de passeio de um dia em San Blas nunca para aqui, mas vale a pena conhecer: **El Porvenir** é a capital administrativa de Guna Yala, o mais próximo que a região tem de um portão de entrada oficial.

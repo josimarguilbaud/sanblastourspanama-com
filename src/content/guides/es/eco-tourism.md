@@ -3,8 +3,8 @@ title: "Ecoturismo en San Blas: Cómo Ayuda tu Visita"
 heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
 relatedIslandSlugs: ["nugnudub"]
-seoTitle: "Ecoturismo en San Blas — Viaje Sostenible y Comunitario en Guna Yala"
-seoDescription: "Cómo funciona el ecoturismo en San Blas: turismo administrado por Gunas, conservación de arrecifes e islas, y qué pueden hacer los viajeros responsables para ayudar."
+seoTitle: "Ecoturismo en San Blas"
+seoDescription: "Cómo funciona el ecoturismo en San Blas: turismo administrado por Gunas, conservación de arrecifes e islas."
 ---
 
 San Blas ha evitado en gran medida el desarrollo de grandes resorts que ha transformado tanto del Caribe — y eso no es un accidente. Es el resultado directo del autogobierno Guna (ver nuestra [guía de historia](/es/guides/history-of-san-blas)) eligiendo turismo comunitario a pequeña escala en vez de desarrollo masivo.

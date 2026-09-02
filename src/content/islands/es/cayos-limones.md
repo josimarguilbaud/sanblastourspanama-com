@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["island-hopping", "snorkel", "fotografia"]
 isInhabited: false
 relatedTourKeys: ["day_tour_vip"]
-seoTitle: "Cayos Limones, San Blas — Island-Hopping en Aguas Cristalinas"
-seoDescription: "Los Cayos Limones son un grupo de pequeñas islas deshabitadas de San Blas, perfectas para hacer island-hopping, con algunas de las aguas más transparentes del archipiélago."
+seoTitle: "Cayos Limones, San Blas"
+seoDescription: "Los Cayos Limones son un grupo de pequeñas islas deshabitadas de San Blas, perfectas para hacer island-hopping."
 ---
 
 Los Cayos Limones no son una sola isla, sino un pequeño racimo de ellas, lo suficientemente cerca entre sí como para que las lanchas puedan saltar de una a otra en el transcurso de una tarde. Es el archipiélago en su versión más fotogénica: pequeños círculos de arena blanca rodeados de palmeras, envueltos en un agua tan transparente que se ve el fondo desde la lancha antes de siquiera saltar al agua.

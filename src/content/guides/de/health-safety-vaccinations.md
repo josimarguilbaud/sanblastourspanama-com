@@ -3,7 +3,7 @@ title: "San Blas Gesundheit, Sicherheit & Impfinformationen"
 heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: []
-seoTitle: "San Blas Gesundheit & Impfinformationen — Was Vor der Reise zu Prüfen Ist"
+seoTitle: "San Blas Gesundheit & Impfinformationen"
 seoDescription: "Praktische Gesundheits- und Sicherheitshinweise für San Blas, Panama: was vor der Reise zu prüfen ist, und allgemeine Vorsichtsmaßnahmen."
 ---
 

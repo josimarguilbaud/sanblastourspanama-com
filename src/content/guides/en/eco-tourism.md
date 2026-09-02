@@ -3,7 +3,7 @@ title: "Eco-Tourism in San Blas: How Your Visit Helps"
 heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
 relatedIslandSlugs: ["nugnudub"]
-seoTitle: "San Blas Eco-Tourism — Sustainable, Community-Run Travel in Guna Yala"
+seoTitle: "San Blas Eco-Tourism"
 seoDescription: "How eco-tourism works in San Blas: Guna-run tourism, conservation of the reefs and islands, and what responsible travelers can do to help."
 ---
 

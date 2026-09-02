@@ -7,8 +7,8 @@ gallery: []
 duration: "1–3 nights (max 3 per booking)"
 bestFor: ["adventurous", "stargazing", "unique-experience"]
 relatedIslandSlugs: []
-seoTitle: "San Blas Camping Under the Stars — Book an Unforgettable Overnight"
-seoDescription: "Camping Bajo las Estrellas lets you sleep under San Blas's genuinely dark, star-filled sky — the most direct way to experience an overnight stay in Guna Yala."
+seoTitle: "San Blas Camping Under the Stars"
+seoDescription: "Camping Bajo las Estrellas lets you sleep under San Blas's genuinely dark."
 ---
 
 Guna Yala has essentially no light pollution, and this is the overnight option built specifically around that fact — sleeping under an open sky, with more stars visible than most travelers have ever seen in one place.

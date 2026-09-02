@@ -3,8 +3,8 @@ title: "What You'll Actually Eat in San Blas: A Real Guide to Guna Food"
 excerpt: "Fresh fish, coconut rice, and plantains — here's an honest look at what meals in San Blas actually look like, and where the real limits are."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-04-09
-seoTitle: "San Blas Food Guide — What You'll Actually Eat (Guna Cuisine)"
-seoDescription: "What meals in San Blas actually include: fresh fish, coconut rice, plantains, and traditional Guna dinners — plus an honest look at vegetarian, vegan, and dietary options."
+seoTitle: "San Blas Food: What You Will Actually Eat"
+seoDescription: "What meals in San Blas actually include: fresh fish, coconut rice, plantains, and traditional Guna dinners — plus an honest look at vegetarian, vegan."
 ---
 
 **Meals in San Blas center on fresh fish, coconut rice, and plantains, prepared by Guna families as part of your tour or overnight stay. Shellfish like lobster, crab, or calamari depend on what's fresh that day, and vegetarian or vegan options exist but are limited — worth flagging in advance if it matters to your trip.**

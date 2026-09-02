@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["familias", "vadear", "fotografia", "estrellas-de-mar"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Piscina Natural, San Blas — Camina en el Banco de Arena de las Estrellas de Mar"
-seoDescription: "La Piscina Natural es el banco de arena más famoso de San Blas — un tramo de mar abierto con agua a la cintura, conocido por sus estrellas de mar visibles. Qué esperar y qué tours la incluyen."
+seoTitle: "Piscina Natural, San Blas"
+seoDescription: "La Piscina Natural es el banco de arena más famoso de San Blas — un tramo de mar abierto con agua a la cintura, conocido por sus estrellas de mar visibles."
 ---
 
 No toda parada en San Blas es una isla — la Piscina Natural es un banco de arena que emerge en mar abierto, lo suficientemente poco profundo como para pararte cómodamente mientras el mar se extiende a tu alrededor en todas direcciones. Es una de las paradas más incluidas en los itinerarios de San Blas, y con buena razón.

@@ -3,8 +3,8 @@ title: "Ist San Blas Teil der Darién-Lücke? Ein Häufiges Missverständnis Gek
 excerpt: "San Blas und die Darién-Lücke sind beide abgelegene Teile Panamas nahe Kolumbien — aber es sind nicht dieselben Orte, und sie zu verwechseln kann Ihre Reiseplanung beeinflussen."
 heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-04-21
-seoTitle: "Ist San Blas die Darién-Lücke? Nein — Hier der Echte Unterschied"
-seoDescription: "San Blas (Guna Yala) und die Darién-Lücke sind zwei separate Regionen Panamas nahe der kolumbianischen Grenze. Hier, was sie unterscheidet und warum die Verwechslung passiert."
+seoTitle: "Ist San Blas die Darién-Lücke? Nein"
+seoDescription: "San Blas (Guna Yala) und die Darién-Lücke sind zwei separate Regionen Panamas nahe der kolumbianischen Grenze."
 ---
 
 **Nein, San Blas ist nicht die Darién-Lücke. Beide sind abgelegene Regionen Panamas nahe der kolumbianischen Grenze, aber San Blas (Guna Yala) ist ein karibischer Insel-Archipel, der ein etabliertes, sicheres Tourismusziel ist, während die Darién-Lücke eine weiter südlich gelegene Dschungelregion im Landesinneren ist, bekannt für ihr straßenloses Gelände und Migrationsrouten — kein Touristenziel.**

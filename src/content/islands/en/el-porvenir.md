@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["guna-governance", "entry-point"]
 isInhabited: true
 relatedTourKeys: []
-seoTitle: "El Porvenir, San Blas — The Administrative Capital of Guna Yala"
+seoTitle: "El Porvenir, San Blas"
 seoDescription: "El Porvenir is the small island that serves as Guna Yala's administrative center — home to the region's main airstrip and its governing offices."
 ---
 

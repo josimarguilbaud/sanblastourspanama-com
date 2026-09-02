@@ -7,7 +7,7 @@ bestFor: ["familias", "aguas-tranquilas", "traslado-corto"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico"]
 seoTitle: "Isla Aguja, San Blas — Aguas Tranquilas Cerca del Continente"
-seoDescription: "Isla Aguja es una de las islas de San Blas más cercanas al punto de embarque de Cartí, conocida por sus aguas tranquilas y poco profundas, ideales para familias y nadadores menos experimentados."
+seoDescription: "Isla Aguja es una de las islas de San Blas más cercanas al punto de embarque de Cartí, conocida por sus aguas tranquilas y poco profundas."
 ---
 
 Si tienes poco tiempo de traslado en lancha o viajas con niños pequeños, Isla Aguja suele ser la primera parada del itinerario — es uno de los cayos más cercanos al punto de embarque de Cartí, lo que significa menos tiempo dando saltos sobre mar abierto y más tiempo en la playa.

@@ -7,7 +7,7 @@ bestFor: ["hospedaje", "snorkel", "familias", "economico"]
 isInhabited: true
 relatedTourKeys: ["day_tour_isla_diablo"]
 seoTitle: "Isla Diablo, San Blas — Cabañas Guna, Voleibol y Snorkel"
-seoDescription: "Isla Diablo es una isla familiar de San Blas cerca de Isla Perro, conocida por sus cabañas administradas por la comunidad Guna, aguas tranquilas y fácil acceso en pasadía desde Ciudad de Panamá."
+seoDescription: "Isla Diablo es una isla familiar de San Blas cerca de Isla Perro, conocida por sus cabañas administradas por la comunidad Guna."
 ---
 
 A pesar de su nombre dramático, Isla Diablo es una de las paradas más relajadas y familiares de San Blas. Está dentro del grupo de Isla Perro, a poca distancia en lancha de varios otros cayos populares, y es una base habitual para quienes quieren dormir en una cabaña Guna frente al mar en vez de regresar el mismo día a Ciudad de Panamá.

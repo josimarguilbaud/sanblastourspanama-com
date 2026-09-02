@@ -6,7 +6,7 @@ heroImage: "/img/despedida-soltero-san-blas.webp"
 highlights: ["Hütte für die Gruppe", "Island-Hopping", "Schnorcheln am Schiffswrack", "Strandzeit inklusive"]
 relatedTourSlugs: ["vip-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["perro-chico", "chichime"]
-seoTitle: "Junggesellenabschied in San Blas — Gruppenpaket über Mehrere Inseln"
+seoTitle: "Junggesellenabschied in San Blas"
 seoDescription: "Eine Gruppenreise nach San Blas für einen Junggesellen(innen)-Abschied: Island-Hopping, Schnorcheln am Perro-Chico-Wrack, und Gruppenhütte."
 ---
 

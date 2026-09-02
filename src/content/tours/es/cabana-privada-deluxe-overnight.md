@@ -8,7 +8,7 @@ duration: "1–3 noches (máximo 3 por reserva)"
 bestFor: ["parejas", "confort", "luna-de-miel"]
 relatedIslandSlugs: []
 seoTitle: "Estadía en Cabaña Privada Deluxe San Blas — Reserva tu Noche"
-seoDescription: "Cabaña Privada Deluxe ofrece confort mejorado en una cabaña privada frente al mar en San Blas. Ve qué incluye esta estadía nocturna y escríbenos por WhatsApp."
+seoDescription: "Cabaña Privada Deluxe ofrece confort mejorado en una cabaña privada frente al mar en San Blas."
 ---
 
 Mismo entorno privado frente al mar que nuestra cabaña Clásica, con un paso genuino más de confort — la elección para viajeros que quieren privacidad sin resignar cómo se siente realmente la noche.

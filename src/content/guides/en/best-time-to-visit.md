@@ -3,7 +3,7 @@ title: "Best Time to Visit San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
 relatedIslandSlugs: ["piscina-natural", "chichime"]
-seoTitle: "Best Time to Visit San Blas Islands, Panama — Weather & Seasons"
+seoTitle: "Best Time to Visit San Blas Islands, Panama"
 seoDescription: "When to visit San Blas: dry season vs rainy season, what changes with the weather, and why tours run year-round regardless."
 ---
 

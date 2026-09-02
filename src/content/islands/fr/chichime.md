@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["plongee-libre", "excursion-journee", "photographie", "familles"]
 isInhabited: true
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Île de Chichime, San Blas — Les Îlots de Carte Postale de Guna Yala"
-seoDescription: "Tout savoir sur l'île de Chichime à San Blas : deux petits îlots bordés de palmiers, un village de pêcheurs Guna, des récifs pour la plongée libre, et comment s'y rendre depuis Panama City."
+seoTitle: "Île de Chichime, San Blas"
+seoDescription: "Tout savoir sur l'île de Chichime à San Blas : deux petits îlots bordés de palmiers, un village de pêcheurs Guna, des récifs pour la plongée libre."
 ---
 
 Chichime est en réalité composée de deux petits îlots situés côte à côte, séparés par un chenal peu profond que l'on peut traverser à pied à marée basse — c'est d'ailleurs pour cela que c'est l'un des endroits les plus photographiés de tout l'archipel de San Blas. Sable blanc immaculé, rangée de palmiers penchés, et une eau qui passe du turquoise pâle au bleu profond en quelques mètres depuis le rivage.

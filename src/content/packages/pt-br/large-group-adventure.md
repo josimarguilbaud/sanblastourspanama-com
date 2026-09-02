@@ -6,7 +6,7 @@ heroImage: "/img/grupo-grande-isla-san-blas.webp"
 highlights: ["4x4 e lancha privativos", "Rota de ilhas sob medida", "Tarifa de grupo coordenada", "Um único ponto de contato"]
 relatedTourSlugs: ["super-vip-private-day-tour", "hostal-isleno-overnight"]
 relatedIslandSlugs: ["cayos-limones", "el-porvenir"]
-seoTitle: "Passeios em Grupo para San Blas — 4x4 e Lancha Privativos para 10+ Pessoas"
+seoTitle: "Passeios em Grupo para San Blas"
 seoDescription: "Uma viagem a San Blas para grupos grandes demais para um passeio compartilhado padrão — transporte privativo em 4x4 e lancha, rota de ilhas sob medida."
 ---
 

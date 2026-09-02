@@ -4,7 +4,7 @@ heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "Voos para as Ilhas de San Blas, Panamá — O Que Saber"
-seoDescription: "Dá para voar até San Blas? Um olhar honesto sobre voos de pequena aeronave para as pistas de Guna Yala, e por que a maioria dos visitantes prefere a rota de 4x4 e barco."
+seoDescription: "Dá para voar até San Blas? Um olhar honesto sobre voos de pequena aeronave para as pistas de Guna Yala."
 ---
 
 Guna Yala tem algumas poucas pistas de pouso locais, atendidas ocasionalmente por pequenas aeronaves domésticas saindo da Cidade do Panamá.

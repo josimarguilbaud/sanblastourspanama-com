@@ -7,8 +7,8 @@ gallery: []
 duration: "1–3 nights (max 3 per booking)"
 bestFor: ["couples", "privacy", "mid-range"]
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "San Blas Private Cabin Stay (Cabaña Privada Clásica) — Book Overnight"
-seoDescription: "Cabaña Privada Clásica is San Blas's simple, private beachfront cabin option — your own space without the premium price. See what's included and message us on WhatsApp."
+seoTitle: "San Blas Private Cabin Stay (Cabaña Privada Clásica)"
+seoDescription: "Cabaña Privada Clásica is San Blas's simple, private beachfront cabin option — your own space without the premium price."
 ---
 
 For couples or small groups who want their own private space without paying for the premium overwater experience, Cabaña Privada Clásica is the sweet spot — simple, private, and right on the beach.

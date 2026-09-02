@@ -3,7 +3,7 @@ title: "¿Es Seguro San Blas? Una Respuesta Práctica para Primerizos"
 excerpt: "Lanchas, islas remotas, sin señal de celular en algunas de ellas — una pregunta justa. Esto es lo que realmente importa para la seguridad en San Blas."
 heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 publishedAt: 2026-07-04
-seoTitle: "¿Es Seguro Visitar San Blas? Lanchas, Islas e Información Práctica de Seguridad"
+seoTitle: "¿Es Seguro Visitar San Blas? Lanchas e Islas"
 seoDescription: "Una mirada práctica a la seguridad en San Blas, Panamá: seguridad en lancha, acceso médico, riesgo de robo, y para quién no se recomienda el viaje."
 ---
 

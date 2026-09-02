@@ -3,8 +3,8 @@ title: "Los Mejores Puntos de Fotografía en San Blas (Y Cuándo Fotografiarlos)
 excerpt: "La Piscina Natural al mediodía y Cayos Holandeses al amanecer no son intercambiables — aquí una guía real, punto por punto, para fotografiar bien San Blas."
 heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 publishedAt: 2026-05-27
-seoTitle: "Mejores Puntos de Fotografía en San Blas — Una Guía Real Toma por Toma"
-seoDescription: "Dónde y cuándo fotografiar San Blas: el banco de arena de estrellas de mar de la Piscina Natural, las playas de postal de Chichime, Cayos Holandeses al amanecer, y más."
+seoTitle: "Mejores Puntos de Fotografía en San Blas"
+seoDescription: "Dónde y cuándo fotografiar San Blas: el banco de arena de estrellas de mar de la Piscina Natural, las playas de postal de Chichime."
 ---
 
 **Los mejores puntos de fotografía en San Blas son Chichime para las clásicas tomas de playa de postal, la Piscina Natural para fotos de estrellas de mar y banco de arena en agua abierta, Cayos Holandeses para tomas de arrecife y amanecer/atardecer sin multitudes, y una estadía nocturna en cabaña para fotografía genuina de hora dorada y cielo nocturno que el horario de un pasadía no puede alcanzar.**

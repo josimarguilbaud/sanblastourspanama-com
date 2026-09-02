@@ -3,8 +3,8 @@ title: "El Clima de San Blas Mes a Mes: Un Desglose Real de Viajero"
 excerpt: "Temporada seca y temporada de lluvias solo te dicen hasta cierto punto. Aquí una mirada más honesta, mes a mes, de qué clima realmente moldea un viaje a San Blas."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-15
-seoTitle: "Clima de San Blas por Mes — Temporada Seca, de Lluvias, y Qué Esperar"
-seoDescription: "Un desglose mes a mes del clima de San Blas: la temporada seca de diciembre a abril, la temporada de lluvias de mayo a noviembre, y qué cambia realmente para los viajeros en cada una."
+seoTitle: "Clima de San Blas por Mes"
+seoDescription: "Un desglose mes a mes del clima de San Blas: la temporada seca de diciembre a abril, la temporada de lluvias de mayo a noviembre."
 ---
 
 **San Blas tiene una temporada seca de aproximadamente diciembre a abril, con cielos más despejados y el período más concurrido, y una temporada de lluvias de mayo a noviembre, marcada por lluvias cortas e intensas en vez de lluvia todo el día. Los tours operan todo el año en ambas temporadas.**

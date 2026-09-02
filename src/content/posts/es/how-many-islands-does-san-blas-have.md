@@ -4,7 +4,7 @@ excerpt: "Verás 365, 378, y más de 400 citados como 'el' número. Aquí está 
 heroImage: "/img/turistas-piscina-natural-san-blas.webp"
 publishedAt: 2026-04-01
 seoTitle: "¿Cuántas Islas Tiene San Blas? El Número Real Explicado"
-seoDescription: "San Blas tiene entre 365 y más de 378 islas y cayos, según cómo se cuenten los bancos de arena pequeños — y solo unas 40-50 están habitadas. Aquí el desglose honesto."
+seoDescription: "San Blas tiene entre 365 y más de 378 islas y cayos, según cómo se cuenten los bancos de arena pequeños — y solo unas 40-50 están habitadas."
 ---
 
 **San Blas (Guna Yala) tiene más de 365 islas y cayos, con algunos conteos llegando hasta 378 — el número exacto depende de cómo se cuenten los bancos de arena pequeños y deshabitados. Solo unas 40 a 50 están realmente habitadas por comunidades Guna.**

@@ -8,7 +8,7 @@ duration: "Full day (~14 hours door-to-door)"
 bestFor: ["first-timers", "budget-conscious", "families"]
 tourKey: "day_tour_basico"
 relatedIslandSlugs: ["piscina-natural"]
-seoTitle: "Classic San Blas Day Tour — Book via WhatsApp | From Panama City"
+seoTitle: "Classic San Blas Day Tour"
 seoDescription: "The Classic San Blas day tour: one island plus the famous Natural Pool, door-to-door transport, lunch included. Message us on WhatsApp to book."
 ---
 

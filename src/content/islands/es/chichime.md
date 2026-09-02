@@ -8,7 +8,7 @@ bestFor: ["snorkel", "pasadia", "fotografia", "familias"]
 isInhabited: true
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
 seoTitle: "Isla Chichime, San Blas — Los Cayos de Postal de Guna Yala"
-seoDescription: "Todo sobre Isla Chichime en San Blas: dos pequeños cayos con palmeras, una comunidad Guna pescadora, arrecifes para snorkel y cómo llegar desde Ciudad de Panamá."
+seoDescription: "Todo sobre Isla Chichime en San Blas: dos pequeños cayos con palmeras, una comunidad Guna pescadora."
 ---
 
 Chichime en realidad son dos pequeños cayos uno junto al otro, separados por un canal poco profundo que se puede cruzar caminando en marea baja — por eso es uno de los rincones más fotografiados de todo el archipiélago de San Blas. Arena blanca fina, una hilera de palmeras inclinadas y un agua que pasa de turquesa pálido a azul profundo en pocos metros desde la orilla.

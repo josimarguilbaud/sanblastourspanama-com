@@ -8,7 +8,7 @@ duration: "Dia inteiro, horário flexível"
 bestFor: ["private", "flexible", "groups", "special-occasions"]
 tourKey: "day_tour_super_vip_privado"
 relatedIslandSlugs: []
-seoTitle: "Passeio Super VIP Privativo San Blas — Carro & Barco Privativos"
+seoTitle: "Passeio Super VIP Privativo San Blas"
 seoDescription: "O passeio Super VIP Privativo oferece ao seu grupo um carro e barco totalmente privativos para San Blas, com roteiro flexível."
 ---
 

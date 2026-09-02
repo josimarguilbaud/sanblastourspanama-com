@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["families", "wading", "photography", "starfish"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "La Piscine Naturelle, San Blas — le Banc de Sable aux Étoiles de Mer"
-seoDescription: "La Piscine Naturelle (Piscina Natural) est le banc de sable le plus célèbre de San Blas — une étendue d'eau peu profonde connue pour ses étoiles de mer visibles."
+seoTitle: "La Piscine Naturelle, San Blas"
+seoDescription: "La Piscine Naturelle est le banc de sable le plus célèbre de San Blas : de l’eau peu profonde en pleine mer, où l’on a pied."
 ---
 
 Tous les arrêts de San Blas ne sont pas des îles — la Piscine Naturelle est un banc de sable émergeant en pleine mer, assez peu profond pour s'y tenir debout confortablement.

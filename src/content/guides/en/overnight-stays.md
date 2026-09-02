@@ -3,7 +3,7 @@ title: "San Blas Overnight Stays — 5 Cabin Types Explained"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "San Blas Overnight Stay — Cabin Types, Itineraries & What's Included"
+seoTitle: "San Blas Overnight Stay"
 seoDescription: "Considering sleeping over in San Blas? Compare all 5 cabin types (shared hostel to overwater cabin), what's included, and sample 2-4 day itineraries."
 ---
 

@@ -8,8 +8,8 @@ duration: "Día completo, horario flexible"
 bestFor: ["privado", "flexible", "grupos", "ocasiones-especiales"]
 tourKey: "day_tour_super_vip_privado"
 relatedIslandSlugs: []
-seoTitle: "Tour Super VIP Privado a San Blas — Auto y Lancha Privados | Reserva por WhatsApp"
-seoDescription: "El Tour Super VIP Privado le da a tu grupo un auto y una lancha completamente privados en San Blas, con itinerario flexible que ayudas a decidir. Precio fijo por grupo, no por persona."
+seoTitle: "Tour Super VIP Privado a San Blas"
+seoDescription: "El Tour Super VIP Privado le da a tu grupo un auto y una lancha completamente privados en San Blas, con itinerario flexible que ayudas a decidir."
 ---
 
 Para viajeros que quieren San Blas completamente a su manera — sin compartir lancha con desconocidos, sin lista fija de paradas — el Tour Super VIP Privado es una experiencia totalmente privada desde la recogida hasta el regreso.

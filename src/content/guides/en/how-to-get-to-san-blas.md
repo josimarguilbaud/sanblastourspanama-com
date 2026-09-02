@@ -4,7 +4,7 @@ heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
 relatedIslandSlugs: ["el-porvenir"]
 seoTitle: "How to Get to San Blas Islands From Panama City (2026 Guide)"
-seoDescription: "Everything you need to know about getting from Panama City to the San Blas Islands: the 4x4 transfer, the boat crossing from Carti, timing, and what to expect on the road."
+seoDescription: "Everything you need to know about getting from Panama City to the San Blas Islands: the 4x4 transfer, the boat crossing from Carti, timing."
 ---
 
 There's no highway straight to San Blas — getting there is part of the adventure, and it's worth knowing what to expect before you go.

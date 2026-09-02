@@ -6,8 +6,8 @@ heroImage: "/img/pareja-aguas-turquesas-san-blas.webp"
 highlights: ["Cabaña overwater o deluxe privada", "Un día completamente libre", "Ritmo relajado, sin apuros", "Elección de isla según lo que amaron (o se perdieron) antes"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["isla-diablo", "perro-grande"]
-seoTitle: "Viaje de Aniversario a San Blas — Escapada en Isla para Parejas que Regresan"
-seoDescription: "Un paquete de aniversario en San Blas para parejas que ya han venido o quieren más tiempo que una estadía nocturna estándar — cabaña deluxe u overwater, un día completamente libre, e itinerario armado según lo que realmente quieran esta vez."
+seoTitle: "Viaje de Aniversario a San Blas"
+seoDescription: "Un paquete de aniversario en San Blas para parejas que ya han venido o quieren más tiempo que una estadía nocturna estándar — cabaña deluxe u overwater."
 ---
 
 Muchos viajes de aniversario terminan siendo una repetición del itinerario de luna de miel por defecto, solo porque es lo que la pareja ya conoce. Este paquete parte de una pregunta distinta: ¿qué quieren hacer diferente esta vez?

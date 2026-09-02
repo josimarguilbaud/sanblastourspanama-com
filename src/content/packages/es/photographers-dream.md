@@ -7,7 +7,7 @@ highlights: ["Acceso a amanecer y atardecer", "Cayos remotos y despejados", "Par
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "isla-pelicano"]
 seoTitle: "Viaje de Fotografía a San Blas — Hora Dorada, Cayos Remotos"
-seoDescription: "Un viaje a San Blas armado para fotografía: acceso a amanecer y atardecer desde una cabaña nocturna, islas remotas como Cayos Holandeses en vez de las paradas más concurridas, y un horario flexible."
+seoDescription: "Un viaje a San Blas armado para fotografía: acceso a amanecer y atardecer desde una cabaña nocturna."
 ---
 
 Un pasadía estándar está armado para cobertura — la mayor cantidad de islas posible dentro de las horas de luz. Esa es la forma equivocada para fotografía, donde las dos mejores ventanas (primera y última luz) caen completamente fuera del horario real de un pasadía.

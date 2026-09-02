@@ -8,8 +8,8 @@ duration: "Día completo (~14 horas puerta a puerta), 8:30 AM–3:00 PM en las i
 bestFor: ["busca-variedad", "familias", "cultura-guna"]
 tourKey: "day_tour_isla_diablo"
 relatedIslandSlugs: ["isla-diablo"]
-seoTitle: "Tour Isla Diablo, San Blas — Itinerario Completo | Reserva por WhatsApp"
-seoDescription: "El Tour Isla Diablo visita su propia ruta por el grupo Isla Perro, con parada en comunidad Guna y la Piscina de Estrellas. Ve el itinerario hora por hora y escríbenos por WhatsApp."
+seoTitle: "Tour Isla Diablo, San Blas"
+seoDescription: "El Tour Isla Diablo visita su propia ruta por el grupo Isla Perro, con parada en comunidad Guna y la Piscina de Estrellas."
 ---
 
 Mismo punto de partida que nuestros otros pasadías, destino genuinamente distinto. El Tour Isla Diablo recorre su propia ruta por el grupo Isla Perro, construida alrededor de [Isla Diablo](/es/islands/isla-diablo) misma — relajado, apto para familias, y suficientemente distinto como para compararlo con cuidado frente a nuestro tour VIP antes de elegir.

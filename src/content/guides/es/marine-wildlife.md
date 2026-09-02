@@ -4,7 +4,7 @@ heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]
 seoTitle: "Vida Marina y Fauna de San Blas — Qué Verás Haciendo Snorkel"
-seoDescription: "La vida marina y fauna de San Blas, Panamá: peces de arrecife, coral, y qué esperar realistamente haciendo snorkel en los arrecifes poco profundos del archipiélago."
+seoDescription: "La vida marina de San Blas: peces de arrecife, coral y qué esperar de verdad haciendo snorkel. Sin promesas de documental."
 ---
 
 San Blas no es un destino de safari de animales grandes — su historia de fauna está escrita en miniatura, en los arrecifes poco profundos y transparentes que rodean casi cada isla. Esto es lo realista de esperar.

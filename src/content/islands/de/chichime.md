@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["schnorcheln", "tagesausflug", "fotografie", "familien"]
 isInhabited: true
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Chichime-Insel, San Blas — Die Postkarten-Inseln von Guna Yala"
-seoDescription: "Alles über die Chichime-Insel in San Blas: zwei kleine, palmenbewachsene Inselchen, ein Guna-Fischerdorf, Schnorchelriffe und wie man von Panama-Stadt aus hinkommt."
+seoTitle: "Chichime-Insel, San Blas"
+seoDescription: "Alles über die Chichime-Insel in San Blas: zwei kleine, palmenbewachsene Inselchen, ein Guna-Fischerdorf."
 ---
 
 Chichime besteht eigentlich aus zwei kleinen Inseln, die direkt nebeneinander liegen und durch eine flache Wasserrinne getrennt sind, die man bei Ebbe durchwaten kann — genau deshalb ist es einer der meistfotografierten Orte im gesamten San-Blas-Archipel. Pudrig-weißer Sand, ein Vorhang aus geneigten Palmen und Wasser, das innerhalb weniger Meter von blassem Türkis zu tiefem Blau wechselt.

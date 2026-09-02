@@ -4,7 +4,7 @@ excerpt: "Ambos son los escapes de isla más conocidos de Panamá, pero son viaj
 heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-04-17
 seoTitle: "San Blas vs Bocas del Toro — ¿Cuál Visitar en Panamá?"
-seoDescription: "San Blas y Bocas del Toro son los dos destinos de isla más conocidos de Panamá, pero son viajes muy distintos. Una comparación honesta de acceso, ambiente, y para qué está hecho cada uno."
+seoDescription: "San Blas y Bocas del Toro son los dos destinos de isla más conocidos de Panamá, pero son viajes muy distintos. Una comparación honesta de acceso."
 ---
 
 **San Blas es un archipiélago remoto gobernado por los Guna, al que se llega en 4x4 y lancha desde la Ciudad de Panamá, construido alrededor de pasadías y cabañas nocturnas simples sin vida nocturna. Bocas del Toro es un pueblo isleño caribeño más desarrollado cerca de la frontera con Costa Rica, al que se llega en vuelo o un viaje terrestre más largo, con hoteles, restaurantes, bares, y un ambiente social de mochileros que San Blas no tiene.**

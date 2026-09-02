@@ -3,7 +3,7 @@ title: "Meilleure Période pour Visiter San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
 relatedIslandSlugs: ["piscina-natural", "chichime"]
-seoTitle: "Meilleure Période pour Visiter les Îles de San Blas — Météo & Saisons"
+seoTitle: "Meilleure Période pour Visiter les Îles de San Blas"
 seoDescription: "Quand visiter San Blas : saison sèche vs saison des pluies, ce qui change avec la météo, et pourquoi les excursions fonctionnent toute l'année."
 ---
 

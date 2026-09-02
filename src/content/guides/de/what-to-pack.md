@@ -3,7 +3,7 @@ title: "Packliste für San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
 relatedIslandSlugs: []
-seoTitle: "San-Blas-Packliste — Was für Tagestour oder Übernachtung Mitzubringen Ist"
+seoTitle: "San-Blas-Packliste: Was Mitzunehmen Ist"
 seoDescription: "Eine praktische Packliste für die San-Blas-Inseln, Panama, für Tagestouren und Übernachtungen — inklusive was NICHT mitzubringen ist."
 ---
 

@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["overnight-stay", "snorkeling", "families", "budget"]
 isInhabited: true
 relatedTourKeys: ["day_tour_isla_diablo"]
-seoTitle: "Isla Diablo, San Blas — Guna Cabins, Beach Volleyball & Snorkeling"
-seoDescription: "Isla Diablo (Devil's Island) is a family-friendly San Blas island near Isla Perro, known for its Guna-run cabins, calm swimming waters, and easy day-trip access from Panama City."
+seoTitle: "Isla Diablo, San Blas"
+seoDescription: "Isla Diablo (Devil's Island) is a family-friendly San Blas island near Isla Perro, known for its Guna-run cabins, calm swimming waters."
 ---
 
 Despite the dramatic name, Isla Diablo is one of the most laid-back, family-friendly stops in San Blas. It sits within the Isla Perro group, a short boat ride from several other popular cays, and is a common overnight base for travelers who want to sleep in a Guna-owned beach cabin rather than day-trip back to Panama City.

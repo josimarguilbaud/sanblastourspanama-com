@@ -6,7 +6,7 @@ heroImage: "/img/pareja-aguas-turquesas-san-blas.webp"
 highlights: ["Cabana overwater ou deluxe privativa", "Um dia completamente livre", "Ritmo relaxado, sem pressa", "Escolha de ilha baseada no que vocês amaram (ou perderam) antes"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["isla-diablo", "perro-grande"]
-seoTitle: "Viagem de Aniversário a San Blas — Escapada em Ilha para Casais que Retornam"
+seoTitle: "Viagem de Aniversário a San Blas"
 seoDescription: "Um pacote de aniversário em San Blas para casais que já vieram antes ou querem mais tempo do que uma estadia noturna padrão."
 ---
 

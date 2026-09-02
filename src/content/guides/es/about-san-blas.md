@@ -3,7 +3,7 @@ title: "Acerca de San Blas: La Guía Completa de Guna Yala, Panamá"
 heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 relatedGuideSlugs: ["history-of-san-blas", "guna-culture", "how-to-get-to-san-blas"]
 relatedIslandSlugs: ["chichime", "el-porvenir"]
-seoTitle: "Acerca de las Islas de San Blas — Guna Yala, Panamá Explicado"
+seoTitle: "Acerca de las Islas de San Blas"
 seoDescription: "¿Qué es San Blas? Un panorama completo de Guna Yala, Panamá: geografía, el pueblo Guna, cuántas islas hay, y cómo se gobierna la región."
 ---
 

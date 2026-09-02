@@ -3,7 +3,7 @@ title: "Beste Reisezeit für San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
 relatedIslandSlugs: ["piscina-natural", "chichime"]
-seoTitle: "Beste Reisezeit für die San-Blas-Inseln, Panama — Wetter & Jahreszeiten"
+seoTitle: "Beste Reisezeit für die San-Blas-Inseln, Panama"
 seoDescription: "Wann man San Blas besuchen sollte: Trockenzeit vs. Regenzeit, was sich mit dem Wetter ändert, und warum Touren trotzdem ganzjährig stattfinden."
 ---
 

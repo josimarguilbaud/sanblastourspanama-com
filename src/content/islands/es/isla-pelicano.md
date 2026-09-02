@@ -7,7 +7,7 @@ bestFor: ["fotografia", "snorkel", "tour-premium"]
 isInhabited: false
 relatedTourKeys: ["day_tour_super_vip_privado"]
 seoTitle: "Isla Pelícano, San Blas — La Locación de La Casa de Papel"
-seoDescription: "Isla Pelícano es la pequeña isla de San Blas usada como locación de rodaje para La Casa de Papel de Netflix. Cómo visitarla y por qué vale la pena el trayecto extra."
+seoDescription: "Isla Pelícano es la pequeña isla de San Blas usada como locación de rodaje para La Casa de Papel de Netflix."
 ---
 
 Isla Pelícano — conocida por su nombre Guna **Isla Gorgidub** — se ganó un tipo de fama muy particular: es una de las locaciones usadas para rodar *La Casa de Papel* de Netflix, y algunos fans de la serie planean todo su viaje a San Blas alrededor de conocerla en persona. Incluso sin la conexión con Netflix, es una isla llamativa — ubicada más hacia los [Cayos Holandeses](/es/islands/cayos-holandeses), con agua más clara y menos lanchas que las islas cercanas a Cartí.

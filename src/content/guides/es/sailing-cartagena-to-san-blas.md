@@ -4,7 +4,7 @@ heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
 relatedIslandSlugs: ["cayos-holandeses"]
 seoTitle: "Cartagena a San Blas en Velero — La Ruta Explicada"
-seoDescription: "¿Piensas navegar de Cartagena, Colombia a San Blas, Panamá? Un panorama honesto de cómo funciona esa ruta, y una alternativa más simple si solo quieres conocer San Blas."
+seoDescription: "¿Piensas navegar de Cartagena, Colombia a San Blas, Panamá? Un panorama honesto de cómo funciona esa ruta."
 ---
 
 Si buscaste "Cartagena a San Blas", probablemente viste viajes en velero de varios días anunciados como forma de cruzar entre Colombia y Panamá, con San Blas como parada escénica en el camino. Aquí una respuesta directa de cómo funciona eso — y en qué se diferencia de lo que ofrecemos nosotros.

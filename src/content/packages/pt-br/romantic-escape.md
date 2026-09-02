@@ -7,7 +7,7 @@ highlights: ["Cabana overwater", "Momento em lancha privada", "Pôr do sol + nas
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
 seoTitle: "Escapada Romântica em San Blas — Cabana Overwater para Dois"
-seoDescription: "Uma escapada romântica em San Blas construída em torno de uma cabana overwater e um céu genuinamente escuro e estrelado — coordenado pelo WhatsApp, sem preço fixo."
+seoDescription: "Uma escapada romântica em San Blas construída em torno de uma cabana overwater e um céu genuinamente escuro e estrelado — coordenado pelo WhatsApp."
 ---
 
 Montamos isso em torno de uma de nossas estadias em cabana overwater, cronometrada para um pôr e nascer do sol completos sem pressa entre ilhas.

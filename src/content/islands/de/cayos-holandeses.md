@@ -6,8 +6,8 @@ gallery: []
 bestFor: ["snorkeling", "premium-tour", "reef-quality"]
 isInhabited: false
 relatedTourKeys: ["day_tour_cayos_holandeses"]
-seoTitle: "Cayos Holandeses, San Blas — Das Entfernteste, Unberührteste Riff"
-seoDescription: "Cayos Holandeses ist das entfernteste und am besten erhaltene Riff von San Blas — eine Premium-Schnorcheltour mit eigener früherer Abfahrt und Mindestgruppengröße."
+seoTitle: "Cayos Holandeses, San Blas"
+seoDescription: "Cayos Holandeses ist das entfernteste und am besten erhaltene Riff von San Blas: eine Premium-Schnorcheltour weit draußen."
 ---
 
 Fragen Sie jeden San-Blas-Guide, welches Riff das beste Schnorcheln bietet, und Cayos Holandeses wird als Erstes genannt. Es ist der am weitesten entfernte Punkt, den die meisten Touren erreichen — eine türkisfarbene Lagune, geschützt von einem Korallenring, bewusst abseits der näheren, belebteren Cays gelegen.

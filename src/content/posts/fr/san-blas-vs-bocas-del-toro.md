@@ -4,7 +4,7 @@ excerpt: "Les deux sont les escapades insulaires les plus connues du Panama, mai
 heroImage: "/img/islote-cayuco-san-blas.webp"
 publishedAt: 2026-04-17
 seoTitle: "San Blas vs Bocas del Toro — Que Visiter au Panama ?"
-seoDescription: "San Blas et Bocas del Toro sont les deux destinations insulaires les plus connues du Panama, mais ce sont des voyages très différents. Une comparaison honnête de l'accès, de l'ambiance, et de ce pour quoi chacune est faite."
+seoDescription: "San Blas et Bocas del Toro sont les deux destinations insulaires les plus connues du Panama, mais ce sont des voyages très différents."
 ---
 
 **San Blas est un archipel reculé gouverné par les Guna, accessible en 4x4 et bateau depuis Panama City, construit autour d'excursions d'une journée et de cabanes de nuit simples sans vie nocturne. Bocas del Toro est une ville insulaire caraïbe plus développée près de la frontière costaricienne, accessible en avion ou par un trajet terrestre plus long, avec des hôtels, restaurants, bars, et une scène sociale de routards que San Blas n'a pas.**

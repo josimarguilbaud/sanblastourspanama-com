@@ -7,7 +7,7 @@ bestFor: ["snorkeling", "shipwreck", "day-trip"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
 seoTitle: "Perro Chico Island, San Blas — Snorkel the Sunken Ship"
-seoDescription: "Perro Chico is San Blas's best-known snorkeling stop, home to a shallow shipwreck reef teeming with fish. Here's what to expect and how it fits into a San Blas day tour."
+seoDescription: "Perro Chico is San Blas's best-known snorkeling stop, home to a shallow shipwreck reef teeming with fish."
 ---
 
 Perro Chico is small — you could walk its shoreline in under ten minutes — but it punches well above its size for one reason: the shipwreck. A sunken vessel rests in shallow water just off the island, now an artificial reef covered in coral growth and patrolled by schools of colorful reef fish.

@@ -8,7 +8,7 @@ duration: "Ganztägig (~14 Stunden Tür-zu-Tür)"
 bestFor: ["first-timers", "budget-conscious", "families"]
 tourKey: "day_tour_basico"
 relatedIslandSlugs: ["piscina-natural"]
-seoTitle: "Classic San Blas Tagestour — Buchung per WhatsApp | Ab Panama-Stadt"
+seoTitle: "Classic San Blas Tagestour"
 seoDescription: "Die Classic San-Blas-Tagestour: eine Insel plus der berühmte Naturpool, Tür-zu-Tür-Transport, Mittagessen inklusive."
 ---
 

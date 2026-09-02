@@ -6,7 +6,7 @@ heroImage: "/img/desayuno-velero-san-blas.webp"
 highlights: ["Realistisches Gespräch über Konnektivität zuerst", "Flexibler Tagesplan um Arbeitszeiten", "Ruhigere Inseln mit weniger Bootslärm", "Mehrtägiger Aufenthalt, um den Aufwand zu rechtfertigen"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["isla-aguja", "nugnudub"]
-seoTitle: "Remote Arbeiten von San Blas Aus — Was Wirklich Realistisch Ist"
+seoTitle: "Remote Arbeiten von San Blas Aus"
 seoDescription: "Bevor Sie eine 'Remote-Work'-Reise nach San Blas buchen: die meisten Inseln haben schwaches oder kein Signal. Hier die ehrliche Version."
 ---
 

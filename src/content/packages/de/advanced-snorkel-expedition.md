@@ -6,7 +6,7 @@ heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 highlights: ["Entlegenes Riff der Dutch Cays", "Schiffswrack-Schnorcheln inklusive", "Kleinere Gruppe, mehr Wasserzeit", "Frühere Abfahrt für ruhigere Bedingungen"]
 relatedTourSlugs: ["dutch-cays-day-tour", "overwater-cabin-overnight"]
 relatedIslandSlugs: ["cayos-holandeses", "perro-chico"]
-seoTitle: "Fortgeschrittenes Schnorchel-Paket San Blas — Dutch-Cays-Riff-Expedition"
+seoTitle: "Fortgeschrittenes Schnorchel-Paket San Blas"
 seoDescription: "Ein San-Blas-Schnorchelpaket für Gruppen, die mehr Wasserzeit statt mehr Inseln wollen: das entlegene Dutch-Cays-Riff, das Perro-Chico-Wrack."
 ---
 

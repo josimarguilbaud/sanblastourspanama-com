@@ -6,7 +6,7 @@ heroImage: "/img/relax-playa-san-blas.webp"
 highlights: ["Ilha tranquila, pouco tráfego", "Praia e deck abertos", "Dias flexíveis, sem horário fixo", "Traga sua própria prática"]
 relatedTourSlugs: ["cabana-privada-deluxe-overnight", "camping-under-stars-overnight"]
 relatedIslandSlugs: ["nugnudub", "isla-franklin"]
-seoTitle: "Retiro de Bem-Estar em San Blas — Base Tranquila em Ilha para Yoga e Meditação"
+seoTitle: "Retiro de Bem-Estar em San Blas"
 seoDescription: "Um pacote de bem-estar honesto: uma ilha tranquila de San Blas com praia e deck abertos para sua própria prática de yoga ou meditação."
 ---
 

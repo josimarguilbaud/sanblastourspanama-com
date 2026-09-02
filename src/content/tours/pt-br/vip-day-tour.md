@@ -8,8 +8,8 @@ duration: "Dia inteiro (~14 horas porta a porta)"
 bestFor: ["mais-popular", "mergulho-livre", "cultura-guna", "casais"]
 tourKey: "day_tour_vip"
 relatedIslandSlugs: ["perro-chico", "piscina-natural"]
-seoTitle: "Passeio VIP San Blas — Mergulho Livre e Comunidade Guna | Reserve pelo WhatsApp"
-seoDescription: "O passeio VIP San Blas é nosso pacote mais reservado: mergulho livre guiado em recife, visita a uma comunidade Guna, e mais paradas que o passeio Clássico. Fale conosco no WhatsApp."
+seoTitle: "Passeio VIP San Blas"
+seoDescription: "O passeio VIP San Blas é nosso pacote mais reservado: mergulho livre guiado em recife, visita a uma comunidade Guna, e mais paradas que o passeio Clássico."
 ---
 
 Este é o passeio que a maioria dos primeiros visitantes escolhe, e é fácil entender por quê: ele reúne tudo de bom do dia Clássico e adiciona as duas experiências mais pedidas — mergulho livre guiado de verdade e uma visita genuína a uma comunidade Guna.

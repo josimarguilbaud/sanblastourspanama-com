@@ -6,7 +6,7 @@ heroImage: "/img/familia-aguas-tranquilas-san-blas.webp"
 highlights: ["Kürzere Bootstransfers", "Flache, ruhige Inseln", "Private Familienhütte", "Flexibles Tagestempo"]
 relatedTourSlugs: ["cabana-privada-clasica-overnight", "classic-day-tour"]
 relatedIslandSlugs: ["isla-aguja", "perro-grande"]
-seoTitle: "San Blas mit Kindern — Familienpaket (Ruhige Inseln, Kurze Transfers)"
+seoTitle: "San Blas mit Kindern"
 seoDescription: "Eine San-Blas-Familienreise, aufgebaut um flache, ruhige Inseln und kürzere Transfers statt der längsten Routen."
 ---
 
