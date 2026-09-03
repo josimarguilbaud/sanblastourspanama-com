@@ -10,7 +10,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "prebuild": "node scripts/verificar-snippets.mjs",
+    "prebuild": "node scripts/verificar-snippets.mjs && node scripts/verificar-contenido.mjs",
     "postbuild": "node scripts/verificar-hreflang.mjs"
   },
   "dependencies": {

@@ -12,11 +12,11 @@ seoTitle: "Classic San Blas Day Tour"
 seoDescription: "The Classic San Blas day tour: one island plus the famous Natural Pool, door-to-door transport, lunch included. Message us on WhatsApp to book."
 ---
 
-If this is your first trip to San Blas and you want the straightforward version — no add-ons, no decision fatigue, just the archipelago at its most essential — this is the tour. One island, the legendary Natural Pool, and everything handled for you from the moment you're picked up.
+If this is your first trip to San Blas and you want the straightforward version — no add-ons, no decision fatigue — this is the tour. One island, the legendary Natural Pool, and everything handled from the moment you're picked up.
 
 ## What this tour actually includes
 
-Unlike some operators who blur the line between packages, the Classic tour has a clearly different itinerary from our VIP tour: it does **not** include guided reef snorkeling or a Guna community visit — those are reserved for the VIP package. What you get instead is a clean, unhurried introduction to San Blas: island time, that famous wade through the Natural Pool, and lunch on the sand.
+Some operators blur the line between their packages; we'd rather be plain. The Classic has a genuinely different itinerary from our VIP tour: it does **not** include guided reef snorkeling or a Guna community visit. What you get instead is an unhurried introduction to the archipelago.
 
 - ✅ Door-to-door 4x4 transport from your Panama City accommodation
 - ✅ Boat transfers to and from the islands
@@ -24,14 +24,41 @@ Unlike some operators who blur the line between packages, the Classic tour has a
 - ✅ Lunch with a drink included
 - ✅ Life jackets and a local Guna guide
 - ⛔ Guided reef snorkeling (VIP tour only)
+- ⛔ Snorkel gear, towels and soap — bring your own
 - ⛔ Guna Yala community entry tax (paid separately, in cash)
 
 ## A typical day
 
-Pickup runs 5:00–5:45 AM from your Panama City accommodation, followed by the roughly 2.5-hour 4x4 crossing to the Carti embarkation point, then a speedboat out to the islands. You'll have free time on the island, a stop to wade the Natural Pool and look for starfish, and lunch before the return journey — total door-to-door time is around 14 hours.
+Pickup runs 5:00–5:45 AM, followed by a roughly 2.5-hour 4x4 crossing on a winding mountain road into the Guna Yala comarca, ending at the Carti embarkation point. A speedboat takes you out from there. You get free time on the island, a stop to wade the Natural Pool and look for starfish, and lunch on the beach before the return. Door to door the day runs around 14 hours — the early alarm and the road are real, and worth knowing before you book.
 
-## Is the Classic tour right for you?
+## Who it's for, and who it isn't
 
-Choose this one if you want San Blas without extras — a genuinely relaxed day, a fair price point, and no pressure to snorkel or socialize with a group tour if that's not your thing. If guided snorkeling and a Guna community visit matter to you, our [VIP Day Tour](/tours/vip-day-tour) covers the same essentials plus those additions for a modest step up.
+Choose the Classic if you want San Blas without extras: no pressure to snorkel, no packed schedule. It's a solid first visit and an easy day with children. It's the wrong tour if the shipwreck reef is the reason you're coming — that's the [VIP Day Tour](/tours/vip-day-tour) — or if you want several stops in a day, which is what the [Isla Diablo Tour](/tours/isla-diablo-day-tour) is built for.
 
-**Ready to lock in your date?** Message us on WhatsApp for current availability and pricing.
+**Ready to lock in your date?** Message us on WhatsApp and a real person confirms availability and the current rate for your group.
+
+## Frequently asked questions
+
+### What time is pickup, and where from?
+
+Pickup runs 5:00–5:45 AM, door to door from your Panama City accommodation — be ready from 5:00. Common zones include Obarrio, San Francisco, Amador, Costa del Este, Casco Viejo, Albrook, El Cangrejo and Punta Paitilla. Changes of address need 24 hours' notice.
+
+### Is the Natural Pool an island?
+
+No. It's a sandbar rising out of open water: you wade in from the boat, waist-deep over pale sand, with the horizon on every side. It's also the most reliable spot in San Blas for seeing starfish — look at them in the water and never lift one out.
+
+### Do I need to know how to swim?
+
+No. Life jackets are mandatory on the boats for adults and children alike, and at the Natural Pool you can stand the whole time. If you'd rather stay dry, the island stop is simply a beach day.
+
+### Is lunch included, and can you handle dietary restrictions?
+
+Lunch with a drink is included. Tell us about allergies when you book rather than on the morning — options on the islands are limited and there's nowhere to buy an alternative.
+
+### What do I have to bring?
+
+Your original passport or ID (a copy isn't accepted at the Guna Yala checkpoint) and enough cash, because there are no ATMs anywhere in the comarca. Add biodegradable sunscreen, a towel and a dry bag — our [packing guide](/guides/what-to-pack) has the full list.
+
+### What happens if it rains?
+
+Ordinary rain doesn't cancel anything: showers here tend to be short and heavy, then sunny again. If conditions are genuinely unsafe the operator reschedules or refunds in full.

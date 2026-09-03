@@ -6,18 +6,39 @@ heroImage: "/img/pina-colada-atardecer-san-blas.webp"
 highlights: ["Overwater cabin", "Private boat moment", "Sunset + sunrise", "Guna dinner for two"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
-seoTitle: "Honeymoon & Anniversary Trip to San Blas, Panama"
+seoTitle: "Honeymoon Trip to San Blas, Panama"
 seoDescription: "A San Blas romantic escape built around an overwater cabin, a private boat moment, and a genuinely dark, star-filled sky — coordinated over WhatsApp."
 ---
 
-Most "romantic package" listings online are a generic beach-resort template with San Blas photos pasted on top. This one is the opposite: it starts from what actually exists here — a handful of overwater cabins built by Guna families on islands with real privacy, not a resort with a couples' suite.
+Most couples who write to us about this are tired. Not unhappy — tired. They have just got married, or they have been saving a few days out of a longer trip, and what they want is not an experience to describe afterwards. It's two days of not having to talk to anybody, decide anything, or be anywhere at a particular time.
 
-## How it's built
+## What privacy really means on a small island
 
-We base this around one of our overwater cabin stays, timed so you get a full sunset and sunrise without rushing between islands. Depending on the season and which cabins are available on your dates, we'll suggest the quietest option rather than the busiest one — San Blas has islands that see very few visitors, and for a couples' trip that matters more than which island has the best-known name.
+It's worth being precise, because "private" is the most oversold word in travel. San Blas islands are small, the accommodations on them are few, and there will be other guests somewhere on the same sand. What you can genuinely have is a cabin nobody walks past, an evening after the day boats have gone, and meals that don't have to be eaten at a communal hour. What you can't have is an island with a fence around it. Anyone promising otherwise is describing a resort, and there are no resorts here.
 
-A private boat transfer (rather than a shared shuttle) is part of this concept, along with a Guna-prepared dinner for two where the host families do the cooking — this isn't a private chef flown in, it's the same real hospitality every overnight guest gets, just arranged around a slower, two-person pace.
+The night is the part that surprises people. There is no grid lighting on most of the archipelago, so once the generator noise stops the only things left are water and sky. Couples remember that far longer than they remember any activity.
 
-## What this isn't
+## Straight after the wedding?
 
-There's no scripted "proposal setup," no photographer on staff, and no fixed price sheet — every detail here depends on your actual dates, the cabin availability that week, and what you tell us you want. If you're planning something more specific — an actual proposal, an anniversary, a honeymoon — say so on WhatsApp and we'll build around it directly.
+Then plan a buffer. Pickup in Panama City is before dawn, and after a wedding that is a brutal way to start a honeymoon. A day of doing nothing in the city first turns the trip from an endurance test into a rest.
+
+## The morning nobody plans for
+
+Sunrise here comes with nothing attached to it — no schedule, no group, nobody else awake. It is the single most quietly romantic hour of the whole trip, and the one that couples who book a day tour never get to see.
+
+## Frequently asked questions
+
+### Will we have to share meals or activities with other guests?
+Partly. Meals are cooked by the host family and other guests are eating too, and the island tour included with an overnight stay is normally shared. Ask for the quieter version and we'll arrange what we can — but the honest answer is that solitude here comes from the hour of the day rather than from a rope across the beach.
+
+### Can we go straight from the wedding?
+You can, and we'd gently suggest not to. A pre-dawn start, a couple of hours of mountain road and a boat crossing is a lot to ask of two people who slept four hours. Leave a day between the wedding and the pickup and the first afternoon on the island becomes something you actually experience.
+
+### Can we stay later on the last morning?
+Usually yes — a late departure is available for a small additional charge, and this is the one place we'd tell you to spend it. Standard check-out is early, and the difference between leaving mid-morning and leaving after lunch is most of the last day.
+
+### What is the food like, and can we drink to celebrate?
+Meals are included and cooked by the Guna family hosting you: fresh fish, rice, plantain, fruit. Alcohol is not included, so a bottle to mark the occasion travels with you from Panama City, along with the cash you'll need — there are no shops or cash machines out here.
+
+### Is one night enough?
+For a lot of couples, yes: one sunset, one night sky, one sunrise. Two nights change it from a stay into a rhythm, and the difference is mostly the day in the middle, when you wake up already there and nothing is planned.

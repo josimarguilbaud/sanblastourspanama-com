@@ -1,26 +1,59 @@
 ---
-title: "Velero de Cartagena a San Blas: Qué Debes Saber"
+title: "Navegar de Cartagena a San Blas: Qué Saber"
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Cartagena a San Blas en Velero — La Ruta Explicada"
-seoDescription: "¿Piensas navegar de Cartagena, Colombia a San Blas, Panamá? Un panorama honesto de cómo funciona esa ruta."
+seoTitle: "De Cartagena a San Blas en Velero — la Ruta"
+seoDescription: "¿Pensando en navegar de Cartagena, Colombia, a San Blas, Panamá? Un panorama honesto de cómo funciona esa ruta y en qué se diferencia de un tour."
 ---
 
-Si buscaste "Cartagena a San Blas", probablemente viste viajes en velero de varios días anunciados como forma de cruzar entre Colombia y Panamá, con San Blas como parada escénica en el camino. Aquí una respuesta directa de cómo funciona eso — y en qué se diferencia de lo que ofrecemos nosotros.
+Busca «Cartagena a San Blas» y encontrarás viajes en velero de varios días anunciados con fotos exactamente del agua que esperabas. Son reales, y la gente los disfruta. Pero conviene tener claro qué es ese viaje, porque no es principalmente un tour de San Blas: es un cruce de frontera que pasa por San Blas.
 
-## Cómo funciona generalmente la ruta en velero
+## Qué es realmente la ruta
 
-Los cruces en velero de varios días entre Cartagena y Panamá suelen tomar entre **4 y 5 días**, navegando por parte del archipiélago de San Blas antes de continuar hacia el continente panameño (usualmente desembarcando cerca de Cartí o Portobelo). Estos viajes los operan compañías de veleros y charter independientes — no algo que nosotros operemos — y en realidad son un cruce de frontera Colombia-Panamá que de paso pasa por aguas hermosas, más que un tour dedicado a San Blas.
+Veleros y catamaranes hacen travesías de varios días entre Cartagena, en Colombia, y Panamá, que suelen tomar **cuatro o cinco días**. La ruta navega por parte del archipiélago de San Blas antes de continuar hacia el continente panameño, normalmente arribando cerca de Cartí o de Portobelo. Los operan compañías de vela independientes y dueños de charter — **nosotros no los operamos** — y existen porque no hay carretera entre Colombia y Panamá, lo que convierte al barco en una de las pocas formas de hacer ese paso.
 
-## Bueno saber si lo estás considerando
+## Cómo son los días
 
-- Es un **compromiso de varios días** (varios días en el mar), no una visita rápida a las islas.
-- Las condiciones, comodidad de camarotes y riesgo de mareo varían mucho según el barco y operador — investiga reseñas cuidadosamente antes de reservar con cualquier compañía específica.
-- Verás una porción de San Blas, pero típicamente no la gama completa de islas que cubre un tour dedicado a San Blas, ya que la prioridad del barco es el cruce en sí.
+El grueso del itinerario es tiempo en el mar. Una parte es mar abierto entre los dos países; otra transcurre dentro del archipiélago, donde los barcos fondean y los pasajeros se bañan. Vas a ver San Blas, pero verás la parte que queda sobre la línea de navegación y no una ruta diseñada alrededor de los mejores cayos, arrecifes y paradas de comunidad, porque el trabajo del barco es llevarte de un país al otro.
 
-## Si solo quieres vivir San Blas
+## Los intercambios honestos
 
-Si tu objetivo real es pasar tiempo genuino en San Blas — varias islas, paradas de snorkel, visita a comunidad Guna, quizás una noche en una cabaña frente al mar — en vez de un cruce de varios días en mar abierto, un pasadía o estadía nocturna que sale directamente desde **Ciudad de Panamá** te lleva más rápido, con un horario fijo y predecible, coordinado directamente con una persona real por WhatsApp en vez de transferir dinero a un operador de velero independiente.
+- **Es un compromiso de varios días**, no una visita que encaje dentro de un itinerario de Ciudad de Panamá.
+- **La comodidad varía enormemente según la embarcación.** La calidad del camarote, la comida, la tripulación y el movimiento en mar abierto difieren de un barco a otro mucho más de lo que difieren los operadores en tierra.
+- **El mareo es un factor real** en una travesía de varios días, de una manera que sencillamente no lo es en el traslado corto desde Cartí.
+- **Le estás pagando por adelantado a un desconocido.** Como son operadores independientes, lee reseñas recientes con atención y entiende las condiciones de cancelación antes de transferir dinero.
 
-**[Ver tours de San Blas y escribirnos por WhatsApp →](/es/tours)**
+## Si lo que te atrae es navegar
+
+Si el atractivo es el barco y no la frontera, el archipiélago tiene su propia respuesta: [charters privados de yate y catamarán](/es/yachts) con tripulación completa, que navegan San Blas según el itinerario que fijes tú, sin obligación de terminar en otro país. Es un producto distinto de un paso Colombia–Panamá y suele encajar mejor con quien quiere navegar *San Blas* en vez de navegar *a través* de San Blas.
+
+## Si el objetivo es San Blas
+
+Si lo que de verdad quieres es tiempo en el archipiélago —varias islas, snorkel sobre el barco hundido, una visita a comunidad Guna, quizá una noche en cabaña frente al mar—, un pasadía o una estadía que sale de **Ciudad de Panamá** te lleva allí en horas y no en días, con horario fijo y coordinado directamente con una persona real en vez de girarle dinero a un barco independiente.
+
+## Preguntas frecuentes
+
+### ¿Cuánto dura el viaje en velero de Cartagena a San Blas?
+
+Normalmente de cuatro a cinco días la travesía completa entre Cartagena y Panamá, incluido el tramo por el archipiélago de San Blas. Es un paso de varios días, no una excursión.
+
+### ¿Es un tour de San Blas o un cruce de frontera Colombia–Panamá?
+
+En el fondo, un cruce. San Blas es el tramo bonito del medio de un viaje cuyo propósito es moverte entre dos países, así que las paradas las elige la ruta de navegación y no cuáles son los mejores cayos.
+
+### ¿Ustedes operan esos viajes en velero?
+
+No. Los operan compañías de vela independientes y dueños de charter. Todo lo que se vende en este sitio sale de Ciudad de Panamá en 4x4 y lancha, o es un charter privado dentro del archipiélago.
+
+### ¿Voy a ver mucho de San Blas en una travesía a vela?
+
+Una parte. Pasarás tiempo en el archipiélago y te bañarás desde el barco, pero no cubrirás el abanico de islas, arrecifes y paradas comunitarias alrededor del cual se construye un itinerario dedicado a San Blas.
+
+### ¿La travesía es movida?
+
+Puede serlo. Varios días en mar abierto son una experiencia distinta del cruce corto entre Cartí y las islas, y vale la pena tomarse en serio la sensibilidad al mareo antes de comprometerse con un paso de varios días.
+
+### ¿Qué debo revisar antes de reservar con una compañía de vela?
+
+Reseñas recientes de la última temporada, cómo son de verdad los camarotes y las comidas, cuántos pasajeros comparten el barco, qué pasa si el clima retrasa la salida y las condiciones de reembolso. Pregunta todo eso por escrito antes de pagar un depósito.

@@ -7,25 +7,57 @@ seoTitle: "San Blas Eco-Tourism"
 seoDescription: "How eco-tourism works in San Blas: Guna-run tourism, conservation of the reefs and islands, and what responsible travelers can do to help."
 ---
 
-San Blas has largely avoided the large-resort development that's reshaped so much of the Caribbean — and that's not an accident. It's the direct result of Guna self-governance (see our [history guide](/guides/history-of-san-blas)) choosing small-scale, community-run tourism over mass development.
+Almost every Caribbean destination now advertises itself as sustainable. San Blas is unusual in that the claim is structural rather than promotional: the reason there is no resort strip here has nothing to do with marketing and everything to do with who owns the land.
 
-## What makes San Blas tourism genuinely sustainable
+## Why the archipelago still looks like this
 
-- **No foreign-owned resorts.** Guna Yala's autonomy means land can't simply be bought and developed by outside companies — accommodations are Guna-owned and Guna-run by design, not by marketing choice.
-- **The community entry tax funds the comarca directly** — unlike a generic hotel tax, the money visitors pay to enter goes straight to the Guna communities whose territory you're visiting.
-- **Low-infrastructure by design** — no paved roads, no high-rise construction, no mass electrification across most islands. It keeps the environmental footprint small, even as tourism grows.
-- **Guna guides, not outside tour companies, lead every trip** — knowledge of the reefs, weather, and culture stays local, and tourism income stays largely within the community.
+Land inside the comarca cannot simply be bought and developed by an outside company. That single legal fact has done more for the islands than any certification scheme could: no high-rise, no dredged marina, no coastal highway, no golf course drawing down fresh water. What exists instead is small and locally owned — thatched cabins, wooden boats, family kitchens — because that is the only kind of tourism the territory permits.
 
-## What responsible travelers can do
+## Where your money actually lands
 
-- **Use reef-safe, biodegradable sunscreen** — see our [marine life guide](/guides/marine-wildlife) for why this matters specifically for San Blas's coral.
-- **Don't take shells, coral, or starfish** from the islands or water.
-- **Buy molas and crafts directly from Guna artisans** rather than imported souvenirs — it's a direct, transparent way to support the community (see our [Guna culture guide](/guides/guna-culture)).
-- **Pack out what you pack in** — waste management infrastructure on small islands is limited by nature.
-- **Ask before photographing people** and respect residential boundaries on inhabited islands.
+Three separate payments leave your pocket on a San Blas trip, and they end up in very different places:
 
-## Why this matters for your choice of tour
+- **The community entry tax** — **$22 for foreigners, $7 for residents**, paid in cash at the border of the territory. It is not part of the tour price and it is not a government tourism levy: it goes to the Guna communities whose territory you are crossing.
+- **The tour itself** — boats, drivers, cooks and guides are local, so the bulk of the operating spend stays inside the region rather than leaving with a foreign operator.
+- **Whatever you buy on the islands** — most often a mola, bought directly from the woman who stitched it, with no intermediary taking a cut.
 
-Not every operator markets itself accurately as "eco" or "sustainable" — the honest test is simpler: is the tour genuinely Guna-operated, does the community tax go where it should, and does the guide actually live in Guna Yala? Choosing a tour built on those fundamentals means your visit supports conservation and cultural continuity by default, not as an add-on.
+Because there are no cash machines anywhere in the territory, all of this has to be carried in with you.
 
-**[Book a Guna-operated San Blas tour →](/tours)**
+## The pressure points that actually matter
+
+Small islands have small tolerances. Four things do measurable damage here, and all four are avoidable:
+
+- **Sunscreen chemistry.** Conventional formulas harm coral. Reef-safe, biodegradable sunscreen is not a preference on these reefs; it is the reason guides raise the subject before anyone gets in the water.
+- **Rubbish.** A cay a few hundred metres across has no waste infrastructure. Anything you land with should leave with you, including bottle caps and cigarette ends.
+- **Souvenir collecting.** Shells, coral fragments and starfish removed from the water do not grow back into the system. Starfish in particular die from being lifted out for photographs.
+- **Physical contact with reef.** Standing on coral to adjust a mask breaks growth that took decades.
+
+## How to test an operator's claim before booking
+
+"Eco" is unregulated as a word, so ask questions that have factual answers rather than marketing ones. Is the boat crewed by Guna captains and guides who live in the territory? Is the community tax collected openly, at the border, in the correct amount? Is the accommodation Guna-owned rather than leased to an outside brand? An operator running genuinely inside the comarca's rules can answer all three without hedging.
+
+## Frequently asked questions
+
+### Is tourism in San Blas genuinely sustainable?
+
+Structurally, yes — outside companies cannot own land or build resorts here, so tourism stays small-scale and locally run by law rather than by choice. That does not make it impact-free: boat traffic, waste and sunscreen still put pressure on the reefs, which is why visitor behaviour matters.
+
+### What is the Guna Yala community tax and who receives it?
+
+It is a per-visitor entry fee for the autonomous territory: $22 for foreigners and $7 for residents, paid in cash and separate from any tour price. It goes directly to the Guna communities, not to a national tourism board.
+
+### What kind of sunscreen should I bring?
+
+Reef-safe and biodegradable. Conventional sunscreen chemicals damage coral, and San Blas's reefs sit in shallow water directly where people swim. Bring it with you — there is nowhere to buy it once you leave Panama City.
+
+### Can I take shells, coral or a starfish home?
+
+No. Removing shells, coral or starfish from the islands and the water is off limits, and lifting a starfish out of the water to photograph it kills it. Observe them where they are and leave them there.
+
+### What happens to rubbish on the islands?
+
+There is very little infrastructure to deal with it, which is why the rule is to carry out everything you carry in. On an island you can walk across in five minutes, one careless bottle is visible for years.
+
+### How can I tell whether a tour is really Guna-operated?
+
+Ask who owns the boat and the cabins, who guides the day, and how the community tax is handled. Genuinely Guna-run operations answer plainly; the ones that only use the word in their marketing tend not to.

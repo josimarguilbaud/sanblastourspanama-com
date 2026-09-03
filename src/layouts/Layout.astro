@@ -37,6 +37,13 @@ const organizationJsonLd = {
   url: 'https://sanblastourspanama.com',
   image: 'https://sanblastourspanama.com/img/barco-hundido-snorkel-san-blas.webp',
   telephone: '+50764684720',
+  email: 'info@sanblastravel.com',
+  // El WhatsApp es el canal real de reserva, no un extra: `sameAs` lo declara
+  // como perfil oficial del negocio y ata el numero al sitio.
+  sameAs: ['https://wa.me/50764684720'],
+  // La senal internacional. El sitio esta en cinco idiomas y el dato
+  // estructurado no lo decia en ninguna parte.
+  availableLanguage: ['en', 'es', 'de', 'fr', 'pt-BR'],
   areaServed: 'Guna Yala, Panama',
   priceRange: '$$',
   address: {

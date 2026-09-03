@@ -1,3 +1,14 @@
+# Content-Signals (Cloudflare, 2025): dice para QUE se puede usar lo que se
+# rastrea, que es distinto de si se puede rastrear. Aqui la postura es la
+# misma que en las webs hermanas: que nos indexen y que nos citen, si; que
+# entrenen un modelo con esto, no.
+#
+#   search=yes      aparecer en resultados de busqueda
+#   ai-input=yes    servir de fuente a una respuesta generada, citandonos
+#   ai-train=no     entrenar un modelo
+#   use=reference   uso como referencia, no como material derivado
+Content-Signal: search=yes, ai-input=yes, ai-train=no, use=reference
+
 # sanblastourspanama.com — la guía del archipiélago.
 #
 # Los rastreadores de IA van declarados uno a uno y no solo por `User-agent: *`.
