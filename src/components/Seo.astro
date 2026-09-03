@@ -2,6 +2,7 @@
 // Canonical + hreflang + OG/Twitter tags, centralized so every page gets the
 // same correct SEO markup instead of hand-copied <meta> blocks per page.
 import { defaultLocale, locales as allLocales } from '../i18n/ui';
+import { idiomasDeRutaFija, rutaSinPrefijo } from '../i18n/rutas-por-idioma';
 
 interface Props {
   title: string;
@@ -13,27 +14,48 @@ interface Props {
    * Locales that actually have a translated version of THIS page. Defaults to
    * just the current locale — emitting hreflang for a locale with no real
    * translation would tell Google a page exists when it doesn't (404 risk).
-   * Pass the full list explicitly once a page is confirmed translated.
+   *
+   * Collection pages (tours/islands/guides/blog/packages) derive this from the
+   * content files via `i18n/content.ts`. FIXED pages must NOT pass it: for
+   * those, `i18n/rutas-por-idioma.ts` is the single source of truth and takes
+   * precedence — the hand-written lists that used to live in each page went
+   * stale (`/tours` still claimed ['en','es'] long after the other three
+   * locales existed, so three of its five versions were never announced).
    */
   availableLocales?: string[];
+  /**
+   * The error page. It gets NO hreflang: `/404` is not a published URL — nginx
+   * serves it as the body of an error, so every alternate it announced pointed
+   * at a page that does not exist, and an hreflang to a 404 is worse than no
+   * hreflang at all.
+   */
+  errorPage?: boolean;
 }
 
-const { title, description, image, path = '/', availableLocales } = Astro.props;
+const { title, description, image, path = '/', availableLocales, errorPage } = Astro.props;
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://sanblastourspanama.com';
 
+// The locale prefix alone does NOT give the URL: the legal pages have a
+// translated slug (`/legal/terms` ↔ `/es/legal/terminos` ↔ `/de/legal/agb`),
+// so the path itself has to be looked up per locale. Without that lookup every
+// locale of a legal page pointed its canonical AND its hreflang at URLs that
+// were never built. See i18n/rutas-por-idioma.ts.
 function urlFor(locale: string) {
   const prefix = locale === defaultLocale ? '' : `/${locale}`;
-  const cleanPath = path === '/' ? '' : path;
+  const localePath = rutaSinPrefijo(path, locale);
+  const cleanPath = localePath === '/' ? '' : localePath;
   return `${siteUrl}${prefix}${cleanPath}` || siteUrl;
 }
 
 const currentLocale = Astro.currentLocale ?? defaultLocale;
 const canonical = urlFor(currentLocale);
 const ogImage = image ?? `${siteUrl}/og-default.webp`;
-const hreflangLocales = (availableLocales ?? [currentLocale]).filter((l) =>
-  (allLocales as readonly string[]).includes(l)
-);
+const hreflangLocales = errorPage
+  ? []
+  : (idiomasDeRutaFija(path) ?? availableLocales ?? [currentLocale]).filter((l) =>
+      (allLocales as readonly string[]).includes(l)
+    );
 ---
 
 <title>{title}</title>

@@ -1,6 +1,7 @@
 ---
 import { useTranslations, localizedPath, locales, languageNames, defaultLocale } from '../i18n/ui';
 import { navShortcuts } from '../i18n/nav';
+import { rutaSinPrefijo } from '../i18n/rutas-por-idioma';
 import BookingCta from './BookingCta.astro';
 
 const locale = Astro.currentLocale ?? defaultLocale;
@@ -12,34 +13,44 @@ const islandLinks = hasFullContent ? navShortcuts[locale as 'en' | 'es'].islands
 
 // Legal pages live on this site (src/pages/legal/*, src/pages/{locale}/legal/*)
 // so they share this site's design and never send visitors to another domain.
-const legalLinksByLocale: Record<string, { href: string; label: string }[]> = {
-  en: [
-    { href: '/legal/terms', label: 'Terms & Conditions' },
-    { href: '/legal/cancellation-policy', label: 'Cancellation Policy' },
-    { href: '/legal/privacy', label: 'Privacy Policy' },
-  ],
-  es: [
-    { href: '/es/legal/terminos', label: 'Términos y Condiciones' },
-    { href: '/es/legal/politica-cancelacion', label: 'Política de Cancelación' },
-    { href: '/es/legal/privacidad', label: 'Privacidad' },
-  ],
-  de: [
-    { href: '/de/legal/agb', label: 'AGB' },
-    { href: '/de/legal/stornierung', label: 'Stornierungsbedingungen' },
-    { href: '/de/legal/datenschutz', label: 'Datenschutz' },
-  ],
-  fr: [
-    { href: '/fr/legal/conditions', label: 'Conditions Générales' },
-    { href: '/fr/legal/annulation', label: "Politique d'Annulation" },
-    { href: '/fr/legal/confidentialite', label: 'Confidentialité' },
-  ],
-  'pt-br': [
-    { href: '/pt-br/legal/termos', label: 'Termos e Condições' },
-    { href: '/pt-br/legal/cancelamento', label: 'Política de Cancelamento' },
-    { href: '/pt-br/legal/privacidade', label: 'Privacidade' },
-  ],
+//
+// Their slug is translated, so the URLs come from i18n/rutas-por-idioma.ts —
+// the same map Seo.astro uses for canonical + hreflang. This file used to carry
+// its own hand-written copy of those 15 URLs; two copies of the same truth is
+// exactly how the SEO tags drifted into pointing at pages that don't exist.
+// Only the visible LABELS stay here, because only they are text.
+const legalLabelsByLocale: Record<string, Record<string, string>> = {
+  en: {
+    '/legal/terms': 'Terms & Conditions',
+    '/legal/cancellation-policy': 'Cancellation Policy',
+    '/legal/privacy': 'Privacy Policy',
+  },
+  es: {
+    '/legal/terms': 'Términos y Condiciones',
+    '/legal/cancellation-policy': 'Política de Cancelación',
+    '/legal/privacy': 'Privacidad',
+  },
+  de: {
+    '/legal/terms': 'AGB',
+    '/legal/cancellation-policy': 'Stornierungsbedingungen',
+    '/legal/privacy': 'Datenschutz',
+  },
+  fr: {
+    '/legal/terms': 'Conditions Générales',
+    '/legal/cancellation-policy': "Politique d'Annulation",
+    '/legal/privacy': 'Confidentialité',
+  },
+  'pt-br': {
+    '/legal/terms': 'Termos e Condições',
+    '/legal/cancellation-policy': 'Política de Cancelamento',
+    '/legal/privacy': 'Privacidade',
+  },
 };
-const legalLinks = legalLinksByLocale[locale] ?? legalLinksByLocale.en;
+const legalLabels = legalLabelsByLocale[locale] ?? legalLabelsByLocale.en;
+const legalLinks = ['/legal/terms', '/legal/cancellation-policy', '/legal/privacy'].map((clave) => ({
+  href: localizedPath(locale as (typeof locales)[number], rutaSinPrefijo(clave, locale)),
+  label: legalLabels[clave],
+}));
 ---
 
 <footer class="bg-sand">
