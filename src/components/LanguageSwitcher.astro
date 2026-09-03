@@ -1,11 +1,36 @@
 ---
-// Links to each locale's HOMEPAGE, not a deep same-page link — most content
-// isn't translated into all 5 locales yet (see i18n/ui.ts comment), so a
-// same-page link could 404. Once translation coverage is broad enough this
-// can switch to a real same-page mapping.
+/*
+ * El selector de idioma conserva la PÁGINA; ya no manda a la portada.
+ *
+ * Enlazaba siempre a la portada de cada idioma, y su comentario decía que era
+ * porque no todo estaba traducido y un enlace a la misma página podía dar 404.
+ * Eso dejó de ser cierto: las cinco colecciones existen en los cinco idiomas
+ * con el MISMO slug (medido el 02/09/2026, 0 ficheros ausentes), y para las
+ * pocas páginas cuyo slug sí cambia —las legales— está `rutas-por-idioma`, que
+ * se escribió al arreglar el hreflang.
+ *
+ * Mandar a la portada tira la visita: quien llegó buscando una isla concreta y
+ * cambia de idioma aparece en la home de otro idioma, y se va.
+ *
+ * `availableLocales` ya lo calcula el layout para el hreflang, así que aquí se
+ * reutiliza y solo se ofrecen los idiomas en los que ESTA página existe. Sin
+ * ruta se cae a la portada, que es el comportamiento de antes.
+ */
 import { locales, languageNames, localizedPath, defaultLocale } from '../i18n/ui';
+import { rutaSinPrefijo } from '../i18n/rutas-por-idioma';
+
+interface Props {
+  /** Ruta canónica SIN prefijo de idioma, la misma que recibe `Seo`. */
+  path?: string;
+  /** Idiomas en los que existe esta página. Sin lista, se ofrecen todos. */
+  availableLocales?: string[];
+}
+const { path, availableLocales } = Astro.props;
 
 const currentLocale = Astro.currentLocale ?? defaultLocale;
+const ofrecidos = locales.filter((l) => !availableLocales || availableLocales.includes(l));
+const destino = (locale: string) =>
+  path ? localizedPath(locale, rutaSinPrefijo(path, locale)) : localizedPath(locale, '/');
 ---
 
 <div class="group relative" data-dropdown>
@@ -21,9 +46,10 @@ const currentLocale = Astro.currentLocale ?? defaultLocale;
   </button>
   <div id="language-menu" class="invisible absolute right-0 top-full z-50 w-40 pt-2 opacity-0 transition group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
     <div class="rounded-xl bg-white py-2 shadow-lg ring-1 ring-deep/10">
-      {locales.map((locale) => (
+      {ofrecidos.map((locale) => (
         <a
-          href={localizedPath(locale, '/')}
+          href={destino(locale)}
+          hreflang={locale}
           class:list={[
             'block px-4 py-1.5 text-sm hover:bg-sand',
             locale === currentLocale ? 'font-bold text-teal' : 'text-deep/80',

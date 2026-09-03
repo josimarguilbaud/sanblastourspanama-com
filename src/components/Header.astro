@@ -7,11 +7,12 @@ import { navShortcuts } from '../i18n/nav';
 const locale = Astro.currentLocale ?? defaultLocale;
 const t = useTranslations(locale);
 
-// Full content (islands, tours, guides) currently only exists for en/es —
-// de/fr/pt-br are pipeline proof-of-concept (home + 1 island only), so their
-// header stays minimal rather than linking to pages that don't exist yet.
-const hasFullContent = locale === 'en' || locale === 'es';
-const menu = hasFullContent ? navShortcuts[locale as 'en' | 'es'] : null;
+// El menu existe en los cinco idiomas desde el 02/09/2026. Antes se apagaba
+// para de/fr/pt-br «porque solo en/es tenian contenido completo», y eso hacia
+// mucho que no era verdad: las cinco colecciones estan en los cinco idiomas
+// con el mismo slug. El efecto medido era que 24 paginas por idioma colgaban
+// solo del sitemap. Ver el comentario de `navShortcuts`.
+const menu = navShortcuts[locale as keyof typeof navShortcuts] ?? navShortcuts.en;
 const homeHref = localizedPath(locale, '/');
 const menuLabel = t('nav.menu');
 const searchIndexUrl = localizedPath(locale, '/search-index.json');
@@ -24,6 +25,11 @@ const searchStrings: Record<string, { label: string; placeholder: string; noResu
   'pt-br': { label: 'Pesquisar', placeholder: 'Pesquisar ilhas, passeios, guias…', noResults: 'Ainda sem resultados — continue digitando.' },
 };
 const search = searchStrings[locale] ?? searchStrings.en;
+
+// Se reciben solo para pasarselos al selector de idioma: sin la ruta actual
+// no puede enlazar a la MISMA pagina en otro idioma.
+interface Props { path?: string; availableLocales?: string[] }
+const { path, availableLocales } = Astro.props;
 ---
 
 <header class="sticky top-0 z-40 bg-white shadow-sm">
@@ -118,7 +124,7 @@ const search = searchStrings[locale] ?? searchStrings.en;
       >
         <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 10a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
       </button>
-      <LanguageSwitcher />
+      <LanguageSwitcher path={path} availableLocales={availableLocales} />
       <BookingCta label={t('cta.book')} class="!bg-lime !py-2.5 !px-5 text-sm !shadow-lime/30 hover:!bg-limedark" />
       {menu && (
         <button

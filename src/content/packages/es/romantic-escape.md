@@ -6,7 +6,7 @@ heroImage: "/img/pina-colada-atardecer-san-blas.webp"
 highlights: ["Cabaña overwater", "Momento en lancha privada", "Atardecer + amanecer", "Cena Guna para dos"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
-seoTitle: "Escapada Romántica en San Blas — Cabaña Overwater para Dos"
+seoTitle: "Luna de Miel y Aniversario en San Blas, Panamá"
 seoDescription: "Una escapada romántica en San Blas armada alrededor de una cabaña overwater, un momento en lancha privada."
 ---
 

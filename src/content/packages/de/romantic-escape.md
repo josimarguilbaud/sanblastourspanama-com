@@ -6,7 +6,7 @@ heroImage: "/img/pina-colada-atardecer-san-blas.webp"
 highlights: ["Overwater-Hütte", "Privater Bootsmoment", "Sonnenuntergang + Sonnenaufgang", "Guna-Abendessen für zwei"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
-seoTitle: "Romantische San-Blas-Auszeit — Overwater-Hütte für Zwei"
+seoTitle: "Flitterwochen und Jahrestag auf San Blas, Panama"
 seoDescription: "Eine romantische Auszeit in San Blas, aufgebaut um eine Overwater-Hütte und einen echt dunklen Sternenhimmel — koordiniert per WhatsApp, ohne festen Preis."
 ---
 

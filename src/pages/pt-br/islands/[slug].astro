@@ -5,6 +5,7 @@ import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
+import { faqJsonLd } from '../../../lib/faq';
 
 export async function getStaticPaths() {
   const allIslands = await getCollection('islands');
@@ -24,6 +25,10 @@ const t = useTranslations('pt-br');
 
 const allIslands = await getCollection('islands');
 const availableLocales = localesForSlug(allIslands, slug);
+// El FAQPage sale del propio Markdown: las preguntas se escriben en el cuerpo
+// y por tanto se VEN en la pagina, que es lo que Google exige para marcarlas.
+// Ver src/lib/faq.ts. Devuelve null si la entrada aun no tiene seccion.
+const faqLd = faqJsonLd(entry.body ?? '');
 ---
 
 <Layout
@@ -33,6 +38,8 @@ const availableLocales = localesForSlug(allIslands, slug);
   path={`/islands/${slug}`}
   availableLocales={availableLocales}
 >
+  {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
+
   <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">
     <img src={heroImage} alt={name} class="h-full w-full object-cover" />
   </div>

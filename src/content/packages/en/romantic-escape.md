@@ -6,7 +6,7 @@ heroImage: "/img/pina-colada-atardecer-san-blas.webp"
 highlights: ["Overwater cabin", "Private boat moment", "Sunset + sunrise", "Guna dinner for two"]
 relatedTourSlugs: ["overwater-cabin-overnight", "isla-diablo-day-tour"]
 relatedIslandSlugs: ["isla-diablo", "cayos-holandeses"]
-seoTitle: "Romantic San Blas Getaway"
+seoTitle: "Honeymoon & Anniversary Trip to San Blas, Panama"
 seoDescription: "A San Blas romantic escape built around an overwater cabin, a private boat moment, and a genuinely dark, star-filled sky — coordinated over WhatsApp."
 ---
 

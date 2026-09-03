@@ -8,8 +8,11 @@ const locale = Astro.currentLocale ?? defaultLocale;
 const t = useTranslations(locale);
 const year = new Date().getFullYear();
 
-const hasFullContent = locale === 'en' || locale === 'es';
-const islandLinks = hasFullContent ? navShortcuts[locale as 'en' | 'es'].islands.slice(0, 5) : [];
+// Los cinco idiomas, no dos. El pie tenia la misma puerta cerrada que el Header:
+// de/fr/pt-br se quedaban sin enlaces a islas, asi que ni la cabecera ni el pie
+// sostenian su propio catalogo. Ver el comentario de `navShortcuts`.
+const islandLinks = (navShortcuts[locale as keyof typeof navShortcuts] ?? navShortcuts.en)
+  .islands.slice(0, 5);
 
 // Legal pages live on this site (src/pages/legal/*, src/pages/{locale}/legal/*)
 // so they share this site's design and never send visitors to another domain.

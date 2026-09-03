@@ -5,6 +5,7 @@ import BookingCta from '../../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
 import RelatedCards from '../../../../components/RelatedCards.astro';
 import { localesForSlug } from '../../../../i18n/content';
+import { faqJsonLd } from '../../../../lib/faq';
 
 export async function getStaticPaths() {
   const allPackages = await getCollection('packages');
@@ -44,6 +45,10 @@ const relatedIslands = allIslands
   }));
 
 const whatsappMessage = `Olá! Tenho interesse no pacote personalizado "${name}".`;
+// El FAQPage sale del propio Markdown: las preguntas se escriben en el cuerpo
+// y por tanto se VEN en la pagina, que es lo que Google exige para marcarlas.
+// Ver src/lib/faq.ts. Devuelve null si la entrada aun no tiene seccion.
+const faqLd = faqJsonLd(entry.body ?? '');
 ---
 
 <Layout
@@ -53,6 +58,8 @@ const whatsappMessage = `Olá! Tenho interesse no pacote personalizado "${name}"
   path={`/tours/packages/${slug}`}
   availableLocales={availableLocales}
 >
+  {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
+
   <div class="h-[40vh] min-h-[280px] w-full overflow-hidden">
     <img src="/img/isla-aerea-arrecife-san-blas.webp" alt={name} class="h-full w-full object-cover" />
   </div>

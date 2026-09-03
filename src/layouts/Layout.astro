@@ -93,7 +93,7 @@ const ldItems = [organizationJsonLd, ...(jsonld ? (Array.isArray(jsonld) ? jsonl
       Skip to content
     </a>
     <TopBar />
-    <Header />
+    <Header path={path} availableLocales={availableLocales} />
     <main id="main-content">
       <slot />
     </main>
