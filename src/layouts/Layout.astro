@@ -17,9 +17,11 @@ interface Props {
    *  sitewide TravelAgency. Only pass markup whose content is VISIBLE on the
    *  page: Google penalises structured data that describes nothing on screen. */
   jsonld?: object | object[];
+  /** Fuera del índice, con los enlaces seguidos. Es de las legales; ver Seo.astro. */
+  noindex?: boolean;
 }
 
-const { title, description, image, path, availableLocales, errorPage, jsonld } = Astro.props;
+const { title, description, image, path, availableLocales, errorPage, jsonld, noindex } = Astro.props;
 
 // Sitewide business entity — same on every page so Google has one consistent
 // TravelAgency record rather than only on the homepage.
@@ -33,6 +35,11 @@ const { title, description, image, path, availableLocales, errorPage, jsonld } =
 const organizationJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'TravelAgency',
+  // ⚠️ Sin `@id` este negocio no se podía referenciar desde ningún otro dato
+  // estructurado de la web: un `Review` o un `Product` que quisiera decir de
+  // quién es no tenía a qué apuntar, y las dos webs hermanas sí lo tenían.
+  // Es un identificador, no una URL que haya que servir: no se navega.
+  '@id': 'https://sanblastourspanama.com/#organizacion',
   name: 'San Blas Tours Panamá',
   url: 'https://sanblastourspanama.com',
   image: 'https://sanblastourspanama.com/img/barco-hundido-snorkel-san-blas.webp',
@@ -73,7 +80,7 @@ const ldItems = [organizationJsonLd, ...(jsonld ? (Array.isArray(jsonld) ? jsonl
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <Seo title={title} description={description} image={image} path={path} availableLocales={availableLocales} errorPage={errorPage} />
+    <Seo title={title} description={description} image={image} path={path} availableLocales={availableLocales} errorPage={errorPage} noindex={noindex} />
     {ldItems.map((item) => <script type="application/ld+json" set:html={JSON.stringify(item)} />)}
     <script is:inline>
       (function (w, d, s, l, i) {

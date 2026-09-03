@@ -20,7 +20,12 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
 
-  integrations: [sitemap()],
+  // Las 15 páginas legales llevan `noindex` (ver Seo.astro), así que no pintan
+  // nada en el sitemap: anunciar una URL y a la vez pedir que no se indexe son
+  // dos señales que se contradicen, y Search Console lo reporta como «excluida
+  // por la etiqueta noindex» sobre algo que tú mismo enviaste. El filtro y la
+  // etiqueta van juntos: si algún día se quita uno, hay que quitar el otro.
+  integrations: [sitemap({ filter: (page) => !/\/legal\//.test(page) })],
 
   i18n: {
     locales: ['en', 'es', 'de', 'fr', 'pt-br'],

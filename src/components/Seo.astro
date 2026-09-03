@@ -30,9 +30,23 @@ interface Props {
    * hreflang at all.
    */
   errorPage?: boolean;
+  /**
+   * Fuera del índice, pero los enlaces se siguen.
+   *
+   * Es para las 15 páginas legales. Son las más flacas del sitio y las más
+   * parecidas entre sí y a las de las webs hermanas —el pico de duplicación
+   * entre sanblasfull y sanblastourspty, un 79 %, está justo en /terminos— y
+   * no contestan a ninguna búsqueda que traiga un cliente. Fuera del índice
+   * dejan de gastar presupuesto de rastreo y de diluir el dominio.
+   *
+   * ⚠️ Va `follow`, no `noindex, nofollow`: la página sigue repartiendo sus
+   * enlaces al resto del sitio, sigue accesible para quien la busque y sigue
+   * cumpliendo su función legal. Solo deja de competir.
+   */
+  noindex?: boolean;
 }
 
-const { title, description, image, path = '/', availableLocales, errorPage } = Astro.props;
+const { title, description, image, path = '/', availableLocales, errorPage, noindex } = Astro.props;
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://sanblastourspanama.com';
 
@@ -71,7 +85,7 @@ const hreflangLocales = errorPage
 
 <title>{title}</title>
 <meta name="description" content={description} />
-<meta name="robots" content="index, follow" />
+<meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
 <link rel="canonical" href={canonical} />
 
 {hreflangLocales.map((locale) => (
