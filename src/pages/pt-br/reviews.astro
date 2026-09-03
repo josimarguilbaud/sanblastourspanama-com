@@ -1,0 +1,63 @@
+---
+/**
+ * Las veinte opiniones reales de viajeros.
+ *
+ * Hasta el 03/09/2026 esta web no tenía NINGUNA prueba social: ni una reseña,
+ * ni agregado, ni una cita con nombre — siendo la de más tráfico orgánico de
+ * las tres del negocio. Las veinte se mudaron desde las webs hermanas, no se
+ * copiaron: el mismo texto en dos dominios del mismo dueño es duplicación.
+ * Ver `src/lib/reviews.ts`.
+ */
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import Reviews from '../../components/Reviews.astro';
+import BookingCta from '../../components/BookingCta.astro';
+import { AGGREGATE, reviewsJsonLd } from '../../lib/reviews';
+
+const LANG = "pt-br";
+const SITIO = 'https://sanblastourspanama.com';
+
+/* Las reseñas van dentro del TravelAgency, y el agregado con ellas: esta
+ * página SÍ las muestra, que es lo que Google exige para aceptarlo. */
+const resenas = reviewsJsonLd(LANG, SITIO);
+const agregado = { '@type': 'AggregateRating', ...AGGREGATE };
+
+const migas = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: "Início", item: `${SITIO}/pt-br` },
+    { '@type': 'ListItem', position: 2, name: "Avaliações", item: `${SITIO}/pt-br/reviews` },
+  ],
+};
+---
+
+<Layout
+  title="Avaliações de San Blas — O que dizem os viajantes"
+  description="Vinte avaliações de viajantes que já estiveram em San Blas: a cultura guna, a água, as ilhas e o que mais os surpreendeu. Reais, sem retoque."
+  path="/reviews"
+  jsonld={migas}
+  reviews={resenas}
+  aggregateRating={agregado}
+>
+  <section class="bg-teal/5 py-14">
+    <div class="mx-auto max-w-6xl px-4">
+      <Breadcrumbs items={[{ label: "Início", href: "/pt-br" }, { label: "Avaliações" }]} />
+      <h1 class="mt-4 text-3xl font-bold text-deep sm:text-4xl">O que dizem os viajantes que já foram</h1>
+      <p class="mt-4 max-w-3xl text-lg text-deep/75">Vinte avaliações de quem já fez a viagem. Publicamos como chegaram até nós, sem estrelas: não temos registro da nota que cada pessoa deu, e inventar esse número seria a coisa mais fácil desta página e a mais desonesta.</p>
+    </div>
+  </section>
+
+  <Reviews lang={LANG} />
+
+  <section class="bg-white py-14">
+    <div class="mx-auto max-w-3xl px-4">
+      <h2 class="text-2xl font-bold text-deep">Pronto para ver com seus próprios olhos?</h2>
+      <p class="mt-2 text-deep/75">Escolha uma data e veja a disponibilidade, ou fale com a gente no WhatsApp se preferir conversar antes.</p>
+      <div class="mt-5 flex flex-wrap items-center gap-4">
+        <a href="/pt-br/tours" class="rounded-lg bg-coral px-6 py-3 font-semibold text-white no-underline hover:bg-coraldark">Ver passeios</a>
+        <BookingCta />
+      </div>
+    </div>
+  </section>
+</Layout>

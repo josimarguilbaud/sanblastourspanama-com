@@ -1,0 +1,26 @@
+---
+/**
+ * `/prices` en inglés. Las cinco versiones son igual de finas: el título y la
+ * descripción se escriben aquí, LITERALES, porque `scripts/verificar-snippets.mjs`
+ * los lee con una expresión regular sobre el fichero y no puede seguir una
+ * variable. Todo lo demás vive en `components/PaginaPrecios.astro`.
+ *
+ * ⚠️ El slug es `/prices` en los cinco idiomas, no traducido. Es la convención
+ * de TODAS las páginas fijas de esta web menos las legales (`/faq`, `/tours`,
+ * `/islands`, `/guides`, `/yachts`, `/guna-yala`); las legales son la excepción
+ * y por eso existe `i18n/rutas-por-idioma.ts`. Traducir solo esta rompería la
+ * regla sin ganar casi nada: la palabra clave pesa en el título y en el H1, que
+ * sí van en cada idioma.
+ */
+import Layout from '../layouts/Layout.astro';
+import PaginaPrecios from '../components/PaginaPrecios.astro';
+---
+
+<Layout
+  title="San Blas Tour Prices 2026 — What It Really Costs"
+  description="What a San Blas tour costs per person, what the Guna Yala tax adds and what the price does not include — checked against our live booking system."
+  path="/prices"
+  image="/img/isla-turquesa-lanchas-san-blas.webp"
+>
+  <PaginaPrecios />
+</Layout>

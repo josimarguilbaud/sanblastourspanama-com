@@ -6,6 +6,8 @@ import StatsCounters from '../components/StatsCounters.astro';
 import TourAmenityCard from '../components/TourAmenityCard.astro';
 import FaqTeaser from '../components/FaqTeaser.astro';
 import PhotoGalleryStrip from '../components/PhotoGalleryStrip.astro';
+import Reviews from '../components/Reviews.astro';
+import { AGGREGATE, reviewsJsonLd } from '../lib/reviews';
 
 const allIslands = await getCollection('islands');
 const featured = allIslands
@@ -72,6 +74,12 @@ const faqJsonLd = {
   })),
 };
 
+
+/* Las resenas que esta portada muestra, para declararlas dentro del negocio.
+ * El agregado va con ellas y NUNCA sin ellas: un aggregateRating sin resenas
+ * a la vista es incumplimiento directo. */
+const resenasHome = reviewsJsonLd("en", 'https://sanblastourspanama.com').slice(0, 6);
+const agregadoHome = { '@type': 'AggregateRating', ...AGGREGATE };
 ---
 
 <Layout
@@ -79,6 +87,8 @@ const faqJsonLd = {
   description="The islands of San Blas explained in depth, real Guna culture, and direct WhatsApp booking with a real person — no contact forms, no call centers."
   path="/"
   jsonld={faqJsonLd}
+  reviews={resenasHome}
+  aggregateRating={agregadoHome}
 >
   <section class="relative overflow-hidden bg-sand">
     <div class="mx-auto grid max-w-7xl items-center gap-8 px-4 py-14 sm:px-6 lg:grid-cols-2 lg:gap-4 lg:px-8 lg:py-20">
@@ -327,7 +337,15 @@ const faqJsonLd = {
         ))}
       </div>
     </div>
-  </section>
+  </section>  <Reviews
+    lang="en"
+    limit={6}
+    titulo="What travellers say"
+    subtitulo="Twenty reviews from people who have already made the trip. No star ratings: we do not have a record of what each person scored."
+    verTodas={{ href: "/reviews", texto: "Read all twenty" }}
+  />
+
+
 
   <FaqTeaser
     title="Find Answers for"

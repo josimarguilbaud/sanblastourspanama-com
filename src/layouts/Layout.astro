@@ -19,9 +19,24 @@ interface Props {
   jsonld?: object | object[];
   /** Fuera del índice, con los enlaces seguidos. Es de las legales; ver Seo.astro. */
   noindex?: boolean;
+  /**
+   * Las reseñas que ESTA página muestra, para declararlas dentro del negocio.
+   *
+   * ⚠️ Solo se pasa desde una página que las pinta en pantalla. Google exige
+   * que el marcado corresponda a contenido visible, y un `aggregateRating` sin
+   * reseñas a la vista es incumplimiento directo: es el fallo que tiene hoy la
+   * portada de sanblastourspty, que declara 4,9 sobre 2.000 con cero reseñas
+   * en la misma entidad.
+   *
+   * Van DENTRO del `TravelAgency`, no como bloque suelto: un `Review` que no
+   * dice qué reseña no sirve, y eso ya lo avisó Search Console el 02/09/2026.
+   */
+  reviews?: object[];
+  /** El agregado real (Google + TripAdvisor). Solo junto a `reviews`. */
+  aggregateRating?: object;
 }
 
-const { title, description, image, path, availableLocales, errorPage, jsonld, noindex } = Astro.props;
+const { title, description, image, path, availableLocales, errorPage, jsonld, noindex, reviews, aggregateRating } = Astro.props;
 
 // Sitewide business entity — same on every page so Google has one consistent
 // TravelAgency record rather than only on the homepage.
@@ -84,7 +99,15 @@ const organizationJsonLd = {
   },
 };
 
-const ldItems = [organizationJsonLd, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [])];
+/* Las reseñas y su agregado entran DENTRO del negocio, y solo si la página que
+ * las pasa las está pintando. Nunca uno sin el otro: un `aggregateRating` sin
+ * reseñas visibles es incumplimiento, y unas reseñas sin agregado desaprovechan
+ * un dato que el dueño confirmó como real. */
+const negocio = reviews?.length
+  ? { ...organizationJsonLd, review: reviews, ...(aggregateRating ? { aggregateRating } : {}) }
+  : organizationJsonLd;
+
+const ldItems = [negocio, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [])];
 ---
 
 <!DOCTYPE html>

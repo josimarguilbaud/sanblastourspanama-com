@@ -18,11 +18,13 @@ seoDescription: "Comparando um passeio de um dia em San Blas com uma estadia de 
 
 ## O que é diferente se você passar a noite
 
-- **Nascer e pôr do sol sobre o Caribe**, do seu próprio trecho de praia.
-- **Um céu noturno genuinamente escuro** — Guna Yala praticamente não tem poluição luminosa.
-- **Mais tempo na água** — caiaque, stand-up paddle, e snorkel extra.
-- **Uma conexão cultural mais próxima** — as noites geralmente incluem um jantar Guna tradicional.
+A versão noturna não é apenas "o mesmo passeio de um dia, com dormida incluída". Ela muda todo o ritmo da viagem:
+
+- **Nascer e pôr do sol sobre o Caribe**, do seu próprio trecho de praia, sem a pressão do horário da lancha de volta.
+- **Um céu noturno genuinamente escuro** — Guna Yala praticamente não tem poluição luminosa, então quem dorme na ilha vê um céu cheio de estrelas que quem vai só por um dia nunca chega a ver.
+- **Mais tempo na água** — caiaque, stand-up paddle e snorkel extra, sem correr contra o relógio.
+- **Uma conexão cultural mais próxima** — as noites geralmente incluem um jantar Guna tradicional e um tempo em volta da fogueira, algo que um único dia simplesmente não permite.
 
 ## Então, o que você deveria reservar?
 
-Se sua viagem ao Panamá é curta, o passeio de um dia entrega os destaques de forma eficiente. Se San Blas *é* a viagem, a estadia noturna vale o tempo extra.
+Se sua viagem ao Panamá é curta, ou se você só quer uma amostra de San Blas junto com outros planos, o passeio de um dia entrega os destaques de forma eficiente. Se San Blas *é* a viagem — ou se você quer aquele tipo de experiência sem pressa, desconectada de tudo, que fez você pesquisar "ilhas perto do Panamá" em primeiro lugar — a estadia noturna vale o tempo extra. De qualquer forma, dinheiro em espécie para o imposto comunitário de entrada e disposição para acordar muito cedo não são negociáveis.

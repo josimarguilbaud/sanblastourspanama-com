@@ -18,11 +18,13 @@ C'est la première vraie décision à laquelle la plupart des gens font face en 
 
 ## Ce qui est différent si vous passez la nuit
 
-- **Lever et coucher de soleil sur les Caraïbes**, depuis votre propre bout de plage.
-- **Un ciel nocturne vraiment sombre** — Guna Yala n'a essentiellement aucune pollution lumineuse.
-- **Plus de temps dans l'eau** — kayak, paddle, et snorkeling supplémentaire.
-- **Une connexion culturelle plus proche** — les soirées incluent généralement un dîner Guna traditionnel.
+La version nocturne, ce n'est pas simplement « la même excursion, plus une nuit sur place ». Elle change tout le rythme du voyage :
+
+- **Lever et coucher de soleil sur les Caraïbes**, depuis votre propre bout de plage, sans la pression de l'horaire du bateau de retour.
+- **Un ciel nocturne vraiment sombre** — Guna Yala n'a essentiellement aucune pollution lumineuse, alors ceux qui dorment sur place voient un ciel plein d'étoiles que les visiteurs d'une journée ne verront jamais.
+- **Plus de temps dans l'eau** — kayak, paddle et snorkeling supplémentaire, sans courir après la montre.
+- **Une connexion culturelle plus proche** — les soirées incluent généralement un dîner Guna traditionnel et un moment autour du feu, ce qu'une seule journée ne permet tout simplement pas.
 
 ## Alors, que devriez-vous réserver ?
 
-Si votre voyage au Panama est court, l'excursion d'une journée offre les points forts efficacement. Si San Blas *est* le voyage, le séjour nocturne vaut le temps supplémentaire.
+Si votre voyage au Panama est court, ou si vous voulez seulement un avant-goût de San Blas à côté d'autres projets, l'excursion d'une journée offre les points forts de façon efficace. Si San Blas *est* le voyage — ou si vous cherchez ce genre d'expérience sans hâte, déconnectée de tout, qui vous a fait chercher « îles près du Panama » au départ — le séjour nocturne vaut le temps supplémentaire. Dans les deux cas, l'argent liquide pour la taxe d'entrée communautaire et l'envie d'un réveil très matinal ne sont pas négociables.

@@ -1,0 +1,84 @@
+---
+/**
+ * Las opiniones de viajeros que ya fueron.
+ *
+ * Se usa en dos sitios con el mismo componente: un puñado en la portada
+ * (`limit={6}`) y las veinte en `/reviews`. Dos copias del mismo marcado
+ * acabarían divergiendo, y una reseña declarada a Google que no está en
+ * pantalla es justo lo que Google penaliza.
+ *
+ * ⚠️ Sin estrellas ni sello de plataforma, a propósito. No consta qué
+ * puntuación puso cada viajero ni por qué vía llegó su texto; poner «5★ en
+ * Google» encima sería inventarse el dato. Ver `src/lib/reviews.ts`.
+ */
+import { REVIEWS, reviewText } from '../lib/reviews';
+
+interface Props {
+  lang: string;
+  /** Cuántas mostrar. Sin límite, las veinte. */
+  limit?: number;
+  /** Encabezado de la sección. Si no se pasa, no se pinta ninguno. */
+  titulo?: string;
+  subtitulo?: string;
+  /** Enlace a la página completa, para la tira de la portada. */
+  verTodas?: { href: string; texto: string };
+}
+
+const { lang, limit, titulo, subtitulo, verTodas } = Astro.props;
+const lista = limit ? REVIEWS.slice(0, limit) : REVIEWS;
+
+/** El nombre del país, para no enseñar un código de dos letras sin más. */
+const PAIS: Record<string, string> = {
+  AR: 'Argentina', AT: 'Austria', AU: 'Australia', BE: 'Bélgica', BO: 'Bolivia',
+  BR: 'Brasil', CA: 'Canadá', CH: 'Suiza', CL: 'Chile', CO: 'Colombia',
+  CR: 'Costa Rica', CZ: 'Chequia', DE: 'Alemania', DK: 'Dinamarca',
+  DO: 'República Dominicana', EC: 'Ecuador', ES: 'España', FI: 'Finlandia',
+  FR: 'Francia', GB: 'Reino Unido', GT: 'Guatemala', HN: 'Honduras',
+  IE: 'Irlanda', IT: 'Italia', JP: 'Japón', MX: 'México', NL: 'Países Bajos',
+  NO: 'Noruega', PA: 'Panamá', PE: 'Perú', PL: 'Polonia', PT: 'Portugal',
+  PY: 'Paraguay', RU: 'Rusia', SE: 'Suecia', SV: 'El Salvador', US: 'Estados Unidos',
+  UY: 'Uruguay', VE: 'Venezuela',
+};
+/* El nombre del país se muestra con `Intl` cuando el navegador del build lo
+ * soporta, así sale en el idioma de la página sin mantener cinco listas. La
+ * lista de arriba es el respaldo. */
+const nombrePais = (cc: string) => {
+  try {
+    const n = new Intl.DisplayNames([lang === 'pt-br' ? 'pt-BR' : lang], { type: 'region' }).of(cc);
+    if (n && n !== cc) return n;
+  } catch { /* Intl sin datos de región: se usa el respaldo */ }
+  return PAIS[cc] ?? cc;
+};
+---
+
+<section class="bg-sand py-14">
+  <div class="mx-auto max-w-6xl px-4">
+    {titulo && (
+      <div class="mb-8 max-w-2xl">
+        <h2 class="text-2xl font-bold text-deep sm:text-3xl">{titulo}</h2>
+        {subtitulo && <p class="mt-2 text-deep/70">{subtitulo}</p>}
+      </div>
+    )}
+
+    <ul class="grid list-none grid-cols-1 gap-5 p-0 sm:grid-cols-2 lg:grid-cols-3">
+      {lista.map((r) => (
+        <li class="flex h-full flex-col rounded-xl bg-white p-5 shadow-sm shadow-deep/5">
+          <p class="flex-1 text-[15px] leading-relaxed text-deep/85">{reviewText(r, lang)}</p>
+          <p class="mt-4 border-t border-deep/10 pt-3 text-sm font-semibold text-deep">
+            {r.name}
+            <span class="ml-2 font-normal text-deep/55">{nombrePais(r.cc)}</span>
+          </p>
+        </li>
+      ))}
+    </ul>
+
+    {verTodas && (
+      <a
+        href={verTodas.href}
+        class="mt-8 inline-block rounded-lg border border-teal/40 px-5 py-3 font-semibold text-teal no-underline transition-colors hover:bg-teal/10"
+      >
+        {verTodas.texto}
+      </a>
+    )}
+  </div>
+</section>

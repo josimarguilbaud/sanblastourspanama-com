@@ -28,6 +28,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.guides': 'Travel Guides',
     'nav.blog': 'Blog',
     'nav.faq': 'FAQ',
+    'nav.reviews': 'Reviews',
     'nav.menu': 'Menu',
     'cta.book': 'Book Now',
     'cta.checkAvailability': 'Ask About Availability',
@@ -37,6 +38,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.languages': 'Languages',
     'footer.allIslands': 'All Islands',
     'footer.toursAndPrices': 'Tours & Packages',
+    'footer.prices': 'Prices',
   },
   es: {
     'nav.islands': 'Islas',
@@ -44,6 +46,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.guides': 'Guías de Viaje',
     'nav.blog': 'Blog',
     'nav.faq': 'Preguntas Frecuentes',
+    'nav.reviews': 'Opiniones',
     'nav.menu': 'Menú',
     'cta.book': 'Reservar',
     'cta.checkAvailability': 'Consultar Disponibilidad',
@@ -53,6 +56,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.languages': 'Idiomas',
     'footer.allIslands': 'Todas las Islas',
     'footer.toursAndPrices': 'Tours y Paquetes',
+    'footer.prices': 'Precios',
   },
   de: {
     'nav.islands': 'Inseln',
@@ -60,6 +64,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.guides': 'Reiseführer',
     'nav.blog': 'Blog',
     'nav.faq': 'FAQ',
+    'nav.reviews': 'Bewertungen',
     'nav.menu': 'Menü',
     'cta.book': 'Buchen',
     'cta.checkAvailability': 'Verfügbarkeit Erfragen',
@@ -69,6 +74,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.languages': 'Sprachen',
     'footer.allIslands': 'Alle Inseln',
     'footer.toursAndPrices': 'Touren & Pakete',
+    'footer.prices': 'Preise',
   },
   fr: {
     'nav.islands': 'Îles',
@@ -76,6 +82,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.guides': 'Guides de Voyage',
     'nav.blog': 'Blog',
     'nav.faq': 'FAQ',
+    'nav.reviews': 'Avis',
     'nav.menu': 'Menu',
     'cta.book': 'Réserver',
     'cta.checkAvailability': 'Demander la Disponibilité',
@@ -85,6 +92,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.languages': 'Langues',
     'footer.allIslands': 'Toutes les Îles',
     'footer.toursAndPrices': 'Excursions et Forfaits',
+    'footer.prices': 'Tarifs',
   },
   'pt-br': {
     'nav.islands': 'Ilhas',
@@ -92,6 +100,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.guides': 'Guias de Viagem',
     'nav.blog': 'Blog',
     'nav.faq': 'FAQ',
+    'nav.reviews': 'Avaliações',
     'nav.menu': 'Menu',
     'cta.book': 'Reservar',
     'cta.checkAvailability': 'Perguntar Disponibilidade',
@@ -101,6 +110,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.languages': 'Idiomas',
     'footer.allIslands': 'Todas as Ilhas',
     'footer.toursAndPrices': 'Passeios e Pacotes',
+    'footer.prices': 'Preços',
   },
 };
 

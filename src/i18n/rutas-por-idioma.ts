@@ -62,9 +62,14 @@ export const RUTAS_FIJAS: Record<string, RutasPorIdioma> = {
   '/guna-yala': iguales('/guna-yala'),
   '/yachts': iguales('/yachts'),
   '/tours': iguales('/tours'),
+  // ⚠️ `/prices` NO lleva el slug traducido, aunque el mapa lo permitiría.
+  // Sigue la convención de las otras páginas fijas; las legales son la
+  // excepción, no la regla. Ver la cabecera de `src/pages/prices.astro`.
+  '/prices': iguales('/prices'),
   '/islands': iguales('/islands'),
   '/guides': iguales('/guides'),
   '/blog': iguales('/blog'),
+  '/reviews': iguales('/reviews'),
 
   // Las tres que motivaron el mapa: aquí el slug SÍ cambia.
   '/legal/terms': {

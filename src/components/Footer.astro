@@ -80,9 +80,15 @@ const legalLinks = ['/legal/terms', '/legal/cancellation-policy', '/legal/privac
         <ul class="mt-3 space-y-2 text-sm text-deep/70">
           <li><a href={localizedPath(locale, '/islands')} class="hover:text-lime">{t('footer.allIslands')}</a></li>
           <li><a href={localizedPath(locale, '/tours')} class="hover:text-lime">{t('footer.toursAndPrices')}</a></li>
+          {/* `/prices` cuelga del pie a propósito. Es una página fija nueva y,
+              sin un enlace interno, viviría solo en el sitemap: es exactamente
+              el agujero que documenta `i18n/nav.ts` (24 páginas por idioma
+              huérfanas hasta el 02/09/2026). */}
+          <li><a href={localizedPath(locale, '/prices')} class="hover:text-lime">{t('footer.prices')}</a></li>
           <li><a href={localizedPath(locale, '/guides')} class="hover:text-lime">{t('nav.guides')}</a></li>
           <li><a href={localizedPath(locale, '/blog')} class="hover:text-lime">{t('nav.blog')}</a></li>
           <li><a href={localizedPath(locale, '/faq')} class="hover:text-lime">{t('nav.faq')}</a></li>
+          <li><a href={localizedPath(locale, '/reviews')} class="hover:text-lime">{t('nav.reviews')}</a></li>
         </ul>
       </div>
 

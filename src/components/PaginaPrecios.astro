@@ -1,0 +1,277 @@
+---
+/**
+ * `/prices` — la página que contesta «cuánto cuesta un tour a San Blas».
+ *
+ * ── Por qué una sola plantilla y cinco páginas finas ──────────────────────
+ * Las cinco versiones de idioma comparten esta plantilla y solo cambian el
+ * texto, que vive en `src/i18n/precios-texto.ts`. Es lo contrario de lo que
+ * hace `/faq`, que está copiada entera cinco veces: aquella copia ya se
+ * desincronizó una vez y ninguna herramienta lo notó, porque nada obliga a que
+ * cinco ficheros sueltos tengan las mismas secciones. Aquí la estructura es
+ * literalmente la misma, así que un bloque nuevo aparece en los cinco idiomas o
+ * en ninguno.
+ *
+ * ── Las cifras no están escritas en el texto ──────────────────────────────
+ * El diccionario lleva marcadores `{clave}` y aquí se sustituyen por los
+ * números de `src/lib/precios.ts`. Ver el porqué en la cabecera de ese fichero:
+ * un precio dentro de una frase ya costó un fallo real en este proyecto.
+ *
+ * ── El `FAQPage` va con preguntas VISIBLES ────────────────────────────────
+ * Google penaliza el dato estructurado que describe algo que no está en
+ * pantalla, así que las preguntas se pintan en la página y el JSON-LD se
+ * construye de la MISMA lista, no de una copia aparte. Es el mismo criterio
+ * que documenta `src/lib/faq.ts` para las colecciones; aquí no se puede usar
+ * esa función porque el contenido no viene de Markdown.
+ */
+import Breadcrumbs from './Breadcrumbs.astro';
+import BookingCta from './BookingCta.astro';
+import WidgetReserva from './WidgetReserva.astro';
+import { TEXTO_PRECIOS } from '../i18n/precios-texto';
+import { localizedPath, defaultLocale, type Locale } from '../i18n/ui';
+import {
+  TOURS_DIA,
+  CABANAS,
+  IMPUESTO_COMARCA,
+  RECARGO_TARJETA_PCT,
+  RECOGIDA_PLAYA_BONITA,
+  NOCHES_MAX,
+  RANGO_DIA,
+  RANGO_NOCHE,
+  VERIFICADO,
+} from '../lib/precios';
+
+const locale = (Astro.currentLocale ?? defaultLocale) as Locale;
+const t = TEXTO_PRECIOS[locale] ?? TEXTO_PRECIOS[defaultLocale];
+
+/* La fecha se formatea en UTC a propósito: `VERIFICADO` es una fecha sin hora,
+ * y sin fijar la zona el build la interpretaría en la del servidor. En Panamá
+ * (UTC-5) eso restaba un día, así que la misma página decía una fecha distinta
+ * según dónde se compilara. */
+const ETIQUETA_FECHA: Record<Locale, string> = {
+  en: 'en-GB',
+  es: 'es-PA',
+  de: 'de-DE',
+  fr: 'fr-FR',
+  'pt-br': 'pt-BR',
+};
+const fecha = new Date(`${VERIFICADO}T12:00:00Z`).toLocaleDateString(ETIQUETA_FECHA[locale], {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+  timeZone: 'UTC',
+});
+
+/** Los valores que pueden aparecer como `{clave}` en el diccionario. */
+const NUMEROS: Record<string, string | number> = {
+  diaDesde: RANGO_DIA.desde,
+  diaHasta: RANGO_DIA.hasta,
+  nocheDesde: RANGO_NOCHE.desde,
+  nocheHasta: RANGO_NOCHE.hasta,
+  impExtranjero: IMPUESTO_COMARCA.extranjero,
+  impResidente: IMPUESTO_COMARCA.residente,
+  tarjeta: RECARGO_TARJETA_PCT,
+  playaBonita: RECOGIDA_PLAYA_BONITA,
+  nochesMax: NOCHES_MAX,
+  minCayos: TOURS_DIA.find((x) => x.minViajeros)?.minViajeros ?? 4,
+  verificado: fecha,
+};
+
+/** Sustituye los marcadores. Un marcador desconocido se deja tal cual: prefiero
+ *  ver `{loQueSea}` en la página que un hueco silencioso. */
+function r(texto: string): string {
+  return texto.replace(/\{(\w+)\}/g, (todo, clave) => String(NUMEROS[clave] ?? todo));
+}
+
+const ficha = (slug: string) => localizedPath(locale, `/tours/${slug}`);
+
+/* El `FAQPage`: las mismas preguntas que se pintan abajo, con los números ya
+ * sustituidos — el fragmento de un buscador no debe enseñar `{tarjeta}`. */
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: t.faq.map((p) => ({
+    '@type': 'Question',
+    name: r(p.q),
+    acceptedAnswer: { '@type': 'Answer', text: r(p.a) },
+  })),
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />
+
+<Breadcrumbs items={[{ label: t.migaInicio, href: '/' }, { label: t.migaPrecios }]} />
+
+<!-- 1. La respuesta directa. Es lo que Google recorta como fragmento destacado,
+     así que va arriba del todo, en dos frases y con la cifra dentro. -->
+<section class="mx-auto max-w-3xl px-4 pb-10 pt-4 sm:px-6 lg:px-8">
+  <p class="text-sm font-semibold uppercase tracking-wide text-amber">{t.eyebrow}</p>
+  <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">{t.h1}</h1>
+  <p class="mt-5 text-lg leading-relaxed text-deep/80">{r(t.respuesta)}</p>
+  <p class="mt-4 text-sm text-deep/50">{r(t.actualizado)}</p>
+</section>
+
+<!-- 2. La tabla de los tours de un día. -->
+<section class="mx-auto max-w-5xl px-4 pb-14 sm:px-6 lg:px-8">
+  <h2 class="font-heading text-2xl font-bold text-deep sm:text-3xl">{t.diaH2}</h2>
+  <p class="mt-3 max-w-3xl text-deep/70">{r(t.diaIntro)}</p>
+
+  <div class="mt-6 overflow-x-auto rounded-2xl bg-white ring-1 ring-deep/10">
+    <table class="w-full min-w-[46rem] border-collapse text-left text-sm">
+      <thead>
+        <tr class="bg-deep text-white">
+          <th scope="col" class="px-4 py-3 font-heading font-bold">{t.colTour}</th>
+          <th scope="col" class="px-4 py-3 font-heading font-bold whitespace-nowrap">{t.colPrecio}</th>
+          <th scope="col" class="px-4 py-3 font-heading font-bold">{t.colIncluye}</th>
+          <th scope="col" class="px-4 py-3 font-heading font-bold whitespace-nowrap">{t.colAbono}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {TOURS_DIA.map((tour) => {
+          const fila = t.tours[tour.slug];
+          return (
+            <tr class="border-t border-deep/10 align-top">
+              <th scope="row" class="px-4 py-4 text-left font-heading font-bold text-deep">
+                <a href={ficha(tour.slug)} class="text-teal hover:underline">{fila.nombre}</a>
+                {fila.nota && <span class="mt-1 block text-xs font-normal text-deep/60">{r(fila.nota)}</span>}
+              </th>
+              <td class="px-4 py-4 whitespace-nowrap font-heading text-lg font-bold text-coral">${tour.adulto}</td>
+              <td class="px-4 py-4 text-deep/70">{fila.incluye}</td>
+              <td class="px-4 py-4 whitespace-nowrap text-deep/70">${tour.abono}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- 3. La tabla de las estadías. -->
+<section class="bg-teal/5 py-14">
+  <div class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
+    <h2 class="font-heading text-2xl font-bold text-deep sm:text-3xl">{t.nocheH2}</h2>
+    <p class="mt-3 max-w-3xl text-deep/70">{r(t.nocheIntro)}</p>
+
+    <div class="mt-6 overflow-x-auto rounded-2xl bg-white ring-1 ring-deep/10">
+      <table class="w-full min-w-[40rem] border-collapse text-left text-sm">
+        <thead>
+          <tr class="bg-deep text-white">
+            <th scope="col" class="px-4 py-3 font-heading font-bold">{t.colCabana}</th>
+            <th scope="col" class="px-4 py-3 font-heading font-bold whitespace-nowrap">{t.colPrimeraNoche}</th>
+            <th scope="col" class="px-4 py-3 font-heading font-bold whitespace-nowrap">{t.colNocheExtra}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {CABANAS.map((cabana) => {
+            const fila = t.cabanas[cabana.slug];
+            return (
+              <tr class="border-t border-deep/10 align-top">
+                <th scope="row" class="px-4 py-4 text-left font-heading font-bold text-deep">
+                  <a href={ficha(cabana.slug)} class="text-teal hover:underline">{fila.nombre}</a>
+                  <span class="mt-1 block text-xs font-normal text-deep/60">{fila.detalle}</span>
+                </th>
+                <td class="px-4 py-4 whitespace-nowrap font-heading text-lg font-bold text-coral">${cabana.porNoche}</td>
+                <td class="px-4 py-4 whitespace-nowrap text-deep/70">${cabana.nocheExtra}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- 4. Lo que NO está incluido. El impuesto de la comarca va destacado y
+     primero: es lo único de esta página que le arruina el día a alguien si se
+     entera en la frontera. -->
+<section class="mx-auto max-w-3xl px-4 py-14 sm:px-6 lg:px-8">
+  <h2 class="font-heading text-2xl font-bold text-deep sm:text-3xl">{t.fueraH2}</h2>
+
+  <div class="mt-6 rounded-2xl bg-coral/5 p-6 ring-1 ring-coral/25">
+    <p class="font-heading text-lg font-bold text-deep">{t.impuestoTitulo}</p>
+    <p class="mt-2 flex flex-wrap items-baseline gap-x-4 gap-y-1">
+      <span class="font-heading text-3xl font-bold text-coral">${IMPUESTO_COMARCA.extranjero}</span>
+      <span class="font-heading text-xl font-bold text-deep/60">/ ${IMPUESTO_COMARCA.residente}</span>
+    </p>
+    <p class="mt-3 text-deep/75">{r(t.impuestoTexto)}</p>
+  </div>
+
+  <p class="mt-8 text-deep/70">{t.fueraIntro}</p>
+  <ul class="mt-4 space-y-3">
+    {t.fuera.map((linea) => (
+      <li class="flex gap-3 text-deep/70">
+        <span aria-hidden="true" class="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-amber"></span>
+        <span>{r(linea)}</span>
+      </li>
+    ))}
+  </ul>
+</section>
+
+<!-- 5. Cómo se paga. -->
+<section class="bg-sand py-14">
+  <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+    <h2 class="font-heading text-2xl font-bold text-deep sm:text-3xl">{t.pagoH2}</h2>
+    <ol class="mt-6 space-y-5">
+      {t.pago.map((linea, i) => (
+        <li class="flex gap-4">
+          <span class="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-lime/15 font-heading font-bold text-lime">{i + 1}</span>
+          <p class="text-deep/75">{r(linea)}</p>
+        </li>
+      ))}
+    </ol>
+  </div>
+</section>
+
+<!-- 6. Qué mueve el precio. -->
+<section class="mx-auto max-w-5xl px-4 py-14 sm:px-6 lg:px-8">
+  <h2 class="font-heading text-2xl font-bold text-deep sm:text-3xl">{t.subeH2}</h2>
+  <div class="mt-6 grid gap-5 sm:grid-cols-2">
+    {t.sube.map((bloque) => (
+      <div class="rounded-2xl bg-white p-6 ring-1 ring-deep/10">
+        <p class="font-heading font-bold text-deep">{bloque.titulo}</p>
+        <p class="mt-2 text-sm text-deep/70">{r(bloque.texto)}</p>
+      </div>
+    ))}
+  </div>
+</section>
+
+<!-- 7. El widget: el precio vivo y la reserva, sin salir de la página. -->
+<WidgetReserva tourKey="day_tour_basico" lang={locale} titulo={t.reservaTitulo} nota={r(t.reservaNota)} />
+
+<!-- 8. Las preguntas, visibles. El JSON-LD de arriba sale de esta misma lista. -->
+<section class="mx-auto max-w-3xl px-4 py-14 sm:px-6 lg:px-8">
+  <h2 class="font-heading text-2xl font-bold text-deep sm:text-3xl">{t.faqH2}</h2>
+  <div class="mt-6 rounded-3xl bg-white p-3 ring-1 ring-deep/5 sm:p-4">
+    {t.faq.map((par, i) => (
+      <details class="group border-b border-deep/10 px-3 py-3 last:border-0" open={i === 0}>
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-heading font-bold text-deep marker:content-none">
+          {r(par.q)}
+          <svg class="h-4 w-4 shrink-0 text-amber transition group-open:rotate-90" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+        </summary>
+        <p class="mt-2 text-sm text-deep/70">{r(par.a)}</p>
+      </details>
+    ))}
+  </div>
+</section>
+
+<!-- 9. Enlaces internos: esta página resuelve el precio, no el viaje. -->
+<section class="bg-teal/5 py-12">
+  <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+    <h2 class="font-heading text-xl font-bold text-deep">{t.enlacesH2}</h2>
+    <ul class="mt-4 grid gap-2 sm:grid-cols-2">
+      {t.enlaces.map((enlace) => (
+        <li>
+          <a href={localizedPath(locale, enlace.href)} class="text-teal hover:underline">{enlace.label} &rarr;</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</section>
+
+<!-- 10. Y la salida humana, para lo que una tabla no contesta. -->
+<section class="mx-auto max-w-3xl px-4 pb-16 pt-12 sm:px-6 lg:px-8">
+  <div class="rounded-3xl bg-deep p-8 text-center">
+    <p class="font-heading text-xl font-bold text-white">{t.ctaTitulo}</p>
+    <p class="mt-2 text-sand/70">{t.ctaTexto}</p>
+    <BookingCta label={t.ctaBoton} message={t.ctaMensaje} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+  </div>
+</section>
