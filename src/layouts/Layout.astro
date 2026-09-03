@@ -47,7 +47,19 @@ const organizationJsonLd = {
   email: 'info@sanblastravel.com',
   // El WhatsApp es el canal real de reserva, no un extra: `sameAs` lo declara
   // como perfil oficial del negocio y ata el numero al sitio.
-  sameAs: ['https://wa.me/50764684720'],
+  // Las otras dos webs del negocio, además del WhatsApp.
+  //
+  // Las hermanas ya se declaraban entre sí por esta misma vía, con este
+  // razonamiento escrito en su código: el `sameAs` cruzado las reconcilia como
+  // UN negocio ante el grafo de entidades, y es lo que evita que el reparto de
+  // temas se lea como empresas distintas compitiendo. Esta web se quedó fuera
+  // de aquel montaje. Sin esto, un buscador ve tres agencias que casualmente
+  // comparten el mismo teléfono, que es la lectura peligrosa.
+  sameAs: [
+    'https://sanblasfull.com',
+    'https://sanblastourspty.com',
+    'https://wa.me/50764684720',
+  ],
   // La senal internacional. El sitio esta en cinco idiomas y el dato
   // estructurado no lo decia en ninguna parte.
   availableLanguage: ['en', 'es', 'de', 'fr', 'pt-BR'],
