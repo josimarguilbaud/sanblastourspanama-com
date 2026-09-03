@@ -19,13 +19,17 @@ const dayTours = allTours
 
 const allGuides = await getCollection('guides');
 const guideSlugs = ['how-to-get-to-san-blas', 'what-to-pack', 'best-time-to-visit', 'guna-culture', 'snorkeling-diving', 'overnight-stays', 'health-safety-vaccinations', 'top-beaches'];
+// El numero de islas sale del catalogo, no de la memoria de nadie: la
+// portada llego a decir «30+ islas cubiertas en nuestras guias» cuando eran
+// doce, y el titulo del indice prometia «Guide to 30+ Islands».
+const totalIslas = (await getCollection('islands')).filter((e) => e.id.startsWith('en/')).length;
 const infoGuides = guideSlugs
   .map((slug) => allGuides.find((g) => g.id === `es/${slug}.md`))
   .filter((g): g is NonNullable<typeof g> => Boolean(g));
 
 const stats = [
   { value: '10+', label: 'Tours y paquetes personalizados reales' },
-  { value: '30+', label: 'Islas cubiertas en nuestras guías' },
+  { value: String(totalIslas), label: 'Islas cubiertas a fondo' },
   { value: '5', label: 'Idiomas en este sitio' },
   { value: '100%', label: 'Tours operados por la comunidad Guna' },
 ];
@@ -66,7 +70,7 @@ const faqJsonLd = {
 
 <Layout
   title="Tours a San Blas desde Ciudad de Panamá | Días y Noches"
-  description="Más de 30 islas de San Blas explicadas a fondo, cultura Guna real, y reserva directa por WhatsApp con una persona real — sin formularios ni esperas."
+  description="Las islas de San Blas explicadas a fondo, cultura Guna real, y reserva directa por WhatsApp con una persona real — sin formularios ni esperas."
   path="/"
   jsonld={faqJsonLd}
 >
@@ -78,7 +82,7 @@ const faqJsonLd = {
           De Descubrir el <span class="text-amber">Paraíso</span> de Guna Yala
         </h1>
         <p class="mx-auto mt-6 max-w-xl text-lg text-deep/70 lg:mx-0">
-          La guía en español más completa de las más de 30 islas de San Blas — escríbenos por
+          La guía en español más completa de las islas de San Blas — escríbenos por
           WhatsApp y una persona real planea tu viaje contigo, sin formularios de contacto.
         </p>
         <div class="mt-8 flex flex-wrap items-center justify-center gap-6 lg:justify-start">
@@ -168,8 +172,8 @@ const faqJsonLd = {
         <div class="mt-8 flex flex-wrap items-center gap-6">
           <BookingCta label={t('cta.book')} class="!bg-lime !shadow-lime/30 hover:!bg-limedark" />
           <p class="text-sm text-deep/60">
-            <span class="font-display text-2xl font-semibold text-deep">30+</span><br />
-            islas cubiertas en nuestras guías
+            <span class="font-display text-2xl font-semibold text-deep">{totalIslas}</span><br />
+            islas cubiertas a fondo
           </p>
         </div>
       </div>

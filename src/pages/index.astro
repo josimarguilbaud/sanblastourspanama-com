@@ -24,6 +24,10 @@ const infoGuides = guideSlugs
   .filter((g): g is NonNullable<typeof g> => Boolean(g));
 
 const allPosts = await getCollection('posts');
+// El numero de islas sale del catalogo, no de la memoria de nadie: la
+// portada llego a decir «30+ islas cubiertas en nuestras guias» cuando eran
+// doce, y el titulo del indice prometia «Guide to 30+ Islands».
+const totalIslas = (await getCollection('islands')).filter((e) => e.id.startsWith('en/')).length;
 const latestPosts = allPosts
   .filter((entry) => entry.id.startsWith('en/') && !entry.data.draft)
   .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf())
@@ -31,7 +35,7 @@ const latestPosts = allPosts
 
 const stats = [
   { value: '10+', label: 'Real tours & custom packages' },
-  { value: '30+', label: 'Islands covered in our guides' },
+  { value: String(totalIslas), label: 'Islands covered in depth' },
   { value: '5', label: 'Languages on this site' },
   { value: '100%', label: 'Guna-operated tours' },
 ];
@@ -72,7 +76,7 @@ const faqJsonLd = {
 
 <Layout
   title="San Blas Panama Tours from Panama City — Day Trips & Stays"
-  description="30+ San Blas islands explained in depth, real Guna culture, and direct WhatsApp booking with a real person — no contact forms, no call centers."
+  description="The islands of San Blas explained in depth, real Guna culture, and direct WhatsApp booking with a real person — no contact forms, no call centers."
   path="/"
   jsonld={faqJsonLd}
 >
@@ -84,7 +88,7 @@ const faqJsonLd = {
           To Discover <span class="text-amber">Guna Yala's</span> Paradise
         </h1>
         <p class="mx-auto mt-6 max-w-xl text-lg text-deep/70 lg:mx-0">
-          The most complete English-language guide to San Blas's 30+ islands — message us on
+          The most complete English-language guide to the islands of San Blas — message us on
           WhatsApp and a real person plans your trip with you, no contact form required.
         </p>
         <div class="mt-8 flex flex-wrap items-center justify-center gap-6 lg:justify-start">
@@ -174,8 +178,8 @@ const faqJsonLd = {
         <div class="mt-8 flex flex-wrap items-center gap-6">
           <BookingCta label="Book Now" class="!bg-lime !shadow-lime/30 hover:!bg-limedark" />
           <p class="text-sm text-deep/60">
-            <span class="font-display text-2xl font-semibold text-deep">30+</span><br />
-            islands covered in our guides
+            <span class="font-display text-2xl font-semibold text-deep">{totalIslas}</span><br />
+            islands covered in depth
           </p>
         </div>
       </div>
