@@ -46,7 +46,7 @@ const jsonLd = {
 
   {heroImage && (
     <div class="h-[35vh] min-h-[260px] w-full overflow-hidden">
-      <img src={heroImage} alt={title} class="h-full w-full object-cover" />
+      <img src={heroImage} alt={title} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
     </div>
   )}
 

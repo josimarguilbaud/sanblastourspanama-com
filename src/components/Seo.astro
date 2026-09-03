@@ -50,7 +50,18 @@ function urlFor(locale: string) {
 
 const currentLocale = Astro.currentLocale ?? defaultLocale;
 const canonical = urlFor(currentLocale);
-const ogImage = image ?? `${siteUrl}/og-default.webp`;
+// Open Graph exige URL ABSOLUTA. Las fichas pasan la `heroImage` del
+// frontmatter, que es una ruta de sitio (`/img/…`): WhatsApp, Facebook y X no
+// la resuelven contra el origen, así que el enlace se compartía SIN miniatura
+// en 325 de las 381 páginas. Solo el `og-default` de respaldo salía absoluto,
+// que es justo por lo que pasó desapercibido. `siteUrl` ya viene sin barra
+// final (ver arriba), así que basta con anteponerlo.
+function urlAbsoluta(ruta: string) {
+  if (/^https?:\/\//i.test(ruta)) return ruta;
+  return `${siteUrl}${ruta.startsWith('/') ? '' : '/'}${ruta}`;
+}
+
+const ogImage = urlAbsoluta(image ?? '/og-default.webp');
 const hreflangLocales = errorPage
   ? []
   : (idiomasDeRutaFija(path) ?? availableLocales ?? [currentLocale]).filter((l) =>

@@ -21,7 +21,7 @@ const posts = allPosts
     </p>
 
     <div class="mt-12 space-y-8">
-      {posts.map((post) => {
+      {posts.map((post, i) => {
         const slug = post.id.replace(/^fr\//, '');
         return (
           <a href={`/fr/blog/${slug}`} class="group flex flex-col gap-4 sm:flex-row">
@@ -30,7 +30,8 @@ const posts = allPosts
                 <img
                   src={post.data.heroImage}
                   alt={post.data.title}
-                  loading="lazy"
+                  loading={i === 0 ? 'eager' : 'lazy'}
+                  fetchpriority={i === 0 ? 'high' : undefined}
                   class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
                 />
               </div>

@@ -38,10 +38,11 @@ const customPackages = allPackages.filter((entry) => entry.id.startsWith('en/'))
 
       <h2 class="mt-14 font-display text-2xl font-semibold text-deep">Day Tours</h2>
       <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {dayTours.map((tour) => {
+        {dayTours.map((tour, i) => {
           const slug = tour.id.replace(/^en\//, '');
           return (
             <TourAmenityCard
+              priority={i === 0}
               href={`/tours/${slug}`}
               heroImage={tour.data.heroImage}
               name={tour.data.name}

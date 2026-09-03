@@ -1,0 +1,49 @@
+---
+/**
+ * Un enlace editorial a la web hermana que vende lo que este artículo explica.
+ *
+ * Se pinta solo en las 14 páginas que tienen un destino de verdad (ver
+ * `src/lib/hermanas.ts`): en el resto no sale nada. Deliberadamente NO es un
+ * bloque del pie repetido en las 381 páginas — eso, entre tres dominios del
+ * mismo dueño, es el patrón que un buscador lee como red de enlaces.
+ *
+ * Se marca `rel="noopener"` pero **no** `nofollow`: es un enlace editorial
+ * real entre dos webs del mismo negocio, y ponerle nofollow desperdiciaría lo
+ * único que lo hace útil.
+ */
+import { enlaceHermana } from '../lib/hermanas';
+
+interface Props {
+  tipo: 'guide' | 'island';
+  slug: string;
+  lang: string;
+}
+
+const { tipo, slug, lang } = Astro.props;
+const enlace = enlaceHermana(tipo, slug, lang);
+---
+
+{enlace && (
+  <a
+    href={enlace.href}
+    rel="noopener"
+    class="mx-auto mt-8 flex max-w-3xl items-center gap-4 rounded-xl border border-teal/25 bg-teal/5 px-5 py-4 no-underline transition-colors hover:border-teal/50 hover:bg-teal/10 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal"
+  >
+    <span class="min-w-0 flex-1">
+      <span class="block font-semibold text-deep">{enlace.texto}</span>
+      <span class="mt-0.5 block text-sm text-deep/60">{enlace.pie} &middot; {enlace.dominio}</span>
+    </span>
+    <svg
+      class="h-5 w-5 shrink-0 text-teal"
+      viewBox="0 0 20 20"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="1.8"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M7 4l6 6-6 6" />
+    </svg>
+  </a>
+)}

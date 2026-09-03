@@ -1,9 +1,16 @@
 ---
-// This site sends 100% of booking traffic to WhatsApp — no online widget,
-// no online payment here. Coordinating by WhatsApp is a deliberate choice
-// per the client, not a stopgap. This number is specific to this site
-// (sanblastourspanama.com), separate from the main reservas.sanblastravel.com
-// app's chatbot number.
+// ⚠️ Esto ya no es la única vía de reserva. Hasta el 03/09/2026 esta web
+// mandaba el 100 % de las reservas a WhatsApp, y estaba escrito aquí como
+// decisión deliberada del cliente, no como una carencia. **El dueño la cambió
+// el 03/09/2026**: los 4 tours de un día y las 5 estadías se reservan y se
+// pagan en línea con `<WidgetReserva>` (ver `src/lib/reservas.ts`).
+//
+// WhatsApp NO se retira. Sigue en cada ficha, y es la ÚNICA vía para lo que
+// se cotiza a medida: el Super VIP privado —cuya clave está desactivada en el
+// catálogo— y los 11 paquetes, que no tienen `tour_key` vendible a propósito.
+//
+// Este número es propio de sanblastourspanama.com, distinto del que usa el
+// bot en reservas.sanblastravel.com.
 import { defaultLocale } from '../i18n/ui';
 
 const WHATSAPP_NUMBER = '50764684720';

@@ -1,0 +1,58 @@
+---
+/**
+ * Reserva y pago en línea, dentro de la página del tour.
+ *
+ * Monta el componente web `<sanblas-reserva>` que sirve `embed.js` desde
+ * reservas.sanblastravel.com. No es un iframe: comparte sesión y atribución
+ * con la página, así que la compra se mide en la misma sesión de analítica y
+ * no hay que relevarla por `postMessage`.
+ *
+ * Si la entrada no se reserva en línea —los paquetes a medida y el Super VIP
+ * privado— este componente no pinta nada y la página se queda con su CTA de
+ * WhatsApp, que para un producto que se cotiza es la vía correcta.
+ *
+ * `embed.js` se carga con `defer` y solo en las páginas que llevan widget:
+ * son dos webs peleando posiciones en Google, y un script de terceros en las
+ * 381 páginas castigaría los Core Web Vitals de todas para servir a unas
+ * pocas. Es la misma decisión que ya se tomó con el chat.
+ */
+import { claveDeReserva, urlWidget, idiomaWidget } from '../lib/reservas';
+
+interface Props {
+  tourKey?: string;
+  category?: string;
+  lang: string;
+  titulo: string;
+  /** Una línea bajo el título. Opcional. */
+  nota?: string;
+}
+
+const { tourKey, category, lang, titulo, nota } = Astro.props;
+const clave = claveDeReserva({ tourKey, category });
+---
+
+{clave && (
+  <section id="reservar" class="scroll-mt-24 bg-sand py-12">
+    <div class="mx-auto max-w-3xl px-4">
+      <h2 class="text-2xl font-bold text-deep sm:text-3xl">{titulo}</h2>
+      {nota && <p class="mt-2 text-deep/70">{nota}</p>}
+
+      <div class="mt-6 overflow-hidden rounded-2xl bg-white shadow-lg shadow-deep/5">
+        <sanblas-reserva tour={clave} lang={idiomaWidget(lang)} site="sanblastourspanama"></sanblas-reserva>
+      </div>
+
+      {/* Respaldo: si el componente no llega a montar (script bloqueado, un
+          error de red), esto sigue llevando a la misma reserva. */}
+      <noscript>
+        <a
+          href={urlWidget(clave, lang)}
+          class="mt-4 inline-block rounded-lg bg-coral px-6 py-3 font-semibold text-white no-underline hover:bg-coraldark"
+        >
+          {titulo}
+        </a>
+      </noscript>
+    </div>
+  </section>
+)}
+
+{clave && <script src="https://reservas.sanblastravel.com/embed.js" defer is:inline></script>}

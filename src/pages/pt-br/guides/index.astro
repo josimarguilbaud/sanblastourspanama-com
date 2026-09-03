@@ -18,7 +18,7 @@ const guides = allGuides.filter((entry) => entry.id.startsWith('pt-br/'));
     </p>
 
     <div class="mt-12 grid gap-6 sm:grid-cols-2">
-      {guides.map((guide) => {
+      {guides.map((guide, i) => {
         const slug = guide.id.replace(/^pt-br\//, '');
         return (
           <a
@@ -30,7 +30,8 @@ const guides = allGuides.filter((entry) => entry.id.startsWith('pt-br/'));
                 <img
                   src={guide.data.heroImage}
                   alt={guide.data.title}
-                  loading="lazy"
+                  loading={i === 0 ? 'eager' : 'lazy'}
+                  fetchpriority={i === 0 ? 'high' : undefined}
                   class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
                 />
               </div>

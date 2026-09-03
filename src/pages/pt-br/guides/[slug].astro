@@ -4,6 +4,7 @@ import Layout from '../../../layouts/Layout.astro';
 import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import RelatedCards from '../../../components/RelatedCards.astro';
+import EnlaceHermana from '../../../components/EnlaceHermana.astro';
 import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
 import { faqJsonLd } from '../../../lib/faq';
@@ -60,7 +61,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
 
   {heroImage && (
     <div class="h-[35vh] min-h-[260px] w-full overflow-hidden">
-      <img src={heroImage} alt={title} class="h-full w-full object-cover" />
+      <img src={heroImage} alt={title} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
     </div>
   )}
 
@@ -71,6 +72,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
 
     <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
       <Content />
+      <EnlaceHermana tipo="guide" slug={slug} lang="pt-br" />
     </div>
 
     <div class="mt-12 rounded-3xl bg-deep p-8 text-center">

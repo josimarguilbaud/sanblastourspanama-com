@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import EnlaceHermana from '../../../components/EnlaceHermana.astro';
 import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
 import { faqJsonLd } from '../../../lib/faq';
@@ -41,7 +42,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
   {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
 
   <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">
-    <img src={heroImage} alt={name} class="h-full w-full object-cover" />
+    <img src={heroImage} alt={name} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: 'Îles', href: '/islands' }, { label: name }]} />
@@ -62,6 +63,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
 
     <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
       <Content />
+      <EnlaceHermana tipo="island" slug={slug} lang="fr" />
     </div>
 
     <div class="mt-12 rounded-3xl bg-deep p-8 text-center">

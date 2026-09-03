@@ -120,6 +120,8 @@ const faqJsonLd = {
           style="clip-path: polygon(8% 0%, 100% 0%, 100% 92%, 92% 100%, 0% 100%, 0% 8%);"
         >
           <img
+            loading="eager"
+            fetchpriority="high"
             src="/img/palmera-inclinada-playa-san-blas.webp"
             alt="Îles de San Blas, Panama"
             class="h-full w-full object-cover"
@@ -146,16 +148,17 @@ const faqJsonLd = {
       <div class="relative mx-auto max-w-sm lg:mx-0">
         <div class="overflow-hidden rounded-3xl">
           <img
+            loading="lazy"
             src="/img/isla-turquesa-lanchas-san-blas.webp"
             alt="Vie de la communauté guna à San Blas"
             class="h-80 w-full object-cover sm:h-96"
           />
         </div>
         <div class="absolute -right-6 -top-6 h-28 w-28 overflow-hidden rounded-full border-4 border-white shadow-lg sm:h-32 sm:w-32">
-          <img src="/img/barco-hundido-snorkel-san-blas.webp" alt="Snorkeling à San Blas" class="h-full w-full object-cover" />
+          <img loading="lazy" src="/img/barco-hundido-snorkel-san-blas.webp" alt="Snorkeling à San Blas" class="h-full w-full object-cover" />
         </div>
         <div class="absolute -bottom-8 -right-8 h-36 w-36 overflow-hidden rounded-full border-4 border-white shadow-lg sm:h-40 sm:w-40">
-          <img src="/img/palmeras-playa-virgen-san-blas.webp" alt="Plage de l’île de Chichime" class="h-full w-full object-cover" />
+          <img loading="lazy" src="/img/palmeras-playa-virgen-san-blas.webp" alt="Plage de l’île de Chichime" class="h-full w-full object-cover" />
         </div>
       </div>
 
@@ -266,7 +269,7 @@ const faqJsonLd = {
         </span>
       </div>
       <div class="h-48 w-full flex-1 overflow-hidden rounded-2xl sm:h-64">
-        <img src="/img/catamaran-atardecer-san-blas.webp" alt="Charter privé de yacht à San Blas" class="h-full w-full object-cover" />
+        <img loading="lazy" src="/img/catamaran-atardecer-san-blas.webp" alt="Charter privé de yacht à San Blas" class="h-full w-full object-cover" />
       </div>
     </a>
   </section>
@@ -302,6 +305,7 @@ const faqJsonLd = {
   <section class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
     <div class="relative overflow-hidden rounded-[2rem]">
       <img
+        loading="lazy"
         src="/img/isla-turquesa-lanchas-san-blas.webp"
         alt="San Blas vu d’en haut"
         class="h-72 w-full object-cover sm:h-96"

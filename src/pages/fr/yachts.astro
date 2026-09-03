@@ -37,7 +37,7 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <div class="h-[55vh] min-h-[380px] w-full overflow-hidden">
-    <img src="/img/catamaran-atardecer-san-blas.webp" alt="Charter privé de yacht à San Blas" class="h-full w-full object-cover" />
+    <img src="/img/catamaran-atardecer-san-blas.webp" alt="Charter privé de yacht à San Blas" loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: 'Charters Privés de Yacht' }]} />

@@ -4,6 +4,7 @@ import Layout from '../../../layouts/Layout.astro';
 import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import RelatedCards from '../../../components/RelatedCards.astro';
+import WidgetReserva from '../../../components/WidgetReserva.astro';
 import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
 import { faqJsonLd } from '../../../lib/faq';
@@ -20,7 +21,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { name, category, tagline, heroImage, duration, bestFor, relatedIslandSlugs, seoTitle, seoDescription } = entry.data;
+const { name, category, tourKey, tagline, heroImage, duration, bestFor, relatedIslandSlugs, seoTitle, seoDescription } = entry.data;
 const slug = entry.id.replace(/^es\//, '');
 const t = useTranslations('es');
 
@@ -63,7 +64,12 @@ const faqLd = faqJsonLd(entry.body ?? '');
   {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
 
   <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">
-    <img src="/img/isla-aerea-arrecife-san-blas.webp" alt={name} class="h-full w-full object-cover" />
+    {/* El hero es la foto DE ESTA ficha. Antes las 105 paginas de tour y
+        paquete servian todas la misma foto generica mientras el og:image si
+        usaba la suya: el visitante veia una foto y al compartir salia otra.
+        La generica queda solo de respaldo (heroImage es obligatoria en el
+        esquema, asi que hoy no llega a usarse). */}
+    <img src={heroImage ?? '/img/palmera-inclinada-playa-san-blas.webp'} alt={name} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Inicio', href: '/' }, { label: 'Tours', href: '/tours' }, { label: name }]} />
@@ -85,6 +91,13 @@ const faqLd = faqJsonLd(entry.body ?? '');
 
     <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
       <Content />
+      <WidgetReserva
+        tourKey={tourKey}
+        category={category}
+        lang="es"
+        titulo="Reserva este tour en línea"
+        nota={category === 'overnight' ? "Elige tus fechas y paga el abono con tarjeta. El tipo de cabaña se elige dentro del formulario." : "Elige tu fecha, mira disponibilidad y paga el abono con tarjeta. ¿Prefieres hablarlo? El WhatsApp está justo arriba."}
+      />
     </div>
 
     <div class="mt-12 rounded-3xl bg-deep p-8 text-center">

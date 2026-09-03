@@ -25,6 +25,10 @@ interface Props {
   whatsappMessage: string;
   ctaLabel?: string;
   whatsappLabel?: string;
+  /** Solo para la PRIMERA tarjeta sobre el pliegue de un listado: esa
+   *  imagen es el LCP y con `lazy` el navegador la pide tarde. El resto
+   *  de la rejilla se queda diferida, que es lo correcto. */
+  priority?: boolean;
 }
 
 const {
@@ -37,6 +41,7 @@ const {
   whatsappMessage,
   ctaLabel = 'View details',
   whatsappLabel = 'Ask for Pricing',
+  priority = false,
 } = Astro.props;
 
 const WHATSAPP_NUMBER = '50764684720';
@@ -57,11 +62,11 @@ const icons = [
 <div class="group flex flex-col overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg">
   {href ? (
     <a href={href} class="block h-48 overflow-hidden">
-      <img src={heroImage} alt={name} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+      <img src={heroImage} alt={name} loading={priority ? 'eager' : 'lazy'} fetchpriority={priority ? 'high' : undefined} class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
     </a>
   ) : (
     <div class="h-48 overflow-hidden">
-      <img src={heroImage} alt={name} loading="lazy" class="h-full w-full object-cover" />
+      <img src={heroImage} alt={name} loading={priority ? 'eager' : 'lazy'} fetchpriority={priority ? 'high' : undefined} class="h-full w-full object-cover" />
     </div>
   )}
   <div class="flex flex-1 flex-col p-5">

@@ -20,7 +20,7 @@ const islands = allIslands
     </p>
 
     <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-      {islands.map((island) => {
+      {islands.map((island, i) => {
         const slug = island.id.replace(/^de\//, '');
         return (
           <a
@@ -31,7 +31,8 @@ const islands = allIslands
               <img
                 src={island.data.heroImage}
                 alt={island.data.name}
-                loading="lazy"
+                loading={i === 0 ? 'eager' : 'lazy'}
+                  fetchpriority={i === 0 ? 'high' : undefined}
                 class="h-full w-full object-cover transition duration-300 group-hover:scale-105"
               />
             </div>
