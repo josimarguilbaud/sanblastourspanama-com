@@ -92,8 +92,8 @@ export interface PrecioCabana {
  * se elige dentro (ver `src/lib/reservas.ts`).
  */
 export const CABANAS: PrecioCabana[] = [
-  { clave: 'camping-bajo-las-estrellas', slug: 'camping-under-stars-overnight', porNoche: 150, nocheExtra: 85 },
-  { clave: 'hostal-isleno-dormitorio-compartido', slug: 'hostal-isleno-overnight', porNoche: 165, nocheExtra: 85 },
+  { clave: 'camping-bajo-las-estrellas', slug: 'camping-under-stars-overnight', porNoche: 170, nocheExtra: 85 },
+  { clave: 'hostal-isleno-dormitorio-compartido', slug: 'hostal-isleno-overnight', porNoche: 170, nocheExtra: 85 },
   { clave: 'cabana-privada-clasica', slug: 'cabana-privada-clasica-overnight', porNoche: 185, nocheExtra: 85 },
   { clave: 'cabana-privada-deluxe', slug: 'cabana-privada-deluxe-overnight', porNoche: 198, nocheExtra: 85 },
   { clave: 'cabana-overwater-sobre-el-mar', slug: 'overwater-cabin-overnight', porNoche: 260, nocheExtra: 100 },
