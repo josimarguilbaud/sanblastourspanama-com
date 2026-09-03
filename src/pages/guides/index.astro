@@ -38,6 +38,11 @@ const guides = allGuides.filter((entry) => entry.id.startsWith('en/'));
             )}
             <div class="p-5">
               <h2 class="font-heading text-lg font-bold text-deep">{guide.data.title}</h2>
+              {/* La descripcion de la ficha. Ya estaba escrita en los cinco idiomas y
+                  no se mostraba en ninguna parte: el listado solo repetia titulos. */}
+              {guide.data.seoDescription && (
+                <p class="mt-2 text-sm leading-relaxed text-deep/70">{guide.data.seoDescription}</p>
+              )}
             </div>
           </a>
         );

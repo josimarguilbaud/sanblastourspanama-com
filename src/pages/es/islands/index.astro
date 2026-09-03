@@ -39,6 +39,11 @@ const islands = allIslands
             </div>
             <div class="p-5">
               <h2 class="font-heading text-lg font-bold text-deep">{island.data.name}</h2>
+              {/* La descripcion de la ficha. Ya estaba escrita en los cinco idiomas y
+                  no se mostraba en ninguna parte: el listado solo repetia titulos. */}
+              {island.data.seoDescription && (
+                <p class="mt-2 text-sm leading-relaxed text-deep/70">{island.data.seoDescription}</p>
+              )}
               {island.data.sector && <p class="mt-1 text-sm text-teal">{island.data.sector}</p>}
               <div class="mt-3 flex flex-wrap gap-1.5">
                 {island.data.bestFor.slice(0, 3).map((tag) => (
