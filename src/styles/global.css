@@ -30,3 +30,26 @@
 body {
   font-family: var(--font-sans);
 }
+
+/*
+ * Los dos emoji del hero (globo y palmera). Antes usaban `animate-bounce`, cuya
+ * curva `cubic-bezier(0.8, 0, 1, 1)` acelera y para en seco: ese tiron es lo que
+ * se lee como anticuado. Flotar es lo que hacen de verdad, asi que se queda el
+ * movimiento y cambia la curva.
+ *
+ * La preferencia de movimiento reducido se respeta abajo a mano: al no ser ya
+ * una utilidad de Tailwind, el prefijo `motion-safe:` no aplica.
+ */
+@keyframes flotar {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-10px); }
+}
+
+.flotar {
+  animation: flotar 6s cubic-bezier(0.33, 0, 0.67, 1) infinite;
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flotar { animation: none; }
+}
