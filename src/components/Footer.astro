@@ -137,7 +137,14 @@ const legalLinks = ['/legal/terms', '/legal/cancellation-policy', '/legal/privac
     </div>
 
     <div class="mt-8 flex flex-col items-center justify-between gap-3 border-t border-deep/10 pt-6 text-center sm:flex-row sm:text-left">
-      <p class="text-xs text-deep/50">&copy; {year} <span class="font-bold text-amber">San Blas Travel</span>. All rights reserved.</p>
+      <div>
+        <p class="text-xs text-deep/50">&copy; {year} <span class="font-bold text-amber">San Blas Travel</span>. All rights reserved.</p>
+        {/* `nofollow` es deliberado: un enlace identico en el pie de cientos de
+            paginas hacia otro dominio del mismo dueno es el ejemplo que Google
+            da de esquema de enlaces. La marca se ve igual; lo que no hace es
+            contar como voto. El riesgo lo correria ESTA web, no elementoweb. */}
+        <p class="mt-1.5 text-xs text-deep/40">{t('footer.dev')} · <a href="https://elementoweb.com" target="_blank" rel="nofollow noopener" class="underline underline-offset-2 hover:text-lime">elementoweb.com</a></p>
+      </div>
       <ul class="flex flex-wrap justify-center gap-x-4 gap-y-1 text-xs">
         {locales.map((l) => (
           <li><a href={localizedPath(l, '/')} class="text-deep/50 hover:text-lime">{languageNames[l]}</a></li>

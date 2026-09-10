@@ -39,6 +39,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'All Islands',
     'footer.toursAndPrices': 'Tours & Packages',
     'footer.prices': 'Prices',
+    'footer.dev': 'Powered by Elemento Web technology',
   },
   es: {
     'nav.islands': 'Islas',
@@ -57,6 +58,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'Todas las Islas',
     'footer.toursAndPrices': 'Tours y Paquetes',
     'footer.prices': 'Precios',
+    'footer.dev': 'Desarrollada con tecnología de Elemento Web',
   },
   de: {
     'nav.islands': 'Inseln',
@@ -75,6 +77,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'Alle Inseln',
     'footer.toursAndPrices': 'Touren & Pakete',
     'footer.prices': 'Preise',
+    'footer.dev': 'Entwickelt mit Technologie von Elemento Web',
   },
   fr: {
     'nav.islands': 'Îles',
@@ -93,6 +96,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'Toutes les Îles',
     'footer.toursAndPrices': 'Excursions et Forfaits',
     'footer.prices': 'Tarifs',
+    'footer.dev': 'Développé avec la technologie Elemento Web',
   },
   'pt-br': {
     'nav.islands': 'Ilhas',
@@ -111,6 +115,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'Todas as Ilhas',
     'footer.toursAndPrices': 'Passeios e Pacotes',
     'footer.prices': 'Preços',
+    'footer.dev': 'Desenvolvido com tecnologia Elemento Web',
   },
 };
 
