@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["schnorcheln", "schiffswrack", "tagesausflug"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Perro Chico, San Blas — Schnorcheln am Schiffswrack"
+seoTitle: "Insel-Guide Perro Chico: das Schiffswrack erklärt"
 seoDescription: "Perro Chico ist der meistgefragte Schnorchelstopp in San Blas: ein Wrack in flachem Wasser, auch für Anfänger, auf einer unbewohnten Insel."
 ---
 

@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["mergulho-livre", "naufragio", "passeio-de-um-dia"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Perro Chico, San Blas — Snorkel no Navio Naufragado"
+seoTitle: "Guia da Ilha Perro Chico: O Naufrágio Explicado"
 seoDescription: "Perro Chico é a parada de snorkel mais pedida de San Blas: um navio naufragado em água rasa, acessível a iniciantes, num cayo desabitado."
 ---
 

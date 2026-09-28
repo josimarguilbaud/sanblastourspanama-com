@@ -8,7 +8,7 @@ duration: "Ganztägig, frühere Abfahrt (~4:30 Uhr Abholung)"
 bestFor: ["premium", "schnorcheln", "riffqualitaet"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Cayos Holandeses Tagestour"
+seoTitle: "Cayos Holandeses: Lohnt sich der 4:30-Uhr-Start?"
 seoDescription: "Die Tour zu den Cayos Holandeses erreicht das entlegenste und best erhaltene Riff von San Blas. Frühere Abfahrt, Mindestgruppe, Premium-Schnorcheln."
 ---
 

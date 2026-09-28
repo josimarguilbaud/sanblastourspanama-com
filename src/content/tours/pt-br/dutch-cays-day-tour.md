@@ -8,7 +8,7 @@ duration: "Dia inteiro, saída mais cedo (~4h30 de busca)"
 bestFor: ["premium", "snorkel", "qualidade-do-recife"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Passeio Cayos Holandeses, San Blas"
+seoTitle: "Cayos Holandeses: Vale a Pena Acordar às 4h30?"
 seoDescription: "O passeio aos Cayos Holandeses alcança o recife mais remoto e bem preservado de San Blas. Saída mais cedo, grupo mínimo, snorkel premium."
 ---
 

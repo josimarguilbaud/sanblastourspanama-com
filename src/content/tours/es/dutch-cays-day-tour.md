@@ -8,7 +8,7 @@ duration: "Día completo, salida más temprana (~4:30 AM recogida)"
 bestFor: ["premium", "snorkel", "calidad-de-arrecife"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Tour Cayos Holandeses, San Blas"
+seoTitle: "Cayos Holandeses: ¿Vale la Pena Madrugar a las 4:30?"
 seoDescription: "El Tour Cayos Holandeses llega al arrecife más remoto y mejor conservado de San Blas. Salida más temprana, mínimo de personas, snorkel premium."
 ---
 

@@ -3,7 +3,7 @@ title: "Isla Perro vs Perro Chico vs Perro Grande: Resolviendo los Nombres Confu
 excerpt: "Tres islas distintas con 'Perro' en el nombre confunden a casi todos los primerizos planeando un viaje a San Blas. Aquí cómo diferenciarlas realmente."
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-05-03
-seoTitle: "Perro Chico vs Perro Grande vs Isla Perro"
+seoTitle: "Perro Chico vs. Perro Grande: ¿Cuál Es Cuál?"
 seoDescription: "San Blas tiene varias islas con 'Perro' en el nombre, y es una fuente de confusión genuinamente común. Aquí cómo se relacionan realmente Perro Chico."
 ---
 

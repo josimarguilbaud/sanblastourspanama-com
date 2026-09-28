@@ -8,7 +8,7 @@ duration: "Full day, earlier departure (~4:30 AM pickup)"
 bestFor: ["premium", "snorkeling", "reef-quality"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Dutch Cays (Cayos Holandeses) Day Tour"
+seoTitle: "Cayos Holandeses: Is the Far Reef Worth the 4:30 AM Start?"
 seoDescription: "The Dutch Cays day tour reaches San Blas's most remote, best-preserved reef. Earlier departure, minimum group size, premium snorkeling."
 ---
 

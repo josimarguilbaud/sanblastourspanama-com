@@ -8,7 +8,7 @@ duration: "Journée complète, départ plus matinal (~4h30 prise en charge)"
 bestFor: ["premium", "snorkeling", "qualite-du-recif"]
 tourKey: "day_tour_cayos_holandeses"
 relatedIslandSlugs: ["cayos-holandeses"]
-seoTitle: "Excursion Cayos Holandeses, San Blas"
+seoTitle: "Cayos Holandeses : le départ à 4h30 en vaut-il la peine ?"
 seoDescription: "L'excursion aux Cayos Holandeses atteint le récif le plus reculé et le mieux conservé de San Blas. Départ matinal, groupe minimum, snorkeling premium."
 ---
 

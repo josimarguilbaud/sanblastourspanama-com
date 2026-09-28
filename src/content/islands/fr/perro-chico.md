@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["plongee-libre", "epave", "excursion-journee"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Perro Chico, San Blas — L'Épave à Voir en Palmes"
+seoTitle: "Guide de Perro Chico : l'épave expliquée"
 seoDescription: "Perro Chico est l'arrêt snorkeling le plus demandé de San Blas : une épave posée en eau peu profonde, accessible aux débutants, sur un îlot inhabité."
 ---
 

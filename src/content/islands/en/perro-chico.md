@@ -6,7 +6,7 @@ gallery: []
 bestFor: ["snorkeling", "shipwreck", "day-trip"]
 isInhabited: false
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Perro Chico, San Blas — Snorkel the Sunken Ship"
+seoTitle: "Perro Chico Island Guide: The Shipwreck, Explained"
 seoDescription: "Perro Chico is the most requested snorkel stop in San Blas: a sunken ship in water shallow enough for beginners, on an uninhabited cay you can walk around."
 ---
 
