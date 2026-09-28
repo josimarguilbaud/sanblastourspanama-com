@@ -6,6 +6,8 @@ import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
 import RelatedCards from '../../../../components/RelatedCards.astro';
 import { localesForSlug } from '../../../../i18n/content';
 import { faqJsonLd } from '../../../../lib/faq';
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../../../../lib/images';
 
 export async function getStaticPaths() {
   const allPackages = await getCollection('packages');
@@ -80,7 +82,7 @@ const jsonLd = {
         usaba la suya: el visitante veia una foto y al compartir salia otra.
         La generica queda solo de respaldo (heroImage es obligatoria en el
         esquema, asi que hoy no llega a usarse). */}
-    <img src={heroImage ?? '/img/palmera-inclinada-playa-san-blas.webp'} alt={name} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
+    <Image src={resolverImagen(heroImage ?? '/img/palmera-inclinada-playa-san-blas.webp')} densities={[1, 2]} alt={name} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Accueil', href: '/' }, { label: 'Excursions', href: '/tours' }, { label: name }]} />

@@ -1,6 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../../../lib/images';
 
 const allPosts = await getCollection('posts');
 const posts = allPosts
@@ -27,8 +29,8 @@ const posts = allPosts
           <a href={`/fr/blog/${slug}`} class="group flex flex-col gap-4 sm:flex-row">
             {post.data.heroImage && (
               <div class="h-48 w-full flex-shrink-0 overflow-hidden rounded-2xl sm:w-64">
-                <img
-                  src={post.data.heroImage}
+                <Image
+                  src={resolverImagen(post.data.heroImage)} densities={[1, 2]}
                   alt={post.data.title}
                   loading={i === 0 ? 'eager' : 'lazy'}
                   fetchpriority={i === 0 ? 'high' : undefined}

@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../lib/images';
 interface FaqItem {
   q: string;
   a: string;
@@ -29,7 +31,7 @@ const { title, titleAccent, description, quote, image, items, viewAllHref, viewA
 
         <div class="relative mt-8 max-w-sm">
           <div class="overflow-hidden rounded-3xl">
-            <img src={image} alt="San Blas" loading="lazy" class="h-72 w-full object-cover" />
+            <Image src={resolverImagen(image)} densities={[1, 2]} alt="San Blas" loading="lazy" class="h-72 w-full object-cover" />
           </div>
           <div class="absolute -bottom-6 left-6 right-6 rounded-2xl bg-white p-4 shadow-lg ring-1 ring-deep/5">
             <p class="font-heading text-lg font-bold text-deep">

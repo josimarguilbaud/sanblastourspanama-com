@@ -4,6 +4,8 @@ import Layout from '../../layouts/Layout.astro';
 import BookingCta from '../../components/BookingCta.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import RelatedCards from '../../components/RelatedCards.astro';
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../../lib/images';
 
 const allIslands = await getCollection('islands');
 const exclusiveIslands = allIslands
@@ -37,7 +39,7 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <div class="h-[55vh] min-h-[380px] w-full overflow-hidden">
-    <img src="/img/catamaran-atardecer-san-blas.webp" alt="Privater Yacht-Charter durch San Blas" loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
+    <Image src={resolverImagen("/img/catamaran-atardecer-san-blas.webp")} densities={[1, 2]} alt="Privater Yacht-Charter durch San Blas" loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Startseite', href: '/' }, { label: 'Private Yacht-Charter' }]} />

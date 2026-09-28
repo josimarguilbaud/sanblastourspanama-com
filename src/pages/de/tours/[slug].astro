@@ -9,6 +9,8 @@ import { useTranslations } from '../../../i18n/ui';
 import { claveDeReserva } from '../../../lib/reservas';
 import { faqJsonLd } from '../../../lib/faq';
 import { TOURS_DIA, CABANAS } from '../../../lib/precios';
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../../../lib/images';
 
 export async function getStaticPaths() {
   const allTours = await getCollection('tours');
@@ -84,7 +86,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
         usaba la suya: el visitante veia una foto y al compartir salia otra.
         La generica queda solo de respaldo (heroImage es obligatoria en el
         esquema, asi que hoy no llega a usarse). */}
-    <img src={heroImage ?? '/img/palmera-inclinada-playa-san-blas.webp'} alt={name} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
+    <Image src={resolverImagen(heroImage ?? '/img/palmera-inclinada-playa-san-blas.webp')} densities={[1, 2]} alt={name} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
   </div>
 
   <Breadcrumbs items={[{ label: 'Startseite', href: '/' }, { label: 'Touren', href: '/tours' }, { label: name }]} />

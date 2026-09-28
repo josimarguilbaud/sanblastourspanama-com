@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../lib/images';
 interface Item {
   href: string;
   heroImage: string;
@@ -21,7 +23,7 @@ const { title, items } = Astro.props;
       {items.map((item) => (
         <a href={item.href} class="group overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-md">
           <div class="h-28 overflow-hidden">
-            <img src={item.heroImage} alt={item.title} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+            <Image src={resolverImagen(item.heroImage)} densities={[1, 2]} alt={item.title} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
           </div>
           <div class="p-3">
             <p class="text-sm font-bold text-deep group-hover:text-teal">{item.title}</p>

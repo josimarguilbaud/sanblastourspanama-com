@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../lib/images';
 interface Props {
   title: string;
   titleAccent: string;
@@ -18,7 +20,7 @@ const { title, titleAccent, images } = Astro.props;
       <div class="flex gap-3 overflow-x-auto">
         {images.map((img) => (
           <div class="h-24 w-24 shrink-0 overflow-hidden rounded-xl sm:h-28 sm:w-28">
-            <img src={img.src} alt={img.alt} loading="lazy" class="h-full w-full object-cover" />
+            <Image src={resolverImagen(img.src)} densities={[1, 2]} alt={img.alt} loading="lazy" class="h-full w-full object-cover" />
           </div>
         ))}
       </div>

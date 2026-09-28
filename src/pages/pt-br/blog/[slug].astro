@@ -5,6 +5,8 @@ import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../../../lib/images';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('posts');
@@ -50,7 +52,7 @@ const jsonLd = {
 
   {heroImage && (
     <div class="h-[35vh] min-h-[260px] w-full overflow-hidden">
-      <img src={heroImage} alt={title} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
+      <Image src={resolverImagen(heroImage)} densities={[1, 2]} alt={title} loading="eager" fetchpriority="high" class="h-full w-full object-cover" />
     </div>
   )}
 

@@ -1,6 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../../../lib/images';
 
 const allIslands = await getCollection('islands');
 const islands = allIslands
@@ -30,8 +32,8 @@ const islands = allIslands
             class="group overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg"
           >
             <div class="h-48 overflow-hidden">
-              <img
-                src={island.data.heroImage}
+              <Image
+                src={resolverImagen(island.data.heroImage)} densities={[1, 2]}
                 alt={island.data.name}
                 loading={i === 0 ? 'eager' : 'lazy'}
                   fetchpriority={i === 0 ? 'high' : undefined}

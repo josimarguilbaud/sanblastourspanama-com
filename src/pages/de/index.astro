@@ -21,6 +21,8 @@ import PhotoGalleryStrip from '../../components/PhotoGalleryStrip.astro';
 import { useTranslations } from '../../i18n/ui';
 import Reviews from '../../components/Reviews.astro';
 import { AGGREGATE, reviewsJsonLd } from '../../lib/reviews';
+import { Image } from 'astro:assets';
+import { resolverImagen } from '../../lib/images';
 
 const t = useTranslations('de');
 const allIslands = await getCollection('islands');
@@ -128,10 +130,10 @@ const agregadoHome = { '@type': 'AggregateRating', ...AGGREGATE };
           class="h-72 overflow-hidden rounded-[2.5rem] sm:h-96 lg:h-[26rem]"
           style="clip-path: polygon(8% 0%, 100% 0%, 100% 92%, 92% 100%, 0% 100%, 0% 8%);"
         >
-          <img
+          <Image
             loading="eager"
             fetchpriority="high"
-            src="/img/palmera-inclinada-playa-san-blas.webp"
+            src={resolverImagen("/img/palmera-inclinada-playa-san-blas.webp")} densities={[1, 2]}
             alt="San-Blas-Inseln, Panama"
             class="h-full w-full object-cover"
           />
@@ -156,18 +158,18 @@ const agregadoHome = { '@type': 'AggregateRating', ...AGGREGATE };
     <div class="grid gap-12 lg:grid-cols-2 lg:items-center">
       <div class="relative mx-auto max-w-sm lg:mx-0">
         <div class="overflow-hidden rounded-3xl">
-          <img
+          <Image
             loading="lazy"
-            src="/img/isla-turquesa-lanchas-san-blas.webp"
+            src={resolverImagen("/img/isla-turquesa-lanchas-san-blas.webp")} densities={[1, 2]}
             alt="Leben der Guna-Gemeinde auf San Blas"
             class="h-80 w-full object-cover sm:h-96"
           />
         </div>
         <div class="absolute -right-6 -top-6 h-28 w-28 overflow-hidden rounded-full border-4 border-white shadow-lg sm:h-32 sm:w-32">
-          <img loading="lazy" src="/img/barco-hundido-snorkel-san-blas.webp" alt="Schnorcheln auf San Blas" class="h-full w-full object-cover" />
+          <Image loading="lazy" src={resolverImagen("/img/barco-hundido-snorkel-san-blas.webp")} densities={[1, 2]} alt="Schnorcheln auf San Blas" class="h-full w-full object-cover" />
         </div>
         <div class="absolute -bottom-8 -right-8 h-36 w-36 overflow-hidden rounded-full border-4 border-white shadow-lg sm:h-40 sm:w-40">
-          <img loading="lazy" src="/img/palmeras-playa-virgen-san-blas.webp" alt="Strand der Chichime-Insel" class="h-full w-full object-cover" />
+          <Image loading="lazy" src={resolverImagen("/img/palmeras-playa-virgen-san-blas.webp")} densities={[1, 2]} alt="Strand der Chichime-Insel" class="h-full w-full object-cover" />
         </div>
       </div>
 
@@ -227,7 +229,7 @@ const agregadoHome = { '@type': 'AggregateRating', ...AGGREGATE };
           return (
             <a href={`/de/islands/${slug}`} class="group overflow-hidden rounded-2xl">
               <div class="h-40 overflow-hidden sm:h-48">
-                <img src={island.data.heroImage} alt={island.data.name} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+                <Image src={resolverImagen(island.data.heroImage)} densities={[1, 2]} alt={island.data.name} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
               </div>
               <p class="mt-2 font-heading font-bold text-white">{island.data.name}</p>
               {island.data.sector && <p class="text-xs text-sand/60">{island.data.sector}</p>}
@@ -278,7 +280,7 @@ const agregadoHome = { '@type': 'AggregateRating', ...AGGREGATE };
         </span>
       </div>
       <div class="h-48 w-full flex-1 overflow-hidden rounded-2xl sm:h-64">
-        <img loading="lazy" src="/img/catamaran-atardecer-san-blas.webp" alt="Privater Yachtcharter auf San Blas" class="h-full w-full object-cover" />
+        <Image loading="lazy" src={resolverImagen("/img/catamaran-atardecer-san-blas.webp")} densities={[1, 2]} alt="Privater Yachtcharter auf San Blas" class="h-full w-full object-cover" />
       </div>
     </a>
   </section>
@@ -296,7 +298,7 @@ const agregadoHome = { '@type': 'AggregateRating', ...AGGREGATE };
           <a href={`/de/guides/${guide.id.replace(/^de\//, '')}`} class="group overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-deep/5 transition hover:shadow-lg">
             {guide.data.heroImage && (
               <div class="h-28 overflow-hidden">
-                <img src={guide.data.heroImage} alt={guide.data.title} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
+                <Image src={resolverImagen(guide.data.heroImage)} densities={[1, 2]} alt={guide.data.title} loading="lazy" class="h-full w-full object-cover transition duration-300 group-hover:scale-105" />
               </div>
             )}
             <p class="p-3 text-center text-sm font-bold text-deep group-hover:text-lime">{guide.data.title}</p>
@@ -312,9 +314,9 @@ const agregadoHome = { '@type': 'AggregateRating', ...AGGREGATE };
        numeros reales de arriba, ninguno inventado. -->
   <section class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
     <div class="relative overflow-hidden rounded-[2rem]">
-      <img
+      <Image
         loading="lazy"
-        src="/img/isla-turquesa-lanchas-san-blas.webp"
+        src={resolverImagen("/img/isla-turquesa-lanchas-san-blas.webp")} densities={[1, 2]}
         alt="San Blas von oben"
         class="h-72 w-full object-cover sm:h-96"
       />
