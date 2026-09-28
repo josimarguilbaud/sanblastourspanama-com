@@ -8,6 +8,7 @@ import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
 import { claveDeReserva } from '../../../lib/reservas';
 import { faqJsonLd } from '../../../lib/faq';
+import { TOURS_DIA, CABANAS } from '../../../lib/precios';
 
 export async function getStaticPaths() {
   const allTours = await getCollection('tours');
@@ -28,6 +29,39 @@ const t = useTranslations('fr');
 const allTours = await getCollection('tours');
 const availableLocales = localesForSlug(allTours, slug);
 const claveReservable = claveDeReserva({ tourKey, category });
+
+// `offers` sale SIEMPRE de src/lib/precios.ts, nunca escrito a mano — ver la
+// cabecera de ese fichero. Si el tour/cabaña no está ahí (el Super VIP
+// privado, que se cotiza por WhatsApp), no se emite `offers`: omitir es lo
+// correcto, inventar un precio es justo el error que ese fichero previene.
+const baseUrl = Astro.site?.toString().replace(/\/$/, '');
+const pageUrl = `${baseUrl}/fr/tours/${slug}`;
+let offers: { '@type': string; price: number; priceCurrency: string; availability: string; url: string } | undefined;
+if (category === 'day-tour') {
+  const precioEntry = TOURS_DIA.find((t) => t.tourKey === tourKey);
+  if (precioEntry) {
+    offers = { '@type': 'Offer', price: precioEntry.adulto, priceCurrency: 'USD', availability: 'https://schema.org/InStock', url: pageUrl };
+  }
+} else if (category === 'overnight') {
+  const precioEntry = CABANAS.find((c) => c.slug === slug);
+  if (precioEntry) {
+    offers = { '@type': 'Offer', price: precioEntry.porNoche, priceCurrency: 'USD', availability: 'https://schema.org/InStock', url: pageUrl };
+  }
+}
+
+// Este bloque TouristTrip no existía en de/fr/pt-br (solo en/es lo tenían) —
+// se añade aquí igual que en las otras dos, con los mismos valores sin
+// traducir (JSON-LD no es texto visible). Ver nota en el informe de esta fase.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TouristTrip',
+  name,
+  description: seoDescription ?? tagline,
+  image: heroImage,
+  touristType: bestFor,
+  provider: { '@type': 'TravelAgency', name: 'San Blas Tours Panamá' },
+  ...(offers && { offers }),
+};
 // El FAQPage sale del propio Markdown: las preguntas se escriben en el cuerpo
 // y por tanto se VEN en la pagina, que es lo que Google exige para marcarlas.
 // Ver src/lib/faq.ts. Devuelve null si la entrada aun no tiene seccion.
@@ -41,6 +75,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
   path={`/tours/${slug}`}
   availableLocales={availableLocales}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
 
   <div class="h-[45vh] min-h-[320px] w-full overflow-hidden">

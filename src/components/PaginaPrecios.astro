@@ -95,9 +95,44 @@ const faqJsonLd = {
     acceptedAnswer: { '@type': 'Answer', text: r(p.a) },
   })),
 };
+
+/* Dos `AggregateOffer`, uno por grupo real de producto — nunca un precio a
+ * mano, siempre RANGO_DIA/RANGO_NOCHE de src/lib/precios.ts (ver la cabecera
+ * de ese fichero). `Product` y no `TouristTrip`: esto es un resumen de precios
+ * sobre un rango, no una ficha de un viaje reservable concreto — que es
+ * justo lo que ya cubre el `TouristTrip` con `Offer` de cada ficha de tour. */
+const aggregateOffersLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: 'San Blas Day Tour',
+    offers: {
+      '@type': 'AggregateOffer',
+      lowPrice: RANGO_DIA.desde,
+      highPrice: RANGO_DIA.hasta,
+      priceCurrency: 'USD',
+      offerCount: TOURS_DIA.length,
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: 'San Blas Overnight Stay',
+    offers: {
+      '@type': 'AggregateOffer',
+      lowPrice: RANGO_NOCHE.desde,
+      highPrice: RANGO_NOCHE.hasta,
+      priceCurrency: 'USD',
+      offerCount: CABANAS.length,
+    },
+  },
+];
 ---
 
 <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />
+{aggregateOffersLd.map((producto) => (
+  <script type="application/ld+json" set:html={JSON.stringify(producto)} />
+))}
 
 <Breadcrumbs items={[{ label: t.migaInicio, href: '/' }, { label: t.migaPrecios }]} />
 

@@ -48,6 +48,20 @@ const relatedIslands = allIslands
 // y por tanto se VEN en la pagina, que es lo que Google exige para marcarlas.
 // Ver src/lib/faq.ts. Devuelve null si la entrada aun no tiene seccion.
 const faqLd = faqJsonLd(entry.body ?? '');
+
+// `Article` para todas las guías por igual: el esquema de `guides` no tiene
+// fecha (ni `datePublished` ni `dateModified` — se omiten, no se inventan) ni
+// una señal fiable de "esta guía es sobre un lugar" con la que distinguir
+// `TouristAttraction` sin adivinar. `image` solo se añade si hay `heroImage`:
+// varias guías no la tienen (mismo condicional que ya usa el hero de abajo).
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: seoDescription ?? title,
+  ...(heroImage && { image: heroImage }),
+  publisher: { '@type': 'TravelAgency', name: 'San Blas Tours Panamá' },
+};
 ---
 
 <Layout
@@ -57,6 +71,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
   path={`/guides/${slug}`}
   availableLocales={availableLocales}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
 
   {heroImage && (

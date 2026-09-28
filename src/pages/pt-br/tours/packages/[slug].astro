@@ -49,6 +49,19 @@ const whatsappMessage = `Olá! Tenho interesse no pacote personalizado "${name}"
 // y por tanto se VEN en la pagina, que es lo que Google exige para marcarlas.
 // Ver src/lib/faq.ts. Devuelve null si la entrada aun no tiene seccion.
 const faqLd = faqJsonLd(entry.body ?? '');
+
+// Sin `offers`, a propósito: los paquetes se cotizan por WhatsApp según fechas
+// y tamaño de grupo, no tienen precio fijo. Ponerle un `priceSpecification`
+// aquí describiría como "precio conocido" algo que no lo es — el mismo tipo
+// de error que ya penalizó a otro proyecto de esta casa (ver precios.ts).
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TouristTrip',
+  name,
+  description: seoDescription ?? tagline,
+  image: heroImage,
+  provider: { '@type': 'TravelAgency', name: 'San Blas Tours Panamá' },
+};
 ---
 
 <Layout
@@ -58,6 +71,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
   path={`/tours/packages/${slug}`}
   availableLocales={availableLocales}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
 
   <div class="h-[40vh] min-h-[280px] w-full overflow-hidden">
