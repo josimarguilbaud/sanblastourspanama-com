@@ -17,7 +17,7 @@ export default defineConfig({
   trailingSlash: 'never',
 
   vite: {
-    plugins: [tailwindcss()]
+    plugins: [tailwindcss()],
   },
 
   // Las 15 páginas legales llevan `noindex` (ver Seo.astro), así que no pintan

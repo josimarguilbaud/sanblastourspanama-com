@@ -78,35 +78,39 @@ const faqLd = faqJsonLd(entry.body ?? '');
 
   <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Islands', href: '/islands' }, { label: name }]} />
 
-  <article class="mx-auto max-w-3xl px-4 pb-12 pt-4 sm:px-6 lg:px-8">
-    <p class="text-sm font-semibold uppercase tracking-wide text-teal">
-      {sector} {isInhabited ? '· Guna community' : '· Uninhabited cay'}
-    </p>
-    <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">{name}</h1>
+  <div class:list={["mx-auto max-w-6xl px-4 pb-12 pt-4 sm:px-6 lg:px-8", claveReservable && "lg:grid lg:grid-cols-[1fr_380px] lg:items-start lg:gap-10"]}>
+    <article class="max-w-3xl">
+      <p class="text-sm font-semibold uppercase tracking-wide text-teal">
+        {sector} {isInhabited ? '· Guna community' : '· Uninhabited cay'}
+      </p>
+      <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">{name}</h1>
 
-    <div class="mt-4 flex flex-wrap gap-2">
-      {bestFor.map((tag: string) => (
-        <span class="rounded-full bg-lime/10 px-3 py-1 text-sm font-medium text-limedark">
-          {tag.replace(/-/g, ' ')}
-        </span>
-      ))}
-    </div>
+      <div class="mt-4 flex flex-wrap gap-2">
+        {bestFor.map((tag: string) => (
+          <span class="rounded-full bg-lime/10 px-3 py-1 text-sm font-medium text-limedark">
+            {tag.replace(/-/g, ' ')}
+          </span>
+        ))}
+      </div>
 
-    <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
-      <Content />
-      <EnlaceHermana tipo="island" slug={slug} lang="en" />
-    </div>
+      <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
+        <Content />
+        <EnlaceHermana tipo="island" slug={slug} lang="en" />
+      </div>
 
-    <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
-      <p class="font-heading text-xl font-bold text-white">Ready to see {name} in person?</p>
-      <p class="mt-2 text-sand/70">Message us on WhatsApp — a real person helps you find a tour that includes this island.</p>
-      <BookingCta label="Book Now" message={`Hi! I'm interested in a San Blas tour that visits ${name}.`} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
-    </div>
+      <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
+        <p class="font-heading text-xl font-bold text-white">Ready to see {name} in person?</p>
+        <p class="mt-2 text-sand/70">Message us on WhatsApp — a real person helps you find a tour that includes this island.</p>
+        <BookingCta label="Book Now" message={`Hi! I'm interested in a San Blas tour that visits ${name}.`} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
+      </div>
+    </article>
 
     {claveReservable && (
-      <WidgetReserva tourKey={claveReservable} lang="en" titulo={t('widget.bookOnline')} nota={t('widget.bookOnlineNota')} />
+      <aside class="mt-10 lg:sticky lg:top-28 lg:mt-0">
+        <WidgetReserva tourKey={claveReservable} lang="en" titulo={t('widget.bookOnline')} nota={t('widget.bookOnlineNota')} compact />
+      </aside>
     )}
-  </article>
+  </div>
 
   <RelatedCards title="Tours That Visit This Island" items={relatedTours} />
 </Layout>

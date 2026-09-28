@@ -15,6 +15,15 @@
  * son dos webs peleando posiciones en Google, y un script de terceros en las
  * 381 páginas castigaría los Core Web Vitals de todas para servir a unas
  * pocas. Es la misma decisión que ya se tomó con el chat.
+ *
+ * `compact` (28/09/2026): el dueño reportó que en tours e islas el widget
+ * quedaba enterrado al final de un artículo largo — había que bajar toda la
+ * página para reservar, y encima no se quedaba a la vista al hacer scroll.
+ * Con `compact` este mismo componente rinde una tarjeta angosta pensada para
+ * ir en una barra lateral pegajosa (`lg:sticky`), no en una sección a todo lo
+ * ancho — el llamador decide el layout, este componente solo decide su
+ * propio tamaño. `/prices` sigue usando la variante de sección completa, sin
+ * tocarla, porque ahí SÍ es el contenido principal de su propio bloque.
  */
 import { claveDeReserva, urlWidget, idiomaWidget } from '../lib/reservas';
 
@@ -25,13 +34,35 @@ interface Props {
   titulo: string;
   /** Una línea bajo el título. Opcional. */
   nota?: string;
+  /** Tarjeta angosta para barra lateral, en vez de sección a todo lo ancho. */
+  compact?: boolean;
 }
 
-const { tourKey, category, lang, titulo, nota } = Astro.props;
+const { tourKey, category, lang, titulo, nota, compact = false } = Astro.props;
 const clave = claveDeReserva({ tourKey, category });
 ---
 
-{clave && (
+{clave && compact && (
+  <div id="reservar" class="scroll-mt-24 rounded-2xl bg-sand p-5">
+    <h2 class="text-lg font-bold text-deep">{titulo}</h2>
+    {nota && <p class="mt-1.5 text-sm text-deep/70">{nota}</p>}
+
+    <div class="mt-4 overflow-hidden rounded-xl bg-white shadow-lg shadow-deep/5">
+      <sanblas-reserva tour={clave} lang={idiomaWidget(lang)} site="sanblastourspanama"></sanblas-reserva>
+    </div>
+
+    <noscript>
+      <a
+        href={urlWidget(clave, lang)}
+        class="mt-3 block rounded-lg bg-coral px-5 py-2.5 text-center text-sm font-semibold text-white no-underline hover:bg-coraldark"
+      >
+        {titulo}
+      </a>
+    </noscript>
+  </div>
+)}
+
+{clave && !compact && (
   <section id="reservar" class="scroll-mt-24 bg-sand py-12">
     <div class="mx-auto max-w-3xl px-4">
       <h2 class="text-2xl font-bold text-deep sm:text-3xl">{titulo}</h2>
