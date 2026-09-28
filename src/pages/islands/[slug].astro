@@ -5,7 +5,10 @@ import BookingCta from '../../components/BookingCta.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import RelatedCards from '../../components/RelatedCards.astro';
 import EnlaceHermana from '../../components/EnlaceHermana.astro';
+import WidgetReserva from '../../components/WidgetReserva.astro';
 import { localesForSlug } from '../../i18n/content';
+import { useTranslations } from '../../i18n/ui';
+import { unicaReservable } from '../../lib/reservas';
 import { faqJsonLd } from '../../lib/faq';
 
 export async function getStaticPaths() {
@@ -22,9 +25,16 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const { name, sector, heroImage, bestFor, isInhabited, relatedTourKeys, seoTitle, seoDescription } = entry.data;
 const slug = entry.id.replace(/^en\//, '');
+const t = useTranslations('en');
 
 const allIslands = await getCollection('islands');
 const availableLocales = localesForSlug(allIslands, slug);
+
+/* Si esta isla toca exactamente un tour reservable, se ofrece el widget de
+ * reserva aparte del CTA de WhatsApp de siempre — no en su lugar, igual que
+ * ya conviven los dos en las páginas de tour. Ver `unicaReservable` en
+ * `src/lib/reservas.ts` para por qué "cero o varias" no muestra el widget. */
+const claveReservable = unicaReservable(relatedTourKeys);
 
 const allTours = await getCollection('tours');
 const relatedTours = allTours
@@ -92,6 +102,10 @@ const faqLd = faqJsonLd(entry.body ?? '');
       <p class="mt-2 text-sand/70">Message us on WhatsApp — a real person helps you find a tour that includes this island.</p>
       <BookingCta label="Book Now" message={`Hi! I'm interested in a San Blas tour that visits ${name}.`} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
     </div>
+
+    {claveReservable && (
+      <WidgetReserva tourKey={claveReservable} lang="en" titulo={t('widget.bookOnline')} nota={t('widget.bookOnlineNota')} />
+    )}
   </article>
 
   <RelatedCards title="Tours That Visit This Island" items={relatedTours} />

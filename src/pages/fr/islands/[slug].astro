@@ -3,9 +3,12 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import RelatedCards from '../../../components/RelatedCards.astro';
 import EnlaceHermana from '../../../components/EnlaceHermana.astro';
+import WidgetReserva from '../../../components/WidgetReserva.astro';
 import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
+import { unicaReservable } from '../../../lib/reservas';
 import { faqJsonLd } from '../../../lib/faq';
 
 export async function getStaticPaths() {
@@ -20,12 +23,25 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { name, sector, heroImage, bestFor, isInhabited, seoTitle, seoDescription } = entry.data;
+const { name, sector, heroImage, bestFor, isInhabited, relatedTourKeys, seoTitle, seoDescription } = entry.data;
 const slug = entry.id.replace(/^fr\//, '');
 const t = useTranslations('fr');
 
 const allIslands = await getCollection('islands');
 const availableLocales = localesForSlug(allIslands, slug);
+const claveReservable = unicaReservable(relatedTourKeys);
+
+/* Paridad con en/es: esta plantilla no traía "Tours That Visit This Island"
+ * todavía (no era un faltante deliberado, solo no se había hecho). */
+const allTours = await getCollection('tours');
+const relatedTours = allTours
+  .filter((tr) => tr.id.startsWith('fr/') && relatedTourKeys.includes(tr.data.tourKey ?? ''))
+  .map((tr) => ({
+    href: `/fr/tours/${tr.id.replace(/^fr\//, '')}`,
+    heroImage: tr.data.heroImage,
+    title: tr.data.name,
+    subtitle: tr.data.category === 'day-tour' ? "Excursion d'un Jour" : 'Séjour de Nuit',
+  }));
 // El FAQPage sale del propio Markdown: las preguntas se escriben en el cuerpo
 // y por tanto se VEN en la pagina, que es lo que Google exige para marcarlas.
 // Ver src/lib/faq.ts. Devuelve null si la entrada aun no tiene seccion.
@@ -70,5 +86,11 @@ const faqLd = faqJsonLd(entry.body ?? '');
       <p class="font-heading text-xl font-bold text-white">Prêt à découvrir {name} ?</p>
       <BookingCta label={t('cta.checkAvailability')} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
     </div>
+
+    {claveReservable && (
+      <WidgetReserva tourKey={claveReservable} lang="fr" titulo={t('widget.bookOnline')} nota={t('widget.bookOnlineNota')} />
+    )}
   </article>
+
+  <RelatedCards title="Excursions Vers Cette Île" items={relatedTours} />
 </Layout>

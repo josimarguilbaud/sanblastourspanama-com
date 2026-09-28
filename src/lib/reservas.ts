@@ -81,6 +81,22 @@ export function claveDeReserva(datos: { tourKey?: string; category?: string }): 
   return CLAVES_RESERVABLES.has(clave) ? clave : null;
 }
 
+/**
+ * De una lista de tour_key candidatos (por ejemplo, los tours que visitan una
+ * isla, o los tours de las islas que toca una guía), la única que se puede
+ * reservar en línea — o `null` si son cero o si son varias.
+ *
+ * Cero es normal: nada de lo relacionado es reservable todavía, y la página se
+ * queda con su CTA de WhatsApp. Varias también es un caso real (una isla que
+ * aparece en dos tours reservables), pero elegir una al azar sería peor que no
+ * mostrar ninguna — el visitante reservaría el tour equivocado sin darse
+ * cuenta. En ese caso también se deja WhatsApp, que sí puede preguntar cuál.
+ */
+export function unicaReservable(candidatas: string[]): string | null {
+  const reservables = [...new Set(candidatas)].filter((clave) => CLAVES_RESERVABLES.has(clave));
+  return reservables.length === 1 ? reservables[0] : null;
+}
+
 /** El código de idioma que espera el widget. */
 export function idiomaWidget(lang: string): string {
   return IDIOMA_WIDGET[lang] ?? 'en';

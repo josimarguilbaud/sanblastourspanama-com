@@ -5,10 +5,11 @@
 // in src/content/*, following the human-review-gate approach from the plan:
 // a locale simply has no page until a real translation exists for it.
 //
-// Booking model: this site sends 100% of conversion traffic to WhatsApp
-// (see components/BookingCta.astro) — there is no online widget/payment
-// here, so all "book"/"reserve" copy is phrased as "message us" rather than
-// "book online".
+// Booking model: since 03/09/2026 this site also books and pays online for
+// the 4 day tours and 5 overnight stays via `<WidgetReserva>` (see
+// src/lib/reservas.ts) — WhatsApp (components/BookingCta.astro) is kept as
+// the second path, and remains the ONLY path for the 11 packages and the
+// Super VIP private tour, which are quoted to measure on purpose.
 export const locales = ['en', 'es', 'de', 'fr', 'pt-br'] as const;
 export type Locale = (typeof locales)[number];
 export const defaultLocale: Locale = 'en';
@@ -32,6 +33,8 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.menu': 'Menu',
     'cta.book': 'Book Now',
     'cta.checkAvailability': 'Ask About Availability',
+    'widget.bookOnline': 'Book This Tour Online',
+    'widget.bookOnlineNota': 'Live pricing and instant booking for the tour below.',
     'topbar.slogan': 'Your next adventure awaits — message us on WhatsApp to plan San Blas.',
     'footer.tagline': 'Your guide to the islands of Guna Yala, Panama — message us on WhatsApp to plan your trip.',
     'footer.explore': 'Explore',
@@ -51,6 +54,8 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.menu': 'Menú',
     'cta.book': 'Reservar',
     'cta.checkAvailability': 'Consultar Disponibilidad',
+    'widget.bookOnline': 'Reserva Este Tour en Línea',
+    'widget.bookOnlineNota': 'Precio real y reserva al instante para el tour de abajo.',
     'topbar.slogan': 'Tu próxima aventura te espera — escríbenos por WhatsApp para coordinar San Blas.',
     'footer.tagline': 'Tu guía de las islas de Guna Yala, Panamá — escríbenos por WhatsApp para coordinar tu viaje.',
     'footer.explore': 'Explorar',
@@ -70,6 +75,8 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.menu': 'Menü',
     'cta.book': 'Buchen',
     'cta.checkAvailability': 'Verfügbarkeit Erfragen',
+    'widget.bookOnline': 'Diese Tour Online Buchen',
+    'widget.bookOnlineNota': 'Echte Preise und sofortige Buchung für die Tour unten.',
     'topbar.slogan': 'Ihr nächstes Abenteuer wartet — schreiben Sie uns auf WhatsApp, um San Blas zu planen.',
     'footer.tagline': 'Ihr Guide zu den Inseln von Guna Yala, Panama — schreiben Sie uns auf WhatsApp, um Ihre Reise zu planen.',
     'footer.explore': 'Entdecken',
@@ -89,6 +96,8 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.menu': 'Menu',
     'cta.book': 'Réserver',
     'cta.checkAvailability': 'Demander la Disponibilité',
+    'widget.bookOnline': 'Réserver Cette Excursion en Ligne',
+    'widget.bookOnlineNota': "Prix réel et réservation instantanée pour l'excursion ci-dessous.",
     'topbar.slogan': 'Votre prochaine aventure vous attend — écrivez-nous sur WhatsApp pour organiser San Blas.',
     'footer.tagline': "Votre guide des îles de Guna Yala, au Panama — écrivez-nous sur WhatsApp pour organiser votre voyage.",
     'footer.explore': 'Explorer',
@@ -108,6 +117,8 @@ export const ui: Record<Locale, Record<string, string>> = {
     'nav.menu': 'Menu',
     'cta.book': 'Reservar',
     'cta.checkAvailability': 'Perguntar Disponibilidade',
+    'widget.bookOnline': 'Reserve Este Passeio Online',
+    'widget.bookOnlineNota': 'Preço real e reserva instantânea para o passeio abaixo.',
     'topbar.slogan': 'Sua próxima aventura está esperando — fale conosco no WhatsApp para planejar San Blas.',
     'footer.tagline': 'Seu guia para as ilhas de Guna Yala, no Panamá — fale conosco no WhatsApp para planejar sua viagem.',
     'footer.explore': 'Explorar',

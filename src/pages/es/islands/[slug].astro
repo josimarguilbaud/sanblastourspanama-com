@@ -5,8 +5,10 @@ import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import RelatedCards from '../../../components/RelatedCards.astro';
 import EnlaceHermana from '../../../components/EnlaceHermana.astro';
+import WidgetReserva from '../../../components/WidgetReserva.astro';
 import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
+import { unicaReservable } from '../../../lib/reservas';
 import { faqJsonLd } from '../../../lib/faq';
 
 export async function getStaticPaths() {
@@ -27,6 +29,7 @@ const t = useTranslations('es');
 
 const allIslands = await getCollection('islands');
 const availableLocales = localesForSlug(allIslands, slug);
+const claveReservable = unicaReservable(relatedTourKeys);
 
 const allTours = await getCollection('tours');
 const relatedTours = allTours
@@ -94,6 +97,10 @@ const faqLd = faqJsonLd(entry.body ?? '');
       <p class="mt-2 text-sand/70">Escríbenos por WhatsApp — una persona real te ayuda a encontrar un tour que incluya esta isla.</p>
       <BookingCta label={t('cta.book')} message={`¡Hola! Me interesa un tour de San Blas que visite ${name}.`} class="mt-5 !bg-lime !shadow-lime/30 hover:!bg-limedark" />
     </div>
+
+    {claveReservable && (
+      <WidgetReserva tourKey={claveReservable} lang="es" titulo={t('widget.bookOnline')} nota={t('widget.bookOnlineNota')} />
+    )}
   </article>
 
   <RelatedCards title="Tours que Visitan Esta Isla" items={relatedTours} />
