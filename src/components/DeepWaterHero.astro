@@ -1,0 +1,220 @@
+---
+/**
+ * Hero — sistema "Deep Water" (ver DESIGN.md).
+ *
+ * Primera pieza construida bajo el sistema maximalista que sustituye a
+ * "Field Guide" (decisión del dueño, 28/09/2026 — ver DESIGN.md § Decisions
+ * Log). Autocontenido a propósito: carga sus propias fuentes y su propio
+ * script de GSAP/Lenis, para poder probarse en una sola página sin tocar
+ * `Layout.astro` ni las otras 390 páginas todavía. Propagar esto al resto
+ * del sitio es el siguiente encargo, no algo que este componente asuma.
+ *
+ * `prefers-reduced-motion` no es opcional aquí: quien lo pide ve el hero
+ * completo y legible al instante, sin reveals, sin parallax, sin Lenis.
+ */
+interface Props {
+  lang?: string;
+}
+const { lang = 'en' } = Astro.props;
+---
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;500;700;800&family=Petrona:ital,wght@0,500;1,500&display=swap"
+  rel="stylesheet"
+/>
+
+<section class="dw-hero" aria-label="San Blas — deep water">
+  <div class="dw-cursor" aria-hidden="true"></div>
+
+  <div class="dw-hero__inner">
+    <p class="dw-hero__eyebrow dw-reveal">
+      <span class="dw-reveal__line">Guna Yala · Panama</span>
+    </p>
+
+    <h1 class="dw-hero__title">
+      <span class="dw-reveal"><span class="dw-reveal__line">SAN BLAS</span></span>
+      <span class="dw-reveal"><span class="dw-reveal__line">IS NOT</span></span>
+      <span class="dw-reveal dw-hero__title--serif">
+        <span class="dw-reveal__line">a postcard.</span>
+      </span>
+    </h1>
+
+    <p class="dw-hero__lede dw-reveal">
+      <span class="dw-reveal__line"
+        >365 islands. No hotels past the third one. We take you to the ones
+        that are actually worth it.</span
+      >
+    </p>
+
+    <a href="#tours" class="dw-btn dw-magnetic" data-magnetic>
+      <span>Start the trip</span>
+    </a>
+  </div>
+
+  <div class="dw-hero__figure" data-parallax>
+    <div class="dw-hero__figure-ph" role="img" aria-label="San Blas archipelago aerial view"></div>
+  </div>
+</section>
+
+<style>
+  .dw-hero {
+    position: relative;
+    min-height: 100svh;
+    background: #0a0a0a;
+    color: #f2f0ea;
+    overflow: hidden;
+    display: grid;
+    align-items: center;
+    padding: clamp(24px, 5vw, 64px);
+    font-family: 'Unbounded', sans-serif;
+  }
+
+  .dw-cursor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 14px;
+    height: 14px;
+    border-radius: 9999px;
+    background: #c8ff3d;
+    mix-blend-mode: difference;
+    pointer-events: none;
+    z-index: 100;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+  }
+  @media (hover: none) {
+    .dw-cursor { display: none; }
+  }
+
+  .dw-hero__inner { position: relative; z-index: 2; max-width: 62rem; }
+
+  .dw-hero__eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #c8ff3d;
+    margin: 0 0 clamp(16px, 3vw, 28px);
+  }
+
+  .dw-hero__title {
+    margin: 0 0 clamp(20px, 3vw, 32px);
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 0.92;
+    letter-spacing: -0.02em;
+    font-size: clamp(3rem, 12vw, 9.5rem);
+  }
+  .dw-hero__title span.dw-reveal { display: block; }
+  .dw-hero__title--serif {
+    font-family: 'Petrona', serif;
+    font-style: italic;
+    font-weight: 500;
+    text-transform: none;
+    letter-spacing: 0;
+    color: #c8ff3d;
+    font-size: clamp(1.8rem, 6vw, 4.5rem);
+    margin-top: 0.15em;
+  }
+
+  .dw-hero__lede {
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 400;
+    font-size: clamp(1rem, 1.6vw, 1.25rem);
+    line-height: 1.5;
+    color: #8a8a85;
+    max-width: 34rem;
+    margin: 0 0 clamp(32px, 5vw, 48px);
+  }
+
+  /* ── reveal mechanism: masked line, GSAP moves the inner span ── */
+  .dw-reveal { overflow: hidden; display: block; }
+  .dw-reveal__line { display: inline-block; transform: translateY(110%); will-change: transform; }
+
+  .dw-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 18px 36px;
+    border-radius: 9999px;
+    background: #c8ff3d;
+    color: #0a0a0a;
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    position: relative;
+  }
+  .dw-btn:hover { background: #f2f0ea; }
+
+  .dw-hero__figure {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    opacity: 0.55;
+  }
+  .dw-hero__figure-ph {
+    position: absolute;
+    inset: -10% -5%;
+    background: radial-gradient(circle at 70% 30%, #14331f 0%, #0a0a0a 62%);
+    will-change: transform;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .dw-reveal__line { transform: none !important; }
+  }
+</style>
+
+<script>
+  import { gsap } from 'gsap';
+  import Lenis from 'lenis';
+
+  const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // ── Lenis: fricción de scroll real. Desactivada por completo si el
+  // visitante pidió menos movimiento — no un Lenis "suave", NINGUNO. ──
+  if (!prefersReduced) {
+    const lenis = new Lenis({ duration: 1.1, smoothWheel: true });
+    function raf(time: number) {
+      lenis.raf(time);
+      requestAnimationFrame(raf);
+    }
+    requestAnimationFrame(raf);
+  }
+
+  // ── Reveal de texto: cada línea enmascarada sube desde y:100% ──
+  const lines = document.querySelectorAll('.dw-hero .dw-reveal__line');
+  if (prefersReduced) {
+    lines.forEach((l) => ((l as HTMLElement).style.transform = 'none'));
+  } else {
+    gsap.to(lines, {
+      y: 0,
+      duration: 1,
+      ease: 'power4.out',
+      stagger: 0.09,
+      delay: 0.15,
+    });
+  }
+
+  // ── Cursor magnético: sigue el puntero, crece sobre el CTA ──
+  const cursor = document.querySelector<HTMLElement>('.dw-cursor');
+  const cta = document.querySelector<HTMLElement>('[data-magnetic]');
+  if (cursor && !prefersReduced && matchMedia('(hover: hover)').matches) {
+    window.addEventListener('mousemove', (e) => {
+      gsap.to(cursor, { x: e.clientX, y: e.clientY, duration: 0.35, ease: 'power2.out' });
+    });
+    cta?.addEventListener('mouseenter', () => gsap.to(cursor, { scale: 3.4, duration: 0.25, ease: 'power2.out' }));
+    cta?.addEventListener('mouseleave', () => gsap.to(cursor, { scale: 1, duration: 0.25, ease: 'power2.out' }));
+  }
+
+  // ── Parallax interno: el fondo se mueve más lento que la sección ──
+  const figure = document.querySelector<HTMLElement>('[data-parallax] .dw-hero__figure-ph');
+  if (figure && !prefersReduced) {
+    window.addEventListener('scroll', () => {
+      const y = window.scrollY * 0.25;
+      figure.style.transform = `translateY(${y}px)`;
+    });
+  }
+</script>
