@@ -19,13 +19,12 @@
  * de intención: dos páginas pueden hablar las dos de San Blas siempre que
  * aspiren a consultas distintas.
  *
- * ⚠️ Deliberadamente NO está en `prebuild` todavía. Es un guardián nuevo, recién
- * escrito, y no se sabe si el sitio hoy ya tiene solapamientos reales — romper
- * el build a ciegas con hallazgos sin revisar bloquearía publicar cualquier
- * cosa. Se corre a mano hasta que la Fase 3 del rediseño revise lo que
- * encuentre; entonces se ata al `prebuild`, junto a `verificar-contenido.mjs`.
+ * Primera corrida en limpio, 28/09/2026: 8.350 pares comparados, cero
+ * conflictos reales. Con eso ya está atado al `prebuild`, junto a
+ * `verificar-contenido.mjs` — antes corría solo a mano justamente para no
+ * romper el build a ciegas con hallazgos todavía sin revisar.
  *
- * Uso: node scripts/verificar-canibalizacion.mjs
+ * Uso manual: node scripts/verificar-canibalizacion.mjs
  */
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
