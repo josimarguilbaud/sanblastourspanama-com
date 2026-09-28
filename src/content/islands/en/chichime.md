@@ -7,8 +7,8 @@ gallery:
 bestFor: ["snorkeling", "day-trip", "photography", "families"]
 isInhabited: true
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Chichime Island, San Blas — Two Cays and a Channel"
-seoDescription: "Chichime is two palm-covered cays split by a channel you can wade at low tide, with a Guna fishing village and a shallow reef for first-time snorkelers."
+seoTitle: "Chichime Island, San Blas: Walk Between Two Cays"
+seoDescription: "Chichime is two palm-covered cays split by a channel you can wade at low tide, with a Guna village and a shallow reef for first-time snorkelers."
 ---
 
 Chichime is not one island but two: a pair of small cays lying side by side, separated by a channel shallow enough to wade across at low tide. That single quirk of geography is why it turns up in more San Blas photographs than almost any other stop — powder-white sand, a curtain of leaning palms, and water that shifts from pale turquoise to deep blue within a few meters of the shore.

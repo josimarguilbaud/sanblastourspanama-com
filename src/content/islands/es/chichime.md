@@ -7,8 +7,8 @@ gallery:
 bestFor: ["snorkel", "pasadia", "fotografia", "familias"]
 isInhabited: true
 relatedTourKeys: ["day_tour_basico", "day_tour_vip"]
-seoTitle: "Isla Chichime, San Blas — Dos Cayos y un Canal"
-seoDescription: "Chichime son dos cayos de palmeras separados por un canal que se cruza a pie en marea baja, con comunidad Guna y arrecife para principiantes."
+seoTitle: "Isla Chichime, San Blas: Cruza a Pie Entre 2 Cayos"
+seoDescription: "Chichime son dos cayos de palmeras separados por un canal que se cruza a pie en marea baja, con comunidad Guna y arrecife ideal para principiantes."
 ---
 
 Chichime no es una isla, son dos: un par de cayos pequeños uno junto al otro, separados por un canal tan poco profundo que en marea baja se cruza caminando. Esa sola rareza geográfica explica por qué aparece en más fotos de San Blas que casi cualquier otra parada — arena blanca finísima, una hilera de palmeras inclinadas y un agua que pasa de turquesa pálido a azul profundo en pocos metros desde la orilla.
