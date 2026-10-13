@@ -10,5 +10,7 @@ FROM nginx:alpine
 # barra final cuesta dos saltos (el primero por http:// en claro) y la pagina
 # 404 del sitio no se sirve nunca. Ver nginx.conf.
 COPY nginx.conf /etc/nginx/conf.d/default.conf
+# Las cabeceras de seguridad, que nginx.conf incluye en cuatro sitios.
+COPY seguridad.conf /etc/nginx/seguridad.conf
 COPY --from=build /app/dist /usr/share/nginx/html
 EXPOSE 80
