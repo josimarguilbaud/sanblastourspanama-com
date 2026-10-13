@@ -32,7 +32,7 @@ En estos cayos no hay comunidad, y de ahí vienen a la vez su encanto y sus lím
 
 - **Ideal para:** fotógrafos y viajeros que prefieren ver varias playas distintas antes que instalarse en una.
 - **Facilidades:** ninguna. Lleva agua, protector biodegradable y gorra.
-- **Impuesto comarcal:** el impuesto de entrada a Guna Yala se paga en efectivo al entrar al territorio, visite tu lancha los cayos que visite.
+- **Impuesto comarcal:** el impuesto de entrada a Guna Yala se paga al entrar al territorio, en efectivo o con tarjeta a nuestro conductor, visite tu lancha los cayos que visite.
 
 ## Preguntas frecuentes
 
@@ -49,4 +49,4 @@ No. Son islotes deshabitados sin infraestructura de ningún tipo. El almuerzo y 
 Limones está cerca, se alcanza rápido y se construye alrededor de saltar entre varias playas pequeñas. Cayos Holandeses está lejos, se visita en su propio tour con salida más temprana y mínimo de personas, y se elige por la calidad del arrecife, no por las playas. Son días distintos, no dos precios del mismo día.
 
 ### ¿Vive alguien en los Cayos Limones?
-No hay comunidad permanente en ellos, y por eso no cobran una entrada comunitaria propia. El impuesto de entrada a la comarca de Guna Yala sí te aplica como visitante del territorio, y se paga en efectivo en el control de entrada, no en los cayos.
+No hay comunidad permanente en ellos, y por eso no cobran una entrada comunitaria propia. El impuesto de entrada a la comarca de Guna Yala sí te aplica como visitante del territorio, y se paga en el control de entrada, en efectivo o con tarjeta a nuestro conductor, no en los cayos.

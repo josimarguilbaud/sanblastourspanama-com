@@ -27,7 +27,7 @@ Fragen Sie irgendeinen Guide in San Blas, welche Tour das beste Schnorcheln biet
 - ✅ Schnorcheln an den Cayos Holandeses
 - ✅ Mittagessen mit Getränk
 - ✅ Schwimmwesten und ein erfahrener lokaler Guna-Guide
-- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar zu zahlen)
+- ⛔ Guna-Yala-Gemeinschaftssteuer (separat zu zahlen, bar oder mit Karte beim Fahrer)
 
 ## Für wen diese Tour gedacht ist
 

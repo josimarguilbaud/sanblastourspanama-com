@@ -59,7 +59,7 @@ San Andrés tiene su propio pueblo nativo, los raizales, isleños afrocaribeños
 
 ## Las desventajas, con honestidad
 
-- **San Blas:** comodidad básica, sin wifi, señal irregular, una carretera larga y con curvas, y un impuesto de entrada a la comarca de $22 para extranjeros que se paga en efectivo, porque en las islas no hay cajeros ni datáfonos. Sin buceo.
+- **San Blas:** comodidad básica, sin wifi, señal irregular, una carretera larga y con curvas, y un impuesto de entrada a la comarca de $22 para extranjeros, en efectivo o con tarjeta al conductor, y en las islas ni cajeros ni datáfonos. Sin buceo.
 - **San Andrés:** concurrida y construida para lo que es una isla del Caribe; son unas vacaciones de pueblo con playas, no una escapada.
 - **Roatán:** las playas más concurridas lo notan los días de crucero, y la comodidad de resort se paga a precio de resort.
 - **Los Roques:** el más difícil de organizar, depende de la situación de Venezuela, y suele ser caro porque todo tiene que llegar en avión o en barco.

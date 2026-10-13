@@ -32,7 +32,7 @@ Aucune communauté ne vit sur ces îlots, d'où vient à la fois leur charme et 
 
 - **Idéal pour :** les photographes et les voyageurs qui préfèrent voir plusieurs plages distinctes plutôt que s'installer sur une seule.
 - **Équipements :** aucun. Emportez de l'eau, une crème solaire biodégradable et un chapeau.
-- **Taxe de la comarca :** la taxe d'entrée de Guna Yala se paie en espèces à l'entrée du territoire, quels que soient les îlots visités par votre bateau.
+- **Taxe de la comarca :** la taxe d'entrée de Guna Yala se paie à l'entrée du territoire, en espèces ou par carte à notre chauffeur, quels que soient les îlots visités par votre bateau.
 
 ## Questions fréquentes
 
@@ -49,4 +49,4 @@ Non. Ce sont des îlots inhabités, sans aucune infrastructure. Le déjeuner et 
 Limones est proche, vite atteint, et tout entier construit autour du passage entre plusieurs petites plages. Cayos Holandeses est loin au large, desservi par sa propre excursion avec départ plus matinal et minimum de participants, et on le choisit pour la qualité du récif, pas pour les plages. Ce sont deux journées différentes, pas deux tarifs de la même.
 
 ### Quelqu'un vit-il sur les Cayos Limones ?
-Aucune communauté permanente n'y réside, et c'est pourquoi aucun droit d'entrée communautaire propre n'y est perçu. La taxe d'entrée de la comarca de Guna Yala s'applique néanmoins à vous en tant que visiteur du territoire, et se règle en espèces au poste d'entrée, pas sur les îlots.
+Aucune communauté permanente n'y réside, et c'est pourquoi aucun droit d'entrée communautaire propre n'y est perçu. La taxe d'entrée de la comarca de Guna Yala s'applique néanmoins à vous en tant que visiteur du territoire, et se règle au poste d'entrée, en espèces ou par carte à notre chauffeur, pas sur les îlots.

@@ -50,7 +50,7 @@ Fragen Sie zuerst. Häuser, Kanus und Alltagsroutinen sind nicht von vornherein 
 Eine Mola ist eine von Hand genähte Stofftafel und eine echte Kunstform der Guna, kein anderswo gefertigtes Souvenir. Am besten kauft man sie direkt bei der Frau, die sie genäht hat, auf einer Insel wie dieser, wo das Geld bei der Kunsthandwerkerin ankommt und nicht bei einem Vermittler.
 
 ### Kostet der Besuch einer bewohnten Insel etwas?
-Rechnen Sie mit einer kleinen Gemeindeabgabe pro Besucher, bar auf der Insel und getrennt vom Tourpreis. Sie unterscheidet sich von der Eintrittsabgabe der Comarca Guna Yala, die jeder Besucher bei der Einreise in das Gebiet bar bezahlt. In Guna Yala gibt es keine Geldautomaten, nehmen Sie also für beides genug Bargeld mit.
+Rechnen Sie mit einer kleinen Gemeindeabgabe pro Besucher, bar auf der Insel und getrennt vom Tourpreis. Sie unterscheidet sich von der Eintrittsabgabe der Comarca Guna Yala, die jeder Besucher bei der Einreise in das Gebiet bezahlt, bar oder mit Karte bei unserem Fahrer. In Guna Yala gibt es keine Geldautomaten, nehmen Sie also genug Bargeld für die Gemeindeabgabe mit, und für die Eintrittsabgabe, wenn Sie sie bar zahlen.
 
 ### Was unterscheidet eine bewohnte Insel von einem unbewohnten Cayo?
 Für Besucher vor allem die Erwartung. Ein unbewohntes Cayo ist Sand, Palmen und Wasser, ohne Einrichtungen und ohne jemanden, auf den Rücksicht zu nehmen wäre. Eine bewohnte Insel hat Bewohner, Abläufe, Grenzen und meist eine Gemeindeabgabe: Sie sind Gast und nicht die einzige Person am Strand — und mit dieser Haltung sollte man ankommen.

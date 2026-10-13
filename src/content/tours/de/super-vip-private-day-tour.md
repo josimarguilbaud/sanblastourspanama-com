@@ -27,7 +27,7 @@ Für Reisende, die San Blas ganz zu ihren eigenen Bedingungen wollen — kein Bo
 - ✅ Eine flexible Inselroute, gebaut um die Wünsche Ihrer Gruppe
 - ✅ Mittagessen mit Getränk
 - ✅ Schwimmwesten und ein eigener Guna-Guide
-- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar zu zahlen)
+- ⛔ Guna-Yala-Gemeinschaftssteuer (separat zu zahlen, bar oder mit Karte beim Fahrer)
 
 ## Wer diese Tour bucht
 
@@ -61,4 +61,4 @@ Ja — sagen Sie es bei der Buchung. Wer es vorher weiß, kann als Guide und Kap
 
 ### Ist die Gemeinschaftssteuer enthalten?
 
-Nein. Die Eintrittssteuer für Guna Yala wird separat, bar und pro Person gezahlt, genau wie bei unseren geteilten Touren. In der Comarca gibt es keine Geldautomaten, bringen Sie das Geld also mit.
+Nein. Die Eintrittssteuer für Guna Yala wird separat und pro Person gezahlt, genau wie bei unseren geteilten Touren: bar oder mit Karte beim Fahrer. In der Comarca gibt es keine Geldautomaten; wer bar zahlt, bringt das Geld also mit.

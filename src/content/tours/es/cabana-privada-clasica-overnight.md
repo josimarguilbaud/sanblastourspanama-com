@@ -27,7 +27,7 @@ Las cabañas se reservan **por tipo, no por isla**. La mayoría de las islas de 
 - ✅ Tour a 2 islas adicionales más la Piscina Natural
 - ✅ Guía local Guna
 - ⛔ Bebidas alcohólicas, snacks, equipo de snorkel, toallas y jabón
-- ⛔ Impuesto comarcal de Guna Yala (se paga aparte, en efectivo)
+- ⛔ Impuesto comarcal de Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor)
 
 ## ¿Clásica o Deluxe?
 

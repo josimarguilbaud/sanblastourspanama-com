@@ -26,7 +26,7 @@ Die überall zitierte Zahl lautet **mehr als 365 Inseln und Cays**, eine für je
 
 Guna Yala ist keine panamaische Provinz. Es ist eine Comarca: ein indigenes Territorium mit eigener Regierung, eigenem internem Recht und eigener Hoheit über die Landnutzung. Was gebaut wird und wohin Besucher dürfen, entscheiden die Guna-Kongresse, nicht Panama-Stadt. Drei Folgen davon sieht man bei jedem Besuch:
 
-- **Eine Gemeinde-Eintrittsgebühr** wird am Rand der Comarca in bar erhoben, getrennt vom Tourpreis.
+- **Eine Gemeinde-Eintrittsgebühr** wird am Rand der Comarca erhoben, getrennt vom Tourpreis; auf unseren Touren zahlen Sie sie bar oder mit Karte beim Fahrer.
 - **Auswärtige Unternehmen können kein Land kaufen**, weshalb jede Hütte, jedes Boot und jeder Guide einer Guna-Familie oder -Gemeinde gehört. Aus demselben Grund kann auch niemand von außen [eine Insel in San Blas kaufen](/de/blog/can-you-buy-an-island-in-san-blas).
 - **Die Regeln unterscheiden sich von Insel zu Insel**, weil jede Gemeinde ihre eigenen festlegt.
 

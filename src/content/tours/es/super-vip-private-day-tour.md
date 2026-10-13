@@ -27,7 +27,7 @@ Para viajeros que quieren San Blas completamente a su manera — sin compartir l
 - ✅ Un itinerario de islas flexible, armado alrededor de las preferencias de tu grupo
 - ✅ Almuerzo con bebida
 - ✅ Chalecos salvavidas y guía Guna dedicado
-- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo)
+- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor)
 
 ## Quién reserva este tour
 
@@ -61,4 +61,4 @@ Sí — avísanos al reservar. Saberlo con anticipación permite que el guía y 
 
 ### ¿El impuesto comarcal está incluido?
 
-No. El impuesto de entrada a Guna Yala se paga aparte, en efectivo y por persona, igual que en nuestros tours compartidos. No hay cajeros en la comarca, así que llévalo contigo.
+No. El impuesto de entrada a Guna Yala se paga aparte y por persona, igual que en nuestros tours compartidos: en efectivo o con tarjeta al conductor. No hay cajeros en la comarca, así que si pagas en efectivo, llévalo contigo.

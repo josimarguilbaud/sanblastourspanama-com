@@ -33,7 +33,7 @@ Chichime sits toward the western edge of the archipelago and is reached like eve
 
 - **Best for:** first-time visitors, easy snorkeling, sunset and postcard photography.
 - **Facilities:** basic — thatched shelters for shade, no running water, no electricity for visitors, no shop.
-- **Cash:** the comarca entry tax is paid in cash on arrival in Guna Yala, and there are no ATMs anywhere in the territory.
+- **Cash:** there are no ATMs anywhere in the territory; the comarca entry tax, paid on arrival in Guna Yala, can go in cash or by card to our driver.
 
 ## Frequently asked questions
 
@@ -44,10 +44,10 @@ At low tide, yes — the channel separating them is shallow enough to wade acros
 It is one of the gentlest places in San Blas to start. The reef sits close to shore in shallow water, and you are never far from sand you can stand on. Life jackets are mandatory on the boats for adults and children alike, and nothing stops you from keeping yours on in the water.
 
 ### Do I have to pay anything when I arrive at Chichime?
-Not to the island itself, but every visitor to Guna Yala pays a comarca entry tax — $22 for foreigners and $7 for residents with a valid passport or residency card — in cash, separately from the tour price. It goes directly to the Guna community. Bring the cash with you, because there are no ATMs in the comarca.
+Not to the island itself, but every visitor to Guna Yala pays a comarca entry tax — $22 for foreigners and $7 for residents with a valid passport or residency card — separately from the tour price, in cash or by card to our driver. It goes directly to the Guna community. If you pay in cash, bring it with you, because there are no ATMs in the comarca.
 
 ### Can I sleep on Chichime?
 Overnight stays in San Blas are booked by cabin type rather than by a named island, and the island is confirmed closer to your date based on availability, so Chichime cannot be promised by name. Chichime appears instead as a stop on the day-tour and multi-day itineraries that depart from Carti.
 
 ### What should I bring for a day on Chichime?
-Biodegradable sunscreen, a hat and sunglasses, a towel, a dry bag, your original passport or ID — a photocopy is not accepted at the comarca checkpoint — and enough cash for the entry tax. There is no shop on the cay and no drinking water for visitors, so whatever you need has to arrive with you on the boat.
+Biodegradable sunscreen, a hat and sunglasses, a towel, a dry bag, your original passport or ID — a photocopy is not accepted at the comarca checkpoint — and cash for the entry tax unless you will pay it by card to our driver. There is no shop on the cay and no drinking water for visitors, so whatever you need has to arrive with you on the boat.

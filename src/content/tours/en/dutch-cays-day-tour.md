@@ -27,7 +27,7 @@ Ask any San Blas guide which tour has the best snorkeling and this is the answer
 - ✅ Snorkeling at Cayos Holandeses
 - ✅ Lunch with a drink
 - ✅ Life jackets and an experienced local Guna guide
-- ⛔ Guna Yala community entry tax (paid separately, in cash)
+- ⛔ Guna Yala community entry tax (paid separately, in cash or by card to the driver)
 
 ## Who this tour is for
 

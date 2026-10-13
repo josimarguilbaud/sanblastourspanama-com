@@ -23,7 +23,7 @@ No todos los operadores lo dicen claro, así que lo decimos nosotros: el VIP es 
 - ✅ Una parada en **comunidad Guna**, donde las molas se hacen y se venden por las propias artesanas
 - ✅ Más paradas en total que el itinerario Clásico
 - ⛔ El equipo de snorkel no está garantizado como estándar — lleva el tuyo si te importa que calce bien
-- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo — el monto está en nuestras [preguntas frecuentes](/es/faq))
+- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor — el monto está en nuestras [preguntas frecuentes](/es/faq))
 
 ## El snorkel del barco hundido
 

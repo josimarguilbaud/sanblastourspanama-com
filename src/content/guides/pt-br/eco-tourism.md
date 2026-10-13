@@ -18,7 +18,7 @@ A terra dentro da comarca não pode simplesmente ser comprada e loteada por uma 
 
 Numa viagem a San Blas saem do seu bolso três pagamentos distintos, e eles terminam em lugares bem diferentes:
 
-- **A taxa comunitária de entrada** — **US$ 22 para estrangeiros e US$ 7 para residentes**, em dinheiro, na borda do território. Não está no preço do passeio e não é um tributo turístico estatal: vai para as comunidades Guna cujo território você atravessa.
+- **A taxa comunitária de entrada** — **US$ 22 para estrangeiros e US$ 7 para residentes**, na borda do território, em dinheiro ou, nos nossos passeios, com cartão ao motorista. Não está no preço do passeio e não é um tributo turístico estatal: vai para as comunidades Guna cujo território você atravessa.
 - **O passeio em si** — barcos, motoristas, cozinheiras e guias são locais, então a maior parte do gasto operacional fica dentro da região em vez de sair com um operador estrangeiro.
 - **O que você compra nas ilhas** — quase sempre uma mola, adquirida diretamente da mulher que a costurou, sem intermediário levando uma fatia. Saber [como uma mola autêntica é feita](/pt-br/blog/molas-explained) ajuda você a reconhecê-la.
 
@@ -45,7 +45,7 @@ Estruturalmente, sim: empresas de fora não podem ter terra nem construir resort
 
 ### O que é a taxa comunitária de Guna Yala e quem a recebe?
 
-É um ingresso por pessoa no território autônomo: US$ 22 para estrangeiros e US$ 7 para residentes, em dinheiro e à parte do preço do passeio. Vai diretamente para as comunidades Guna, não para um órgão nacional de turismo.
+É um ingresso por pessoa no território autônomo: US$ 22 para estrangeiros e US$ 7 para residentes, à parte do preço do passeio, em dinheiro ou com cartão ao nosso motorista. Vai diretamente para as comunidades Guna, não para um órgão nacional de turismo.
 
 ### Que tipo de protetor solar devo levar?
 

@@ -35,7 +35,7 @@ Una lista cubre la maleta; para el contexto que no cubre, del control de entrada
 
 ## El asunto del efectivo
 
-No hay cajeros automáticos en ningún punto de Guna Yala, ni datáfonos en las islas. Necesitas efectivo para el **impuesto comunitario de entrada —$22 extranjeros, $7 residentes—**, que se paga en el borde de la comarca, más todo lo que pienses gastar: molas de las artesanas Guna, bebidas, snacks y cualquier extra opcional. Sácalo en Ciudad de Panamá y lleva billetes pequeños, porque el cambio en una isla chica es limitado.
+No hay cajeros automáticos en ningún punto de Guna Yala, ni datáfonos en las islas. Necesitas efectivo para el **impuesto comunitario de entrada —$22 extranjeros, $7 residentes—**, que se paga en el borde de la comarca salvo que lo pagues con tarjeta a nuestro conductor, más todo lo que pienses gastar: molas de las artesanas Guna, bebidas, snacks y cualquier extra opcional. Sácalo en Ciudad de Panamá y lleva billetes pequeños, porque el cambio en una isla chica es limitado.
 
 Para el desglose por tipo de viaje — excursión de un día, estadía o velero — mira [¿necesitas efectivo en San Blas?](/es/blog/do-you-need-cash-in-san-blas).
 

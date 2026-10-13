@@ -33,7 +33,7 @@ Chichime liegt am westlichen Rand des Archipels und wird erreicht wie jede ander
 
 - **Am besten für:** Erstbesucher, einfaches Schnorcheln, Sonnenuntergangs- und Postkartenfotos.
 - **Einrichtungen:** einfach — Palmdach-Unterstände für Schatten, kein fließendes Wasser, kein Strom für Besucher, kein Laden.
-- **Bargeld:** Die Eintrittsabgabe der Comarca wird bei der Ankunft in Guna Yala bar bezahlt, und im gesamten Gebiet gibt es keine Geldautomaten.
+- **Bargeld:** Im gesamten Gebiet gibt es keine Geldautomaten; die Eintrittsabgabe der Comarca, fällig bei der Ankunft in Guna Yala, geht bar oder mit Karte bei unserem Fahrer.
 
 ## Häufige Fragen
 
@@ -44,10 +44,10 @@ Bei Ebbe ja: Der trennende Kanal ist flach genug zum Durchwaten, und so machen e
 Es ist einer der sanftesten Orte in San Blas für den Anfang. Das Riff liegt ufernah im flachen Wasser, und Sie sind nie weit von Sand entfernt, auf dem Sie stehen können. Schwimmwesten sind in den Booten für Erwachsene wie Kinder Pflicht, und nichts hindert Sie daran, Ihre auch im Wasser anzubehalten.
 
 ### Muss ich bei der Ankunft in Chichime etwas bezahlen?
-Nicht an die Insel selbst, aber jeder Besucher von Guna Yala zahlt eine Eintrittsabgabe an die Comarca — 22 US-Dollar für Ausländer, 7 für Residenten mit gültigem Pass oder Residentenausweis — bar und getrennt vom Tourpreis. Sie geht direkt an die Guna-Gemeinde. Bringen Sie das Bargeld mit, denn in der Comarca gibt es keine Geldautomaten.
+Nicht an die Insel selbst, aber jeder Besucher von Guna Yala zahlt eine Eintrittsabgabe an die Comarca — 22 US-Dollar für Ausländer, 7 für Residenten mit gültigem Pass oder Residentenausweis — getrennt vom Tourpreis, bar oder mit Karte bei unserem Fahrer. Sie geht direkt an die Guna-Gemeinde. Wer bar zahlt, bringt das Geld mit, denn in der Comarca gibt es keine Geldautomaten.
 
 ### Kann ich auf Chichime übernachten?
 Übernachtungen in San Blas werden nach Hüttentyp gebucht, nicht nach namentlich genannter Insel, und die Insel wird je nach Verfügbarkeit erst kurz vor dem Termin bestätigt — Chichime lässt sich also nicht namentlich zusagen. Chichime erscheint stattdessen als Stopp auf den Tages- und Mehrtagestouren ab Cartí.
 
 ### Was sollte ich für einen Tag auf Chichime mitbringen?
-Biologisch abbaubare Sonnencreme, Hut und Sonnenbrille, Handtuch, Drybag, Ihren Original-Pass oder Ausweis — eine Fotokopie wird an der Kontrolle der Comarca nicht akzeptiert — und genug Bargeld für die Eintrittsabgabe. Auf der Insel gibt es keinen Laden und kein Trinkwasser für Besucher, alles Nötige muss also mit Ihnen im Boot ankommen.
+Biologisch abbaubare Sonnencreme, Hut und Sonnenbrille, Handtuch, Drybag, Ihren Original-Pass oder Ausweis — eine Fotokopie wird an der Kontrolle der Comarca nicht akzeptiert — und Bargeld für die Eintrittsabgabe, sofern Sie sie nicht mit Karte bei unserem Fahrer zahlen. Auf der Insel gibt es keinen Laden und kein Trinkwasser für Besucher, alles Nötige muss also mit Ihnen im Boot ankommen.

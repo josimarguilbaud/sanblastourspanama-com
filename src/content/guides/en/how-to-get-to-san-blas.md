@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-02
+updatedAt: 2026-10-13
 title: "How to Get to San Blas From Panama City"
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
@@ -31,7 +31,7 @@ If you need to change your pickup address, it has to be done **at least 24 hours
 ## Three things that cannot be fixed once you have left
 
 - **Your original passport or ID.** It is required at the checkpoint into Guna territory and a photocopy or a phone photo is not accepted.
-- **Cash.** There are no ATMs anywhere in Guna Yala. You need cash for the community entry tax and for anything you buy on the islands.
+- **Cash.** There are no ATMs anywhere in Guna Yala. You need cash for anything you buy on the islands; the community entry tax can be paid in cash or by card to our driver.
 - **Motion sickness medication.** Take it before departure. Once you are on the mountain road it is too late for it to work properly.
 
 The checkpoint is also where every visitor pays the comarca's entry tax, which goes to the Guna authorities rather than to your operator; [where the community tax goes](/blog/where-does-community-tax-go) explains who collects it and why.
@@ -64,7 +64,7 @@ Yes, provided you request it at least 24 hours in advance. Changes on the mornin
 
 ### Is there an ATM along the way?
 
-No. There are no cash machines in Guna Yala at all. Withdraw everything you will need — community tax plus spending money — before you leave Panama City.
+No. There are no cash machines in Guna Yala at all. Withdraw everything you will need — spending money, plus the community tax unless you pay it by card to our driver — before you leave Panama City.
 
 ### Can I get to San Blas without a tour?
 

@@ -22,7 +22,7 @@ Distância. Pelícano fica no setor dos Cayos Holandeses, mais longe do ponto de
 
 ## Como chegar: o passeio privativo
 
-Isla Pelícano pertence ao roteiro Super VIP Privativo, e não aos passeios compartilhados. Esse passeio dá ao seu grupo um 4x4 privativo e uma lancha privativa, com um roteiro que você ajuda a decidir dentro do que o clima e o horário permitem, de modo que uma ilha tão distante vira um pedido razoável, e não impossível. Inclui almoço com bebida, coletes salva-vidas e um guia Guna dedicado; a taxa de entrada da comarca é paga à parte, em espécie.
+Isla Pelícano pertence ao roteiro Super VIP Privativo, e não aos passeios compartilhados. Esse passeio dá ao seu grupo um 4x4 privativo e uma lancha privativa, com um roteiro que você ajuda a decidir dentro do que o clima e o horário permitem, de modo que uma ilha tão distante vira um pedido razoável, e não impossível. Inclui almoço com bebida, coletes salva-vidas e um guia Guna dedicado; a taxa de entrada da comarca é paga à parte, em espécie ou com cartão ao motorista.
 
 ## O que existe de fato na ilha
 

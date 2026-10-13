@@ -27,7 +27,7 @@ Para quien viaja solo, esto suele ser el atractivo y no la concesión. Se cena e
 - ✅ Tour a 2 islas adicionales más la Piscina Natural
 - ✅ Guía local Guna
 - ⛔ Bebidas alcohólicas, snacks, equipo de snorkel, toallas y jabón
-- ⛔ Impuesto comarcal de Guna Yala (se paga aparte, en efectivo)
+- ⛔ Impuesto comarcal de Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor)
 
 ## Antes de reservar
 

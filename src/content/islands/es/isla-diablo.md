@@ -37,7 +37,7 @@ Quien pernocta recibe una cabaña sencilla administrada por la comunidad Guna: t
 
 ## Qué no incluye el pasadía
 
-El snorkel guiado de arrecife no forma parte de esta ruta: eso pertenece al pasadía VIP, construido alrededor del barco hundido de Perro Chico. El snorkel desde la propia playa de Isla Diablo es fácil y sin guía: peces loro, sargentos y alguna raya sobre los bajos de arena. El impuesto de entrada a la comarca de Guna Yala también se paga aparte, en efectivo.
+El snorkel guiado de arrecife no forma parte de esta ruta: eso pertenece al pasadía VIP, construido alrededor del barco hundido de Perro Chico. El snorkel desde la propia playa de Isla Diablo es fácil y sin guía: peces loro, sargentos y alguna raya sobre los bajos de arena. El impuesto de entrada a la comarca de Guna Yala también se paga aparte, en efectivo o con tarjeta al conductor.
 
 ## Bueno saberlo
 

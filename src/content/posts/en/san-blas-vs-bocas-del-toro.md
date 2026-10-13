@@ -56,7 +56,7 @@ Bocas offers more variety. Isla Bastimentos National Marine Park, created in 198
 
 ## Culture: a living territory or a mixed Caribbean town
 
-Visiting San Blas means entering someone's territory. You pay a comarca entry tax at the border, $22 for foreigners and $7 for residents, in cash and not included in tour prices. Communities may ask a small fee, photographs of people need permission, and much of the visible culture, from molas to the congress house, belongs to daily life rather than to a show.
+Visiting San Blas means entering someone's territory. You pay a comarca entry tax at the border, $22 for foreigners and $7 for residents, in cash or by card to the driver on our tours, and not included in tour prices. Communities may ask a small fee, photographs of people need permission, and much of the visible culture, from molas to the congress house, belongs to daily life rather than to a show.
 
 Bocas has its own deep history, including Afro-Antillean communities descended from Caribbean migrants and the Ngäbe people, but you experience it as a guest in a busy town rather than as a visitor crossing into a self-governed land.
 

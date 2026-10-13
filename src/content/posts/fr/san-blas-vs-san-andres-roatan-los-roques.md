@@ -59,7 +59,7 @@ San Andrés a son propre peuple autochtone, les Raizales, insulaires afro-carib�
 
 ## Les inconvénients, en toute honnêteté
 
-- **San Blas :** confort basique, pas de wifi, réseau aléatoire, une route longue et sinueuse, et une taxe d'entrée dans la comarca de 22 $ pour les étrangers, à payer en espèces, car il n'y a ni distributeurs ni terminaux de paiement sur les îles. Pas de plongée.
+- **San Blas :** confort basique, pas de wifi, réseau aléatoire, une route longue et sinueuse, et une taxe d'entrée dans la comarca de 22 $ pour les étrangers, en espèces ou par carte au chauffeur, et ni distributeurs ni terminaux de paiement sur les îles. Pas de plongée.
 - **San Andrés :** fréquentée et très bâtie pour une île des Caraïbes ; ce sont des vacances en ville avec des plages, pas une évasion.
 - **Roatán :** les plages les plus fréquentées le ressentent les jours de croisière, et le confort d'un resort se paie au prix d'un resort.
 - **Los Roques :** la plus difficile à organiser, dépendante de la situation au Venezuela, et généralement chère, car tout doit arriver par avion ou par bateau.

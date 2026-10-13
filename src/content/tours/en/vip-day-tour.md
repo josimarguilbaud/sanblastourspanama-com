@@ -23,7 +23,7 @@ Not every operator is upfront about this, so we will be: VIP is a **different ro
 - ✅ A stop at a **Guna community**, where molas are made and sold by the artisans themselves
 - ✅ More stops overall than the Classic itinerary
 - ⛔ Snorkel gear isn't guaranteed as standard — bring your own if you're particular about fit
-- ⛔ Guna Yala community entry tax (paid separately, in cash — see our [FAQ](/faq) for the amount)
+- ⛔ Guna Yala community entry tax (paid separately, in cash or by card to the driver — see our [FAQ](/faq) for the amount)
 
 ## The shipwreck snorkel
 

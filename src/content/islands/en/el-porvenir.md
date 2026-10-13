@@ -26,7 +26,7 @@ Day tours and overnight stays are built around the scenic, snorkel-friendly cays
 
 ## Why it is worth understanding anyway
 
-San Blas is not a Panamanian resort area with a local flavour; it is Guna Yala, an autonomous comarca the Guna have administered for generations, with its own government, its own entry rules and its own capital. The entry tax every visitor pays in cash on arriving goes to that comarca, the guides on the boats are members of the community, and the original passport or ID you are asked for at the checkpoint is required because you are crossing into a territory that governs itself. El Porvenir is where that structure is most visible.
+San Blas is not a Panamanian resort area with a local flavour; it is Guna Yala, an autonomous comarca the Guna have administered for generations, with its own government, its own entry rules and its own capital. The entry tax every visitor pays on arriving, in cash or by card to our driver, goes to that comarca, the guides on the boats are members of the community, and the original passport or ID you are asked for at the checkpoint is required because you are crossing into a territory that governs itself. El Porvenir is where that structure is most visible.
 
 Looking for the islands you will actually spend your day on? **[See the full islands guide →](/islands)**
 
@@ -45,4 +45,4 @@ It is the administrative capital of Guna Yala, which is the region's proper name
 It is not a beach destination. El Porvenir is a small, largely built-up island whose function is administrative and logistical, and the white-sand cays, sandbars and reefs that people travel to San Blas for are elsewhere in the archipelago.
 
 ### Why do visitors pay a tax to enter Guna Yala?
-Because Guna Yala is an autonomous comarca, not an ordinary Panamanian province. The entry tax is a territorial fee that goes directly to the Guna community, and it is paid in cash at the border, separately from your tour price. Bring your original passport or ID: a photocopy is not accepted at the checkpoint.
+Because Guna Yala is an autonomous comarca, not an ordinary Panamanian province. The entry tax is a territorial fee that goes directly to the Guna community, and it is paid at the border, in cash or by card to our driver, separately from your tour price. Bring your original passport or ID: a photocopy is not accepted at the checkpoint.

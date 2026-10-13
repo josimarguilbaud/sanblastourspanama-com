@@ -59,7 +59,7 @@ San Andrés has its own native people, the Raizal, Afro-Caribbean islanders with
 
 ## Honest downsides
 
-- **San Blas:** basic comfort, no wifi, patchy signal, a long winding road, and a comarca entry tax of $22 for foreigners paid in cash, as there are no ATMs or card terminals on the islands. No diving.
+- **San Blas:** basic comfort, no wifi, patchy signal, a long winding road, and a comarca entry tax of $22 for foreigners, paid in cash or by card to the driver, with no ATMs or card terminals on the islands. No diving.
 - **San Andrés:** crowded and built-up by Caribbean-island standards; it is a town holiday with beaches, not a getaway.
 - **Roatán:** the busiest beaches can feel it on cruise-ship days, and resort comfort costs resort prices.
 - **Los Roques:** the hardest to plan, depends on the situation in Venezuela, and tends to be expensive because everything has to be flown or shipped in.

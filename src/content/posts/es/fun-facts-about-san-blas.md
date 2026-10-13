@@ -30,7 +30,7 @@ Una versión anterior de esta lista incluía algunas afirmaciones que no pudimos
 
 **7. Guna Yala no es la única comarca guna.** Panamá tiene dos más, ambas en tierra firme: Madungandí, en la provincia de Panamá, y Wargandí, creada por la [Ley 34 de 2000](https://panama.justia.com/federales/leyes/34-de-2000-jul-28-2000/gdoc) en tierras de la provincia de Darién. Así que sí, hay comunidades guna en el Darién; solo que no en las islas.
 
-**8. Entrar cuesta un impuesto, y no hay dónde sacar efectivo.** Todo visitante paga un impuesto de entrada a la comarca —$22 los extranjeros, $7 los residentes y nacionales— en efectivo y aparte del precio de cualquier tour. En las islas no hay cajeros automáticos ni terminales de tarjeta, así que todo lo llevas contigo. Mira [adónde va el impuesto comunitario](/es/blog/where-does-community-tax-go) y [cuánto efectivo llevar](/es/blog/do-you-need-cash-in-san-blas).
+**8. Entrar cuesta un impuesto, y no hay dónde sacar efectivo.** Todo visitante paga un impuesto de entrada a la comarca —$22 los extranjeros, $7 los residentes y nacionales— aparte del precio de cualquier tour; en nuestros tours el conductor lo cobra en efectivo o con tarjeta. En las islas no hay cajeros automáticos ni terminales de tarjeta, así que el resto del gasto lo llevas contigo. Mira [adónde va el impuesto comunitario](/es/blog/where-does-community-tax-go) y [cuánto efectivo llevar](/es/blog/do-you-need-cash-in-san-blas).
 
 ## La cultura que puedes ver
 

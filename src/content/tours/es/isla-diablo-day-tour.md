@@ -32,7 +32,7 @@ Lo publicamos completo, porque «qué islas voy a ver» no debería seguir siend
 - ✅ Visita a comunidad Guna
 - ✅ Almuerzo con bebida
 - ⛔ Snorkel guiado en arrecife (específico de nuestro [tour VIP](/es/tours/vip-day-tour))
-- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo)
+- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor)
 
 ## Cómo se compara con el VIP
 

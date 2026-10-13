@@ -18,7 +18,7 @@ Land inside the comarca cannot simply be bought and developed by an outside comp
 
 Three separate payments leave your pocket on a San Blas trip, and they end up in very different places:
 
-- **The community entry tax** — **$22 for foreigners, $7 for residents**, paid in cash at the border of the territory. It is not part of the tour price and it is not a government tourism levy: it goes to the Guna communities whose territory you are crossing.
+- **The community entry tax** — **$22 for foreigners, $7 for residents**, paid at the border of the territory, in cash or, on our tours, by card to the driver. It is not part of the tour price and it is not a government tourism levy: it goes to the Guna communities whose territory you are crossing.
 - **The tour itself** — boats, drivers, cooks and guides are local, so the bulk of the operating spend stays inside the region rather than leaving with a foreign operator.
 - **Whatever you buy on the islands** — most often a mola, bought directly from the woman who stitched it, with no intermediary taking a cut. Knowing [how a genuine mola is made](/blog/molas-explained) helps you recognise one.
 
@@ -45,7 +45,7 @@ Structurally, yes — outside companies cannot own land or build resorts here, s
 
 ### What is the Guna Yala community tax and who receives it?
 
-It is a per-visitor entry fee for the autonomous territory: $22 for foreigners and $7 for residents, paid in cash and separate from any tour price. It goes directly to the Guna communities, not to a national tourism board.
+It is a per-visitor entry fee for the autonomous territory: $22 for foreigners and $7 for residents, separate from any tour price and paid in cash or by card to our driver. It goes directly to the Guna communities, not to a national tourism board.
 
 ### What kind of sunscreen should I bring?
 

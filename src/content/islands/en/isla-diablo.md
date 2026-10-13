@@ -37,7 +37,7 @@ Overnight guests get a simple Guna-run cabin: thatched roof, shared bathrooms, n
 
 ## What the day tour does not include
 
-Guided reef snorkeling is not part of this route — that belongs to the VIP day tour, which is built around the Perro Chico shipwreck. The snorkeling straight off Isla Diablo's own beach is easy and unguided: parrotfish, sergeant majors and the occasional ray over the sand flats. The Guna Yala comarca entry tax is also paid separately, in cash.
+Guided reef snorkeling is not part of this route — that belongs to the VIP day tour, which is built around the Perro Chico shipwreck. The snorkeling straight off Isla Diablo's own beach is easy and unguided: parrotfish, sergeant majors and the occasional ray over the sand flats. The Guna Yala comarca entry tax is also paid separately, in cash or by card to the driver.
 
 ## Good to know
 

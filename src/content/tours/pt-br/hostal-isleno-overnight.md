@@ -27,7 +27,7 @@ Para quem viaja sozinho, isso costuma ser a graça e não a concessão. Janta-se
 - ✅ Um passeio a 2 ilhas adicionais mais a Piscina Natural
 - ✅ Um guia Guna local
 - ⛔ Bebidas alcoólicas, lanches, equipamento de snorkel, toalhas e sabonete
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro)
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista)
 
 ## Antes de reservar
 

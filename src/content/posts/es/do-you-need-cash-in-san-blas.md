@@ -8,7 +8,7 @@ seoTitle: "Efectivo en San Blas: Qué Pagas en Cada Tipo de Viaje"
 seoDescription: "Sin cajeros en Guna Yala ni datáfonos en las islas. Qué pagas en efectivo en un tour de un día, una estadía o un viaje en velero, y dónde sacarlo."
 ---
 
-**Sí. En Guna Yala no hay cajeros y en las islas no hay datáfonos, así que todo lo que gastes dentro de la comarca se paga en dólares estadounidenses, en efectivo. El único costo fijo es el impuesto de entrada — $22 para extranjeros, $7 para residentes en Panamá —, que no está en el precio de ningún tour. Cuánto más necesitas depende de si vienes un día, unas noches o en velero.**
+**Sí. En Guna Yala no hay cajeros y en las islas no hay datáfonos, así que todo lo que gastes dentro de la comarca se paga en dólares estadounidenses, en efectivo. El único costo fijo es el impuesto de entrada — $22 para extranjeros, $7 para residentes en Panamá —, que no está en el precio de ningún tour y, en nuestros tours, también admite tarjeta con el conductor. Cuánto más necesitas depende de si vienes un día, unas noches o en velero.**
 
 ## Por qué no hay cajeros ni datáfonos
 

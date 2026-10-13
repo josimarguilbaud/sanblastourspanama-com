@@ -30,7 +30,7 @@ Eine frühere Fassung dieser Liste enthielt einige Behauptungen, die wir nicht m
 
 **7. Guna Yala ist nicht die einzige Guna-Comarca.** Panama hat zwei weitere, beide im Landesinneren: Madungandí in der Provinz Panamá und Wargandí, geschaffen durch das [Gesetz 34 von 2000](https://panama.justia.com/federales/leyes/34-de-2000-jul-28-2000/gdoc) auf Land in der Provinz Darién. Also ja, es gibt Guna-Gemeinden im Darién — nur nicht auf den Inseln.
 
-**8. Der Eintritt kostet eine Steuer, und nirgends kann man Bargeld abheben.** Jeder Besucher zahlt eine Eintrittssteuer an die Comarca — 22 US-Dollar für Ausländer, 7 US-Dollar für Einwohner und Staatsangehörige — in bar und getrennt von jedem Tourpreis. Auf den Inseln gibt es weder Geldautomaten noch Kartenterminals, also bringen Sie alles mit. Siehe [wohin die Gemeindesteuer fließt](/de/blog/where-does-community-tax-go) und [wie viel Bargeld Sie mitbringen sollten](/de/blog/do-you-need-cash-in-san-blas).
+**8. Der Eintritt kostet eine Steuer, und nirgends kann man Bargeld abheben.** Jeder Besucher zahlt eine Eintrittssteuer an die Comarca — 22 US-Dollar für Ausländer, 7 US-Dollar für Einwohner und Staatsangehörige — getrennt von jedem Tourpreis; auf unseren Touren nimmt der Fahrer sie bar oder mit Karte entgegen. Auf den Inseln gibt es weder Geldautomaten noch Kartenterminals, also bringen Sie alles Übrige mit. Siehe [wohin die Gemeindesteuer fließt](/de/blog/where-does-community-tax-go) und [wie viel Bargeld Sie mitbringen sollten](/de/blog/do-you-need-cash-in-san-blas).
 
 ## Kultur, die man sehen kann
 

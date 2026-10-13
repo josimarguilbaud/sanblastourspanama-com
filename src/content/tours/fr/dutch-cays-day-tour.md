@@ -27,7 +27,7 @@ Demandez à n'importe quel guide de San Blas quelle excursion offre le meilleur 
 - ✅ Snorkeling aux Cayos Holandeses
 - ✅ Déjeuner avec une boisson
 - ✅ Gilets de sauvetage et guide Guna local expérimenté
-- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces)
+- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces ou par carte au chauffeur)
 
 ## À qui s'adresse cette excursion
 

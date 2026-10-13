@@ -27,7 +27,7 @@ Para quem quer San Blas inteiramente nos próprios termos — sem dividir o barc
 - ✅ Um roteiro de ilhas flexível, montado em torno das preferências do seu grupo
 - ✅ Almoço com bebida
 - ✅ Coletes salva-vidas e guia Guna exclusivo
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro)
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista)
 
 ## Quem reserva este passeio
 
@@ -61,4 +61,4 @@ Sim — avise na reserva. Saber com antecedência permite que o guia e o capitã
 
 ### A taxa comunitária está incluída?
 
-Não. A taxa de entrada em Guna Yala é paga separadamente, em dinheiro e por pessoa, igual aos nossos passeios compartilhados. Não há caixas eletrônicos na comarca, então leve o valor com você.
+Não. A taxa de entrada em Guna Yala é paga separadamente e por pessoa, igual aos nossos passeios compartilhados: em dinheiro ou com cartão ao motorista. Não há caixas eletrônicos na comarca, então, se for pagar em dinheiro, leve o valor com você.

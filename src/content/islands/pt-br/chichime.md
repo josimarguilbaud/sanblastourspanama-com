@@ -33,7 +33,7 @@ Chichime fica na ponta oeste do arquipélago e se alcança como qualquer outra i
 
 - **Ideal para:** primeira visita, mergulho livre fácil, fotos de pôr do sol e de cartão-postal.
 - **Estrutura:** básica — ranchos de palha para sombra, sem água encanada, sem eletricidade para visitantes, sem loja.
-- **Dinheiro vivo:** a taxa de entrada da comarca é paga em espécie na chegada a Guna Yala, e em todo o território não há caixas eletrônicos.
+- **Dinheiro vivo:** em todo o território não há caixas eletrônicos; a taxa de entrada da comarca, devida na chegada a Guna Yala, pode ser paga em espécie ou com cartão ao nosso motorista.
 
 ## Perguntas frequentes
 
@@ -44,10 +44,10 @@ Na maré baixa, sim: o canal que os separa é raso o suficiente para ser atraves
 É um dos lugares mais gentis de San Blas para começar. O recife fica perto da margem, em água rasa, e você nunca está longe de areia onde dá pé. O colete salva-vidas é obrigatório nas lanchas para adultos e crianças, e nada impede que você fique com ele dentro da água.
 
 ### Preciso pagar alguma coisa ao chegar em Chichime?
-À ilha não, mas todo visitante de Guna Yala paga uma taxa de entrada da comarca — 22 dólares para estrangeiros e 7 para residentes com passaporte ou carteira de residência válida — em dinheiro e à parte do preço do passeio. Ela vai direto para a comunidade Guna. Leve o dinheiro com você, porque na comarca não há caixas eletrônicos.
+À ilha não, mas todo visitante de Guna Yala paga uma taxa de entrada da comarca — 22 dólares para estrangeiros e 7 para residentes com passaporte ou carteira de residência válida — à parte do preço do passeio, em dinheiro ou com cartão ao nosso motorista. Ela vai direto para a comunidade Guna. Se for pagar em dinheiro, leve-o com você, porque na comarca não há caixas eletrônicos.
 
 ### Dá para dormir em Chichime?
 As estadias em San Blas são reservadas por tipo de cabana, não por uma ilha com nome, e a ilha é confirmada perto da data conforme a disponibilidade, então Chichime não pode ser prometida pelo nome. Chichime aparece, em vez disso, como parada nos roteiros de um dia e de vários dias que saem de Cartí.
 
 ### O que levar para um dia em Chichime?
-Protetor solar biodegradável, chapéu e óculos de sol, toalha, bolsa estanque, seu passaporte ou documento original — fotocópia não é aceita no controle da comarca — e dinheiro suficiente para a taxa de entrada. No cayo não há loja nem água potável para visitantes, então tudo de que você precisar tem que chegar com você na lancha.
+Protetor solar biodegradável, chapéu e óculos de sol, toalha, bolsa estanque, seu passaporte ou documento original — fotocópia não é aceita no controle da comarca — e dinheiro para a taxa de entrada, a menos que você a pague com cartão ao nosso motorista. No cayo não há loja nem água potável para visitantes, então tudo de que você precisar tem que chegar com você na lancha.

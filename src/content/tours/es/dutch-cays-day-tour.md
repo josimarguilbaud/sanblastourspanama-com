@@ -27,7 +27,7 @@ Pregúntale a cualquier guía de San Blas cuál tour tiene el mejor snorkel y es
 - ✅ Snorkel en Cayos Holandeses
 - ✅ Almuerzo con bebida
 - ✅ Chalecos salvavidas y guía local Guna experimentado
-- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo)
+- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor)
 
 ## Para quién es este tour
 

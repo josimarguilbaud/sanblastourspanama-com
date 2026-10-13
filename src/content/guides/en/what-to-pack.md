@@ -35,7 +35,7 @@ A packing list covers the bag; for the context it cannot cover, from the checkpo
 
 ## The cash question
 
-There is no cash machine anywhere in Guna Yala, and no card terminals on the islands. You need cash for the **community entry tax — $22 for foreigners, $7 for residents**, paid at the border of the comarca — plus anything else you plan to spend: molas from Guna artisans, drinks, snacks, and any optional extras. Withdraw it in Panama City, and bring small denominations, since change on a small island is limited.
+There is no cash machine anywhere in Guna Yala, and no card terminals on the islands. You need cash for the **community entry tax — $22 for foreigners, $7 for residents**, paid at the border of the comarca unless you pay it by card to our driver — plus anything else you plan to spend: molas from Guna artisans, drinks, snacks, and any optional extras. Withdraw it in Panama City, and bring small denominations, since change on a small island is limited.
 
 For a breakdown by type of trip — day tour, island stay or sailing — see [do you need cash in San Blas?](/blog/do-you-need-cash-in-san-blas).
 

@@ -38,7 +38,7 @@ Das Ergebnis ist das San Blas, für das die Menschen kommen: keine Hochhäuser, 
 
 ## 5. Geld läuft bar, und nichts liegt zum Mitnehmen bereit
 
-Es gibt nirgendwo in Guna Yala Geldautomaten und auf den Inseln keine Kartenterminals. Heben Sie in Panama-Stadt Dollar in kleinen Scheinen ab, für die Eintrittssteuer, Getränke über das Inbegriffene hinaus, Trinkgelder und vor allem Molas, die vielschichtigen Textilbilder, die von den Frauen verkauft werden, die sie nähen. [Braucht man Bargeld in San Blas?](/de/blog/do-you-need-cash-in-san-blas) schlüsselt auf, was Sie je nach Reiseart mitnehmen sollten.
+Es gibt nirgendwo in Guna Yala Geldautomaten und auf den Inseln keine Kartenterminals. Heben Sie in Panama-Stadt Dollar in kleinen Scheinen ab, für die Eintrittssteuer (sofern Sie sie nicht mit Karte bei unserem Fahrer zahlen), Getränke über das Inbegriffene hinaus, Trinkgelder und vor allem Molas, die vielschichtigen Textilbilder, die von den Frauen verkauft werden, die sie nähen. [Braucht man Bargeld in San Blas?](/de/blog/do-you-need-cash-in-san-blas) schlüsselt auf, was Sie je nach Reiseart mitnehmen sollten.
 
 Der weniger offensichtliche Teil: Fast jeder unbewohnte Cayo wird von einer Guna-Familie gepflegt, und seine Kokosnüsse sind die Ernte dieser Familie. Eine aus dem Sand aufzuheben oder von einer Palme zu schlagen, heißt, jemandem ein Einkommen wegzunehmen, nicht sammeln. Dasselbe gilt für Muscheln, Seesterne und alles, was herrenlos aussieht. Fragen, kaufen oder liegen lassen.
 
@@ -49,7 +49,7 @@ Der weniger offensichtliche Teil: Fast jeder unbewohnte Cayo wird von einer Guna
 | Eine Resortinsel mit Service | Schlichte Hütten von Guna-Familien, per Gesetz und aus Überzeugung |
 | Auswahl unter 365 Inseln | Einige Cayos nahe Cartí, die der Kapitän am Tag wählt |
 | Einen Nationalpark mit Eintrittskarte | Ein indigenes Gebiet mit eigener Kontrolle und Steuer |
-| Kartenzahlung | Nur Bargeld, ab dem Kontrollposten |
+| Kartenzahlung | Auf den Inseln nur Bargeld; die Eintrittssteuer auch mit Karte beim Fahrer |
 | Ständige Erreichbarkeit | Lückenhaftes Netz, kein WLAN; die meisten genießen es am Ende |
 
 Nichts davon macht San Blas schwerer zu genießen. Es macht es leichter, denn was Besucher frustriert, sind fast immer Erwartungen, die von anderswo mitgebracht wurden.

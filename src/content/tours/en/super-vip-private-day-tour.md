@@ -27,7 +27,7 @@ For travellers who want San Blas entirely on their own terms — no sharing a bo
 - ✅ A flexible island itinerary built around your group's preferences
 - ✅ Lunch with a drink
 - ✅ Life jackets and a dedicated Guna guide
-- ⛔ Guna Yala community entry tax (paid separately, in cash)
+- ⛔ Guna Yala community entry tax (paid separately, in cash or by card to the driver)
 
 ## Who books this tour
 
@@ -61,4 +61,4 @@ Yes — say so when you book. Knowing in advance means the guide and captain can
 
 ### Is the community tax included?
 
-No. The Guna Yala entry tax is paid separately in cash, per person, exactly as on our shared tours. There are no ATMs in the comarca, so bring it with you.
+No. The Guna Yala entry tax is paid separately, per person, exactly as on our shared tours: in cash, or by card to the driver. There are no ATMs in the comarca, so if you pay in cash, bring it with you.

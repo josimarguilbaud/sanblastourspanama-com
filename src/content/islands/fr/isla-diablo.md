@@ -37,7 +37,7 @@ Les hôtes qui restent la nuit reçoivent une cabane simple tenue par une famill
 
 ## Ce que la journée n'inclut pas
 
-La plongée libre guidée sur récif ne fait pas partie de cette route : elle appartient à la journée VIP, bâtie autour de l'épave de Perro Chico. Depuis la plage d'Isla Diablo, la plongée libre est facile et non encadrée : poissons-perroquets, sergents-majors et parfois une raie au-dessus des fonds sableux. La taxe d'entrée de la comarca de Guna Yala se règle également à part, en espèces.
+La plongée libre guidée sur récif ne fait pas partie de cette route : elle appartient à la journée VIP, bâtie autour de l'épave de Perro Chico. Depuis la plage d'Isla Diablo, la plongée libre est facile et non encadrée : poissons-perroquets, sergents-majors et parfois une raie au-dessus des fonds sableux. La taxe d'entrée de la comarca de Guna Yala se règle également à part, en espèces ou par carte au chauffeur.
 
 ## Bon à savoir
 

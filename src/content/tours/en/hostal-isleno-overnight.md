@@ -27,7 +27,7 @@ For solo travellers this is usually the point rather than the compromise. Dinner
 - ✅ A tour to 2 additional islands plus the Natural Pool
 - ✅ A local Guna guide
 - ⛔ Alcoholic drinks, snacks, snorkel gear, towels and soap
-- ⛔ Guna Yala community tax (paid separately, in cash)
+- ⛔ Guna Yala community tax (paid separately, in cash or by card to the driver)
 
 ## Before you book
 

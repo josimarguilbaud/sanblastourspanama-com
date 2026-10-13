@@ -32,7 +32,7 @@ Nessas ilhotas não há comunidade, e daí vêm ao mesmo tempo o encanto e os li
 
 - **Ideal para:** fotógrafos e viajantes que preferem ver várias praias distintas a se instalar em uma só.
 - **Estrutura:** nenhuma. Leve água, protetor biodegradável e chapéu.
-- **Taxa da comarca:** a taxa de entrada de Guna Yala é paga em espécie ao entrar no território, independentemente de quais ilhotas a sua lancha visitar.
+- **Taxa da comarca:** a taxa de entrada de Guna Yala é paga ao entrar no território, em espécie ou com cartão ao nosso motorista, independentemente de quais ilhotas a sua lancha visitar.
 
 ## Perguntas frequentes
 
@@ -49,4 +49,4 @@ Não. São ilhotas desabitadas, sem infraestrutura de espécie alguma. O almoço
 Limones fica perto, se alcança rápido e é construído em torno de pular entre várias praias pequenas. Cayos Holandeses fica longe, é visitado no seu próprio passeio com saída mais cedo e grupo mínimo, e se escolhe pela qualidade do recife, não pelas praias. São dias diferentes, não dois preços do mesmo dia.
 
 ### Alguém mora nos Cayos Limones?
-Não há comunidade permanente neles, e por isso não cobram uma entrada comunitária própria. A taxa de entrada da comarca de Guna Yala continua valendo para você como visitante do território, e é paga em espécie no controle de entrada, não nas ilhotas.
+Não há comunidade permanente neles, e por isso não cobram uma entrada comunitária própria. A taxa de entrada da comarca de Guna Yala continua valendo para você como visitante do território, e é paga no controle de entrada, em espécie ou com cartão ao nosso motorista, não nas ilhotas.

@@ -52,7 +52,7 @@ Spanish. Same business, same phone number.
   boat; small planes to airstrips such as El Porvenir; or by sailboat, typically from
   Cartagena (Colombia).
 - **Entry tax**: $${IMPUESTO_COMARCA.extranjero} per foreigner and $${IMPUESTO_COMARCA.residente} per resident, collected by
-  the Guna authorities, not included in any tour price.
+  the Guna authorities, not included in any tour price; on our tours it is paid in cash or by card to the driver.
 - **Cash**: no ATMs and no card terminals on the islands. Mobile signal is patchy.
 - **Prices**: day tours from $${RANGO_DIA.desde} to $${RANGO_DIA.hasta} per person; island stays from
   $${RANGO_NOCHE.desde} to $${RANGO_NOCHE.hasta} per person per night. Live: ${SITIO}/prices

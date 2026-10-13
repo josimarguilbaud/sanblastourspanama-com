@@ -75,7 +75,7 @@ Une excursion depuis Panama City. Le trajet en bateau de Cartí aux îles est co
 
 ### Paie-t-on la taxe d'entrée de Guna Yala avec chaque option ?
 
-Pour les excursions et séjours depuis Panama City, la taxe de la comarca, 22 dollars pour les étrangers et 7 pour les résidents, se paie en espèces et n'est pas comprise dans le prix. Pour une traversée ou une croisière, demandez à l'opérateur comment les droits de la comarca sont gérés.
+Pour les excursions et séjours depuis Panama City, la taxe de la comarca, 22 dollars pour les étrangers et 7 pour les résidents, se paie en espèces ou par carte à notre chauffeur et n'est pas comprise dans le prix. Pour une traversée ou une croisière, demandez à l'opérateur comment les droits de la comarca sont gérés.
 
 ### Peut-on louer un bateau privé pour une seule journée ?
 

@@ -38,7 +38,7 @@ El resultado es el San Blas que la gente viene a buscar: sin edificios altos, si
 
 ## 5. El dinero va en efectivo, y nada es gratis para llevarse
 
-No hay cajeros en ningún punto de Guna Yala ni datáfonos en las islas. Saca dólares en Ciudad de Panamá, en billetes pequeños, para el impuesto de entrada, las bebidas que no estén incluidas, las propinas y sobre todo las molas, los paneles textiles en capas que venden las mujeres que los cosen. [¿Necesitas efectivo en San Blas?](/es/blog/do-you-need-cash-in-san-blas) detalla qué llevar según el tipo de viaje.
+No hay cajeros en ningún punto de Guna Yala ni datáfonos en las islas. Saca dólares en Ciudad de Panamá, en billetes pequeños, para el impuesto de entrada (salvo que lo pagues con tarjeta a nuestro conductor), las bebidas que no estén incluidas, las propinas y sobre todo las molas, los paneles textiles en capas que venden las mujeres que los cosen. [¿Necesitas efectivo en San Blas?](/es/blog/do-you-need-cash-in-san-blas) detalla qué llevar según el tipo de viaje.
 
 La parte menos obvia: casi todos los cayos deshabitados los cuida una familia guna, y sus cocos son la cosecha de esa familia. Recoger uno de la arena o tumbarlo de una palmera es quitarle un ingreso a alguien, no recolectar. Lo mismo vale para conchas, estrellas de mar y cualquier cosa que parezca no tener dueño. Pregunta, compra o déjalo donde está.
 
@@ -49,7 +49,7 @@ La parte menos obvia: casi todos los cayos deshabitados los cuida una familia gu
 | Una isla resort con servicios | Cabañas rústicas manejadas por familias gunas, por ley y por elección |
 | Elegir entre 365 islas | Unos pocos cayos cerca de Cartí, que el capitán elige ese día |
 | Un parque nacional con entrada | Un territorio indígena con control y impuesto propios |
-| Pagar con tarjeta | Solo efectivo, desde el control en adelante |
+| Pagar con tarjeta | Solo efectivo en las islas; el impuesto, también con tarjeta al conductor |
 | Seguir conectado | Señal intermitente y sin wifi; casi todos acaban disfrutándolo |
 
 Nada de esto hace más difícil disfrutar San Blas. Lo hace más fácil, porque lo que frustra a los visitantes casi siempre son expectativas traídas de otro sitio.

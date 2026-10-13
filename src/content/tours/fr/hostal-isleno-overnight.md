@@ -27,7 +27,7 @@ Pour les voyageurs solo, c'est en général l'intérêt et non le compromis. On 
 - ✅ Une sortie vers 2 îles supplémentaires plus la Piscine Naturelle
 - ✅ Un guide Guna local
 - ⛔ Boissons alcoolisées, en-cas, matériel de snorkeling, serviettes et savon
-- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces)
+- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces ou par carte au chauffeur)
 
 ## Avant de réserver
 

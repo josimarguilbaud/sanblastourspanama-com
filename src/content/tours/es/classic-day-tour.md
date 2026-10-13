@@ -25,7 +25,7 @@ Algunos operadores difuminan la línea entre sus paquetes; nosotros preferimos d
 - ✅ Chalecos salvavidas y guía local Guna
 - ⛔ Snorkel guiado en arrecife (solo tour VIP)
 - ⛔ Equipo de snorkel, toallas y jabón — llévalos tú
-- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo)
+- ⛔ Impuesto de entrada a Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor)
 
 ## Un día típico
 

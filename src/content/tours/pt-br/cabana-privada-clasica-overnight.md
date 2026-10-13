@@ -27,7 +27,7 @@ As cabanas são reservadas **por tipo, não por ilha**. A maioria das ilhas de S
 - ✅ Um passeio a 2 ilhas adicionais mais a Piscina Natural
 - ✅ Um guia Guna local
 - ⛔ Bebidas alcoólicas, lanches, equipamento de snorkel, toalhas e sabonete
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro)
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista)
 
 ## Classic ou Deluxe?
 

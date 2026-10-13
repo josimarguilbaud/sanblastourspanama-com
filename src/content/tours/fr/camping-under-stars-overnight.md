@@ -31,7 +31,7 @@ Votre installation de camping pour la nuit est comprise dans la réservation. Ce
 - ✅ Une sortie vers 2 îles supplémentaires plus la Piscine Naturelle
 - ✅ Un guide Guna local
 - ⛔ Boissons alcoolisées, en-cas, matériel de snorkeling, serviettes et savon
-- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces)
+- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces ou par carte au chauffeur)
 
 **Prêt à dormir sous le ciel de San Blas ?** Écrivez-nous sur WhatsApp pour les dates et les tarifs.
 

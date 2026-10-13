@@ -31,7 +31,7 @@ Auf diesen Inseln gibt es kein Stromnetz und in keiner Hüttenkategorie eine Kli
 - ✅ Eine Tour zu 2 weiteren Inseln plus dem Naturpool
 - ✅ Ein lokaler Guna-Guide
 - ⛔ Alkoholische Getränke, Snacks, Schnorchelausrüstung, Handtücher und Seife
-- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar zu zahlen)
+- ⛔ Guna-Yala-Gemeinschaftssteuer (separat zu zahlen, bar oder mit Karte beim Fahrer)
 
 ## Wo sie im Angebot steht
 

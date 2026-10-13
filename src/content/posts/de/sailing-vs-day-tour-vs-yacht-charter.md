@@ -75,7 +75,7 @@ Eine Tour ab Panama-Stadt. Die Bootsfahrt von Cartí zu den Inseln ist kurz, wä
 
 ### Zahle ich die Eintrittsgebühr für Guna Yala bei jeder Option?
 
-Bei Touren und Aufenthalten ab Panama-Stadt wird die Gebühr der Comarca, 22 Dollar für Ausländer und 7 für Einwohner, bar bezahlt und ist nicht im Preis enthalten. Bei einer Segelüberfahrt oder einem Charter fragen Sie den Betreiber, wie die Abgaben der Comarca geregelt sind.
+Bei Touren und Aufenthalten ab Panama-Stadt wird die Gebühr der Comarca, 22 Dollar für Ausländer und 7 für Einwohner, bar oder mit Karte bei unserem Fahrer bezahlt und ist nicht im Preis enthalten. Bei einer Segelüberfahrt oder einem Charter fragen Sie den Betreiber, wie die Abgaben der Comarca geregelt sind.
 
 ### Kann ich ein privates Boot für nur einen Tag chartern?
 

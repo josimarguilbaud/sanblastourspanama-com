@@ -26,7 +26,7 @@ Los pasadías y las estadías se construyen alrededor de los cayos escénicos y 
 
 ## Por qué conviene entenderlo igual
 
-San Blas no es una zona turística panameña con sabor local: es Guna Yala, una comarca autónoma que los Guna administran desde hace generaciones, con su propio gobierno, sus propias reglas de entrada y su propia capital. El impuesto de entrada que todo visitante paga en efectivo al llegar va a esa comarca, los guías de las lanchas son miembros de la comunidad, y el pasaporte o la cédula original que te piden en el control se exige porque estás cruzando a un territorio que se gobierna a sí mismo. En El Porvenir esa estructura es donde más se ve.
+San Blas no es una zona turística panameña con sabor local: es Guna Yala, una comarca autónoma que los Guna administran desde hace generaciones, con su propio gobierno, sus propias reglas de entrada y su propia capital. El impuesto de entrada que todo visitante paga al llegar, en efectivo o con tarjeta a nuestro conductor, va a esa comarca, los guías de las lanchas son miembros de la comunidad, y el pasaporte o la cédula original que te piden en el control se exige porque estás cruzando a un territorio que se gobierna a sí mismo. En El Porvenir esa estructura es donde más se ve.
 
 ¿Buscas las islas donde de verdad pasarás tu día? **[Ver la guía completa de islas →](/es/islands)**
 
@@ -45,4 +45,4 @@ Es la capital administrativa de Guna Yala, que es el nombre propio de la región
 No es un destino de playa. El Porvenir es una isla pequeña y bastante construida cuya función es administrativa y logística, y los cayos de arena blanca, los bancos de arena y los arrecifes por los que la gente viaja a San Blas están en otras partes del archipiélago.
 
 ### ¿Por qué los visitantes pagan un impuesto para entrar a Guna Yala?
-Porque Guna Yala es una comarca autónoma y no una provincia panameña común. El impuesto de entrada es una tasa territorial que va directamente a la comunidad Guna, y se paga en efectivo en el control de entrada, aparte del precio del tour. Lleva el pasaporte o la cédula original: en el control no se acepta una fotocopia.
+Porque Guna Yala es una comarca autónoma y no una provincia panameña común. El impuesto de entrada es una tasa territorial que va directamente a la comunidad Guna, y se paga en el control de entrada, en efectivo o con tarjeta a nuestro conductor, aparte del precio del tour. Lleva el pasaporte o la cédula original: en el control no se acepta una fotocopia.

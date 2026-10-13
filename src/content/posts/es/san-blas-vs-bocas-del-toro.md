@@ -56,7 +56,7 @@ Bocas ofrece más variedad. El Parque Nacional Marino Isla Bastimentos, creado e
 
 ## Cultura: un territorio vivo o un pueblo caribeño diverso
 
-Visitar San Blas significa entrar en el territorio de alguien. Se paga un impuesto de entrada a la comarca en la frontera, 22 dólares para extranjeros y 7 para residentes, en efectivo y no incluido en el precio de los tours. Las comunidades pueden pedir una pequeña tasa, fotografiar a las personas requiere permiso, y buena parte de la cultura visible, de las molas a la casa del congreso, pertenece a la vida diaria y no a un espectáculo.
+Visitar San Blas significa entrar en el territorio de alguien. Se paga un impuesto de entrada a la comarca en la frontera, 22 dólares para extranjeros y 7 para residentes, en efectivo o, en nuestros tours, con tarjeta al conductor, y no incluido en el precio de los tours. Las comunidades pueden pedir una pequeña tasa, fotografiar a las personas requiere permiso, y buena parte de la cultura visible, de las molas a la casa del congreso, pertenece a la vida diaria y no a un espectáculo.
 
 Bocas tiene su propia historia profunda, con comunidades afroantillanas descendientes de migrantes caribeños y el pueblo ngäbe, pero se vive como invitado en un pueblo animado y no como visitante que entra en una tierra autogobernada.
 

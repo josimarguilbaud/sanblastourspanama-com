@@ -35,7 +35,7 @@ Uma lista cobre a mala; para o contexto que ela não cobre, do posto de controle
 
 ## A questão do dinheiro
 
-Não há caixa eletrônico em nenhum ponto de Guna Yala nem maquininha nas ilhas. Você precisa de dinheiro para a **taxa comunitária de entrada — US$ 22 para estrangeiros e US$ 7 para residentes**, paga na borda da comarca — mais tudo o que pretende gastar: molas das artesãs Guna, bebidas, lanches e eventuais extras. Saque na Cidade do Panamá e leve notas pequenas, porque troco numa ilha pequena é limitado.
+Não há caixa eletrônico em nenhum ponto de Guna Yala nem maquininha nas ilhas. Você precisa de dinheiro para a **taxa comunitária de entrada — US$ 22 para estrangeiros e US$ 7 para residentes**, paga na borda da comarca, a menos que você pague com cartão ao nosso motorista — mais tudo o que pretende gastar: molas das artesãs Guna, bebidas, lanches e eventuais extras. Saque na Cidade do Panamá e leve notas pequenas, porque troco numa ilha pequena é limitado.
 
 Para o detalhamento por tipo de viagem — passeio de um dia, estadia ou veleiro — veja [precisa de dinheiro em espécie em San Blas?](/pt-br/blog/do-you-need-cash-in-san-blas).
 

@@ -22,7 +22,7 @@ Distance. Pelícano sits in the Cayos Holandeses sector, further from the mainla
 
 ## Getting there: the private tour
 
-Isla Pelícano belongs to the Super VIP Private itinerary rather than the shared day tours. That tour gives your group a private 4x4 and a private boat, with an itinerary you help decide within what the weather and the timing allow, so an island this far out becomes a reasonable ask rather than an impossible one. Lunch with a drink, life jackets and a dedicated Guna guide are included; the comarca entry tax is paid separately, in cash.
+Isla Pelícano belongs to the Super VIP Private itinerary rather than the shared day tours. That tour gives your group a private 4x4 and a private boat, with an itinerary you help decide within what the weather and the timing allow, so an island this far out becomes a reasonable ask rather than an impossible one. Lunch with a drink, life jackets and a dedicated Guna guide are included; the comarca entry tax is paid separately, in cash or by card to the driver.
 
 ## What is actually on the island
 

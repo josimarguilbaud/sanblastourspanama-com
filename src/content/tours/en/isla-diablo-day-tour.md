@@ -32,7 +32,7 @@ We publish this in full, because "which islands will I see" shouldn't stay a mys
 - ✅ Guna community visit
 - ✅ Lunch with a drink
 - ⛔ Guided reef snorkeling (specific to our [VIP tour](/tours/vip-day-tour))
-- ⛔ Guna Yala community entry tax (paid separately, in cash)
+- ⛔ Guna Yala community entry tax (paid separately, in cash or by card to the driver)
 
 ## How it compares to VIP
 

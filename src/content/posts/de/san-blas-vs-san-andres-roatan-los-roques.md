@@ -59,7 +59,7 @@ San Andrés hat ein eigenes indigenes Inselvolk, die Raizal, afrokaribische Inse
 
 ## Ehrliche Nachteile
 
-- **San Blas:** einfacher Komfort, kein WLAN, lückenhafter Empfang, eine lange, kurvige Straße und eine Eintrittsgebühr für die Comarca von 22 $ für Ausländer, bar zu zahlen, da es auf den Inseln weder Geldautomaten noch Kartenterminals gibt. Kein Tauchen.
+- **San Blas:** einfacher Komfort, kein WLAN, lückenhafter Empfang, eine lange, kurvige Straße und eine Eintrittsgebühr für die Comarca von 22 $ für Ausländer, bar oder mit Karte beim Fahrer zu zahlen, und auf den Inseln weder Geldautomaten noch Kartenterminals. Kein Tauchen.
 - **San Andrés:** für eine Karibikinsel voll und stark bebaut; ein Stadturlaub mit Stränden, keine Auszeit.
 - **Roatán:** die belebtesten Strände spüren die Kreuzfahrttage, und Resortkomfort kostet Resortpreise.
 - **Los Roques:** am schwierigsten zu planen, abhängig von der Lage in Venezuela und meist teuer, weil alles eingeflogen oder per Schiff gebracht werden muss.

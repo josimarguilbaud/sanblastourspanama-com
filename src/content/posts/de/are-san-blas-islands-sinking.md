@@ -65,7 +65,7 @@ Wer das große Bild sucht, wie viele Inseln es gibt und wie viele bewohnt sind, 
 
 Nichts davon ist ein Grund, fernzubleiben. Der Tourismus, den die Guna selbst betreiben, ist Teil dessen, wovon die Comarca lebt. Entscheidend ist, wie Sie sich vor Ort verhalten:
 
-- **Zahlen Sie die Eintrittsgebühr der Comarca** bar am Kontrollpunkt. Sie geht an das Guna-Gebiet, nicht an einen Reiseveranstalter, wie wir in [wohin die Gemeindegebühr fließt](/de/blog/where-does-community-tax-go) erklären.
+- **Zahlen Sie die Eintrittsgebühr der Comarca** am Kontrollpunkt, bar oder mit Karte bei unserem Fahrer. Sie geht an das Guna-Gebiet, nicht an einen Reiseveranstalter, wie wir in [wohin die Gemeindegebühr fließt](/de/blog/where-does-community-tax-go) erklären.
 - **Lassen Sie das Riff in Ruhe.** Die Korallen sind der Wellenbrecher der Inseln. Nicht darauf stehen, rifffreundliche Sonnencreme verwenden und nichts mitnehmen, weder Sand noch Muscheln noch Korallen. Unser [Leitfaden zur Meeresfauna](/de/guides/marine-wildlife) erklärt, was dort lebt.
 - **Nehmen Sie Ihren Müll mit.** Kleine Inseln haben keinen Platz dafür, und unser [Ökotourismus-Leitfaden](/de/guides/eco-tourism) fasst das Wichtigste zusammen.
 - **Behandeln Sie Gemeinden als Gemeinden.** Gardi Sugdub und seine Nachbarinseln sind keine Sehenswürdigkeit. Fragen Sie, bevor Sie Menschen fotografieren, und folgen Sie Ihrem Guna-Guide.

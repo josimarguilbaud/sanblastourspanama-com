@@ -18,7 +18,7 @@ La tierra dentro de la comarca no se puede comprar ni desarrollar sin más por u
 
 En un viaje a San Blas salen de tu bolsillo tres pagos distintos, y terminan en lugares muy diferentes:
 
-- **El impuesto comunitario de entrada** — **$22 para extranjeros y $7 para residentes**, en efectivo y en el borde del territorio. No forma parte del precio del tour ni es una tasa turística estatal: va a las comunidades Guna cuyo territorio estás cruzando.
+- **El impuesto comunitario de entrada** — **$22 para extranjeros y $7 para residentes**, en el borde del territorio, en efectivo o, en nuestros tours, con tarjeta al conductor. No forma parte del precio del tour ni es una tasa turística estatal: va a las comunidades Guna cuyo territorio estás cruzando.
 - **El tour en sí** — lanchas, conductores, cocineras y guías son locales, así que el grueso del gasto operativo se queda dentro de la región en vez de irse con un operador extranjero.
 - **Lo que compres en las islas** — casi siempre una mola, comprada directamente a la mujer que la cosió, sin intermediario que se lleve una tajada. Saber [cómo se hace una mola auténtica](/es/blog/molas-explained) te ayuda a reconocerla.
 
@@ -45,7 +45,7 @@ Estructuralmente sí: las empresas de fuera no pueden ser dueñas de tierra ni c
 
 ### ¿Qué es el impuesto comunitario de Guna Yala y quién lo recibe?
 
-Es una tarifa de entrada por persona al territorio autónomo: $22 para extranjeros y $7 para residentes, en efectivo y aparte del precio del tour. Va directamente a las comunidades Guna, no a una autoridad nacional de turismo.
+Es una tarifa de entrada por persona al territorio autónomo: $22 para extranjeros y $7 para residentes, aparte del precio del tour, en efectivo o con tarjeta a nuestro conductor. Va directamente a las comunidades Guna, no a una autoridad nacional de turismo.
 
 ### ¿Qué tipo de protector solar debo llevar?
 

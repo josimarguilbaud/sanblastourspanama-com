@@ -32,7 +32,7 @@ Auf diesen Inselchen gibt es keine Gemeinde, und daraus folgen zugleich ihr Reiz
 
 - **Am besten für:** Fotografen und Reisende, die lieber mehrere verschiedene Strände sehen, als sich an einem einzigen niederzulassen.
 - **Einrichtungen:** keine. Nehmen Sie Wasser, biologisch abbaubare Sonnencreme und einen Hut mit.
-- **Comarca-Abgabe:** Die Eintrittsabgabe für Guna Yala wird bei der Einreise in das Gebiet bar bezahlt, ganz gleich, welche Inselchen Ihr Boot anfährt.
+- **Comarca-Abgabe:** Die Eintrittsabgabe für Guna Yala wird bei der Einreise in das Gebiet bezahlt, bar oder mit Karte bei unserem Fahrer, ganz gleich, welche Inselchen Ihr Boot anfährt.
 
 ## Häufige Fragen
 
@@ -49,4 +49,4 @@ Nein. Es sind unbewohnte Eilande ohne jede Infrastruktur. Mittagessen und Trinkw
 Limones liegt nah, ist schnell erreicht und lebt vom Wechsel zwischen mehreren kleinen Stränden. Cayos Holandeses liegt weit draußen, wird auf einer eigenen Tour mit früherer Abfahrt und Mindestgruppengröße angefahren und wird wegen der Riffqualität gewählt, nicht wegen der Strände. Es sind verschiedene Tage, nicht zwei Preise für denselben Tag.
 
 ### Lebt jemand auf den Cayos Limones?
-Es gibt keine dauerhafte Gemeinde, weshalb dort auch keine eigene Gemeindeabgabe erhoben wird. Die Eintrittsabgabe der Comarca Guna Yala gilt trotzdem für Sie als Besucher des Gebiets und wird bar an der Grenze gezahlt, nicht auf den Inselchen.
+Es gibt keine dauerhafte Gemeinde, weshalb dort auch keine eigene Gemeindeabgabe erhoben wird. Die Eintrittsabgabe der Comarca Guna Yala gilt trotzdem für Sie als Besucher des Gebiets und wird an der Grenze gezahlt, bar oder mit Karte bei unserem Fahrer, nicht auf den Inselchen.

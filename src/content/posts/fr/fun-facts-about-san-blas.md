@@ -30,7 +30,7 @@ Une version précédente de cette liste comprenait quelques affirmations que nou
 
 **7. Guna Yala n'est pas la seule comarca guna.** Le Panama en compte deux autres, toutes deux à l'intérieur des terres : Madungandí, dans la province de Panamá, et Wargandí, créée par la [loi 34 de 2000](https://panama.justia.com/federales/leyes/34-de-2000-jul-28-2000/gdoc) sur des terres de la province du Darién. Donc oui, il existe des communautés guna dans le Darién — simplement pas sur les îles.
 
-**8. L'entrée est soumise à une taxe, et il n'y a nulle part où retirer de l'argent.** Chaque visiteur paie une taxe d'entrée à la comarca — 22 dollars pour les étrangers, 7 dollars pour les résidents et les nationaux — en espèces, en plus du prix de toute excursion. Il n'y a ni distributeur automatique ni terminal de paiement par carte sur les îles, donc tout doit venir avec vous. Voyez [à quoi sert la taxe communautaire](/fr/blog/where-does-community-tax-go) et [combien d'espèces emporter](/fr/blog/do-you-need-cash-in-san-blas).
+**8. L'entrée est soumise à une taxe, et il n'y a nulle part où retirer de l'argent.** Chaque visiteur paie une taxe d'entrée à la comarca — 22 dollars pour les étrangers, 7 dollars pour les résidents et les nationaux — en plus du prix de toute excursion ; sur nos excursions, le chauffeur l'encaisse en espèces ou par carte. Il n'y a ni distributeur automatique ni terminal de paiement par carte sur les îles, donc le reste de vos dépenses doit venir avec vous. Voyez [à quoi sert la taxe communautaire](/fr/blog/where-does-community-tax-go) et [combien d'espèces emporter](/fr/blog/do-you-need-cash-in-san-blas).
 
 ## Une culture que l'on voit
 

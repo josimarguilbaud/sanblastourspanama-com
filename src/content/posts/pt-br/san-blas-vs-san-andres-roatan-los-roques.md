@@ -59,7 +59,7 @@ San Andrés tem seu próprio povo nativo, os raizales, ilhéus afro-caribenhos d
 
 ## As desvantagens, com honestidade
 
-- **San Blas:** conforto básico, sem wifi, sinal irregular, uma estrada longa e cheia de curvas, e uma taxa de entrada na comarca de US$ 22 para estrangeiros, paga em dinheiro, porque nas ilhas não há caixas eletrônicos nem maquininhas de cartão. Sem mergulho.
+- **San Blas:** conforto básico, sem wifi, sinal irregular, uma estrada longa e cheia de curvas, e uma taxa de entrada na comarca de US$ 22 para estrangeiros, paga em dinheiro ou com cartão ao motorista, e nas ilhas nem caixas eletrônicos nem maquininhas de cartão. Sem mergulho.
 - **San Andrés:** cheia e construída para os padrões de uma ilha do Caribe; são férias de cidade com praias, não um refúgio.
 - **Roatán:** as praias mais movimentadas sentem os dias de cruzeiro, e conforto de resort custa preço de resort.
 - **Los Roques:** o mais difícil de organizar, depende da situação da Venezuela e costuma ser caro, porque tudo precisa chegar de avião ou de barco.

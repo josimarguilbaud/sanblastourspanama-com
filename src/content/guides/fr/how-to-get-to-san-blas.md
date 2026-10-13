@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-02
+updatedAt: 2026-10-13
 title: "Comment Aller à San Blas Depuis Panama City"
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
@@ -31,7 +31,7 @@ Un changement d'adresse de ramassage doit être signalé **au moins 24 heures à
 ## Trois choses irréparables une fois partis
 
 - **Votre passeport ou pièce d'identité originale.** Il est exigé au poste de contrôle à l'entrée du territoire guna ; une photocopie ou une photo sur téléphone n'est pas acceptée.
-- **Les espèces.** Il n'y a aucun distributeur dans tout Guna Yala. Il vous faut du liquide pour la taxe communautaire et pour vos achats sur les îles.
+- **Les espèces.** Il n'y a aucun distributeur dans tout Guna Yala. Il vous faut du liquide pour vos achats sur les îles ; la taxe communautaire se règle en espèces ou par carte à notre chauffeur.
 - **Le comprimé contre le mal des transports.** À prendre avant le départ. Une fois sur la route de montagne, il est trop tard pour qu'il agisse correctement.
 
 C'est aussi au poste de contrôle que chaque visiteur paie la taxe d'entrée de la comarca, qui va aux autorités guna et non à votre opérateur ; [où va la taxe communautaire](/fr/blog/where-does-community-tax-go) explique qui la perçoit et pourquoi.
@@ -64,7 +64,7 @@ Oui, à condition de le demander au moins 24 heures à l'avance. Le matin de l'e
 
 ### Y a-t-il un distributeur sur le trajet ?
 
-Non. Il n'existe aucun distributeur dans Guna Yala. Retirez tout ce dont vous aurez besoin — taxe communautaire et argent de poche — avant de quitter Panama City.
+Non. Il n'existe aucun distributeur dans Guna Yala. Retirez tout ce dont vous aurez besoin — argent de poche, plus la taxe communautaire si vous ne la réglez pas par carte à notre chauffeur — avant de quitter Panama City.
 
 ### Peut-on rejoindre San Blas sans excursion organisée ?
 

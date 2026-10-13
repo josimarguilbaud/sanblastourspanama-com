@@ -50,7 +50,7 @@ Ask first. Homes, canoes and daily routines are not a backdrop by default, and a
 A mola is a hand-stitched textile panel and a genuine Guna art form, not a souvenir manufactured elsewhere. The best place to buy one is directly from the woman who made it, on an island like this one, where the money reaches the artisan rather than an intermediary.
 
 ### Is there a fee to visit an inhabited island?
-Expect a small community entry fee per visitor, paid in cash on the island and separate from your tour price. That is distinct from the Guna Yala comarca entry tax, which every visitor pays in cash on entering the territory. There are no ATMs anywhere in Guna Yala, so bring enough cash for both.
+Expect a small community entry fee per visitor, paid in cash on the island and separate from your tour price. That is distinct from the Guna Yala comarca entry tax, which every visitor pays on entering the territory, in cash or by card to our driver. There are no ATMs anywhere in Guna Yala, so bring enough cash for the community fee, and for the tax if you pay it in cash.
 
 ### What is the difference between an inhabited island and an uninhabited cay?
 For a visitor, mostly expectations. An uninhabited cay is sand, palms and water, with no facilities and nobody to consider. An inhabited island has residents, routines, boundaries and usually a community fee — you are a guest rather than the only person on the beach, and it is worth arriving with that in mind.

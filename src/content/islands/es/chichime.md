@@ -33,7 +33,7 @@ Chichime está hacia el extremo occidental del archipiélago y se llega como a c
 
 - **Ideal para:** primera visita, snorkel fácil, fotos de atardecer y de postal.
 - **Facilidades:** básicas — ranchos de palma para sombra, sin agua corriente, sin electricidad para visitantes, sin tienda.
-- **Efectivo:** el impuesto de entrada a la comarca se paga en efectivo al llegar a Guna Yala, y en todo el territorio no hay cajeros automáticos.
+- **Efectivo:** en todo el territorio no hay cajeros automáticos; el impuesto de entrada a la comarca, que se paga al llegar a Guna Yala, admite efectivo o tarjeta con nuestro conductor.
 
 ## Preguntas frecuentes
 
@@ -44,10 +44,10 @@ En marea baja, sí: el canal que los separa es lo bastante poco profundo para cr
 Es uno de los lugares más amables de San Blas para empezar. El arrecife está cerca de la orilla y en agua poco profunda, y nunca estás lejos de arena donde hacer pie. El chaleco salvavidas es obligatorio en las lanchas para adultos y niños, y nada te impide quedártelo puesto dentro del agua.
 
 ### ¿Hay que pagar algo al llegar a Chichime?
-A la isla no, pero todo visitante de Guna Yala paga un impuesto de entrada a la comarca —22 dólares los extranjeros y 7 los residentes con pasaporte o carné vigente— en efectivo y aparte del precio del tour. Va directo a la comunidad Guna. Lleva el efectivo contigo, porque en la comarca no hay cajeros.
+A la isla no, pero todo visitante de Guna Yala paga un impuesto de entrada a la comarca —22 dólares los extranjeros y 7 los residentes con pasaporte o carné vigente— aparte del precio del tour, en efectivo o con tarjeta a nuestro conductor. Va directo a la comunidad Guna. Si pagas en efectivo, llévalo contigo, porque en la comarca no hay cajeros.
 
 ### ¿Se puede dormir en Chichime?
 Las estadías en San Blas se reservan por tipo de cabaña, no por una isla con nombre, y la isla se confirma cerca de la fecha según disponibilidad, así que Chichime no se puede prometer por nombre. Chichime aparece en cambio como parada dentro de los itinerarios de pasadía y de varios días que salen de Cartí.
 
 ### ¿Qué llevar para un día en Chichime?
-Protector solar biodegradable, gorra y gafas de sol, toalla, bolsa seca, tu pasaporte o cédula original —una fotocopia no se acepta en el control de la comarca— y suficiente efectivo para el impuesto de entrada. En el cayo no hay tienda ni agua potable para visitantes, así que todo lo que necesites tiene que llegar contigo en la lancha.
+Protector solar biodegradable, gorra y gafas de sol, toalla, bolsa seca, tu pasaporte o cédula original —una fotocopia no se acepta en el control de la comarca— y efectivo para el impuesto de entrada, salvo que lo pagues con tarjeta a nuestro conductor. En el cayo no hay tienda ni agua potable para visitantes, así que todo lo que necesites tiene que llegar contigo en la lancha.

@@ -50,7 +50,7 @@ Pergunte antes. Casas, canoas e rotinas do dia a dia não são cenário por padr
 Uma mola é um painel têxtil costurado à mão e uma forma de arte guna genuína, não uma lembrancinha fabricada em outro lugar. O melhor lugar para comprar uma é direto com a mulher que a fez, numa ilha como esta, onde o dinheiro chega à artesã e não a um intermediário.
 
 ### Paga-se para visitar uma ilha habitada?
-Conte com uma pequena taxa comunitária de entrada por visitante, em espécie e na ilha, à parte do preço do passeio. Ela é diferente da taxa de entrada da comarca de Guna Yala, que todo visitante paga em dinheiro ao entrar no território. Em Guna Yala não há caixas eletrônicos, então leve dinheiro suficiente para as duas.
+Conte com uma pequena taxa comunitária de entrada por visitante, em espécie e na ilha, à parte do preço do passeio. Ela é diferente da taxa de entrada da comarca de Guna Yala, que todo visitante paga ao entrar no território, em dinheiro ou com cartão ao nosso motorista. Em Guna Yala não há caixas eletrônicos, então leve dinheiro suficiente para a taxa comunitária, e para a da comarca se for pagá-la em dinheiro.
 
 ### Qual a diferença entre uma ilha habitada e um cayo desabitado?
 Para o visitante, sobretudo expectativa. Um cayo desabitado é areia, coqueiros e água, sem serviços e sem ninguém a considerar. Uma ilha habitada tem moradores, rotinas, limites e normalmente uma taxa comunitária: ali você é convidado e não a única pessoa na praia, e convém chegar com isso na cabeça.

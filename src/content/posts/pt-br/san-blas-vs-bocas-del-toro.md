@@ -56,7 +56,7 @@ Bocas oferece mais variedade. O Parque Nacional Marinho Isla Bastimentos, criado
 
 ## Cultura: um território vivo ou uma cidade caribenha diversa
 
-Visitar San Blas significa entrar no território de alguém. Paga-se na fronteira uma taxa de entrada da comarca, 22 dólares para estrangeiros e 7 para residentes, em dinheiro e não incluída no preço dos passeios. As comunidades podem cobrar uma pequena taxa, fotografar pessoas exige permissão, e boa parte da cultura visível, das molas à casa do congresso, pertence à vida diária e não a um espetáculo.
+Visitar San Blas significa entrar no território de alguém. Paga-se na fronteira uma taxa de entrada da comarca, 22 dólares para estrangeiros e 7 para residentes, em dinheiro ou, nos nossos passeios, com cartão ao motorista, e não incluída no preço dos passeios. As comunidades podem cobrar uma pequena taxa, fotografar pessoas exige permissão, e boa parte da cultura visível, das molas à casa do congresso, pertence à vida diária e não a um espetáculo.
 
 Bocas tem a sua própria história profunda, com comunidades afro-antilhanas descendentes de migrantes caribenhos e o povo ngäbe, mas você a vive como hóspede de uma cidade movimentada, e não como visitante que entra numa terra autogovernada.
 

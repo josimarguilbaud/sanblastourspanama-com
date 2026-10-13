@@ -25,7 +25,7 @@ Alguns operadores embaralham a linha entre seus pacotes; preferimos ser claros. 
 - ✅ Coletes salva-vidas e um guia Guna local
 - ⛔ Snorkel guiado no recife (apenas passeio VIP)
 - ⛔ Equipamento de snorkel, toalhas e sabonete — leve os seus
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro)
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista)
 
 ## Um dia típico
 

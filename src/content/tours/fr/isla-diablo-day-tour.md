@@ -32,7 +32,7 @@ Nous le publions en entier, car « quelles îles vais-je voir » ne devrait pas 
 - ✅ Visite d'une communauté Guna
 - ✅ Déjeuner avec une boisson
 - ⛔ Snorkeling guidé sur récif (propre à notre [excursion VIP](/fr/tours/vip-day-tour))
-- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces)
+- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces ou par carte au chauffeur)
 
 ## La comparaison avec la VIP
 

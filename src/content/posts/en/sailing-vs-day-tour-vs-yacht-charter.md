@@ -75,7 +75,7 @@ A tour from Panama City. The crossing from Cartí to the islands is short, while
 
 ### Do I pay the Guna Yala entry tax on every option?
 
-On tours and stays from Panama City, the comarca tax of $22 for foreigners and $7 for residents is paid in cash and is not included in the price. On a sailing crossing or a charter, ask the operator how the comarca's fees are handled.
+On tours and stays from Panama City, the comarca tax of $22 for foreigners and $7 for residents is paid in cash or by card to our driver and is not included in the price. On a sailing crossing or a charter, ask the operator how the comarca's fees are handled.
 
 ### Can I charter a private boat for just one day?
 

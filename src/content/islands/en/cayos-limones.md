@@ -32,7 +32,7 @@ There is no community on these cays, which is the source of both their charm and
 
 - **Best for:** photographers, and travellers who would rather see several distinct beaches than settle onto one.
 - **Facilities:** none. Bring water, biodegradable sunscreen and a hat.
-- **Comarca tax:** the Guna Yala entry tax is paid in cash on arrival in the territory, regardless of which cays your boat visits.
+- **Comarca tax:** the Guna Yala entry tax is paid on arrival in the territory, in cash or by card to our driver, regardless of which cays your boat visits.
 
 ## Frequently asked questions
 
@@ -49,4 +49,4 @@ No. These are uninhabited islets with no infrastructure of any kind. Lunch and d
 Limones is close in, quick to reach and built around hopping between several small beaches. Cayos Holandeses is far out, reached on its own tour with an earlier departure and a minimum group size, and it is chosen for reef quality rather than for beaches. They are different days, not different prices for the same day.
 
 ### Does anyone live on the Limones Cays?
-No permanent community lives on them, which is why they carry no community entry fee of their own. The Guna Yala comarca entry tax still applies to you as a visitor to the territory, and it is paid in cash at the border, not on the cays.
+No permanent community lives on them, which is why they carry no community entry fee of their own. The Guna Yala comarca entry tax still applies to you as a visitor to the territory, and it is paid at the border, in cash or by card to our driver, not on the cays.

@@ -75,7 +75,7 @@ Um passeio saindo da Cidade do Panamá. O trajeto de barco de Cartí até as ilh
 
 ### Pago a taxa de entrada de Guna Yala em todas as opções?
 
-Nos passeios e estadias saindo da Cidade do Panamá, a taxa da comarca, 22 dólares para estrangeiros e 7 para residentes, é paga em dinheiro e não está incluída no preço. Numa travessia de veleiro ou num charter, pergunte à empresa como as taxas da comarca são tratadas.
+Nos passeios e estadias saindo da Cidade do Panamá, a taxa da comarca, 22 dólares para estrangeiros e 7 para residentes, é paga em dinheiro ou com cartão ao nosso motorista e não está incluída no preço. Numa travessia de veleiro ou num charter, pergunte à empresa como as taxas da comarca são tratadas.
 
 ### Posso fretar um barco privado por um só dia?
 

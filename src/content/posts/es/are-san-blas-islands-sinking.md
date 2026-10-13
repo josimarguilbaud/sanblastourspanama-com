@@ -65,7 +65,7 @@ Si quieres el panorama general de cuántas islas hay y cuántas están habitadas
 
 Nada de esto es motivo para no ir. El turismo, gestionado por los propios guna, es parte de cómo se sostiene la comarca. Lo que importa es cómo te comportas una vez allí:
 
-- **Paga el impuesto de entrada de la comarca** en efectivo en el puesto de control. Va al territorio guna, no a una agencia, como explicamos en [a dónde va el impuesto comunitario](/es/blog/where-does-community-tax-go).
+- **Paga el impuesto de entrada de la comarca** en el puesto de control, en efectivo o con tarjeta a nuestro conductor. Va al territorio guna, no a una agencia, como explicamos en [a dónde va el impuesto comunitario](/es/blog/where-does-community-tax-go).
 - **Deja el arrecife en paz.** El coral es el rompeolas de las islas. No lo pises, usa protector solar apto para arrecifes y no te lleves nada, ni arena, ni conchas, ni coral. Nuestra [guía de vida marina](/es/guides/marine-wildlife) explica qué vive allí.
 - **Llévate tu basura.** Las islas pequeñas no tienen dónde ponerla, y nuestra [guía de ecoturismo](/es/guides/eco-tourism) resume lo básico.
 - **Trata a las comunidades como comunidades.** Gardi Sugdub y sus vecinas no son una atracción. Pregunta antes de fotografiar a las personas y sigue las indicaciones de tu guía guna.

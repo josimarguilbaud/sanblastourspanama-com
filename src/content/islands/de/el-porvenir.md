@@ -26,7 +26,7 @@ Tagestouren und Übernachtungen sind um die landschaftlich reizvollen, zum Schno
 
 ## Warum es trotzdem zu verstehen lohnt
 
-San Blas ist kein panamaisches Ferienziel mit lokalem Einschlag, sondern Guna Yala, eine autonome Comarca, die die Guna seit Generationen selbst verwalten — mit eigener Regierung, eigenen Einreiseregeln und eigener Hauptstadt. Die Eintrittsabgabe, die jeder Besucher bei der Ankunft bar bezahlt, geht an diese Comarca, die Guides in den Booten sind Mitglieder der Gemeinschaft, und der Originalpass oder Ausweis, den man an der Kontrolle von Ihnen verlangt, ist nötig, weil Sie in ein Gebiet einreisen, das sich selbst regiert. In El Porvenir ist diese Struktur am sichtbarsten.
+San Blas ist kein panamaisches Ferienziel mit lokalem Einschlag, sondern Guna Yala, eine autonome Comarca, die die Guna seit Generationen selbst verwalten — mit eigener Regierung, eigenen Einreiseregeln und eigener Hauptstadt. Die Eintrittsabgabe, die jeder Besucher bei der Ankunft bezahlt, bar oder mit Karte bei unserem Fahrer, geht an diese Comarca, die Guides in den Booten sind Mitglieder der Gemeinschaft, und der Originalpass oder Ausweis, den man an der Kontrolle von Ihnen verlangt, ist nötig, weil Sie in ein Gebiet einreisen, das sich selbst regiert. In El Porvenir ist diese Struktur am sichtbarsten.
 
 Suchen Sie die Inseln, auf denen Sie Ihren Tag wirklich verbringen? **[Zum vollständigen Inselführer →](/de/islands)**
 
@@ -45,4 +45,4 @@ Es ist die Verwaltungshauptstadt von Guna Yala, dem eigentlichen Namen der Regio
 Es ist kein Strandziel. El Porvenir ist eine kleine, weitgehend bebaute Insel mit verwaltungstechnischer und logistischer Funktion; die weißen Sandcayos, Sandbänke und Riffe, wegen derer man nach San Blas reist, liegen anderswo im Archipel.
 
 ### Warum zahlen Besucher eine Abgabe für die Einreise nach Guna Yala?
-Weil Guna Yala eine autonome Comarca ist und keine gewöhnliche panamaische Provinz. Die Eintrittsabgabe ist eine Gebietsabgabe, die direkt an die Guna-Gemeinschaft geht, und sie wird bar an der Grenze bezahlt, getrennt vom Tourpreis. Nehmen Sie Ihren Originalpass oder Ausweis mit: Eine Fotokopie wird an der Kontrolle nicht akzeptiert.
+Weil Guna Yala eine autonome Comarca ist und keine gewöhnliche panamaische Provinz. Die Eintrittsabgabe ist eine Gebietsabgabe, die direkt an die Guna-Gemeinschaft geht, und sie wird an der Grenze bezahlt, bar oder mit Karte bei unserem Fahrer, getrennt vom Tourpreis. Nehmen Sie Ihren Originalpass oder Ausweis mit: Eine Fotokopie wird an der Kontrolle nicht akzeptiert.

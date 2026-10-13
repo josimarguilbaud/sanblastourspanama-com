@@ -75,7 +75,7 @@ Un tour desde Ciudad de Panamá. El trayecto en bote de Cartí a las islas es co
 
 ### ¿Pago el impuesto de entrada a Guna Yala en todas las opciones?
 
-En los tours y estadías desde Ciudad de Panamá, el impuesto de la comarca, 22 dólares para extranjeros y 7 para residentes, se paga en efectivo y no está incluido en el precio. En una travesía en velero o un charter, pregunta al operador cómo se gestionan las tasas de la comarca.
+En los tours y estadías desde Ciudad de Panamá, el impuesto de la comarca, 22 dólares para extranjeros y 7 para residentes, se paga en efectivo o con tarjeta a nuestro conductor y no está incluido en el precio. En una travesía en velero o un charter, pregunta al operador cómo se gestionan las tasas de la comarca.
 
 ### ¿Puedo contratar un bote privado para un solo día?
 

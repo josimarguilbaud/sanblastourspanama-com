@@ -26,7 +26,7 @@ La cifra que se repite en todas partes es **más de 365 islas y cayos**, una por
 
 Guna Yala no es una provincia panameña. Es una comarca: un territorio indígena con su propio gobierno, su propia ley interna y su propia autoridad sobre el uso de la tierra. Qué se construye, y hasta dónde pueden llegar los visitantes, lo deciden los congresos Guna y no Ciudad de Panamá. Tres consecuencias se ven en cualquier visita:
 
-- **Se cobra un impuesto comunitario de entrada** al borde de la comarca, en efectivo y aparte del precio del tour.
+- **Se cobra un impuesto comunitario de entrada** al borde de la comarca, aparte del precio del tour; en nuestros tours se paga en efectivo o con tarjeta al conductor.
 - **Las empresas de fuera no pueden comprar tierra**, así que cada cabaña, cada lancha y cada guía pertenecen a una familia o comunidad Guna. Por eso tampoco nadie de fuera puede [comprar una isla en San Blas](/es/blog/can-you-buy-an-island-in-san-blas).
 - **Las reglas cambian de isla en isla**, porque cada comunidad fija las suyas.
 

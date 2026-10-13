@@ -25,7 +25,7 @@ Manche Anbieter lassen die Grenze zwischen ihren Paketen verschwimmen; wir sagen
 - ✅ Schwimmwesten und ein lokaler Guna-Guide
 - ⛔ Geführtes Riff-Schnorcheln (nur VIP-Tour)
 - ⛔ Schnorchelausrüstung, Handtücher und Seife — bitte selbst mitbringen
-- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar zu zahlen)
+- ⛔ Guna-Yala-Gemeinschaftssteuer (separat zu zahlen, bar oder mit Karte beim Fahrer)
 
 ## Ein typischer Tag
 

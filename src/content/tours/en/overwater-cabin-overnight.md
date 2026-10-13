@@ -31,7 +31,7 @@ There are far fewer overwater cabins than any other category, and they're the fi
 - ✅ A tour to 2 additional islands plus the Natural Pool
 - ✅ A local Guna guide
 - ⛔ Alcoholic drinks, snacks, snorkel gear, towels and soap
-- ⛔ Guna Yala community tax (paid separately, in cash)
+- ⛔ Guna Yala community tax (paid separately, in cash or by card to the driver)
 
 **Ready to book San Blas's most iconic night?** Message us on WhatsApp for live dates and pricing.
 

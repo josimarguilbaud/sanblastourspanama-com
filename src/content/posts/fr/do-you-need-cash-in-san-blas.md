@@ -8,7 +8,7 @@ seoTitle: "Espèces à San Blas : Ce Que l'On Paie Selon le Voyage"
 seoDescription: "Aucun distributeur à Guna Yala, aucun terminal sur les îles. Ce que l'on paie en espèces en excursion, en séjour ou en voilier, et où retirer avant."
 ---
 
-**Oui. Guna Yala n'a pas de distributeur et les îles n'ont pas de terminal de paiement, donc tout ce que vous dépensez dans la comarca se paie en dollars américains, en espèces. La seule dépense fixe est la taxe d'entrée — 22 $ pour les étrangers, 7 $ pour les résidents du Panama — qui n'est comprise dans aucun prix d'excursion. Le reste dépend de votre venue : pour une journée, quelques nuits ou en voilier.**
+**Oui. Guna Yala n'a pas de distributeur et les îles n'ont pas de terminal de paiement, donc tout ce que vous dépensez dans la comarca se paie en dollars américains, en espèces. La seule dépense fixe est la taxe d'entrée — 22 $ pour les étrangers, 7 $ pour les résidents du Panama — qui n'est comprise dans aucun prix d'excursion et, sur nos excursions, peut aussi se régler par carte au chauffeur. Le reste dépend de votre venue : pour une journée, quelques nuits ou en voilier.**
 
 ## Pourquoi il n'y a ni distributeur ni terminal de carte
 

@@ -8,7 +8,7 @@ seoTitle: "Cash in San Blas: What You Pay For on Every Kind of Trip"
 seoDescription: "No ATMs in Guna Yala, no card terminals on the islands. What you pay in cash on a day trip, an island stay or a sailing trip, and where to withdraw it."
 ---
 
-**Yes. Guna Yala has no ATMs and the islands have no card terminals, so everything you spend inside the comarca is paid in US dollars, in cash. The one fixed cost is the entry tax — $22 for foreigners, $7 for Panamanian residents — which is not in any tour price. How much more you need depends on whether you come for a day, a few nights or a sailing trip.**
+**Yes. Guna Yala has no ATMs and the islands have no card terminals, so everything you spend inside the comarca is paid in US dollars, in cash. The one fixed cost is the entry tax — $22 for foreigners, $7 for Panamanian residents — which is not in any tour price and, on our tours, can also go on a card with the driver. How much more you need depends on whether you come for a day, a few nights or a sailing trip.**
 
 ## Why there are no ATMs or card machines
 

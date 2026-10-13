@@ -35,7 +35,7 @@ Une liste couvre le sac ; pour le contexte qu'elle ne couvre pas, du poste de co
 
 ## La question des espèces
 
-Il n'y a aucun distributeur dans Guna Yala et aucun terminal de paiement sur les îles. Il vous faut du liquide pour la **taxe communautaire d'entrée — 22 dollars pour les étrangers, 7 pour les résidents**, réglée à l'entrée de la comarca — et pour tout le reste : molas achetées aux artisanes guna, boissons, en-cas et options diverses. Retirez à Panama City et prenez de petites coupures, la monnaie étant limitée sur une petite île.
+Il n'y a aucun distributeur dans Guna Yala et aucun terminal de paiement sur les îles. Il vous faut du liquide pour la **taxe communautaire d'entrée — 22 dollars pour les étrangers, 7 pour les résidents**, réglée à l'entrée de la comarca, sauf si vous la payez par carte à notre chauffeur — et pour tout le reste : molas achetées aux artisanes guna, boissons, en-cas et options diverses. Retirez à Panama City et prenez de petites coupures, la monnaie étant limitée sur une petite île.
 
 Pour le détail par type de voyage — excursion, séjour ou voilier — voyez [faut-il des espèces à San Blas ?](/fr/blog/do-you-need-cash-in-san-blas).
 

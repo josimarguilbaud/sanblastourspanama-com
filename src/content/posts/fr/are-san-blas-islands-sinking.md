@@ -65,7 +65,7 @@ Pour une vue d'ensemble du nombre d'îles et de celles qui sont habitées, comme
 
 Rien de tout cela n'est une raison de ne pas venir. Le tourisme, géré par les Guna eux-mêmes, fait partie de ce qui fait vivre la comarca. Ce qui compte, c'est votre comportement une fois sur place :
 
-- **Payez la taxe d'entrée de la comarca** en espèces au poste de contrôle. Elle va au territoire guna, pas à une agence, comme nous l'expliquons dans [où va la taxe communautaire](/fr/blog/where-does-community-tax-go).
+- **Payez la taxe d'entrée de la comarca** au poste de contrôle, en espèces ou par carte à notre chauffeur. Elle va au territoire guna, pas à une agence, comme nous l'expliquons dans [où va la taxe communautaire](/fr/blog/where-does-community-tax-go).
 - **Laissez le récif tranquille.** Le corail est le brise-lames des îles. Ne marchez pas dessus, utilisez une crème solaire respectueuse des récifs et ne rapportez rien, ni sable, ni coquillages, ni corail. Notre [guide de la faune marine](/fr/guides/marine-wildlife) explique ce qui y vit.
 - **Remportez vos déchets.** Les petites îles n'ont nulle part où les mettre, et notre [guide de l'écotourisme](/fr/guides/eco-tourism) rappelle l'essentiel.
 - **Traitez les communautés comme des communautés.** Gardi Sugdub et ses voisines ne sont pas une attraction. Demandez avant de photographier quelqu'un et suivez les indications de votre guide guna.

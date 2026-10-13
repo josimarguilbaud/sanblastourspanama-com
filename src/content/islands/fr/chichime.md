@@ -33,7 +33,7 @@ Chichime se trouve vers l'extrémité occidentale de l'archipel et s'atteint com
 
 - **Idéal pour :** première visite, plongée libre facile, photos de coucher de soleil et de carte postale.
 - **Équipements :** sommaires — abris en palmes pour l'ombre, pas d'eau courante, pas d'électricité pour les visiteurs, pas de boutique.
-- **Espèces :** la taxe d'entrée de la comarca se règle en liquide à l'arrivée à Guna Yala, et il n'y a aucun distributeur dans tout le territoire.
+- **Espèces :** il n'y a aucun distributeur dans tout le territoire ; la taxe d'entrée de la comarca, due à l'arrivée à Guna Yala, se règle en liquide ou par carte à notre chauffeur.
 
 ## Questions fréquentes
 
@@ -44,10 +44,10 @@ Chichime se trouve vers l'extrémité occidentale de l'archipel et s'atteint com
 C'est l'un des endroits les plus doux de San Blas pour commencer. Le récif est proche du rivage, dans une eau peu profonde, et vous n'êtes jamais loin d'un fond de sable où poser les pieds. Le gilet de sauvetage est obligatoire dans les bateaux pour les adultes comme pour les enfants, et rien ne vous empêche de le garder dans l'eau.
 
 ### Faut-il payer quelque chose en arrivant à Chichime ?
-Pas à l'île elle-même, mais tout visiteur de Guna Yala paie une taxe d'entrée à la comarca — 22 dollars pour les étrangers, 7 pour les résidents munis d'un passeport ou d'une carte de résidence valide — en espèces et séparément du prix de l'excursion. Elle va directement à la communauté guna. Emportez ces espèces : il n'y a pas de distributeur dans la comarca.
+Pas à l'île elle-même, mais tout visiteur de Guna Yala paie une taxe d'entrée à la comarca — 22 dollars pour les étrangers, 7 pour les résidents munis d'un passeport ou d'une carte de résidence valide — séparément du prix de l'excursion, en espèces ou par carte à notre chauffeur. Elle va directement à la communauté guna. Si vous payez en espèces, emportez-les : il n'y a pas de distributeur dans la comarca.
 
 ### Peut-on dormir à Chichime ?
 Les nuits à San Blas se réservent par type de cabane et non par île nommée, et l'île est confirmée peu avant la date selon les disponibilités : Chichime ne peut donc pas être promise nommément. Chichime figure en revanche comme arrêt sur les itinéraires à la journée et sur plusieurs jours au départ de Cartí.
 
 ### Que faut-il emporter pour une journée à Chichime ?
-De la crème solaire biodégradable, un chapeau et des lunettes de soleil, une serviette, un sac étanche, votre passeport ou pièce d'identité originale — une photocopie est refusée au poste de contrôle de la comarca — et assez d'espèces pour la taxe d'entrée. Il n'y a ni boutique ni eau potable pour les visiteurs sur l'îlot : tout ce dont vous avez besoin doit arriver avec vous dans le bateau.
+De la crème solaire biodégradable, un chapeau et des lunettes de soleil, une serviette, un sac étanche, votre passeport ou pièce d'identité originale — une photocopie est refusée au poste de contrôle de la comarca — et des espèces pour la taxe d'entrée, sauf si vous la réglez par carte à notre chauffeur. Il n'y a ni boutique ni eau potable pour les visiteurs sur l'îlot : tout ce dont vous avez besoin doit arriver avec vous dans le bateau.

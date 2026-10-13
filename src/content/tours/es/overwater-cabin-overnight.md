@@ -31,7 +31,7 @@ Hay muchísimas menos cabañas overwater que de cualquier otra categoría, y son
 - ✅ Tour a 2 islas adicionales más la Piscina Natural
 - ✅ Guía local Guna
 - ⛔ Bebidas alcohólicas, snacks, equipo de snorkel, toallas y jabón
-- ⛔ Impuesto comarcal de Guna Yala (se paga aparte, en efectivo)
+- ⛔ Impuesto comarcal de Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor)
 
 **¿Listo para reservar la noche más icónica de San Blas?** Escríbenos por WhatsApp para fechas y precios actuales.
 

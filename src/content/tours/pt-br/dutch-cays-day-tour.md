@@ -27,7 +27,7 @@ Pergunte a qualquer guia de San Blas qual passeio tem o melhor snorkel: a respos
 - ✅ Snorkel nos Cayos Holandeses
 - ✅ Almoço com bebida
 - ✅ Coletes salva-vidas e guia Guna local experiente
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro)
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista)
 
 ## Para quem é este passeio
 

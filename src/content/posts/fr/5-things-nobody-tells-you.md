@@ -38,7 +38,7 @@ Le résultat, c'est le San Blas que les gens viennent chercher : pas d'immeubles
 
 ## 5. L'argent circule en espèces, et rien n'est à prendre
 
-Il n'y a aucun distributeur à Guna Yala et aucun terminal de carte sur les îles. Retirez des dollars à Panama City, en petites coupures, pour la taxe d'entrée, les boissons non incluses, les pourboires et surtout les molas, ces panneaux textiles en couches vendus par les femmes qui les cousent. [Faut-il des espèces à San Blas ?](/fr/blog/do-you-need-cash-in-san-blas) détaille quoi emporter selon le type de voyage.
+Il n'y a aucun distributeur à Guna Yala et aucun terminal de carte sur les îles. Retirez des dollars à Panama City, en petites coupures, pour la taxe d'entrée (sauf si vous la réglez par carte à notre chauffeur), les boissons non incluses, les pourboires et surtout les molas, ces panneaux textiles en couches vendus par les femmes qui les cousent. [Faut-il des espèces à San Blas ?](/fr/blog/do-you-need-cash-in-san-blas) détaille quoi emporter selon le type de voyage.
 
 La partie moins évidente : presque chaque caye inhabitée est entretenue par une famille guna, et ses noix de coco sont la récolte de cette famille. En ramasser une sur le sable ou en faire tomber une d'un palmier, c'est prendre un revenu à quelqu'un, pas cueillir. Il en va de même pour les coquillages, les étoiles de mer et tout ce qui semble sans propriétaire. Demandez, achetez ou laissez sur place.
 
@@ -49,7 +49,7 @@ La partie moins évidente : presque chaque caye inhabitée est entretenue par un
 | Une île-resort avec services | Des cabanes rustiques tenues par des familles guna, par la loi et par choix |
 | Choisir parmi 365 îles | Quelques cayes près de Cartí, choisies par le capitaine le jour même |
 | Un parc national avec billet | Un territoire indigène avec son contrôle et sa taxe |
-| Payer par carte | Espèces uniquement, dès le poste de contrôle |
+| Payer par carte | Espèces uniquement sur les îles ; la taxe, aussi par carte au chauffeur |
 | Rester connecté | Réseau intermittent et pas de wifi ; la plupart finissent par l'apprécier |
 
 Rien de tout cela ne rend San Blas plus difficile à apprécier. Cela le rend plus facile, car ce qui frustre les visiteurs, ce sont presque toujours des attentes importées d'ailleurs.

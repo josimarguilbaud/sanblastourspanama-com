@@ -23,7 +23,7 @@ Nicht jeder Anbieter sagt das offen, wir schon: VIP ist eine **andere Route**, k
 - ✅ Ein Stopp in einer **Guna-Gemeinde**, wo Molas von den Kunsthandwerkerinnen selbst gefertigt und verkauft werden
 - ✅ Insgesamt mehr Stopps als die Classic-Route
 - ⛔ Schnorchelausrüstung ist nicht garantiert — bringen Sie eigene mit, wenn Ihnen die Passform wichtig ist
-- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar — der Betrag steht in unseren [häufigen Fragen](/de/faq))
+- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar oder mit Karte beim Fahrer — der Betrag steht in unseren [häufigen Fragen](/de/faq))
 
 ## Das Schnorcheln am Schiffswrack
 

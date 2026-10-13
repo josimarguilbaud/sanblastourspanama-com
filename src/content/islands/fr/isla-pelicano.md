@@ -22,7 +22,7 @@ La distance. Pelícano se trouve dans le secteur des Cayos Holandeses, plus loin
 
 ## Comment y aller : l'excursion privée
 
-Isla Pelícano relève de l'itinéraire Super VIP Privé et non des journées partagées. Cette formule met à disposition de votre groupe un 4x4 privé et un bateau privé, avec un programme que vous contribuez à décider dans les limites de la météo et des horaires : une île aussi éloignée devient alors une demande raisonnable plutôt qu'impossible. Déjeuner avec boisson, gilets de sauvetage et guide guna dédié sont compris ; la taxe d'entrée de la comarca se règle à part, en espèces.
+Isla Pelícano relève de l'itinéraire Super VIP Privé et non des journées partagées. Cette formule met à disposition de votre groupe un 4x4 privé et un bateau privé, avec un programme que vous contribuez à décider dans les limites de la météo et des horaires : une île aussi éloignée devient alors une demande raisonnable plutôt qu'impossible. Déjeuner avec boisson, gilets de sauvetage et guide guna dédié sont compris ; la taxe d'entrée de la comarca se règle à part, en espèces ou par carte au chauffeur.
 
 ## Ce qu'il y a réellement sur l'île
 

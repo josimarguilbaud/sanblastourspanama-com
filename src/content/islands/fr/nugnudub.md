@@ -50,7 +50,7 @@ Demandez d'abord. Les maisons, les pirogues et les gestes quotidiens ne sont pas
 Une mola est un panneau textile cousu à la main, un véritable art guna, et non un souvenir fabriqué ailleurs. Le meilleur endroit pour en acheter une reste directement auprès de la femme qui l'a réalisée, sur une île comme celle-ci, où l'argent parvient à l'artisane plutôt qu'à un intermédiaire.
 
 ### Faut-il payer pour visiter une île habitée ?
-Prévoyez un petit droit d'entrée communautaire par visiteur, en espèces, réglé sur l'île et distinct du prix de l'excursion. Il diffère de la taxe d'entrée de la comarca de Guna Yala, que tout visiteur paie en espèces en entrant sur le territoire. Il n'y a aucun distributeur à Guna Yala : emportez de quoi couvrir les deux.
+Prévoyez un petit droit d'entrée communautaire par visiteur, en espèces, réglé sur l'île et distinct du prix de l'excursion. Il diffère de la taxe d'entrée de la comarca de Guna Yala, que tout visiteur paie en entrant sur le territoire, en espèces ou par carte à notre chauffeur. Il n'y a aucun distributeur à Guna Yala : emportez de quoi couvrir le droit communautaire, et la taxe si vous la réglez en espèces.
 
 ### Quelle différence entre une île habitée et un îlot inhabité ?
 Pour un visiteur, surtout une question d'attentes. Un îlot inhabité, c'est du sable, des cocotiers et de l'eau, sans équipements et sans personne à ménager. Une île habitée a des résidents, des habitudes, des limites et généralement un droit communautaire : vous y êtes un invité et non la seule personne sur la plage, et il vaut mieux arriver avec cela en tête.

@@ -31,7 +31,7 @@ Sua estrutura de camping para a noite está incluída na reserva. O que ela é e
 - ✅ Um passeio a 2 ilhas adicionais mais a Piscina Natural
 - ✅ Um guia Guna local
 - ⛔ Bebidas alcoólicas, lanches, equipamento de snorkel, toalhas e sabonete
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro)
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista)
 
 **Pronto para dormir sob o céu noturno de San Blas?** Fale conosco no WhatsApp para datas e preços atuais.
 

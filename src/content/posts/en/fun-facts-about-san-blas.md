@@ -30,7 +30,7 @@ An earlier version of this list included a few claims we could not back up with 
 
 **7. Guna Yala is not the only Guna comarca.** Panama has two more, both inland: Madungandí, in Panamá province, and Wargandí, created by [Law 34 of 2000](https://panama.justia.com/federales/leyes/34-de-2000-jul-28-2000/gdoc) on land in Darién province. So yes, there are Guna communities in the Darién — just not on the islands.
 
-**8. Entering costs a tax, and there is nowhere to withdraw cash.** Every visitor pays a comarca entry tax — $22 for foreigners, $7 for residents and nationals — in cash, separate from any tour price. There are no ATMs or card terminals on the islands, so it all comes with you. See [where the community tax goes](/blog/where-does-community-tax-go) and [how much cash to bring](/blog/do-you-need-cash-in-san-blas).
+**8. Entering costs a tax, and there is nowhere to withdraw cash.** Every visitor pays a comarca entry tax — $22 for foreigners, $7 for residents and nationals — separate from any tour price; on our tours the driver takes it in cash or by card. There are no ATMs or card terminals on the islands, so everything else you spend comes with you. See [where the community tax goes](/blog/where-does-community-tax-go) and [how much cash to bring](/blog/do-you-need-cash-in-san-blas).
 
 ## Culture you can see
 

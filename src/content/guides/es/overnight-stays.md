@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-02
+updatedAt: 2026-10-13
 title: "Dormir en San Blas — Los 5 Tipos de Cabaña"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -36,7 +36,7 @@ En todo San Blas las cabañas de una misma categoría son casi idénticas de una
 - Una parada en la Piscina Natural
 - Un guía Guna local
 
-**No incluye:** bebidas y snacks, bebidas alcohólicas, el impuesto comunitario de Guna Yala (en efectivo y aparte), equipo de snorkel y artículos personales como toallas o jabón.
+**No incluye:** bebidas y snacks, bebidas alcohólicas, el impuesto comunitario de Guna Yala (aparte, en efectivo o con tarjeta al conductor), equipo de snorkel y artículos personales como toallas o jabón.
 
 Como en las islas nada se paga con tarjeta, las bebidas y los extras de una estadía van en efectivo; [¿necesitas efectivo en San Blas?](/es/blog/do-you-need-cash-in-san-blas) explica qué llevar.
 

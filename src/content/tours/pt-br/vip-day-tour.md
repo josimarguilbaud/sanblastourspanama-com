@@ -23,7 +23,7 @@ Nem todo operador diz isso com clareza; nós dizemos: o VIP é um **roteiro dife
 - ✅ Uma parada em **comunidade Guna**, onde as molas são feitas e vendidas pelas próprias artesãs
 - ✅ Mais paradas no total do que o roteiro Classic
 - ⛔ O equipamento de snorkel não é garantido — leve o seu se faz questão do caimento
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro — o valor está nas nossas [perguntas frequentes](/pt-br/faq))
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista — o valor está nas nossas [perguntas frequentes](/pt-br/faq))
 
 ## O snorkel no naufrágio
 

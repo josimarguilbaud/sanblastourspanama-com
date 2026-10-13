@@ -38,7 +38,7 @@ The result is the San Blas people come for: no high-rises, no jet skis, no loud 
 
 ## 5. Money runs on cash, and nothing is free for the taking
 
-There are no ATMs anywhere in Guna Yala and no card terminals on the islands. Withdraw dollars in Panama City, in small bills, for the entry tax, drinks beyond what is included, tips, and above all molas, the layered textile panels sold by the women who make them. [Do you need cash in San Blas?](/blog/do-you-need-cash-in-san-blas) breaks down what to carry for each kind of trip.
+There are no ATMs anywhere in Guna Yala and no card terminals on the islands. Withdraw dollars in Panama City, in small bills, for the entry tax (unless you pay it by card to our driver), drinks beyond what is included, tips, and above all molas, the layered textile panels sold by the women who make them. [Do you need cash in San Blas?](/blog/do-you-need-cash-in-san-blas) breaks down what to carry for each kind of trip.
 
 The less obvious part: almost every uninhabited cay is looked after by a Guna family, and its coconuts are that family's harvest. Picking one up from the sand or knocking one down from a palm is taking someone's income, not foraging. The same goes for shells, sea stars and anything else that looks unclaimed. Ask, buy, or leave it.
 
@@ -49,7 +49,7 @@ The less obvious part: almost every uninhabited cay is looked after by a Guna fa
 | A resort island with services | Rustic cabins run by Guna families, by law and by choice |
 | Choosing among 365 islands | A few cays near Cartí, chosen by the captain on the day |
 | A national park with a ticket | An indigenous territory with its own checkpoint and tax |
-| Paying by card | Cash only, from the checkpoint onwards |
+| Paying by card | Cash only on the islands; the entry tax also by card to our driver |
 | Staying connected | Patchy signal and no wifi; most people end up enjoying it |
 
 None of this makes San Blas harder to enjoy. It makes it easier, because the things that frustrate visitors are almost always expectations imported from somewhere else.

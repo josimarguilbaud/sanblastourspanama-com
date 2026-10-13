@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-02
+updatedAt: 2026-10-13
 title: "Übernachten in San Blas — die 5 Hüttentypen"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -36,7 +36,7 @@ In ganz San Blas sind Hütten derselben Kategorie von Insel zu Insel nahezu iden
 - Ein Stopp am Natural Pool
 - Ein einheimischer Guna-Guide
 
-**Nicht enthalten:** Getränke und Snacks, Alkohol, die Gemeindegebühr von Guna Yala (bar, separat), Schnorchelausrüstung sowie persönliche Dinge wie Handtücher und Seife.
+**Nicht enthalten:** Getränke und Snacks, Alkohol, die Gemeindegebühr von Guna Yala (separat, bar oder mit Karte beim Fahrer), Schnorchelausrüstung sowie persönliche Dinge wie Handtücher und Seife.
 
 Da auf den Inseln nichts mit Karte bezahlt wird, laufen Getränke und Extras während eines Aufenthalts bar; [Braucht man Bargeld in San Blas?](/de/blog/do-you-need-cash-in-san-blas) erklärt, was Sie mitnehmen sollten.
 

@@ -38,7 +38,7 @@ O resultado é a San Blas que as pessoas vêm procurar: sem prédios altos, sem 
 
 ## 5. O dinheiro é em espécie, e nada está lá para ser levado
 
-Não há caixas eletrônicos em nenhum ponto de Guna Yala nem maquininhas de cartão nas ilhas. Saque dólares na Cidade do Panamá, em notas pequenas, para o imposto de entrada, as bebidas que não estiverem incluídas, as gorjetas e sobretudo as molas, os painéis têxteis em camadas vendidos pelas mulheres que os costuram. [Precisa de dinheiro em espécie em San Blas?](/pt-br/blog/do-you-need-cash-in-san-blas) detalha o que levar conforme o tipo de viagem.
+Não há caixas eletrônicos em nenhum ponto de Guna Yala nem maquininhas de cartão nas ilhas. Saque dólares na Cidade do Panamá, em notas pequenas, para o imposto de entrada (a menos que você o pague com cartão ao nosso motorista), as bebidas que não estiverem incluídas, as gorjetas e sobretudo as molas, os painéis têxteis em camadas vendidos pelas mulheres que os costuram. [Precisa de dinheiro em espécie em San Blas?](/pt-br/blog/do-you-need-cash-in-san-blas) detalha o que levar conforme o tipo de viagem.
 
 A parte menos óbvia: quase todo cayo desabitado é cuidado por uma família guna, e os cocos são a colheita dessa família. Pegar um da areia ou derrubar um da palmeira é tirar a renda de alguém, não colher. O mesmo vale para conchas, estrelas-do-mar e tudo o que parece não ter dono. Pergunte, compre ou deixe onde está.
 
@@ -49,7 +49,7 @@ A parte menos óbvia: quase todo cayo desabitado é cuidado por uma família gun
 | Uma ilha-resort com serviços | Cabanas rústicas tocadas por famílias guna, por lei e por escolha |
 | Escolher entre 365 ilhas | Alguns cayos perto de Cartí, escolhidos pelo capitão no dia |
 | Um parque nacional com ingresso | Um território indígena com controle e imposto próprios |
-| Pagar com cartão | Só dinheiro vivo, a partir do posto de controle |
+| Pagar com cartão | Só dinheiro vivo nas ilhas; o imposto, também no cartão com o motorista |
 | Ficar conectado | Sinal instável e sem wi-fi; quase todos acabam gostando |
 
 Nada disso torna San Blas mais difícil de aproveitar. Torna mais fácil, porque o que frustra os visitantes quase sempre são expectativas trazidas de outro lugar.

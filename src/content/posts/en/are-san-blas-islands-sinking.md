@@ -65,7 +65,7 @@ If you want the bigger picture of how many islands there are and how many are in
 
 None of this is a reason to stay away. Tourism, run by the Guna themselves, is part of how the comarca pays its way. What matters is how you behave once you are there:
 
-- **Pay the comarca's entry tax** in cash at the checkpoint. It goes to the Guna territory, not to a tour company, as we explain in [where the community tax goes](/blog/where-does-community-tax-go).
+- **Pay the comarca's entry tax** at the checkpoint, in cash or by card to our driver. It goes to the Guna territory, not to a tour company, as we explain in [where the community tax goes](/blog/where-does-community-tax-go).
 - **Leave the reef alone.** Coral is the islands' breakwater. Don't stand on it, use reef-safe sunscreen and take nothing home, sand, shells and coral included. Our [marine wildlife guide](/guides/marine-wildlife) explains what lives there.
 - **Carry your rubbish out.** Small islands have nowhere to put it, and our [eco-tourism guide](/guides/eco-tourism) sets out the basics.
 - **Treat communities as communities.** Gardi Sugdub and its neighbours are not an attraction. Ask before photographing people, and follow your Guna guide's lead.

@@ -31,7 +31,7 @@ Es gibt weit weniger Overwater-Hütten als in jeder anderen Kategorie, und sie s
 - ✅ Eine Tour zu 2 weiteren Inseln plus dem Naturpool
 - ✅ Ein lokaler Guna-Guide
 - ⛔ Alkoholische Getränke, Snacks, Schnorchelausrüstung, Handtücher und Seife
-- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar zu zahlen)
+- ⛔ Guna-Yala-Gemeinschaftssteuer (separat zu zahlen, bar oder mit Karte beim Fahrer)
 
 **Bereit für die ikonischste Nacht in San Blas?** Schreiben Sie uns auf WhatsApp für Termine und Preise.
 

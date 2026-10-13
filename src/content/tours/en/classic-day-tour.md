@@ -25,7 +25,7 @@ Some operators blur the line between their packages; we'd rather be plain. The C
 - ✅ Life jackets and a local Guna guide
 - ⛔ Guided reef snorkeling (VIP tour only)
 - ⛔ Snorkel gear, towels and soap — bring your own
-- ⛔ Guna Yala community entry tax (paid separately, in cash)
+- ⛔ Guna Yala community entry tax (paid separately, in cash or by card to the driver)
 
 ## A typical day
 

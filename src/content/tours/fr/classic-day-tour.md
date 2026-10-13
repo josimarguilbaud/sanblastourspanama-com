@@ -25,7 +25,7 @@ Certains prestataires entretiennent le flou entre leurs formules ; nous préfér
 - ✅ Gilets de sauvetage et guide Guna local
 - ⛔ Snorkeling guidé sur récif (excursion VIP uniquement)
 - ⛔ Matériel de snorkeling, serviettes et savon — à apporter
-- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces)
+- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces ou par carte au chauffeur)
 
 ## Une journée type
 

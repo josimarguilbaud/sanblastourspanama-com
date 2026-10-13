@@ -22,7 +22,7 @@ Die Entfernung. Pelícano liegt im Sektor der Cayos Holandeses, weiter vom Einsc
 
 ## Die Anreise: die Privattour
 
-Isla Pelícano gehört zur Route Super VIP Privat und nicht zu den geteilten Tagestouren. Diese Tour stellt Ihrer Gruppe einen privaten 4x4 und ein privates Boot, mit einem Ablauf, den Sie im Rahmen von Wetter und Zeit mitbestimmen — so wird eine derart weit draußen gelegene Insel zu einem vernünftigen Wunsch statt zu einem unmöglichen. Mittagessen mit Getränk, Schwimmwesten und ein eigener Guna-Guide sind enthalten; die Eintrittsabgabe der Comarca wird separat und bar bezahlt.
+Isla Pelícano gehört zur Route Super VIP Privat und nicht zu den geteilten Tagestouren. Diese Tour stellt Ihrer Gruppe einen privaten 4x4 und ein privates Boot, mit einem Ablauf, den Sie im Rahmen von Wetter und Zeit mitbestimmen — so wird eine derart weit draußen gelegene Insel zu einem vernünftigen Wunsch statt zu einem unmöglichen. Mittagessen mit Getränk, Schwimmwesten und ein eigener Guna-Guide sind enthalten; die Eintrittsabgabe der Comarca wird separat bezahlt, bar oder mit Karte beim Fahrer.
 
 ## Was tatsächlich auf der Insel ist
 

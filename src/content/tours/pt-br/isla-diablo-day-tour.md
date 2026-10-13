@@ -32,7 +32,7 @@ Publicamos ele inteiro, porque "quais ilhas eu vou ver" não deveria continuar s
 - ✅ Visita a comunidade Guna
 - ✅ Almoço com bebida
 - ⛔ Snorkel guiado no recife (exclusivo do nosso [passeio VIP](/pt-br/tours/vip-day-tour))
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro)
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista)
 
 ## Como se compara ao VIP
 

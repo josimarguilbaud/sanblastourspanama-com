@@ -23,7 +23,7 @@ Tous les prestataires ne le disent pas franchement ; nous, si : la VIP est un **
 - ✅ Un arrêt dans une **communauté Guna**, où les molas sont fabriquées et vendues par les artisanes elles-mêmes
 - ✅ Davantage d'arrêts au total que l'itinéraire Classic
 - ⛔ Le matériel de snorkeling n'est pas garanti — apportez le vôtre si la taille du masque compte pour vous
-- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces — montant dans nos [questions fréquentes](/fr/faq))
+- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces ou par carte au chauffeur — montant dans nos [questions fréquentes](/fr/faq))
 
 ## Le snorkeling sur l'épave
 

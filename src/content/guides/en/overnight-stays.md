@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-02
+updatedAt: 2026-10-13
 title: "San Blas Overnight Stays — 5 Cabin Types Explained"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -36,7 +36,7 @@ Across San Blas, cabins within the same category are near-identical from one isl
 - A stop at the Natural Pool
 - A local Guna guide
 
-**Not included:** drinks and snacks, alcoholic beverages, the Guna Yala community tax (cash, paid separately), snorkel gear, and personal items such as towels and soap.
+**Not included:** drinks and snacks, alcoholic beverages, the Guna Yala community tax (paid separately, in cash or by card to the driver), snorkel gear, and personal items such as towels and soap.
 
 Since nothing on the islands takes cards, drinks and extras during a stay are paid in cash; [do you need cash in San Blas?](/blog/do-you-need-cash-in-san-blas) explains what to bring.
 

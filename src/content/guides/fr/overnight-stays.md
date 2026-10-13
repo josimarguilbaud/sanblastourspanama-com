@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-02
+updatedAt: 2026-10-13
 title: "Dormir à San Blas — les 5 Types de Cabane"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -36,7 +36,7 @@ Partout à San Blas, les cabanes d'une même catégorie sont quasi identiques d'
 - Un arrêt à la Piscine Naturelle
 - Un guide guna local
 
-**Non compris :** boissons et en-cas, alcools, la taxe communautaire de Guna Yala (en espèces, à part), le matériel de snorkeling et les effets personnels comme serviettes et savon.
+**Non compris :** boissons et en-cas, alcools, la taxe communautaire de Guna Yala (à part, en espèces ou par carte au chauffeur), le matériel de snorkeling et les effets personnels comme serviettes et savon.
 
 Comme rien ne se paie par carte sur les îles, boissons et extras d'un séjour se règlent en espèces ; [faut-il des espèces à San Blas ?](/fr/blog/do-you-need-cash-in-san-blas) explique quoi prévoir.
 

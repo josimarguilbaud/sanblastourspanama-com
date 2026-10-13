@@ -37,7 +37,7 @@ Quem passa a noite recebe uma cabana simples administrada por uma família Guna:
 
 ## O que o passeio de um dia não inclui
 
-Snorkel guiado em recife não faz parte desta rota: isso pertence ao passeio VIP, construído em torno do naufrágio de Perro Chico. O snorkel a partir da própria praia de Isla Diablo é fácil e sem guia: peixes-papagaio, sargentos e alguma arraia sobre os bancos de areia. A taxa de entrada da comarca de Guna Yala também é paga à parte, em espécie.
+Snorkel guiado em recife não faz parte desta rota: isso pertence ao passeio VIP, construído em torno do naufrágio de Perro Chico. O snorkel a partir da própria praia de Isla Diablo é fácil e sem guia: peixes-papagaio, sargentos e alguma arraia sobre os bancos de areia. A taxa de entrada da comarca de Guna Yala também é paga à parte, em espécie ou com cartão ao motorista.
 
 ## Bom saber
 

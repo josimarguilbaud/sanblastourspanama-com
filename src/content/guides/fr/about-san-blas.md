@@ -26,7 +26,7 @@ Le chiffre repris partout est **plus de 365 îles et cayos**, une pour chaque jo
 
 Guna Yala n'est pas une province panaméenne. C'est une comarca : un territoire indigène doté de son propre gouvernement, de son droit interne et de son autorité sur l'usage des terres. Ce qui se construit, et jusqu'où les visiteurs peuvent aller, se décide dans les congrès Guna et non à Panama City. Trois conséquences sautent aux yeux lors de toute visite :
 
-- **Une taxe communautaire d'entrée** est perçue en espèces à l'entrée de la comarca, séparément du prix du tour.
+- **Une taxe communautaire d'entrée** est perçue à l'entrée de la comarca, séparément du prix du tour ; sur nos excursions, elle se règle en espèces ou par carte au chauffeur.
 - **Les sociétés extérieures ne peuvent pas acheter de terrain**, si bien que chaque cabane, chaque bateau et chaque guide appartient à une famille ou une communauté Guna. C'est aussi pourquoi personne de l'extérieur ne peut [acheter une île à San Blas](/fr/blog/can-you-buy-an-island-in-san-blas).
 - **Les règles varient d'une île à l'autre**, puisque chaque communauté fixe les siennes.
 

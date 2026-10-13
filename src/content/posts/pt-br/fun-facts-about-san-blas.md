@@ -30,7 +30,7 @@ Uma versão anterior desta lista incluía algumas afirmações que não consegui
 
 **7. Guna Yala não é a única comarca Guna.** O Panamá tem mais duas, ambas no interior: Madungandí, na província do Panamá, e Wargandí, criada pela [Lei 34 de 2000](https://panama.justia.com/federales/leyes/34-de-2000-jul-28-2000/gdoc) em terras da província de Darién. Então sim, existem comunidades Guna no Darién — só que não nas ilhas.
 
-**8. Entrar custa uma taxa, e não há onde sacar dinheiro.** Todo visitante paga uma taxa de entrada na comarca — US$ 22 para estrangeiros, US$ 7 para residentes e panamenhos — em espécie, à parte do preço de qualquer passeio. Não há caixas eletrônicos nem maquininhas de cartão nas ilhas, então tudo tem de ir com você. Veja [para onde vai a taxa comunitária](/pt-br/blog/where-does-community-tax-go) e [quanto dinheiro levar](/pt-br/blog/do-you-need-cash-in-san-blas).
+**8. Entrar custa uma taxa, e não há onde sacar dinheiro.** Todo visitante paga uma taxa de entrada na comarca — US$ 22 para estrangeiros, US$ 7 para residentes e panamenhos — à parte do preço de qualquer passeio; nos nossos passeios o motorista cobra em espécie ou no cartão. Não há caixas eletrônicos nem maquininhas de cartão nas ilhas, então o resto do gasto tem de ir com você. Veja [para onde vai a taxa comunitária](/pt-br/blog/where-does-community-tax-go) e [quanto dinheiro levar](/pt-br/blog/do-you-need-cash-in-san-blas).
 
 ## Cultura que você pode ver
 

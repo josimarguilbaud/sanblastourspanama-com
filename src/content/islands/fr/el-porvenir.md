@@ -26,7 +26,7 @@ Les journées et les nuits sur place sont bâties autour des cayos pittoresques 
 
 ## Pourquoi cela vaut tout de même la peine de le savoir
 
-San Blas n'est pas une zone touristique panaméenne à saveur locale : c'est Guna Yala, une comarca autonome que les Guna administrent depuis des générations, avec son gouvernement, ses règles d'entrée et sa capitale. La taxe d'entrée que chaque visiteur règle en espèces à l'arrivée va à cette comarca, les guides des bateaux sont membres de la communauté, et le passeport ou la pièce d'identité originale exigée au poste de contrôle l'est parce que vous entrez sur un territoire qui se gouverne lui-même. C'est à El Porvenir que cette structure est la plus visible.
+San Blas n'est pas une zone touristique panaméenne à saveur locale : c'est Guna Yala, une comarca autonome que les Guna administrent depuis des générations, avec son gouvernement, ses règles d'entrée et sa capitale. La taxe d'entrée que chaque visiteur règle à l'arrivée, en espèces ou par carte à notre chauffeur, va à cette comarca, les guides des bateaux sont membres de la communauté, et le passeport ou la pièce d'identité originale exigée au poste de contrôle l'est parce que vous entrez sur un territoire qui se gouverne lui-même. C'est à El Porvenir que cette structure est la plus visible.
 
 Vous cherchez les îles où vous passerez réellement la journée ? **[Voir le guide complet des îles →](/fr/islands)**
 
@@ -45,4 +45,4 @@ C'est la capitale administrative de Guna Yala, qui est le nom propre de la régi
 Ce n'est pas une destination balnéaire. El Porvenir est une petite île largement bâtie dont la fonction est administrative et logistique ; les cayos de sable blanc, les bancs de sable et les récifs pour lesquels on vient à San Blas se trouvent ailleurs dans l'archipel.
 
 ### Pourquoi les visiteurs paient-ils une taxe pour entrer à Guna Yala ?
-Parce que Guna Yala est une comarca autonome et non une province panaméenne ordinaire. La taxe d'entrée est une redevance territoriale qui va directement à la communauté guna, réglée en espèces au poste frontière et séparément du prix de l'excursion. Emportez votre passeport ou pièce d'identité originale : une photocopie est refusée au contrôle.
+Parce que Guna Yala est une comarca autonome et non une province panaméenne ordinaire. La taxe d'entrée est une redevance territoriale qui va directement à la communauté guna, réglée au poste frontière, en espèces ou par carte à notre chauffeur, et séparément du prix de l'excursion. Emportez votre passeport ou pièce d'identité originale : une photocopie est refusée au contrôle.

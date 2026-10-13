@@ -32,7 +32,7 @@ Wir veröffentlichen ihn vollständig, denn „welche Inseln sehe ich" sollte ke
 - ✅ Besuch einer Guna-Gemeinde
 - ✅ Mittagessen mit Getränk
 - ⛔ Geführtes Riff-Schnorcheln (gehört zu unserer [VIP-Tour](/de/tours/vip-day-tour))
-- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar zu zahlen)
+- ⛔ Guna-Yala-Gemeinschaftssteuer (separat zu zahlen, bar oder mit Karte beim Fahrer)
 
 ## Der Vergleich mit der VIP-Tour
 

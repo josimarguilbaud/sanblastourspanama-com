@@ -31,7 +31,7 @@ Il n'y a pas de réseau électrique sur ces îles et aucune catégorie de cabane
 - ✅ Une sortie vers 2 îles supplémentaires plus la Piscine Naturelle
 - ✅ Un guide Guna local
 - ⛔ Boissons alcoolisées, en-cas, matériel de snorkeling, serviettes et savon
-- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces)
+- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces ou par carte au chauffeur)
 
 ## Sa place dans la gamme
 

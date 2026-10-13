@@ -56,7 +56,7 @@ Bocas bietet mehr Abwechslung. Der Nationale Meerespark Isla Bastimentos, 1988 a
 
 ## Kultur: ein lebendiges Gebiet oder ein bunter Karibikort
 
-San Blas zu besuchen heißt, das Gebiet anderer Menschen zu betreten. An der Grenze zahlen Sie eine Eintrittsgebühr der Comarca, 22 Dollar für Ausländer und 7 für Einwohner, bar und nicht im Tourpreis enthalten. Gemeinschaften können eine kleine Gebühr verlangen, Fotos von Menschen brauchen eine Erlaubnis, und vieles von der sichtbaren Kultur, von den Molas bis zum Kongresshaus, gehört zum Alltag und nicht zu einer Vorführung.
+San Blas zu besuchen heißt, das Gebiet anderer Menschen zu betreten. An der Grenze zahlen Sie eine Eintrittsgebühr der Comarca, 22 Dollar für Ausländer und 7 für Einwohner, bar oder auf unseren Touren mit Karte beim Fahrer, und nicht im Tourpreis enthalten. Gemeinschaften können eine kleine Gebühr verlangen, Fotos von Menschen brauchen eine Erlaubnis, und vieles von der sichtbaren Kultur, von den Molas bis zum Kongresshaus, gehört zum Alltag und nicht zu einer Vorführung.
 
 Bocas hat seine eigene tiefe Geschichte, mit afroantillanischen Gemeinschaften, die von karibischen Einwanderern abstammen, und dem Volk der Ngäbe, doch Sie erleben sie als Gast in einem lebhaften Ort und nicht als Besucher, der ein selbstverwaltetes Land betritt.
 

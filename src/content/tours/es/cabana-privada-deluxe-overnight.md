@@ -31,7 +31,7 @@ En estas islas no hay red eléctrica ni aire acondicionado en ninguna categoría
 - ✅ Tour a 2 islas adicionales más la Piscina Natural
 - ✅ Guía local Guna
 - ⛔ Bebidas alcohólicas, snacks, equipo de snorkel, toallas y jabón
-- ⛔ Impuesto comarcal de Guna Yala (se paga aparte, en efectivo)
+- ⛔ Impuesto comarcal de Guna Yala (se paga aparte, en efectivo o con tarjeta al conductor)
 
 ## Dónde queda dentro del catálogo
 

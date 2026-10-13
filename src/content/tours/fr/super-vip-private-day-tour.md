@@ -27,7 +27,7 @@ Pour les voyageurs qui veulent San Blas entièrement à leurs conditions — san
 - ✅ Un itinéraire d'îles flexible construit autour des envies de votre groupe
 - ✅ Déjeuner avec une boisson
 - ✅ Gilets de sauvetage et guide Guna dédié
-- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces)
+- ⛔ Taxe communautaire de Guna Yala (payée séparément, en espèces ou par carte au chauffeur)
 
 ## Qui réserve cette excursion
 
@@ -61,4 +61,4 @@ Oui — signalez-le à la réservation. Le savoir à l'avance permet au guide et
 
 ### La taxe communautaire est-elle incluse ?
 
-Non. La taxe d'entrée à Guna Yala se paie séparément, en espèces et par personne, exactement comme sur nos excursions partagées. Il n'y a aucun distributeur dans la comarca : prévoyez-la à l'avance.
+Non. La taxe d'entrée à Guna Yala se paie séparément et par personne, exactement comme sur nos excursions partagées : en espèces ou par carte au chauffeur. Il n'y a aucun distributeur dans la comarca : si vous payez en espèces, prévoyez-la à l'avance.

@@ -18,7 +18,7 @@ Presque toutes les destinations des Caraïbes se présentent aujourd'hui comme d
 
 Trois paiements distincts quittent votre poche lors d'un séjour à San Blas, et ils aboutissent à des endroits très différents :
 
-- **La taxe communautaire d'entrée** — **22 dollars pour les étrangers, 7 pour les résidents**, en espèces à la frontière du territoire. Elle n'est pas comprise dans le prix du tour et ce n'est pas une taxe touristique d'État : elle revient aux communautés Guna dont vous traversez le territoire.
+- **La taxe communautaire d'entrée** — **22 dollars pour les étrangers, 7 pour les résidents**, à la frontière du territoire, en espèces ou, sur nos excursions, par carte au chauffeur. Elle n'est pas comprise dans le prix du tour et ce n'est pas une taxe touristique d'État : elle revient aux communautés Guna dont vous traversez le territoire.
 - **L'excursion elle-même** — bateaux, chauffeurs, cuisinières et guides sont locaux, si bien que l'essentiel des dépenses d'exploitation reste dans la région au lieu de repartir avec un opérateur étranger.
 - **Ce que vous achetez sur les îles** — le plus souvent une mola, acquise directement auprès de la femme qui l'a cousue, sans intermédiaire. Savoir [comment se fabrique une vraie mola](/fr/blog/molas-explained) aide à la reconnaître.
 
@@ -45,7 +45,7 @@ Structurellement, oui : les sociétés extérieures ne peuvent ni posséder de t
 
 ### Qu'est-ce que la taxe communautaire de Guna Yala et qui la perçoit ?
 
-C'est un droit d'entrée par personne dans le territoire autonome : 22 dollars pour les étrangers, 7 pour les résidents, en espèces et hors prix du tour. Elle va directement aux communautés Guna, pas à un office national du tourisme.
+C'est un droit d'entrée par personne dans le territoire autonome : 22 dollars pour les étrangers, 7 pour les résidents, hors prix du tour, en espèces ou par carte à notre chauffeur. Elle va directement aux communautés Guna, pas à un office national du tourisme.
 
 ### Quelle crème solaire faut-il emporter ?
 

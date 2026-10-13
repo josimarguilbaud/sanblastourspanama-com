@@ -18,7 +18,7 @@ Land innerhalb der Comarca kann von einem auswärtigen Unternehmen nicht einfach
 
 Auf einer San-Blas-Reise verlassen drei getrennte Zahlungen Ihre Tasche, und sie enden an sehr verschiedenen Orten:
 
-- **Die Gemeinde-Eintrittsgebühr** — **22 US-Dollar für Ausländer, 7 für Residenten**, bar an der Grenze des Territoriums. Sie steckt nicht im Tourpreis und ist keine staatliche Tourismusabgabe: Sie geht an die Guna-Gemeinden, deren Gebiet Sie durchqueren.
+- **Die Gemeinde-Eintrittsgebühr** — **22 US-Dollar für Ausländer, 7 für Residenten**, an der Grenze des Territoriums, bar oder auf unseren Touren mit Karte beim Fahrer. Sie steckt nicht im Tourpreis und ist keine staatliche Tourismusabgabe: Sie geht an die Guna-Gemeinden, deren Gebiet Sie durchqueren.
 - **Die Tour selbst** — Boote, Fahrer, Köchinnen und Guides sind einheimisch, sodass der Großteil der Betriebsausgaben in der Region bleibt, statt mit einem ausländischen Anbieter abzufließen.
 - **Was Sie auf den Inseln kaufen** — meist eine Mola, direkt bei der Frau erworben, die sie genäht hat, ohne Zwischenhändler. Wer weiß, [wie eine echte Mola entsteht](/de/blog/molas-explained), erkennt sie leichter.
 
@@ -45,7 +45,7 @@ Strukturell ja — auswärtige Firmen dürfen hier kein Land besitzen und keine 
 
 ### Was ist die Gemeindegebühr von Guna Yala und wer erhält sie?
 
-Eine Eintrittsgebühr pro Person für das autonome Territorium: 22 US-Dollar für Ausländer, 7 für Residenten, bar und getrennt vom Tourpreis. Sie geht direkt an die Guna-Gemeinden, nicht an eine nationale Tourismusbehörde.
+Eine Eintrittsgebühr pro Person für das autonome Territorium: 22 US-Dollar für Ausländer, 7 für Residenten, getrennt vom Tourpreis, bar oder mit Karte bei unserem Fahrer. Sie geht direkt an die Guna-Gemeinden, nicht an eine nationale Tourismusbehörde.
 
 ### Welche Sonnencreme soll ich mitbringen?
 

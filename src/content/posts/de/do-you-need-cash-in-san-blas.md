@@ -8,7 +8,7 @@ seoTitle: "Bargeld in San Blas: Was Sie auf Jeder Reiseart Zahlen"
 seoDescription: "Keine Geldautomaten in Guna Yala, keine Kartenterminals auf den Inseln. Was Sie bei Tagestour, Inselaufenthalt oder Segeltörn bar zahlen und wo abheben."
 ---
 
-**Ja. Guna Yala hat keine Geldautomaten und die Inseln haben keine Kartenterminals, daher wird alles, was Sie in der Comarca ausgeben, in US-Dollar bar bezahlt. Der einzige feste Posten ist die Eintrittssteuer — 22 $ für Ausländer, 7 $ für Einwohner Panamas —, die in keinem Tourpreis enthalten ist. Wie viel mehr Sie brauchen, hängt davon ab, ob Sie für einen Tag, einige Nächte oder einen Segeltörn kommen.**
+**Ja. Guna Yala hat keine Geldautomaten und die Inseln haben keine Kartenterminals, daher wird alles, was Sie in der Comarca ausgeben, in US-Dollar bar bezahlt. Der einzige feste Posten ist die Eintrittssteuer — 22 $ für Ausländer, 7 $ für Einwohner Panamas —, die in keinem Tourpreis enthalten ist und auf unseren Touren auch mit Karte beim Fahrer bezahlt werden kann. Wie viel mehr Sie brauchen, hängt davon ab, ob Sie für einen Tag, einige Nächte oder einen Segeltörn kommen.**
 
 ## Warum es keine Geldautomaten und Kartenleser gibt
 

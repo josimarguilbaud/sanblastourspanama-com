@@ -8,7 +8,7 @@ seoTitle: "Dinheiro em San Blas: O Que Você Paga em Cada Viagem"
 seoDescription: "Sem caixas eletrônicos em Guna Yala, sem maquininhas nas ilhas. O que se paga em espécie num passeio, numa estadia ou de veleiro, e onde sacar antes."
 ---
 
-**Sim. Guna Yala não tem caixas eletrônicos e as ilhas não têm maquininhas de cartão, então tudo o que você gasta dentro da comarca é pago em dólares americanos, em espécie. O único custo fixo é o imposto de entrada — US$ 22 para estrangeiros, US$ 7 para residentes no Panamá —, que não está no preço de nenhum passeio. Quanto mais você precisa depende de vir por um dia, por algumas noites ou de veleiro.**
+**Sim. Guna Yala não tem caixas eletrônicos e as ilhas não têm maquininhas de cartão, então tudo o que você gasta dentro da comarca é pago em dólares americanos, em espécie. O único custo fixo é o imposto de entrada — US$ 22 para estrangeiros, US$ 7 para residentes no Panamá —, que não está no preço de nenhum passeio e, nos nossos passeios, também pode ir no cartão com o motorista. Quanto mais você precisa depende de vir por um dia, por algumas noites ou de veleiro.**
 
 ## Por que não há caixas eletrônicos nem maquininhas
 

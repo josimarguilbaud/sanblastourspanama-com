@@ -31,7 +31,7 @@ Nestas ilhas não há rede elétrica e nenhuma categoria de cabana tem ar-condic
 - ✅ Um passeio a 2 ilhas adicionais mais a Piscina Natural
 - ✅ Um guia Guna local
 - ⛔ Bebidas alcoólicas, lanches, equipamento de snorkel, toalhas e sabonete
-- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro)
+- ⛔ Taxa comunitária de Guna Yala (paga separadamente, em dinheiro ou com cartão ao motorista)
 
 ## Onde ela fica na linha
 

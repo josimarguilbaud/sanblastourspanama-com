@@ -31,7 +31,7 @@ Your camping setup for the night is provided as part of the booking. Exactly wha
 - ✅ A tour to 2 additional islands plus the Natural Pool
 - ✅ A local Guna guide
 - ⛔ Alcoholic drinks, snacks, snorkel gear, towels and soap
-- ⛔ Guna Yala community tax (paid separately, in cash)
+- ⛔ Guna Yala community tax (paid separately, in cash or by card to the driver)
 
 **Ready to sleep under San Blas's night sky?** Message us on WhatsApp for live dates and pricing.
 

@@ -27,7 +27,7 @@ Hütten werden **nach Typ gebucht, nicht nach Insel**. Die meisten Inseln in San
 - ✅ Eine Tour zu 2 weiteren Inseln plus dem Naturpool
 - ✅ Ein lokaler Guna-Guide
 - ⛔ Alkoholische Getränke, Snacks, Schnorchelausrüstung, Handtücher und Seife
-- ⛔ Guna-Yala-Gemeinschaftssteuer (separat, bar zu zahlen)
+- ⛔ Guna-Yala-Gemeinschaftssteuer (separat zu zahlen, bar oder mit Karte beim Fahrer)
 
 ## Classic oder Deluxe?
 

@@ -37,7 +37,7 @@ Das sind zwei verschiedene Sandbänke, die leicht verwechselt werden. Der Seeste
 
 ## Was die Tagestour nicht enthält
 
-Geführtes Riffschnorcheln gehört nicht zu dieser Route — das gehört zur VIP-Tagestour, die um das Wrack vor Perro Chico herum gebaut ist. Das Schnorcheln direkt vom Strand von Isla Diablo aus ist einfach und ungeführt: Papageifische, Sergeant Majors und gelegentlich ein Rochen über den Sandflächen. Die Eintrittsabgabe der Comarca Guna Yala wird ebenfalls separat und bar bezahlt.
+Geführtes Riffschnorcheln gehört nicht zu dieser Route — das gehört zur VIP-Tagestour, die um das Wrack vor Perro Chico herum gebaut ist. Das Schnorcheln direkt vom Strand von Isla Diablo aus ist einfach und ungeführt: Papageifische, Sergeant Majors und gelegentlich ein Rochen über den Sandflächen. Die Eintrittsabgabe der Comarca Guna Yala wird ebenfalls separat bezahlt, bar oder mit Karte beim Fahrer.
 
 ## Gut zu wissen
 

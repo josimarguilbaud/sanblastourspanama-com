@@ -35,7 +35,7 @@ Eine Packliste deckt das Gepäck ab; für den Zusammenhang, den sie nicht abdeck
 
 ## Die Sache mit dem Bargeld
 
-In ganz Guna Yala gibt es keinen Geldautomaten und auf den Inseln keine Kartenterminals. Bargeld brauchen Sie für die **Gemeinde-Eintrittsgebühr — 22 US-Dollar für Ausländer, 7 für Residenten**, zahlbar am Rand der Comarca — plus alles Weitere, was Sie ausgeben wollen: Molas von Guna-Kunsthandwerkerinnen, Getränke, Snacks und optionale Extras. Heben Sie in Panama-Stadt ab und nehmen Sie kleine Scheine mit, denn Wechselgeld ist auf einer kleinen Insel knapp.
+In ganz Guna Yala gibt es keinen Geldautomaten und auf den Inseln keine Kartenterminals. Bargeld brauchen Sie für die **Gemeinde-Eintrittsgebühr — 22 US-Dollar für Ausländer, 7 für Residenten**, zahlbar am Rand der Comarca, sofern Sie sie nicht mit Karte bei unserem Fahrer zahlen — plus alles Weitere, was Sie ausgeben wollen: Molas von Guna-Kunsthandwerkerinnen, Getränke, Snacks und optionale Extras. Heben Sie in Panama-Stadt ab und nehmen Sie kleine Scheine mit, denn Wechselgeld ist auf einer kleinen Insel knapp.
 
 Eine Aufschlüsselung nach Reiseart — Tagestour, Inselaufenthalt oder Segeltörn — finden Sie in [Braucht man Bargeld in San Blas?](/de/blog/do-you-need-cash-in-san-blas).
 

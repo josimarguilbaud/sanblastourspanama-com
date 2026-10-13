@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-02
+updatedAt: 2026-10-13
 title: "Como Chegar a San Blas Saindo da Cidade do Panamá"
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
@@ -31,7 +31,7 @@ Se precisar mudar o endereço de busca, isso tem de ser feito com **pelo menos 2
 ## Três coisas sem conserto depois que você sai
 
 - **Seu passaporte ou documento original.** É exigido no posto de controle de entrada no território Guna, e cópia ou foto no celular não são aceitas.
-- **Dinheiro em espécie.** Não há caixas eletrônicos em nenhum ponto de Guna Yala. Você precisa de dinheiro para a taxa comunitária e para o que comprar nas ilhas.
+- **Dinheiro em espécie.** Não há caixas eletrônicos em nenhum ponto de Guna Yala. Você precisa de dinheiro para o que comprar nas ilhas; a taxa comunitária se paga em dinheiro ou com cartão ao nosso motorista.
 - **O remédio para enjoo.** Tome antes de sair. Já na estrada de montanha é tarde para ele fazer efeito direito.
 
 É também no posto de controle que cada visitante paga o imposto de entrada da comarca, que vai para as autoridades guna e não para o seu operador; [para onde vai a taxa comunitária](/pt-br/blog/where-does-community-tax-go) explica quem cobra e por quê.
@@ -64,7 +64,7 @@ Pode, desde que peça com pelo menos 24 horas de antecedência. Mudanças na man
 
 ### Tem caixa eletrônico no caminho?
 
-Não. Não há caixas eletrônicos em nenhum lugar de Guna Yala. Saque tudo o que for precisar — taxa comunitária mais gastos — antes de sair da Cidade do Panamá.
+Não. Não há caixas eletrônicos em nenhum lugar de Guna Yala. Saque tudo o que for precisar — gastos, mais a taxa comunitária se não for pagá-la com cartão ao nosso motorista — antes de sair da Cidade do Panamá.
 
 ### Dá para chegar a San Blas sem passeio contratado?
 
