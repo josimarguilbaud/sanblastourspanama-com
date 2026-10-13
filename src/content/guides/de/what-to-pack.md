@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Packliste für San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
@@ -8,6 +9,8 @@ seoDescription: "Praktische Packliste für die San-Blas-Inseln in Panama, für T
 ---
 
 Packen Sie für ein Boot, nicht für ein Hotel. Alles, was Sie nach San Blas mitnehmen, tragen Sie selbst, es wird in einen 4x4 geladen, in ein Schnellboot umgeladen und landet schließlich im Sand — und es gibt keine Läden, die ein Versäumnis korrigieren, sobald Sie Panama-Stadt verlassen haben. Eine kleine weiche Tasche mit dem Richtigen schlägt eine große mit allem.
+
+Eine Packliste deckt das Gepäck ab; für den Zusammenhang, den sie nicht abdeckt, vom Kontrollposten bis zur Frage, wem die Kokosnüsse gehören, lesen Sie [5 Dinge, die Ihnen niemand vor Ihrem Besuch in San Blas sagt](/de/blog/5-things-nobody-tells-you).
 
 ## Für eine Tagestour
 
@@ -26,13 +29,15 @@ Packen Sie für ein Boot, nicht für ein Hotel. Alles, was Sie nach San Blas mit
 
 - **Leichte, bequeme Kleidung** für warme Abende und etwas zum Überziehen für den Weg durch ein Dorf.
 - **Wassersandalen**, die mit Sand, Bootsstufen und Korallenbruch besser zurechtkommen als Flipflops.
-- **Insektenschutz**, zusätzlich zur Sonnencreme. Abends zahlt er sich aus.
+- **Insektenschutz**, zusätzlich zur Sonnencreme. Abends zahlt er sich aus, denn dann [stechen die Chitras, winzige Fliegen der Inseln](/de/blog/sandflies-jellyfish-san-blas).
 - **Eine Powerbank.** Die meisten Inseln haben keinen Netzstrom, rechnen Sie also nicht mit einer Steckdose.
 - **Eine kleine Kühltasche** mit eigenen Getränken oder Snacks, falls gewünscht — optional, und die Größe vorher abklären.
 
 ## Die Sache mit dem Bargeld
 
 In ganz Guna Yala gibt es keinen Geldautomaten und auf den Inseln keine Kartenterminals. Bargeld brauchen Sie für die **Gemeinde-Eintrittsgebühr — 22 US-Dollar für Ausländer, 7 für Residenten**, zahlbar am Rand der Comarca — plus alles Weitere, was Sie ausgeben wollen: Molas von Guna-Kunsthandwerkerinnen, Getränke, Snacks und optionale Extras. Heben Sie in Panama-Stadt ab und nehmen Sie kleine Scheine mit, denn Wechselgeld ist auf einer kleinen Insel knapp.
+
+Eine Aufschlüsselung nach Reiseart — Tagestour, Inselaufenthalt oder Segeltörn — finden Sie in [Braucht man Bargeld in San Blas?](/de/blog/do-you-need-cash-in-san-blas).
 
 ## Was Sie nicht mitbringen sollten
 

@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "San Blas Overnight Stays — 5 Cabin Types Explained"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -8,6 +9,8 @@ seoDescription: "Considering sleeping over in San Blas? Compare all 5 cabin type
 ---
 
 A day tour shows you San Blas. Staying the night lets you be in it: the same stretch of sand at sunset and again at sunrise, a sky with no light pollution to spoil it, and an evening that belongs to the island rather than to the return convoy. Stays run **1 to 3 nights maximum**, and they are booked by **cabin type** rather than by a named island.
+
+Still deciding between a night on the islands and a single day? Our [day tour vs overnight stay comparison](/blog/day-tour-vs-overnight-stay) sets the two side by side.
 
 ## The five cabin types
 
@@ -34,6 +37,8 @@ Across San Blas, cabins within the same category are near-identical from one isl
 - A local Guna guide
 
 **Not included:** drinks and snacks, alcoholic beverages, the Guna Yala community tax (cash, paid separately), snorkel gear, and personal items such as towels and soap.
+
+Since nothing on the islands takes cards, drinks and extras during a stay are paid in cash; [do you need cash in San Blas?](/blog/do-you-need-cash-in-san-blas) explains what to bring.
 
 ## A 2-day, 1-night itinerary
 

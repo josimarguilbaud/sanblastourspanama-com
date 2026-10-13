@@ -41,7 +41,7 @@ Não há wi-fi em nenhuma ilha de San Blas, e o sinal de celular é irregular: a
 ## Perguntas frequentes
 
 ### Perro Grande e Perro Chico são a mesma ilha?
-Não, embora pertençam ao mesmo grupo e estejam a poucos minutos de lancha uma da outra. Perro Chico é um cayo pequeno e desabitado, conhecido pelo snorkel no naufrágio; Perro Grande é maior, habitada, e conhecida pelas praias largas e pela água calma para nadar. É comum alguém reservar uma pensando na outra.
+Não, embora pertençam ao mesmo grupo e estejam a poucos minutos de lancha uma da outra. Perro Chico é um cayo pequeno e desabitado, conhecido pelo snorkel no naufrágio; Perro Grande é maior, habitada, e conhecida pelas praias largas e pela água calma para nadar. É comum alguém reservar uma pensando na outra. Nosso guia sobre [Perro Chico e Perro Grande](/pt-br/blog/perro-vs-perro-chico-vs-perro-grande) compara lado a lado as ilhas do grupo.
 
 ### Posso reservar uma noite especificamente em Perro Grande?
 Pelo nome, não. As estadias são vendidas por tipo de cabana, e a ilha é atribuída perto da data conforme a disponibilidade — a maioria das ilhas de San Blas oferece cabanas quase idênticas dentro de cada categoria. Se uma ilha específica importa para você, diga na reserva: será levado em conta, mas não pode ser garantido.

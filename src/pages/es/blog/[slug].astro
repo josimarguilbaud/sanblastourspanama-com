@@ -7,6 +7,7 @@ import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
 import { Image } from 'astro:assets';
 import { resolverImagen } from '../../../lib/images';
+import { faqJsonLd } from '../../../lib/faq';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('posts');
@@ -20,7 +21,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, excerpt, heroImage, publishedAt, seoTitle, seoDescription } = entry.data;
+const { title, excerpt, heroImage, publishedAt, updatedAt, seoTitle, seoDescription } = entry.data;
 const slug = entry.id.replace(/^es\//, '');
 const t = useTranslations('es');
 
@@ -36,9 +37,18 @@ const jsonLd = {
   '@type': 'BlogPosting',
   headline: title,
   description: seoDescription ?? excerpt,
-  image: heroImage,
+  // Absoluta: una ruta relativa en `image` no la resuelve todo el que lee el dato.
+  ...(heroImage && { image: new URL(heroImage, Astro.site).href }),
   datePublished: publishedAt.toISOString(),
+  // Sin fecha de modificación, un asistente no sabe si el dato sigue vigente.
+  dateModified: (updatedAt ?? publishedAt).toISOString(),
+  inLanguage: 'es',
+  author: { '@id': 'https://sanblastourspanama.com/#organizacion' },
+  publisher: { '@id': 'https://sanblastourspanama.com/#organizacion' },
 };
+// Las preguntas del final del post, como FAQPage (src/lib/faq.ts). Las guías
+// ya lo emitían; los posts no, aunque casi todos traen su sección.
+const faqLd = faqJsonLd(entry.body ?? '');
 ---
 
 <Layout
@@ -49,6 +59,7 @@ const jsonLd = {
   path={`/blog/${slug}`}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
 
   {heroImage && (
     <div class="h-[35vh] min-h-[260px] w-full overflow-hidden">
@@ -60,7 +71,8 @@ const jsonLd = {
 
   <article class="mx-auto max-w-3xl px-4 pb-12 pt-4 sm:px-6 lg:px-8">
     <p class="text-sm text-deep/50">
-      {publishedAt.toLocaleDateString('es-PA', { year: 'numeric', month: 'long', day: 'numeric' })}
+      {publishedAt.toLocaleDateString('es-PA', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}
+      {updatedAt && updatedAt > publishedAt && <> · Actualizado <time datetime={updatedAt.toISOString().slice(0, 10)}>{updatedAt.toLocaleDateString('es-PA', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}</time></>}
     </p>
     <h1 class="mt-2 font-display text-4xl font-semibold text-deep sm:text-5xl">{title}</h1>
 

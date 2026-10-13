@@ -18,7 +18,7 @@ Entre la plupart des arrêts de San Blas, il y a une vraie traversée. Pas à Li
 
 ## Pourquoi l'eau a cet aspect
 
-L'eau claire ne doit rien au hasard ici. Aucune embouchure de rivière ne pousse de sédiments à proximité, aucun village n'occupe les îlots, et le sable est assez clair pour renvoyer la lumière à travers les hauts-fonds. Concrètement, la plongée libre est gratifiante même dans très peu d'eau près du rivage, et l'on distingue depuis la surface la limite entre l'eau à la taille et l'eau à la poitrine.
+L'eau claire ne doit rien au hasard ici. Aucune embouchure de rivière ne pousse de sédiments à proximité, aucun village n'occupe les îlots, et le sable est assez clair pour renvoyer la lumière à travers les hauts-fonds. Concrètement, la plongée libre est gratifiante même dans très peu d'eau près du rivage, et l'on distingue depuis la surface la limite entre l'eau à la taille et l'eau à la poitrine. Cette limpidité explique aussi pourquoi le groupe est si prisé des photographes ; notre [guide des spots photo de San Blas](/fr/blog/best-san-blas-photography-spots) explique comment en tirer parti.
 
 ## Où Limones apparaît dans un itinéraire
 

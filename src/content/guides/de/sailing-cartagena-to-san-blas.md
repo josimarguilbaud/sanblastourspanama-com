@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Mit dem Segelboot von Cartagena nach San Blas"
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
@@ -26,7 +27,7 @@ Der Großteil des Programms ist Zeit auf See. Ein Teil davon ist offenes Wasser 
 
 ## Wenn es Ihnen ums Segeln geht
 
-Wenn der Reiz das Boot ist und nicht die Grenze, hat das Archipel eine eigene Antwort: private, voll besetzte [Yacht- und Katamaran-Charter](/de/yachts), die San Blas nach einem Törnplan befahren, den Sie selbst festlegen, ohne die Pflicht, in einem anderen Land zu enden. Das ist ein anderes Produkt als eine Passage Kolumbien–Panama und passt meist besser zu allen, die *San Blas* besegeln wollen statt *durch* San Blas zu segeln.
+Wenn der Reiz das Boot ist und nicht die Grenze, hat das Archipel eine eigene Antwort: private, voll besetzte [Yacht- und Katamaran-Charter](/de/yachts), die San Blas nach einem Törnplan befahren, den Sie selbst festlegen, ohne die Pflicht, in einem anderen Land zu enden. Das ist ein anderes Produkt als eine Passage Kolumbien–Panama und passt meist besser zu allen, die *San Blas* besegeln wollen statt *durch* San Blas zu segeln. Einen direkten Vergleich von Überfahrt, Tour ab Panama-Stadt und privatem Charter finden Sie in unserem [Vergleich der drei Wege nach San Blas](/de/blog/sailing-vs-day-tour-vs-yacht-charter).
 
 ## Wenn San Blas selbst das Ziel ist
 

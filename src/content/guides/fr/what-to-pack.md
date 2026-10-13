@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Que Mettre dans sa Valise pour San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
@@ -8,6 +9,8 @@ seoDescription: "Liste pratique pour les îles de San Blas, Panama, aussi bien p
 ---
 
 Faites votre sac pour un bateau, pas pour un hôtel. Tout ce que vous emportez à San Blas, vous le portez, on le charge dans un 4x4, on le transborde dans une vedette et il finit sur le sable — et aucune boutique ne rattrapera un oubli une fois Panama City quittée. Un petit sac souple bien garni vaut mieux qu'un grand sac contenant tout.
+
+Une liste couvre le sac ; pour le contexte qu'elle ne couvre pas, du poste de contrôle à la question de savoir à qui appartiennent les noix de coco, lisez [5 choses que personne ne vous dit avant de visiter San Blas](/fr/blog/5-things-nobody-tells-you).
 
 ## Pour une excursion à la journée
 
@@ -26,13 +29,15 @@ Faites votre sac pour un bateau, pas pour un hôtel. Tout ce que vous emportez �
 
 - **Des vêtements légers et confortables** pour les soirées douces, et de quoi se couvrir pour traverser un village.
 - **Des sandales de mer**, qui gèrent mieux que les tongs le sable, les marches du bateau et les fragments de corail.
-- **Un répulsif à insectes**, en plus de la crème solaire. C'est le soir qu'il justifie sa place.
+- **Un répulsif à insectes**, en plus de la crème solaire. C'est le soir qu'il justifie sa place : c'est l'heure où [les chitras, les moucherons du coin, se mettent à piquer](/fr/blog/sandflies-jellyfish-san-blas).
 - **Une batterie externe.** La plupart des îles n'ont pas d'électricité de réseau : ne comptez pas sur une prise.
 - **Une petite glacière** avec vos boissons ou en-cas, si vous le souhaitez — facultatif, et mieux vaut confirmer la taille avant de la préparer.
 
 ## La question des espèces
 
 Il n'y a aucun distributeur dans Guna Yala et aucun terminal de paiement sur les îles. Il vous faut du liquide pour la **taxe communautaire d'entrée — 22 dollars pour les étrangers, 7 pour les résidents**, réglée à l'entrée de la comarca — et pour tout le reste : molas achetées aux artisanes guna, boissons, en-cas et options diverses. Retirez à Panama City et prenez de petites coupures, la monnaie étant limitée sur une petite île.
+
+Pour le détail par type de voyage — excursion, séjour ou voilier — voyez [faut-il des espèces à San Blas ?](/fr/blog/do-you-need-cash-in-san-blas).
 
 ## Ce qu'il ne faut pas emporter
 

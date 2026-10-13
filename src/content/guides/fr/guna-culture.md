@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Culture Guna : Ce qu'il Faut Savoir Avant de Venir"
 heroImage: "/img/mujeres-guna-molas-celebracion.webp"
 relatedGuideSlugs: ["history-of-san-blas", "about-san-blas", "eco-tourism"]
@@ -15,9 +16,9 @@ Les Guna sont l'un des plus grands peuples indigènes du Panama, et les guides, 
 
 ## Les molas : un art vivant, pas une gamme de souvenirs
 
-Les panneaux textiles cousus main en couches superposées appelés **molas** sont ce que la culture Guna a exporté de plus reconnaissable, et ils se font toujours comme avant : à la main, par des femmes Guna, comme pièces de leurs propres corsages de tous les jours avant d'être quoi que ce soit qu'un visiteur achète. Une belle mola représente des semaines de couture — c'est la réponse honnête au fait que les prix varient tant d'un étal à l'autre : vous regardez des heures de travail, pas un tirage.
+Les panneaux textiles cousus main en couches superposées appelés **molas** sont ce que la culture Guna a exporté de plus reconnaissable, et ils se font toujours comme avant : à la main, par des femmes Guna, comme pièces de leurs propres corsages de tous les jours avant d'être quoi que ce soit qu'un visiteur achète. Une belle mola représente des semaines de couture — c'est la réponse honnête au fait que les prix varient tant d'un étal à l'autre : vous regardez des heures de travail, pas un tirage. Comment les couches sont découpées et cousues, et comment distinguer un panneau cousu main d'un imprimé : tout est dans [les molas expliquées](/fr/blog/molas-explained).
 
-Acheter directement à celle qui l'a cousue est la transaction la plus nette que proposent les îles. Aucun intermédiaire, aucune chaîne d'importation, et l'argent reste exactement là où vous l'avez remis.
+Acheter directement à celle qui l'a cousue est la transaction la plus nette que proposent les îles. Aucun intermédiaire, aucune chaîne d'importation, et l'argent reste exactement là où vous l'avez remis. Parmi celles qui les cousent, il y a aussi des [omeggid, des Gunas élevées comme des garçons qui vivent en femmes](/fr/blog/omeggid-guna-gender-identity), pour qui la mola fait partie de ce qu'elles sont.
 
 ## Photographier : demander change tout
 

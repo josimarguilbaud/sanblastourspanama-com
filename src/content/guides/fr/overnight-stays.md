@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Dormir à San Blas — les 5 Types de Cabane"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -8,6 +9,8 @@ seoDescription: "Envie de dormir à San Blas ? Comparatif des 5 types de cabane,
 ---
 
 Une journée vous montre San Blas. Une nuit sur place vous y installe : la même bande de sable au coucher puis au lever du soleil, un ciel qu'aucune pollution lumineuse ne gâche, et une soirée qui appartient à l'île et non au convoi de retour. Les séjours vont de **1 à 3 nuits maximum**, et se réservent par **type de cabane** plutôt que par île nommée.
+
+Vous hésitez encore entre une nuit sur les îles et une seule journée ? Notre [comparatif entre excursion d'un jour et séjour](/fr/blog/day-tour-vs-overnight-stay) met les deux côte à côte.
 
 ## Les cinq types de cabane
 
@@ -34,6 +37,8 @@ Partout à San Blas, les cabanes d'une même catégorie sont quasi identiques d'
 - Un guide guna local
 
 **Non compris :** boissons et en-cas, alcools, la taxe communautaire de Guna Yala (en espèces, à part), le matériel de snorkeling et les effets personnels comme serviettes et savon.
+
+Comme rien ne se paie par carte sur les îles, boissons et extras d'un séjour se règlent en espèces ; [faut-il des espèces à San Blas ?](/fr/blog/do-you-need-cash-in-san-blas) explique quoi prévoir.
 
 ## Un itinéraire de 2 jours et 1 nuit
 

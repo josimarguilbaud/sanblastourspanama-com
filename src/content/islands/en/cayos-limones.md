@@ -18,7 +18,7 @@ Most San Blas stops involve a real crossing between them. Limones does not: swim
 
 ## Why the water looks like that
 
-Clear water is not luck here. There is no river mouth nearby pushing sediment out, no settlement on the cays, and the sand is pale enough to bounce light back up through the shallows. The practical effect is that snorkeling is rewarding even in very shallow water close to shore, and that the difference between waist-deep and chest-deep is visible from the surface.
+Clear water is not luck here. There is no river mouth nearby pushing sediment out, no settlement on the cays, and the sand is pale enough to bounce light back up through the shallows. The practical effect is that snorkeling is rewarding even in very shallow water close to shore, and that the difference between waist-deep and chest-deep is visible from the surface. That clarity is also why the group ranks high with photographers; our [San Blas photography spots guide](/blog/best-san-blas-photography-spots) explains how to make the most of it.
 
 ## Where Limones appears on an itinerary
 

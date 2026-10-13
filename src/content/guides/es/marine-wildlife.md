@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Vida Marina y Fauna de San Blas"
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
@@ -22,7 +23,7 @@ Los delfines y las tortugas marinas están presentes en las aguas caribeñas de 
 
 ## Por encima de la línea del agua
 
-Las islas en sí son palmeras y matorral costero, no bosque, así que la historia de fauna terrestre es delgada por diseño: el terreno boscoso grande, y los animales que lo acompañan, están del lado continental de Guna Yala y no en los cayos de mar afuera. Lo que sí se ve por todas partes es una economía pesquera en funcionamiento: los cayucos, que se siguen usando a diario, y las redes secándose al sol. No son una exhibición para visitantes; son la forma en que comen las islas.
+Las islas en sí son palmeras y matorral costero, no bosque, así que la historia de fauna terrestre es delgada por diseño: el terreno boscoso grande, y los animales que lo acompañan, están del lado continental de Guna Yala y no en los cayos de mar afuera. Lo que sí se ve por todas partes es una economía pesquera en funcionamiento: los cayucos, que se siguen usando a diario, y las redes secándose al sol. No son una exhibición para visitantes; son la forma en que comen las islas. En qué se convierte esa pesca en el plato, y cuándo la langosta está vedada, lo explicamos en [qué se come en San Blas](/es/blog/what-you-eat-in-san-blas).
 
 ## Mirar sin dañar
 

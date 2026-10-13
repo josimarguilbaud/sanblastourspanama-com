@@ -14,7 +14,7 @@ Nem toda parada de San Blas é uma ilha. A Piscina Natural é um banco de areia 
 
 ## Não é uma ilha, é um banco de areia
 
-Aqui não há praia para pisar, nem coqueiro para sentar embaixo, nem margem alguma. Você entra a pé desde a lancha sobre areia clara, numa água que bate mais ou menos na cintura, e a estranheza de estar em pé no meio do mar aberto é boa parte do encanto. É também por isso que essa parada rende fotos diferentes de todas as outras da viagem: nada no enquadramento denuncia a profundidade.
+Aqui não há praia para pisar, nem coqueiro para sentar embaixo, nem margem alguma. Você entra a pé desde a lancha sobre areia clara, numa água que bate mais ou menos na cintura, e a estranheza de estar em pé no meio do mar aberto é boa parte do encanto. É também por isso que essa parada rende fotos diferentes de todas as outras da viagem: nada no enquadramento denuncia a profundidade. Como fotografá-la rente à água, e com que luz, está no nosso [guia de lugares para fotografar San Blas](/pt-br/blog/best-san-blas-photography-spots).
 
 ## As estrelas-do-mar e como se comportar
 

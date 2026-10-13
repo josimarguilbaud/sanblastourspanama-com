@@ -18,7 +18,7 @@ Casi todas las paradas de San Blas implican una travesía real entre una y otra.
 
 ## Por qué el agua se ve así
 
-Aquí el agua clara no es cuestión de suerte. No hay boca de río cerca empujando sedimento, no hay asentamiento en los cayos, y la arena es lo bastante clara como para devolver la luz hacia arriba a través del bajío. El efecto práctico es que el snorkel rinde incluso en agua muy poco profunda junto a la orilla, y que la diferencia entre el agua a la cintura y al pecho se distingue desde la superficie.
+Aquí el agua clara no es cuestión de suerte. No hay boca de río cerca empujando sedimento, no hay asentamiento en los cayos, y la arena es lo bastante clara como para devolver la luz hacia arriba a través del bajío. El efecto práctico es que el snorkel rinde incluso en agua muy poco profunda junto a la orilla, y que la diferencia entre el agua a la cintura y al pecho se distingue desde la superficie. Esa transparencia es también la razón por la que el grupo está entre los favoritos de los fotógrafos; nuestra [guía de lugares para fotografiar San Blas](/es/blog/best-san-blas-photography-spots) explica cómo sacarle partido.
 
 ## Dónde aparece Limones en un itinerario
 

@@ -15,7 +15,7 @@ Chichime is not one island but two: a pair of small cays lying side by side, sep
 
 ## Two cays, one channel
 
-The channel between the cays is the part people remember. At low tide it drops to knee or thigh height and you can cross on foot, sandbar to sandbar, with open Caribbean on either side of you. As the water rises the same crossing becomes a short swim instead. It also means the cay you land on and the cay in your photo may not be the same one — worth knowing before you leave a dry bag on the wrong beach.
+The channel between the cays is the part people remember. At low tide it drops to knee or thigh height and you can cross on foot, sandbar to sandbar, with open Caribbean on either side of you. As the water rises the same crossing becomes a short swim instead. It also means the cay you land on and the cay in your photo may not be the same one — worth knowing before you leave a dry bag on the wrong beach. It is also the frame photographers plan their day around; our [San Blas photography spots guide](/blog/best-san-blas-photography-spots) covers when the tide and the light work best.
 
 ## The Guna families who live here
 

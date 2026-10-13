@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Ecoturismo en San Blas: Cómo Ayuda tu Visita"
 heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
@@ -19,13 +20,13 @@ En un viaje a San Blas salen de tu bolsillo tres pagos distintos, y terminan en 
 
 - **El impuesto comunitario de entrada** — **$22 para extranjeros y $7 para residentes**, en efectivo y en el borde del territorio. No forma parte del precio del tour ni es una tasa turística estatal: va a las comunidades Guna cuyo territorio estás cruzando.
 - **El tour en sí** — lanchas, conductores, cocineras y guías son locales, así que el grueso del gasto operativo se queda dentro de la región en vez de irse con un operador extranjero.
-- **Lo que compres en las islas** — casi siempre una mola, comprada directamente a la mujer que la cosió, sin intermediario que se lleve una tajada.
+- **Lo que compres en las islas** — casi siempre una mola, comprada directamente a la mujer que la cosió, sin intermediario que se lleve una tajada. Saber [cómo se hace una mola auténtica](/es/blog/molas-explained) te ayuda a reconocerla.
 
 Como no hay cajeros automáticos en ningún punto del territorio, todo eso hay que llevarlo encima.
 
 ## Los puntos de presión que de verdad importan
 
-Las islas pequeñas tienen tolerancias pequeñas. Cuatro cosas hacen daño medible aquí, y las cuatro se pueden evitar:
+Las islas pequeñas tienen tolerancias pequeñas, y la mayor presión de todas, [la subida del mar](/es/blog/are-san-blas-islands-sinking), no depende del visitante. Cuatro cosas hacen daño medible aquí, y las cuatro se pueden evitar:
 
 - **La química del protector solar.** Las fórmulas convencionales dañan el coral. Un protector biodegradable y seguro para arrecifes no es una preferencia en estos arrecifes: es la razón por la que los guías sacan el tema antes de que nadie entre al agua.
 - **La basura.** Un cayo de unos cientos de metros no tiene infraestructura de residuos. Todo lo que desembarques debe volver contigo, incluidas las tapas de botella y las colillas.

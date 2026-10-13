@@ -18,7 +18,7 @@ O naufrágio deixou de ser um navio e virou um recife artificial. O coral se fix
 
 ## Não é preciso saber mergulhar
 
-O naufrágio está em água rasa o bastante para que iniciantes absolutos e pessoas sem certificação de mergulho o explorem com conforto, quase sempre a uma nadada curta da lancha ou da praia. A visibilidade costuma ser excelente. O colete salva-vidas é obrigatório nas lanchas para todos, adultos inclusive, e você pode ficar com ele enquanto olha: boiar de bruços sobre o naufrágio funciona perfeitamente de colete.
+O naufrágio está em água rasa o bastante para que iniciantes absolutos e pessoas sem certificação de mergulho o explorem com conforto, quase sempre a uma nadada curta da lancha ou da praia. A visibilidade costuma ser excelente. O colete salva-vidas é obrigatório nas lanchas para todos, adultos inclusive, e você pode ficar com ele enquanto olha: boiar de bruços sobre o naufrágio funciona perfeitamente de colete. Os cilindros nem seriam uma opção: o mergulho com cilindro é restrito para visitantes em toda Guna Yala, como explica nossa [resposta sobre o mergulho em San Blas](/pt-br/blog/can-you-scuba-dive-in-san-blas).
 
 ## O que você realmente vê
 
@@ -26,7 +26,7 @@ Peixes-papagaio e sargentos são quase garantidos; peixes-anjo e donzelas são c
 
 ## O cayo acima da água
 
-Perro Chico é desabitado e serve como parada de um dia, não como base para dormir. Há uma faixa estreita de praia para se secar e comer entre uma ida e outra à água, e pouco mais. Como a parada em si é relativamente curta, a maioria dos roteiros combina Perro Chico com duas ou três ilhas no mesmo dia.
+Perro Chico é desabitado e serve como parada de um dia, não como base para dormir. Há uma faixa estreita de praia para se secar e comer entre uma ida e outra à água, e pouco mais. Como a parada em si é relativamente curta, a maioria dos roteiros combina Perro Chico com duas ou três ilhas no mesmo dia. A vizinha maior, Perro Grande, é outra ilha, com moradores e cabanas; nosso guia sobre [Perro Chico e Perro Grande](/pt-br/blog/perro-vs-perro-chico-vs-perro-grande) explica qual é qual.
 
 ## Quais passeios chegam aqui
 

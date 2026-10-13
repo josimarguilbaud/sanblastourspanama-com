@@ -18,7 +18,7 @@ Das Wrack hat aufgehört, ein Schiff zu sein, und ist zu einem künstlichen Riff
 
 ## Tauchen müssen Sie nicht können
 
-Das Wrack liegt flach genug, damit auch absolute Anfänger und Menschen ohne Tauchschein es bequem erkunden können — meist nur eine kurze Strecke vom Boot oder vom Strand entfernt. Die Sicht ist in der Regel ausgezeichnet. Schwimmwesten sind in den Booten für alle Pflicht, Erwachsene eingeschlossen, und Sie dürfen Ihre beim Schauen anbehalten: Mit Weste bäuchlings über dem Wrack zu treiben funktioniert einwandfrei.
+Das Wrack liegt flach genug, damit auch absolute Anfänger und Menschen ohne Tauchschein es bequem erkunden können — meist nur eine kurze Strecke vom Boot oder vom Strand entfernt. Die Sicht ist in der Regel ausgezeichnet. Schwimmwesten sind in den Booten für alle Pflicht, Erwachsene eingeschlossen, und Sie dürfen Ihre beim Schauen anbehalten: Mit Weste bäuchlings über dem Wrack zu treiben funktioniert einwandfrei. Flaschen wären ohnehin keine Option: Gerätetauchen ist für Besucher in ganz Guna Yala beschränkt, wie unsere [Antwort zum Gerätetauchen in San Blas](/de/blog/can-you-scuba-dive-in-san-blas) erklärt.
 
 ## Was Sie tatsächlich sehen
 
@@ -26,7 +26,7 @@ Papageifische und Sergeant Majors sind so gut wie sicher, Kaiser- und Riffbarsch
 
 ## Die Insel über Wasser
 
-Perro Chico ist unbewohnt und dient als Tagesstopp, nicht als Übernachtungsbasis. Es gibt einen schmalen Strandstreifen zum Abtrocknen und Essen zwischen zwei Runden im Wasser, und sonst wenig. Weil der Stopp selbst eher kurz ist, kombinieren die meisten Routen Perro Chico am selben Tag mit zwei oder drei weiteren Inseln.
+Perro Chico ist unbewohnt und dient als Tagesstopp, nicht als Übernachtungsbasis. Es gibt einen schmalen Strandstreifen zum Abtrocknen und Essen zwischen zwei Runden im Wasser, und sonst wenig. Weil der Stopp selbst eher kurz ist, kombinieren die meisten Routen Perro Chico am selben Tag mit zwei oder drei weiteren Inseln. Ihre größere Nachbarin Perro Grande ist eine andere Insel, mit Bewohnern und Hütten; unser Beitrag zu [Perro Chico und Perro Grande](/de/blog/perro-vs-perro-chico-vs-perro-grande) erklärt, welche welche ist.
 
 ## Welche Touren hierherkommen
 

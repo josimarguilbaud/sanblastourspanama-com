@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "San Blas : Santé, Sécurité et Vaccinations"
 heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -27,7 +28,7 @@ Il n'y a ni hôpital ni dispensaire sur les îles. Les soins se trouvent à Pana
 - **Le mal des transports.** La piste en 4x4 vers Carti enchaîne les virages serrés de montagne, et la traversée en bateau vient ensuite. Si vous y êtes sujet, prenez un médicament **avant** le départ, pas quand les symptômes commencent.
 - **La déshydratation.** Journée longue, soleil fort, eau salée. Buvez plus que vous ne le croyez nécessaire et emportez de l'eau au lieu de supposer qu'on en vend sur un cayo.
 
-Les soirées, lors d'une nuit sur place, sont aussi le moment où le répulsif à insectes justifie sa place dans le sac.
+Les soirées, lors d'une nuit sur place, sont aussi le moment où le répulsif à insectes justifie sa place dans le sac, surtout contre [les chitras, ces minuscules moucherons qui piquent au crépuscule](/fr/blog/sandflies-jellyfish-san-blas).
 
 ## Repas, eau et régimes particuliers
 
@@ -40,6 +41,8 @@ Les opérateurs sont constants sur ce point : San Blas n'est **pas recommandé**
 ## Sur l'eau
 
 Le gilet de sauvetage est obligatoire en permanence, pour les adultes comme pour les enfants, et les bateaux sont menés par des capitaines Guna expérimentés qui lisent ces eaux tous les jours. La délinquance n'est pas un enjeu notable d'un séjour à San Blas ; le bon sens habituel avec les objets de valeur couvre le risque réel bien mieux que n'importe quelle précaution exotique.
+
+Pour une vue d'ensemble — la mer, la délinquance, les règles propres à la comarca et ce que disent les CDC sur le paludisme et la fièvre jaune dans cette région — lisez [San Blas est-il sûr ?](/fr/blog/is-san-blas-safe).
 
 ## Questions fréquentes
 

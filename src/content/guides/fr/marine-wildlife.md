@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Vie Marine et Faune de San Blas"
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
@@ -22,7 +23,7 @@ Dauphins et tortues marines sont présents dans les eaux caraïbes du Panama, et
 
 ## Au-dessus de la ligne d'eau
 
-Les îles elles-mêmes sont faites de cocotiers et de broussailles littorales, pas de forêt : le récit de la faune terrestre y est mince par construction — le grand couvert forestier, et les animaux qui vont avec, se trouvent côté continent de Guna Yala, pas sur les cayos du large. Ce que l'on voit partout, en revanche, c'est une économie de pêche en activité : des pirogues encore utilisées quotidiennement et des filets qui sèchent au soleil. Ce n'est pas une mise en scène pour visiteurs ; c'est la façon dont les îles se nourrissent.
+Les îles elles-mêmes sont faites de cocotiers et de broussailles littorales, pas de forêt : le récit de la faune terrestre y est mince par construction — le grand couvert forestier, et les animaux qui vont avec, se trouvent côté continent de Guna Yala, pas sur les cayos du large. Ce que l'on voit partout, en revanche, c'est une économie de pêche en activité : des pirogues encore utilisées quotidiennement et des filets qui sèchent au soleil. Ce n'est pas une mise en scène pour visiteurs ; c'est la façon dont les îles se nourrissent. Ce que devient cette pêche dans l'assiette, et quand la langouste est interdite, nous l'expliquons dans [ce que l'on mange à San Blas](/fr/blog/what-you-eat-in-san-blas).
 
 ## Regarder sans abîmer
 

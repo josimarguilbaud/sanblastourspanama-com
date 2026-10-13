@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Snorkeling et Plongée à San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
@@ -23,7 +24,7 @@ Un lycra vaut ici plus que la plupart ne l'imaginent, moins pour la chaleur que 
 
 ## Peut-on plonger en bouteille à San Blas ?
 
-La réponse honnête : **les excursions à la journée et les nuitées standard de San Blas n'incluent pas de plongée bouteille**. L'attrait de cet archipel, c'est l'eau claire et peu profonde — des récifs souvent à quelques mètres, qui se savourent en flottant au-dessus. Si la plongée certifiée est le cœur de vos vacances, San Blas n'est pas la destination bâtie pour cela, et nous préférons le dire maintenant plutôt que de vous vendre une journée décevante.
+La réponse honnête : **les excursions à la journée et les nuitées standard de San Blas n'incluent pas de plongée bouteille**. L'attrait de cet archipel, c'est l'eau claire et peu profonde — des récifs souvent à quelques mètres, qui se savourent en flottant au-dessus. Si la plongée certifiée est le cœur de vos vacances, San Blas n'est pas la destination bâtie pour cela, et nous préférons le dire maintenant plutôt que de vous vendre une journée décevante. Et ce n'est pas seulement une question d'offre : Guna Yala restreint la plongée bouteille pour les visiteurs, comme l'explique notre [réponse sur la plongée à San Blas](/fr/blog/can-you-scuba-dive-in-san-blas).
 
 ## Quelle excursion choisir si le récif est l'objectif
 

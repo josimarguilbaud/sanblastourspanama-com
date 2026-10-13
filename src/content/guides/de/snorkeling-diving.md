@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Schnorcheln und Tauchen in San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
@@ -23,7 +24,7 @@ Ein Schwimmshirt ist hier mehr wert, als viele annehmen — weniger gegen Kälte
 
 ## Kann man in San Blas mit Flasche tauchen?
 
-Die ehrliche Antwort: **Reguläre Tagestouren und Übernachtungen in San Blas beinhalten kein Gerätetauchen.** Der Reiz dieses Archipels ist klares, flaches Wasser — Riffe oft nur wenige Meter tief, am besten im Darüberschweben erlebt. Wenn zertifiziertes Flaschentauchen das Zentrum Ihres Urlaubs ist, ist San Blas nicht das darum gebaute Ziel, und das sagen wir lieber jetzt, als Ihnen einen enttäuschenden Tag zu verkaufen.
+Die ehrliche Antwort: **Reguläre Tagestouren und Übernachtungen in San Blas beinhalten kein Gerätetauchen.** Der Reiz dieses Archipels ist klares, flaches Wasser — Riffe oft nur wenige Meter tief, am besten im Darüberschweben erlebt. Wenn zertifiziertes Flaschentauchen das Zentrum Ihres Urlaubs ist, ist San Blas nicht das darum gebaute Ziel, und das sagen wir lieber jetzt, als Ihnen einen enttäuschenden Tag zu verkaufen. Und es ist nicht nur eine Frage dessen, was Touren enthalten: Guna Yala beschränkt das Gerätetauchen für Besucher, wie unsere [Antwort zum Gerätetauchen in San Blas](/de/blog/can-you-scuba-dive-in-san-blas) erklärt.
 
 ## Welche Tour, wenn es Ihnen ums Riff geht
 

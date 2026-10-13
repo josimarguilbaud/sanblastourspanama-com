@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Meilleure Période pour Visiter San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
@@ -7,7 +8,7 @@ seoTitle: "Quand Visiter les Îles de San Blas, Panama"
 seoDescription: "Quand partir à San Blas : saison sèche ou saison des pluies, ce qui change avec la météo, et pourquoi les excursions partent toute l'année."
 ---
 
-San Blas n'a pas de saison fermée. Les bateaux quittent l'embarcadère de Carti tous les jours de l'année, l'eau reste chaude douze mois sur douze, et aucun mois n'est à barrer du calendrier. Ce qui change, c'est la lumière, la fréquentation et la fréquence à laquelle on se fait mouiller par le haut — arbitrer entre ces trois choses, voilà ce que veut vraiment dire « meilleure période » ici.
+San Blas n'a pas de saison fermée. Les bateaux quittent l'embarcadère de Carti tous les jours de l'année, l'eau reste chaude douze mois sur douze, et aucun mois n'est à barrer du calendrier. Ce qui change, c'est la lumière, la fréquentation et la fréquence à laquelle on se fait mouiller par le haut — arbitrer entre ces trois choses, voilà ce que veut vraiment dire « meilleure période » ici. Pour le même schéma mois par mois, avec les jours fériés et la fréquentation, voyez [la météo de San Blas mois par mois](/fr/blog/san-blas-weather-month-by-month).
 
 ## Saison sèche : de décembre à avril
 

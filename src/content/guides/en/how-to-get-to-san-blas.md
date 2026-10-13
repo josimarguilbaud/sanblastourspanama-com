@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "How to Get to San Blas From Panama City"
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
@@ -32,6 +33,8 @@ If you need to change your pickup address, it has to be done **at least 24 hours
 - **Your original passport or ID.** It is required at the checkpoint into Guna territory and a photocopy or a phone photo is not accepted.
 - **Cash.** There are no ATMs anywhere in Guna Yala. You need cash for the community entry tax and for anything you buy on the islands.
 - **Motion sickness medication.** Take it before departure. Once you are on the mountain road it is too late for it to work properly.
+
+The checkpoint is also where every visitor pays the comarca's entry tax, which goes to the Guna authorities rather than to your operator; [where the community tax goes](/blog/where-does-community-tax-go) explains who collects it and why.
 
 ## Can I drive myself?
 

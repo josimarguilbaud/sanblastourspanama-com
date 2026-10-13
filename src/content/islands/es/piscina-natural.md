@@ -14,7 +14,7 @@ No toda parada de San Blas es una isla. La Piscina Natural es un banco de arena 
 
 ## No es una isla, es un banco de arena
 
-Aquí no hay playa a la que caminar, ni palmera bajo la que sentarse, ni orilla. Entras vadeando desde la lancha sobre arena clara, en agua que llega más o menos a la cintura, y la rareza de estar de pie en mitad del mar abierto es buena parte del atractivo. Es también la razón de que este punto salga en las fotos como ningún otro del viaje: nada en el encuadre delata la profundidad.
+Aquí no hay playa a la que caminar, ni palmera bajo la que sentarse, ni orilla. Entras vadeando desde la lancha sobre arena clara, en agua que llega más o menos a la cintura, y la rareza de estar de pie en mitad del mar abierto es buena parte del atractivo. Es también la razón de que este punto salga en las fotos como ningún otro del viaje: nada en el encuadre delata la profundidad. Cómo fotografiarla a ras de agua, y con qué luz, lo cuenta nuestra [guía de lugares para fotografiar San Blas](/es/blog/best-san-blas-photography-spots).
 
 ## Las estrellas de mar, y cómo comportarse con ellas
 

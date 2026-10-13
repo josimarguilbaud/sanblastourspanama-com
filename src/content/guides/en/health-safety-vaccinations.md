@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "San Blas Health, Safety & Vaccination Info"
 heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -27,7 +28,7 @@ There are no hospitals or clinics on the islands. Medical care is in Panama City
 - **Motion sickness.** The 4x4 road to Carti is a long series of tight mountain curves, and the boat crossing follows it. If you are prone to either, medicate **before** departure, not once symptoms start.
 - **Dehydration.** Long day, strong sun, salt water. Drink more than you think you need, and bring water rather than assuming it is on sale on a cay.
 
-Evenings on an overnight stay are also when insect repellent earns its place in the bag.
+Evenings on an overnight stay are also when insect repellent earns its place in the bag, mostly against [chitras, the tiny sandflies that bite at dusk](/blog/sandflies-jellyfish-san-blas).
 
 ## Food, water and dietary needs
 
@@ -40,6 +41,8 @@ Operators are consistently direct about this: San Blas is **not recommended** fo
 ## On the water
 
 Life jackets are mandatory at all times for adults and children alike, and the boats are handled by experienced local Guna captains who read these waters daily. Crime is not a meaningful feature of a San Blas trip; ordinary sense about valuables covers the realistic risk far better than anything more exotic.
+
+For the wider picture — the sea, crime, the comarca's own rules and what the CDC says about malaria and yellow fever for this region — read [is San Blas safe?](/blog/is-san-blas-safe).
 
 ## Frequently asked questions
 

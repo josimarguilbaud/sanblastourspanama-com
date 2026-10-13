@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Snorkel y Buceo en San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
@@ -23,7 +24,7 @@ Una licra vale aquí más de lo que la gente calcula, menos por el frío que por
 
 ## ¿Se puede bucear con tanque en San Blas?
 
-La respuesta honesta es que **los pasadías y las estadías estándar de San Blas no incluyen buceo con tanque**. El atractivo de este archipiélago es el agua clara y poco profunda: arrecifes muchas veces de pocos metros, que se disfrutan mejor flotando encima. Si el buceo certificado es el centro de tus vacaciones, San Blas no es el destino construido alrededor de eso, y preferimos decirlo ahora a venderte un día decepcionante.
+La respuesta honesta es que **los pasadías y las estadías estándar de San Blas no incluyen buceo con tanque**. El atractivo de este archipiélago es el agua clara y poco profunda: arrecifes muchas veces de pocos metros, que se disfrutan mejor flotando encima. Si el buceo certificado es el centro de tus vacaciones, San Blas no es el destino construido alrededor de eso, y preferimos decirlo ahora a venderte un día decepcionante. Y no es solo cuestión de lo que incluyen los tours: Guna Yala restringe el buceo con tanque a los visitantes, como explica nuestra [respuesta sobre el buceo en San Blas](/es/blog/can-you-scuba-dive-in-san-blas).
 
 ## Qué tour elegir si el arrecife es el motivo
 

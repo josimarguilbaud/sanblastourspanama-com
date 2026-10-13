@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Écotourisme à San Blas : Ce que Votre Visite Change"
 heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
@@ -19,13 +20,13 @@ Trois paiements distincts quittent votre poche lors d'un séjour à San Blas, et
 
 - **La taxe communautaire d'entrée** — **22 dollars pour les étrangers, 7 pour les résidents**, en espèces à la frontière du territoire. Elle n'est pas comprise dans le prix du tour et ce n'est pas une taxe touristique d'État : elle revient aux communautés Guna dont vous traversez le territoire.
 - **L'excursion elle-même** — bateaux, chauffeurs, cuisinières et guides sont locaux, si bien que l'essentiel des dépenses d'exploitation reste dans la région au lieu de repartir avec un opérateur étranger.
-- **Ce que vous achetez sur les îles** — le plus souvent une mola, acquise directement auprès de la femme qui l'a cousue, sans intermédiaire.
+- **Ce que vous achetez sur les îles** — le plus souvent une mola, acquise directement auprès de la femme qui l'a cousue, sans intermédiaire. Savoir [comment se fabrique une vraie mola](/fr/blog/molas-explained) aide à la reconnaître.
 
 Comme il n'existe aucun distributeur de billets dans tout le territoire, tout cela doit être emporté avec vous.
 
 ## Les points de pression qui comptent réellement
 
-Les petites îles ont de petites marges. Quatre choses causent ici des dégâts mesurables, et toutes les quatre sont évitables :
+Les petites îles ont de petites marges, et la plus forte pression de toutes, [la montée de la mer](/fr/blog/are-san-blas-islands-sinking), ne dépend pas des visiteurs. Quatre choses causent ici des dégâts mesurables, et toutes les quatre sont évitables :
 
 - **La chimie de la crème solaire.** Les formules classiques abîment le corail. Une crème biodégradable et compatible avec les récifs n'est pas une préférence sur ces fonds : c'est la raison pour laquelle les guides abordent le sujet avant que quiconque entre dans l'eau.
 - **Les déchets.** Un cayo de quelques centaines de mètres n'a aucune infrastructure de traitement. Tout ce que vous débarquez doit repartir avec vous, bouchons et mégots compris.

@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Ökotourismus in San Blas: Was Ihr Besuch bewirkt"
 heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
@@ -19,13 +20,13 @@ Auf einer San-Blas-Reise verlassen drei getrennte Zahlungen Ihre Tasche, und sie
 
 - **Die Gemeinde-Eintrittsgebühr** — **22 US-Dollar für Ausländer, 7 für Residenten**, bar an der Grenze des Territoriums. Sie steckt nicht im Tourpreis und ist keine staatliche Tourismusabgabe: Sie geht an die Guna-Gemeinden, deren Gebiet Sie durchqueren.
 - **Die Tour selbst** — Boote, Fahrer, Köchinnen und Guides sind einheimisch, sodass der Großteil der Betriebsausgaben in der Region bleibt, statt mit einem ausländischen Anbieter abzufließen.
-- **Was Sie auf den Inseln kaufen** — meist eine Mola, direkt bei der Frau erworben, die sie genäht hat, ohne Zwischenhändler.
+- **Was Sie auf den Inseln kaufen** — meist eine Mola, direkt bei der Frau erworben, die sie genäht hat, ohne Zwischenhändler. Wer weiß, [wie eine echte Mola entsteht](/de/blog/molas-explained), erkennt sie leichter.
 
 Weil es im gesamten Territorium keine Geldautomaten gibt, muss all das mitgebracht werden.
 
 ## Die Belastungspunkte, auf die es wirklich ankommt
 
-Kleine Inseln haben kleine Toleranzen. Vier Dinge richten hier messbaren Schaden an, und alle vier sind vermeidbar:
+Kleine Inseln haben kleine Toleranzen, und die größte Belastung überhaupt, [der steigende Meeresspiegel](/de/blog/are-san-blas-islands-sinking), liegt nicht in der Hand der Besucher. Vier Dinge richten hier messbaren Schaden an, und alle vier sind vermeidbar:
 
 - **Die Chemie der Sonnencreme.** Herkömmliche Rezepturen schädigen Korallen. Riffverträgliche, biologisch abbaubare Sonnencreme ist an diesen Riffen keine Geschmacksfrage — sie ist der Grund, warum Guides das Thema ansprechen, bevor jemand ins Wasser geht.
 - **Müll.** Ein Cay von wenigen Hundert Metern hat keine Entsorgungsstruktur. Alles, was Sie anlanden, sollte mit Ihnen wieder abfahren, Flaschendeckel und Zigarettenstummel eingeschlossen.

@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Flüge nach San Blas: Ist Fliegen eine Option?"
 heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
@@ -11,7 +12,7 @@ Die kurze Fassung: Ja, Kleinflugzeuge erreichen Teile von Guna Yala, und nein, s
 
 ## Eine Landepiste ist kein Flughafen
 
-Guna Yala verfügt über eine Handvoll kurzer lokaler Pisten, die bewohnte Inseln und Punkte auf dem Festland bedienen; die bekannteste liegt in **El Porvenir**, dem Verwaltungszentrum der Comarca. Das sind Pistenstreifen neben einem Dorf, keine Terminals: kein Gepäckband, keine Anschlussinfrastruktur, kein Taxistand auf der anderen Seite. Einige inländische Kleinflugzeuge fliegen sie von Panama-Stadt aus an, doch Strecken, Betreiber und Frequenzen haben sich über die Jahre mehrfach geändert. Jeden aus zweiter Hand gelesenen Flugplan sollten Sie daher direkt bei der Fluggesellschaft bestätigen lassen, bevor Sie eine Reise darauf aufbauen.
+Guna Yala verfügt über eine Handvoll kurzer lokaler Pisten, die bewohnte Inseln und Punkte auf dem Festland bedienen; die bekannteste liegt in **El Porvenir**, dem Verwaltungszentrum der Comarca. Das sind Pistenstreifen neben einem Dorf, keine Terminals: kein Gepäckband, keine Anschlussinfrastruktur, kein Taxistand auf der anderen Seite. Einige inländische Kleinflugzeuge fliegen sie von Panama-Stadt aus an, doch Strecken, Betreiber und Frequenzen haben sich über die Jahre mehrfach geändert. Jeden aus zweiter Hand gelesenen Flugplan sollten Sie daher direkt bei der Fluggesellschaft bestätigen lassen, bevor Sie eine Reise darauf aufbauen. Inseln mit einem richtigen Flughafen sind eine andere Art von Reise; [San Blas im Vergleich mit San Andrés, Roatán und Los Roques](/de/blog/san-blas-vs-san-andres-roatan-los-roques) stellt sie nebeneinander.
 
 ## Was ein Flug tatsächlich leistet
 
@@ -29,7 +30,7 @@ Die Standardroute — Abholung im 4x4 direkt an der Unterkunft in Panama-Stadt, 
 
 ## Wann sich ein Flug wirklich lohnt zu prüfen
 
-Wenn Sie aus eigenen Gründen zu einer bestimmten bewohnten Insel reisen — eine Gemeinde besuchen, zu einem bereits im Archipel liegenden Boot stoßen oder eine längere unabhängige Route fortsetzen —, kann eine Piste die richtige Tür sein. Behandeln Sie den Flug dann als Transport zu einem Ausgangspunkt und organisieren Sie die Bootsetappen getrennt mit Leuten vor Ort.
+Wenn Sie aus eigenen Gründen zu einer bestimmten bewohnten Insel reisen — eine Gemeinde besuchen, zu einem bereits im Archipel liegenden Boot stoßen oder eine längere unabhängige Route fortsetzen —, kann eine Piste die richtige Tür sein. Behandeln Sie den Flug dann als Transport zu einem Ausgangspunkt und organisieren Sie die Bootsetappen getrennt mit Leuten vor Ort. Wer schon nach Bocas del Toro geflogen ist, Panamas anderem Karibik-Archipel, erwartet oft, dass San Blas genauso funktioniert; unser [Vergleich San Blas und Bocas del Toro](/de/blog/san-blas-vs-bocas-del-toro) erklärt, warum das nicht so ist.
 
 ## Häufige Fragen
 

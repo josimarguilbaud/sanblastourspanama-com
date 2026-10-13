@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Marine Life & Wildlife of San Blas"
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
@@ -22,7 +23,7 @@ Dolphins and sea turtles are present in the Caribbean waters off Panama, and peo
 
 ## Above the waterline
 
-The islands themselves are palm and coastal scrub, not forest, so the land wildlife story is thin by design — the larger forested terrain, and the animals that go with it, sit on the mainland side of Guna Yala rather than on the offshore cays. What you do see everywhere is a working fishing economy: ulus, the dugout canoes still used daily, and nets drying in the sun. They are not a display for visitors; they are how the islands eat.
+The islands themselves are palm and coastal scrub, not forest, so the land wildlife story is thin by design — the larger forested terrain, and the animals that go with it, sit on the mainland side of Guna Yala rather than on the offshore cays. What you do see everywhere is a working fishing economy: ulus, the dugout canoes still used daily, and nets drying in the sun. They are not a display for visitors; they are how the islands eat. What that catch becomes on the plate, and when lobster is off limits, is in [what you eat in San Blas](/blog/what-you-eat-in-san-blas).
 
 ## Watching without damaging
 

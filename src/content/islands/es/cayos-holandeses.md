@@ -26,7 +26,7 @@ Por la distancia extra, el tour a Cayos Holandeses funciona con sus propias regl
 
 ## Lo que esta parada no es
 
-Es un arrecife y una laguna, no una isla con servicios. No hay infraestructura digna de mención, ni sombra construida para visitantes, ni nada que comprar. Tampoco es un destino de buceo: los tours estándar de San Blas no incluyen buceo con tanque, ni aquí ni en ninguna otra parte del archipiélago. Este arrecife se aprovecha mejor a un par de metros bajo tu máscara.
+Es un arrecife y una laguna, no una isla con servicios. No hay infraestructura digna de mención, ni sombra construida para visitantes, ni nada que comprar. Tampoco es un destino de buceo: los tours estándar de San Blas no incluyen buceo con tanque, ni aquí ni en ninguna otra parte del archipiélago. Este arrecife se aprovecha mejor a un par de metros bajo tu máscara. Por qué los tanques quedan descartados en toda Guna Yala lo explica nuestra [respuesta sobre el buceo en San Blas](/es/blog/can-you-scuba-dive-in-san-blas).
 
 ## Elegir entre este tour y el VIP
 

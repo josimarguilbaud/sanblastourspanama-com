@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Beste Reisezeit für San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
@@ -7,7 +8,7 @@ seoTitle: "Beste Reisezeit für die San-Blas-Inseln, Panama"
 seoDescription: "Wann nach San Blas reisen: Trockenzeit gegen Regenzeit, was sich mit dem Wetter ändert und warum die Touren trotzdem das ganze Jahr über fahren."
 ---
 
-San Blas hat keine geschlossene Saison. Vom Anleger in Carti legen an jedem Tag des Jahres Boote ab, das Wasser bleibt zwölf Monate lang warm, und es gibt keinen Monat, den man aus dem Kalender streichen müsste. Was sich ändert, sind Licht, Andrang und wie oft man von oben nass wird — und die Wahl zwischen diesen drei Dingen ist hier gemeint, wenn von der besten Reisezeit die Rede ist.
+San Blas hat keine geschlossene Saison. Vom Anleger in Carti legen an jedem Tag des Jahres Boote ab, das Wasser bleibt zwölf Monate lang warm, und es gibt keinen Monat, den man aus dem Kalender streichen müsste. Was sich ändert, sind Licht, Andrang und wie oft man von oben nass wird — und die Wahl zwischen diesen drei Dingen ist hier gemeint, wenn von der besten Reisezeit die Rede ist. Dasselbe Muster Monat für Monat, mit Feiertagen und Andrang, finden Sie unter [San-Blas-Wetter Monat für Monat](/de/blog/san-blas-weather-month-by-month).
 
 ## Trockenzeit: Dezember bis April
 

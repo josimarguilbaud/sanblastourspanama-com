@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Voos para San Blas: Dá para Ir de Avião?"
 heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
@@ -11,7 +12,7 @@ A versão curta: sim, aviões pequenos chegam a partes de Guna Yala, e não, nor
 
 ## Pista de pouso não é aeroporto
 
-Guna Yala tem um punhado de pistas locais curtas que atendem ilhas habitadas e pontos do continente; a mais conhecida fica em **El Porvenir**, o centro administrativo da comarca. São faixas de pista ao lado de um vilarejo, não terminais: sem esteira de bagagem, sem infraestrutura de conexão, sem fila de táxi do outro lado. Alguns aviões domésticos pequenos as atendem desde a Cidade do Panamá, mas as rotas, os operadores e as frequências mudaram várias vezes ao longo dos anos, então qualquer horário lido de segunda mão deve ser confirmado direto com a companhia antes de você montar uma viagem em cima dele.
+Guna Yala tem um punhado de pistas locais curtas que atendem ilhas habitadas e pontos do continente; a mais conhecida fica em **El Porvenir**, o centro administrativo da comarca. São faixas de pista ao lado de um vilarejo, não terminais: sem esteira de bagagem, sem infraestrutura de conexão, sem fila de táxi do outro lado. Alguns aviões domésticos pequenos as atendem desde a Cidade do Panamá, mas as rotas, os operadores e as frequências mudaram várias vezes ao longo dos anos, então qualquer horário lido de segunda mão deve ser confirmado direto com a companhia antes de você montar uma viagem em cima dele. Ilhas com aeroporto de verdade são outro tipo de viagem; [a comparação entre San Blas, San Andrés, Roatán e Los Roques](/pt-br/blog/san-blas-vs-san-andres-roatan-los-roques) coloca os quatro destinos lado a lado.
 
 ## O que um voo entrega de fato
 
@@ -29,7 +30,7 @@ A rota padrão — busca de porta em porta de 4x4 na Cidade do Panamá, cerca de
 
 ## Quando vale investigar o voo
 
-Se você vai a uma ilha habitada específica por motivos próprios — visitar uma comunidade, encontrar um barco que já está no arquipélago ou seguir um roteiro independente mais longo —, uma pista pode ser a porta certa. Nesse caso trate o voo como transporte até um ponto de partida e combine os trechos de barco à parte, com gente em terra.
+Se você vai a uma ilha habitada específica por motivos próprios — visitar uma comunidade, encontrar um barco que já está no arquipélago ou seguir um roteiro independente mais longo —, uma pista pode ser a porta certa. Nesse caso trate o voo como transporte até um ponto de partida e combine os trechos de barco à parte, com gente em terra. Quem já voou para Bocas del Toro, o outro arquipélago caribenho do Panamá, costuma esperar que San Blas funcione do mesmo jeito; nossa [comparação entre San Blas e Bocas del Toro](/pt-br/blog/san-blas-vs-bocas-del-toro) explica por que não é assim.
 
 ## Perguntas frequentes
 

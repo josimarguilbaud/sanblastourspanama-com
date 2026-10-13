@@ -26,7 +26,7 @@ En raison de la distance supplémentaire, l'excursion aux Cayos Holandeses suit 
 
 ## Ce que cet arrêt n'est pas
 
-C'est un récif et un lagon, pas une île avec des services. Il n'y a pas d'infrastructure digne de ce nom, pas d'ombre aménagée pour les visiteurs, rien à acheter. Ce n'est pas non plus une destination de plongée en bouteille : les excursions standard de San Blas n'en proposent pas, ici pas plus qu'ailleurs dans l'archipel. Ce récif se révèle à un ou deux mètres sous votre masque.
+C'est un récif et un lagon, pas une île avec des services. Il n'y a pas d'infrastructure digne de ce nom, pas d'ombre aménagée pour les visiteurs, rien à acheter. Ce n'est pas non plus une destination de plongée en bouteille : les excursions standard de San Blas n'en proposent pas, ici pas plus qu'ailleurs dans l'archipel. Ce récif se révèle à un ou deux mètres sous votre masque. Pourquoi les bouteilles sont exclues partout à Guna Yala, notre [réponse sur la plongée à San Blas](/fr/blog/can-you-scuba-dive-in-san-blas) l'explique.
 
 ## Choisir entre cette sortie et la journée VIP
 

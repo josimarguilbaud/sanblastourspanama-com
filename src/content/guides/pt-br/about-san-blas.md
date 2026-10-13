@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Sobre San Blas: O Guia Completo de Guna Yala, Panamá"
 heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 relatedGuideSlugs: ["history-of-san-blas", "guna-culture", "how-to-get-to-san-blas"]
@@ -15,18 +16,18 @@ San Blas é o nome antigo, da época colonial, que companhias aéreas, mapas e b
 
 ## Onde o arquipélago realmente fica
 
-Guna Yala se estende pelo lado caribenho do Panamá, das proximidades da fronteira com a Colômbia rumo ao oeste, na direção do Canal. São cayos de coral baixos, a maioria a pouco mais de um metro acima da água e cercados por recife, espalhados a poucos minutos de barco de uma faixa continental estreita com montanhas de mata fechada atrás. São justamente essas montanhas que explicam as cerca de 2h30 de 4x4 desde a Cidade do Panamá antes mesmo de você entrar num barco — a [rota completa está detalhada aqui](/pt-br/guides/how-to-get-to-san-blas).
+Guna Yala se estende pelo lado caribenho do Panamá, das proximidades da fronteira com a Colômbia rumo ao oeste, na direção do Canal. Estar perto da Colômbia não faz dela o Tampão do Darién, a selva sem estrada mais ao sul — [veja como as duas regiões se relacionam](/pt-br/blog/is-san-blas-part-of-darien-gap). São cayos de coral baixos, a maioria a pouco mais de um metro acima da água e cercados por recife, espalhados a poucos minutos de barco de uma faixa continental estreita com montanhas de mata fechada atrás. São justamente essas montanhas que explicam as cerca de 2h30 de 4x4 desde a Cidade do Panamá antes mesmo de você entrar num barco — a [rota completa está detalhada aqui](/pt-br/guides/how-to-get-to-san-blas).
 
 ## Mais de 365 ilhas, e as poucas que você vai ver
 
-O número repetido em todo lugar é **mais de 365 ilhas e cayos**, uma para cada dia do ano. Apenas cerca de **40 a 50 são habitadas** por comunidades Guna; o restante vai de bancos de areia que mal comportam três coqueiros até cayos desabitados usados como parada de dia. Um passeio de um dia realista chega a dois ou quatro deles, todos de barco a partir do embarcadouro de Carti. Nosso [guia de ilhas](/pt-br/islands) cobre as que aparecem em roteiros de verdade.
+O número repetido em todo lugar é **mais de 365 ilhas e cayos**, uma para cada dia do ano. Apenas cerca de **50 são habitadas** por comunidades Guna; o restante vai de bancos de areia que mal comportam três coqueiros até cayos desabitados usados como parada de dia. Um passeio de um dia realista chega a dois ou quatro deles, todos de barco a partir do embarcadouro de Carti. Nosso [guia de ilhas](/pt-br/islands) cobre as que aparecem em roteiros de verdade.
 
 ## O que comarca autônoma significa na prática
 
 Guna Yala não é uma província panamenha. É uma comarca: um território indígena com governo próprio, lei interna própria e autoridade própria sobre o uso da terra. O que se constrói, e até onde os visitantes podem ir, é decidido pelos congressos Guna e não na Cidade do Panamá. Três consequências aparecem em qualquer visita:
 
 - **Uma taxa comunitária de entrada** é cobrada em dinheiro na borda da comarca, à parte do preço do passeio.
-- **Empresas de fora não podem comprar terra**, então cada cabana, cada barco e cada guia pertence a uma família ou comunidade Guna.
+- **Empresas de fora não podem comprar terra**, então cada cabana, cada barco e cada guia pertence a uma família ou comunidade Guna. Pelo mesmo motivo, ninguém de fora pode [comprar uma ilha em San Blas](/pt-br/blog/can-you-buy-an-island-in-san-blas).
 - **As regras mudam de ilha para ilha**, porque cada comunidade define as suas.
 
 É também por isso que aqui não há hotel de rede, nem marina construída, nem estrada costeira asfaltada: cabanas de palha em vez de torres, geradores em vez de rede elétrica, e uma economia pesqueira que segue funcionando ao lado do turismo em vez de ser substituída por ele.
@@ -43,7 +44,7 @@ Sim. Guna Yala é o nome oficial, escolhido pelo próprio povo Guna; San Blas é
 
 ### Quantas ilhas tem San Blas?
 
-Mais de 365 ilhas e cayos, dos quais cerca de 40 a 50 são habitados por comunidades Guna. O turismo se concentra em algumas dezenas dos cayos mais acessíveis, então nenhum visitante chega nem perto do total.
+Mais de 365 ilhas e cayos, dos quais cerca de 50 são habitados por comunidades Guna. O turismo se concentra em algumas dezenas dos cayos mais acessíveis, então nenhum visitante chega nem perto do total.
 
 ### Qual a distância de San Blas até a Cidade do Panamá?
 
@@ -51,7 +52,7 @@ Cerca de 2h30 de 4x4 até o embarcadouro de Carti, mais a travessia de barco at�
 
 ### Existe gente morando nas ilhas de San Blas?
 
-Sim. Entre 40 e 50 ilhas têm comunidades Guna permanentes: vilarejos densos onde as famílias pescam, comerciam e se governam sozinhas. El Porvenir é a capital administrativa. Já a maioria dos cayos visitados num passeio de um dia é desabitada.
+Sim. Cerca de 50 ilhas (49 comunidades) têm comunidades Guna permanentes: vilarejos densos onde as famílias pescam, comerciam e se governam sozinhas. El Porvenir é a capital administrativa. Já a maioria dos cayos visitados num passeio de um dia é desabitada.
 
 ### Há resorts ou hotéis em San Blas?
 

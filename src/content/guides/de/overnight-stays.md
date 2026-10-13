@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Übernachten in San Blas — die 5 Hüttentypen"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -8,6 +9,8 @@ seoDescription: "Übernachtung in San Blas? Alle 5 Hüttentypen im Vergleich, vo
 ---
 
 Eine Tagestour zeigt Ihnen San Blas. Eine Übernachtung lässt Sie darin sein: derselbe Sandstreifen bei Sonnenuntergang und noch einmal bei Sonnenaufgang, ein Himmel ohne Lichtverschmutzung und ein Abend, der der Insel gehört und nicht dem Rückkonvoi. Aufenthalte dauern **1 bis maximal 3 Nächte** und werden nach **Hüttentyp** gebucht, nicht nach einer namentlich genannten Insel.
+
+Noch unentschlossen zwischen einer Nacht auf den Inseln und einem einzigen Tag? Unser [Vergleich von Tagestour und Übernachtung](/de/blog/day-tour-vs-overnight-stay) stellt beides nebeneinander.
 
 ## Die fünf Hüttentypen
 
@@ -34,6 +37,8 @@ In ganz San Blas sind Hütten derselben Kategorie von Insel zu Insel nahezu iden
 - Ein einheimischer Guna-Guide
 
 **Nicht enthalten:** Getränke und Snacks, Alkohol, die Gemeindegebühr von Guna Yala (bar, separat), Schnorchelausrüstung sowie persönliche Dinge wie Handtücher und Seife.
+
+Da auf den Inseln nichts mit Karte bezahlt wird, laufen Getränke und Extras während eines Aufenthalts bar; [Braucht man Bargeld in San Blas?](/de/blog/do-you-need-cash-in-san-blas) erklärt, was Sie mitnehmen sollten.
 
 ## Ein Ablauf über 2 Tage und 1 Nacht
 

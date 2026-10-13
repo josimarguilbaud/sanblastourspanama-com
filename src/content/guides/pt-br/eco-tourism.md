@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Ecoturismo em San Blas: O Que a Sua Visita Muda"
 heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
@@ -19,13 +20,13 @@ Numa viagem a San Blas saem do seu bolso três pagamentos distintos, e eles term
 
 - **A taxa comunitária de entrada** — **US$ 22 para estrangeiros e US$ 7 para residentes**, em dinheiro, na borda do território. Não está no preço do passeio e não é um tributo turístico estatal: vai para as comunidades Guna cujo território você atravessa.
 - **O passeio em si** — barcos, motoristas, cozinheiras e guias são locais, então a maior parte do gasto operacional fica dentro da região em vez de sair com um operador estrangeiro.
-- **O que você compra nas ilhas** — quase sempre uma mola, adquirida diretamente da mulher que a costurou, sem intermediário levando uma fatia.
+- **O que você compra nas ilhas** — quase sempre uma mola, adquirida diretamente da mulher que a costurou, sem intermediário levando uma fatia. Saber [como uma mola autêntica é feita](/pt-br/blog/molas-explained) ajuda você a reconhecê-la.
 
 Como não há caixas eletrônicos em nenhum ponto do território, tudo isso precisa entrar junto com você.
 
 ## Os pontos de pressão que realmente importam
 
-Ilhas pequenas têm margens pequenas. Quatro coisas causam dano mensurável aqui, e as quatro podem ser evitadas:
+Ilhas pequenas têm margens pequenas, e a maior pressão de todas, [a subida do mar](/pt-br/blog/are-san-blas-islands-sinking), não depende do visitante. Quatro coisas causam dano mensurável aqui, e as quatro podem ser evitadas:
 
 - **A química do protetor solar.** Fórmulas convencionais agridem o coral. Protetor biodegradável e seguro para recifes não é preferência nesses recifes: é o motivo pelo qual os guias levantam o assunto antes de alguém entrar na água.
 - **O lixo.** Um cayo de poucas centenas de metros não tem estrutura de resíduos. Tudo o que você desembarcar deve voltar com você, tampinhas e bitucas incluídas.

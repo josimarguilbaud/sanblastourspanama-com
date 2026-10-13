@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "What to Pack for San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
@@ -8,6 +9,8 @@ seoDescription: "A practical packing list for San Blas Islands, Panama, covering
 ---
 
 Pack for a boat, not for a hotel. Everything you bring to San Blas gets carried by you, loaded into a 4x4, transferred into a speedboat and then onto sand — and there are no shops to correct an omission once you have left Panama City. A soft, small bag with the right things in it beats a big bag with everything.
+
+A packing list covers the bag; for the context it cannot cover, from the checkpoint to who owns the coconuts, read [5 things nobody tells you before visiting San Blas](/blog/5-things-nobody-tells-you).
 
 ## For a day tour
 
@@ -26,13 +29,15 @@ Pack for a boat, not for a hotel. Everything you bring to San Blas gets carried 
 
 - **Light, comfortable clothing** for warm evenings, and something to throw on when walking through a village.
 - **Water sandals**, which handle sand, boat steps and coral fragments better than flip-flops.
-- **Insect repellent**, on top of the sunscreen. Evenings are when it earns its place.
+- **Insect repellent**, on top of the sunscreen. Evenings are when it earns its place: that is when [chitras, the local sandflies, start biting](/blog/sandflies-jellyfish-san-blas).
 - **A portable phone charger.** Most islands have no mains electricity, so do not count on an outlet.
 - **A small cooler with your own drinks or snacks**, if you want them — optional, and worth confirming size before you pack one.
 
 ## The cash question
 
 There is no cash machine anywhere in Guna Yala, and no card terminals on the islands. You need cash for the **community entry tax — $22 for foreigners, $7 for residents**, paid at the border of the comarca — plus anything else you plan to spend: molas from Guna artisans, drinks, snacks, and any optional extras. Withdraw it in Panama City, and bring small denominations, since change on a small island is limited.
+
+For a breakdown by type of trip — day tour, island stay or sailing — see [do you need cash in San Blas?](/blog/do-you-need-cash-in-san-blas).
 
 ## What not to bring
 

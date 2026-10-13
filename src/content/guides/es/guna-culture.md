@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Cultura Guna: Qué Saber Antes de Visitar San Blas"
 heroImage: "/img/mujeres-guna-molas-celebracion.webp"
 relatedGuideSlugs: ["history-of-san-blas", "about-san-blas", "eco-tourism"]
@@ -15,9 +16,9 @@ Los Guna son uno de los pueblos indígenas más grandes de Panamá, y los guías
 
 ## Las molas: un arte vivo, no una línea de souvenirs
 
-Los paneles textiles cosidos a mano por capas que se llaman **molas** son lo más reconocible que la cultura Guna ha exportado, y se siguen haciendo como siempre: a mano, por mujeres Guna, como paneles de sus propias blusas de diario antes de ser algo que compra un visitante. Una buena mola son semanas de costura, y esa es la respuesta honesta a por qué los precios varían tanto de un puesto a otro: estás mirando horas de trabajo, no una tirada.
+Los paneles textiles cosidos a mano por capas que se llaman **molas** son lo más reconocible que la cultura Guna ha exportado, y se siguen haciendo como siempre: a mano, por mujeres Guna, como paneles de sus propias blusas de diario antes de ser algo que compra un visitante. Una buena mola son semanas de costura, y esa es la respuesta honesta a por qué los precios varían tanto de un puesto a otro: estás mirando horas de trabajo, no una tirada. Cómo se cortan y cosen las capas, y cómo distinguir un panel cosido a mano de uno impreso, lo contamos en [las molas explicadas](/es/blog/molas-explained).
 
-Comprarle directamente a la mujer que la hizo es la transacción más limpia que existe en las islas. No hay intermediario, no hay cadena de importación, y el dinero se queda exactamente donde lo entregaste.
+Comprarle directamente a la mujer que la hizo es la transacción más limpia que existe en las islas. No hay intermediario, no hay cadena de importación, y el dinero se queda exactamente donde lo entregaste. Entre quienes las cosen hay también [omeggid, personas guna criadas como niños que viven como mujeres](/es/blog/omeggid-guna-gender-identity), para quienes la mola forma parte de quiénes son.
 
 ## Fotografiar personas: pedir permiso lo cambia todo
 

@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Snorkel e Mergulho em San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
@@ -23,7 +24,7 @@ Uma camiseta de lycra vale aqui mais do que a maioria imagina, menos pelo frio e
 
 ## Dá para mergulhar com cilindro em San Blas?
 
-A resposta honesta é que **os passeios de um dia e as pernoites padrão de San Blas não incluem mergulho com cilindro**. O atrativo deste arquipélago é a água clara e rasa — recifes muitas vezes de poucos metros, melhor aproveitados flutuando por cima. Se o mergulho certificado é o centro das suas férias, San Blas não é o destino construído em torno disso, e preferimos dizer agora a vender um dia decepcionante.
+A resposta honesta é que **os passeios de um dia e as pernoites padrão de San Blas não incluem mergulho com cilindro**. O atrativo deste arquipélago é a água clara e rasa — recifes muitas vezes de poucos metros, melhor aproveitados flutuando por cima. Se o mergulho certificado é o centro das suas férias, San Blas não é o destino construído em torno disso, e preferimos dizer agora a vender um dia decepcionante. E não é só uma questão do que os passeios incluem: Guna Yala restringe o mergulho com cilindro para visitantes, como explica nossa [resposta sobre o mergulho em San Blas](/pt-br/blog/can-you-scuba-dive-in-san-blas).
 
 ## Que passeio escolher se o recife é o motivo
 

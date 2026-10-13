@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Guna-Kultur: Was Sie vor dem Besuch wissen sollten"
 heroImage: "/img/mujeres-guna-molas-celebracion.webp"
 relatedGuideSlugs: ["history-of-san-blas", "about-san-blas", "eco-tourism"]
@@ -15,9 +16,9 @@ Die Guna sind eines der größten indigenen Völker Panamas, und die Guides, Kap
 
 ## Molas: eine lebendige Kunstform, keine Souvenirserie
 
-Die geschichteten, von Hand genähten Stoffpaneele namens **Molas** sind das Bekannteste, was die Guna-Kultur exportiert hat, und sie entstehen weiterhin so wie immer: von Hand, von Guna-Frauen, als Teile ihrer eigenen Alltagsblusen, bevor sie überhaupt etwas sind, das ein Besucher kauft. In einer guten Mola stecken Wochen Näharbeit — das ist die ehrliche Antwort darauf, warum die Preise von Stand zu Stand so schwanken: Sie sehen Arbeitsstunden, keine Auflage.
+Die geschichteten, von Hand genähten Stoffpaneele namens **Molas** sind das Bekannteste, was die Guna-Kultur exportiert hat, und sie entstehen weiterhin so wie immer: von Hand, von Guna-Frauen, als Teile ihrer eigenen Alltagsblusen, bevor sie überhaupt etwas sind, das ein Besucher kauft. In einer guten Mola stecken Wochen Näharbeit — das ist die ehrliche Antwort darauf, warum die Preise von Stand zu Stand so schwanken: Sie sehen Arbeitsstunden, keine Auflage. Wie die Lagen geschnitten und vernäht werden und wie man ein handgenähtes Paneel von einem Druck unterscheidet, erklären wir in [Molas erklärt](/de/blog/molas-explained).
 
-Direkt bei der Frau zu kaufen, die sie genäht hat, ist das sauberste Geschäft, das die Inseln bieten. Kein Zwischenhändler, keine Importkette, und das Geld bleibt genau dort, wo Sie es übergeben haben.
+Direkt bei der Frau zu kaufen, die sie genäht hat, ist das sauberste Geschäft, das die Inseln bieten. Kein Zwischenhändler, keine Importkette, und das Geld bleibt genau dort, wo Sie es übergeben haben. Zu denen, die sie nähen, gehören auch [Omeggid, Guna, die als Jungen aufwuchsen und als Frauen leben](/de/blog/omeggid-guna-gender-identity); für sie ist die Mola-Arbeit Teil ihrer Identität.
 
 ## Fotografieren: einmal kurz um Erlaubnis bitten
 

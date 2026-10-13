@@ -26,7 +26,7 @@ Isla Pelícano pertenece al itinerario Super VIP Privado y no a los pasadías co
 
 ## Qué hay realmente en la isla
 
-Muy poco, y esa es la gracia. Es una parada escénica y de snorkel, no una isla con infraestructura: sin cabañas, sin tienda, sin servicios. Tampoco hay nada construido alrededor de la serie: lo que ves es la isla tal cual, la misma que salió en pantalla, y desde entonces no se le ha añadido nada para visitantes.
+Muy poco, y esa es la gracia. Es una parada escénica y de snorkel, no una isla con infraestructura: sin cabañas, sin tienda, sin servicios. Tampoco hay nada construido alrededor de la serie: lo que ves es la isla tal cual, la misma que salió en pantalla, y desde entonces no se le ha añadido nada para visitantes. Si eliges islas pensando en la cámara, nuestra [guía de lugares para fotografiar San Blas](/es/blog/best-san-blas-photography-spots) compara dónde está el agua más clara y cuándo es mejor la luz.
 
 ## Bueno saberlo
 

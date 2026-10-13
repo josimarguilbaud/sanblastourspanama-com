@@ -10,7 +10,7 @@ seoTitle: "Isla Diablo, San Blas — Volley, Cabanes, Étoiles de Mer"
 seoDescription: "Isla Diablo a son propre itinéraire publié dans le groupe Isla Perro, une eau calme pour les enfants et des cabanes guna simples pour la nuit."
 ---
 
-Pour une île qui s'appelle l'île du Diable, Isla Diablo est remarquablement paisible. Elle appartient au groupe Isla Perro, à quelques minutes de bateau de plusieurs autres îlots réputés, et c'est l'une des rares îles de San Blas qui fonctionne aussi bien comme arrêt d'une journée que comme base pour la nuit.
+Pour une île qui s'appelle l'île du Diable, Isla Diablo est remarquablement paisible. Elle appartient au groupe Isla Perro, à quelques minutes de bateau de plusieurs autres îlots réputés, et c'est l'une des rares îles de San Blas qui fonctionne aussi bien comme arrêt d'une journée que comme base pour la nuit. Sa place à côté de ses voisines Perro Chico et Perro Grande est expliquée dans notre [article sur les noms d'Isla Perro](/fr/blog/perro-vs-perro-chico-vs-perro-grande).
 
 ## Une île que l'on fait à pied en quelques minutes
 

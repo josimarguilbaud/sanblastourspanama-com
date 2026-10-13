@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Flights to San Blas: Is Flying an Option?"
 heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
@@ -11,7 +12,7 @@ The short version: yes, small aircraft do reach parts of Guna Yala, and no, that
 
 ## Airstrips are not airports
 
-Guna Yala has a handful of short local airstrips serving inhabited islands and mainland points, the best known being at **El Porvenir**, the administrative centre of the comarca. These are strips of runway beside a village, not terminals: no baggage systems, no connecting infrastructure, no taxi rank on the other side. Small domestic aircraft serve a few of them from Panama City, but the routes, the operators and the frequencies have changed repeatedly over the years, so any schedule you read second-hand should be confirmed directly with the airline before you build a trip around it.
+Guna Yala has a handful of short local airstrips serving inhabited islands and mainland points, the best known being at **El Porvenir**, the administrative centre of the comarca. These are strips of runway beside a village, not terminals: no baggage systems, no connecting infrastructure, no taxi rank on the other side. Small domestic aircraft serve a few of them from Panama City, but the routes, the operators and the frequencies have changed repeatedly over the years, so any schedule you read second-hand should be confirmed directly with the airline before you build a trip around it. Islands built around a proper airport are a different kind of trip; [San Blas vs San Andrés, Roatán and Los Roques](/blog/san-blas-vs-san-andres-roatan-los-roques) sets them side by side.
 
 ## What a flight actually delivers
 
@@ -29,7 +30,7 @@ The standard route — door-to-door 4x4 pickup in Panama City, roughly 2.5 hours
 
 ## When flying is worth investigating
 
-If you are travelling to a specific inhabited island for reasons of your own — visiting a community, joining a boat already in the archipelago, or continuing a longer independent itinerary — an airstrip may genuinely be the right door. In that case treat the flight as transport to a starting point, and arrange the boat legs separately with people on the ground.
+If you are travelling to a specific inhabited island for reasons of your own — visiting a community, joining a boat already in the archipelago, or continuing a longer independent itinerary — an airstrip may genuinely be the right door. In that case treat the flight as transport to a starting point, and arrange the boat legs separately with people on the ground. Travellers who have flown to Bocas del Toro, Panama's other Caribbean archipelago, often expect San Blas to work the same way; our [San Blas vs Bocas del Toro comparison](/blog/san-blas-vs-bocas-del-toro) explains why it does not.
 
 ## Frequently asked questions
 

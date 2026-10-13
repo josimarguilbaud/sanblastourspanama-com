@@ -15,7 +15,7 @@ Chichime ist keine Insel, sondern zwei: zwei kleine Inselchen, die nebeneinander
 
 ## Zwei Inseln, ein Kanal
 
-Der Kanal zwischen den beiden Inselchen ist das, woran sich alle erinnern. Bei Ebbe steht das Wasser knie- bis oberschenkelhoch und man geht zu Fuß hinüber, von Sandbank zu Sandbank, mit offener Karibik auf beiden Seiten. Steigt das Wasser, wird aus derselben Querung eine kurze Schwimmstrecke. Es bedeutet auch: Die Insel, auf der Sie anlanden, und die Insel auf Ihrem Foto sind nicht zwangsläufig dieselbe — gut zu wissen, bevor Sie den Drybag am falschen Strand liegen lassen.
+Der Kanal zwischen den beiden Inselchen ist das, woran sich alle erinnern. Bei Ebbe steht das Wasser knie- bis oberschenkelhoch und man geht zu Fuß hinüber, von Sandbank zu Sandbank, mit offener Karibik auf beiden Seiten. Steigt das Wasser, wird aus derselben Querung eine kurze Schwimmstrecke. Es bedeutet auch: Die Insel, auf der Sie anlanden, und die Insel auf Ihrem Foto sind nicht zwangsläufig dieselbe — gut zu wissen, bevor Sie den Drybag am falschen Strand liegen lassen. Er ist auch das Motiv, um das Fotografen ihren Tag planen; unser [Ratgeber zu den Fotospots von San Blas](/de/blog/best-san-blas-photography-spots) erklärt, wann Gezeiten und Licht am besten passen.
 
 ## Die Guna-Familien, die hier leben
 

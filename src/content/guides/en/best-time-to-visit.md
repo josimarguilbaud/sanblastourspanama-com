@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-28
 title: "Best Time to Visit San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
@@ -7,7 +8,7 @@ seoTitle: "Best Time to Visit San Blas: Dec–Apr Is Driest"
 seoDescription: "Dry season (December–April) is sunniest and clearest for photos, but the water stays the same warm temperature all year and boats run daily."
 ---
 
-San Blas has no closed season. Boats leave the Carti embarkation point every day of the year, the water stays warm through all twelve months, and there is no month you should strike off the calendar. What does change is light, crowd level and how often you get wet from above — and choosing between those trade-offs is really what "best time" means here.
+San Blas has no closed season. Boats leave the Carti embarkation point every day of the year, the water stays warm through all twelve months, and there is no month you should strike off the calendar. What does change is light, crowd level and how often you get wet from above — and choosing between those trade-offs is really what "best time" means here. If you want the same pattern month by month, with holidays and crowd levels, see [San Blas weather month by month](/blog/san-blas-weather-month-by-month).
 
 ## Dry season: December to April
 

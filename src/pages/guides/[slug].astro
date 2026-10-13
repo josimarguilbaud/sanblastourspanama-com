@@ -22,7 +22,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, heroImage, relatedGuideSlugs, relatedIslandSlugs, seoTitle, seoDescription } = entry.data;
+const { title, heroImage, relatedGuideSlugs, relatedIslandSlugs, seoTitle, seoDescription, updatedAt } = entry.data;
 const slug = entry.id.replace(/^en\//, '');
 
 const allGuides = await getCollection('guides');
@@ -59,8 +59,11 @@ const jsonLd = {
   '@type': 'Article',
   headline: title,
   description: seoDescription ?? title,
-  ...(heroImage && { image: heroImage }),
-  publisher: { '@type': 'TravelAgency', name: 'San Blas Tours Panamá' },
+  ...(heroImage && { image: new URL(heroImage, Astro.site).href }),
+  ...(updatedAt && { dateModified: updatedAt.toISOString() }),
+  inLanguage: 'en',
+  author: { '@id': 'https://sanblastourspanama.com/#organizacion' },
+  publisher: { '@id': 'https://sanblastourspanama.com/#organizacion' },
 };
 ---
 

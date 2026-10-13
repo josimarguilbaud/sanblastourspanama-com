@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Snorkeling & Diving in San Blas"
 heroImage: "/img/snorkel-aereo-arrecife-san-blas.webp"
 relatedGuideSlugs: ["marine-wildlife", "top-beaches"]
@@ -23,7 +24,7 @@ A rash guard is worth more here than most people expect, less for warmth than fo
 
 ## Can you scuba dive in San Blas?
 
-The honest answer is that **standard San Blas day tours and overnight stays do not include scuba diving with tanks**. The appeal of this archipelago is clear, shallow water — reefs often only a few metres deep, best experienced floating over them. If certified tank diving is the centre of your holiday, San Blas is not the destination built around it, and we would rather say so now than sell you a day that disappoints.
+The honest answer is that **standard San Blas day tours and overnight stays do not include scuba diving with tanks**. The appeal of this archipelago is clear, shallow water — reefs often only a few metres deep, best experienced floating over them. If certified tank diving is the centre of your holiday, San Blas is not the destination built around it, and we would rather say so now than sell you a day that disappoints. It is not only a question of what tours include, either: Guna Yala restricts scuba diving for visitors, as our [answer on scuba diving in San Blas](/blog/can-you-scuba-dive-in-san-blas) explains.
 
 ## Choosing a tour if the reef is the point
 

@@ -14,7 +14,7 @@ Not every stop in San Blas is an island. The Natural Pool is a sandbar that rise
 
 ## Not an island, a sandbar
 
-There is no beach here to walk onto, no palm to sit under, no shoreline at all. You wade in from the boat onto pale sand in water that reaches roughly to the waist, and the strangeness of standing in the middle of open sea is most of the appeal. It is also why this stop photographs unlike anywhere else on the trip: nothing in the frame gives the depth away.
+There is no beach here to walk onto, no palm to sit under, no shoreline at all. You wade in from the boat onto pale sand in water that reaches roughly to the waist, and the strangeness of standing in the middle of open sea is most of the appeal. It is also why this stop photographs unlike anywhere else on the trip: nothing in the frame gives the depth away. How to shoot it at water level, and in what light, is covered in our [San Blas photography spots guide](/blog/best-san-blas-photography-spots).
 
 ## The starfish, and how to behave around them
 

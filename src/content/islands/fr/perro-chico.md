@@ -18,7 +18,7 @@ L'épave a cessé d'être un bateau pour devenir un récif artificiel. Le corail
 
 ## Nul besoin de savoir plonger
 
-L'épave repose dans une eau assez peu profonde pour que des débutants complets et des personnes sans brevet de plongée l'explorent confortablement, généralement à courte distance à la nage depuis le bateau ou la plage. La visibilité y est habituellement excellente. Le gilet de sauvetage est obligatoire dans les bateaux pour tout le monde, adultes compris, et rien n'oblige à l'enlever : flotter à plat ventre au-dessus de l'épave fonctionne très bien avec.
+L'épave repose dans une eau assez peu profonde pour que des débutants complets et des personnes sans brevet de plongée l'explorent confortablement, généralement à courte distance à la nage depuis le bateau ou la plage. La visibilité y est habituellement excellente. Le gilet de sauvetage est obligatoire dans les bateaux pour tout le monde, adultes compris, et rien n'oblige à l'enlever : flotter à plat ventre au-dessus de l'épave fonctionne très bien avec. Les bouteilles ne seraient de toute façon pas une option : la plongée bouteille est restreinte pour les visiteurs dans tout Guna Yala, comme l'explique notre [réponse sur la plongée à San Blas](/fr/blog/can-you-scuba-dive-in-san-blas).
 
 ## Ce que l'on voit vraiment
 
@@ -26,7 +26,7 @@ Poissons-perroquets et sergents-majors sont quasi garantis ; poissons-anges et d
 
 ## L'îlot au-dessus de l'eau
 
-Perro Chico est inhabité et sert d'arrêt à la journée, pas de base pour la nuit. Il y a une bande étroite de plage où se sécher et manger entre deux passages dans l'eau, et pas grand-chose d'autre. Comme l'arrêt lui-même est plutôt court, la plupart des itinéraires associent Perro Chico à deux ou trois autres îles dans la même journée.
+Perro Chico est inhabité et sert d'arrêt à la journée, pas de base pour la nuit. Il y a une bande étroite de plage où se sécher et manger entre deux passages dans l'eau, et pas grand-chose d'autre. Comme l'arrêt lui-même est plutôt court, la plupart des itinéraires associent Perro Chico à deux ou trois autres îles dans la même journée. Sa voisine plus grande, Perro Grande, est une autre île, habitée et dotée de cabanes ; notre article sur [Perro Chico et Perro Grande](/fr/blog/perro-vs-perro-chico-vs-perro-grande) explique laquelle est laquelle.
 
 ## Quelles excursions y passent
 

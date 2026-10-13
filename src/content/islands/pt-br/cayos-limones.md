@@ -18,7 +18,7 @@ Entre a maioria das paradas de San Blas há uma travessia de verdade. Em Limones
 
 ## Por que a água tem essa cara
 
-Aqui a água clara não é sorte. Não há foz de rio por perto empurrando sedimento, não há povoado nas ilhotas, e a areia é clara o bastante para devolver a luz através do raso. Na prática, o snorkel compensa mesmo em água bem rasa perto da margem, e a diferença entre a água na cintura e no peito se enxerga da superfície.
+Aqui a água clara não é sorte. Não há foz de rio por perto empurrando sedimento, não há povoado nas ilhotas, e a areia é clara o bastante para devolver a luz através do raso. Na prática, o snorkel compensa mesmo em água bem rasa perto da margem, e a diferença entre a água na cintura e no peito se enxerga da superfície. Essa transparência também explica por que o grupo é tão querido pelos fotógrafos; nosso [guia de lugares para fotografar San Blas](/pt-br/blog/best-san-blas-photography-spots) explica como aproveitá-la.
 
 ## Onde Limones entra num roteiro
 

@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Wie kommt man von Panama-Stadt nach San Blas?"
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
@@ -32,6 +33,8 @@ Eine Änderung der Abholadresse muss **mindestens 24 Stunden vorher** gemeldet w
 - **Ihr Original-Reisepass oder -Ausweis.** Er wird an der Kontrollstelle ins Guna-Gebiet verlangt; eine Kopie oder ein Handyfoto wird nicht akzeptiert.
 - **Bargeld.** In ganz Guna Yala gibt es keine Geldautomaten. Sie brauchen Bargeld für die Gemeindegebühr und für alles, was Sie auf den Inseln kaufen.
 - **Das Mittel gegen Reiseübelkeit.** Vor der Abfahrt einnehmen. Auf der Bergstraße ist es zu spät, damit es noch richtig wirkt.
+
+Am Kontrollposten zahlt jeder Besucher auch die Eintrittssteuer der Comarca, die an die Guna-Behörden geht und nicht an Ihren Anbieter; [Wohin geht die Gemeinschaftssteuer?](/de/blog/where-does-community-tax-go) erklärt, wer sie erhebt und warum.
 
 ## Kann ich selbst fahren?
 

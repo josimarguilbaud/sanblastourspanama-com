@@ -18,7 +18,7 @@ El barco dejó de ser un barco y se convirtió en un arrecife artificial. El cor
 
 ## No hace falta saber bucear
 
-El naufragio está en agua lo bastante poco profunda para que principiantes absolutos y personas sin certificación de buceo lo exploren cómodamente, casi siempre a poca distancia nadando desde la lancha o la playa. La visibilidad suele ser excelente. El chaleco salvavidas es obligatorio en las lanchas para todos, adultos incluidos, y puedes dejártelo puesto mientras miras: flotar boca abajo sobre el naufragio funciona perfectamente con chaleco.
+El naufragio está en agua lo bastante poco profunda para que principiantes absolutos y personas sin certificación de buceo lo exploren cómodamente, casi siempre a poca distancia nadando desde la lancha o la playa. La visibilidad suele ser excelente. El chaleco salvavidas es obligatorio en las lanchas para todos, adultos incluidos, y puedes dejártelo puesto mientras miras: flotar boca abajo sobre el naufragio funciona perfectamente con chaleco. Los tanques tampoco serían una opción: el buceo con tanque está restringido para los visitantes en toda Guna Yala, como explica nuestra [respuesta sobre el buceo en San Blas](/es/blog/can-you-scuba-dive-in-san-blas).
 
 ## Qué se ve de verdad
 
@@ -26,7 +26,7 @@ Peces loro y sargentos son casi seguros; los peces ángel y las damiselas son co
 
 ## El cayo por encima del agua
 
-Perro Chico está deshabitada y se usa como parada de un día, no como base para dormir. Hay una franja angosta de playa donde secarse y comer entre sesiones en el agua, y poco más. Como la parada en sí es relativamente corta, la mayoría de los itinerarios combinan Perro Chico con dos o tres islas más el mismo día.
+Perro Chico está deshabitada y se usa como parada de un día, no como base para dormir. Hay una franja angosta de playa donde secarse y comer entre sesiones en el agua, y poco más. Como la parada en sí es relativamente corta, la mayoría de los itinerarios combinan Perro Chico con dos o tres islas más el mismo día. Su vecina más grande, Perro Grande, es otra isla, con gente y cabañas; nuestra guía sobre [Perro Chico y Perro Grande](/es/blog/perro-vs-perro-chico-vs-perro-grande) explica cuál es cuál.
 
 ## Qué tours llegan aquí
 

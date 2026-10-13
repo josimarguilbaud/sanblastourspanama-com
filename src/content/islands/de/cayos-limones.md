@@ -18,7 +18,7 @@ Zwischen den meisten Stopps in San Blas liegt eine echte Überfahrt. Bei Limones
 
 ## Warum das Wasser so aussieht
 
-Klares Wasser ist hier kein Zufall. In der Nähe drückt keine Flussmündung Sediment heraus, auf den Inselchen lebt niemand, und der Sand ist hell genug, um das Licht durch das flache Wasser zurückzuwerfen. Praktisch heißt das: Schnorcheln lohnt sich schon in sehr flachem Wasser nahe am Ufer, und der Unterschied zwischen hüft- und brusttiefem Wasser ist von oben zu erkennen.
+Klares Wasser ist hier kein Zufall. In der Nähe drückt keine Flussmündung Sediment heraus, auf den Inselchen lebt niemand, und der Sand ist hell genug, um das Licht durch das flache Wasser zurückzuwerfen. Praktisch heißt das: Schnorcheln lohnt sich schon in sehr flachem Wasser nahe am Ufer, und der Unterschied zwischen hüft- und brusttiefem Wasser ist von oben zu erkennen. Diese Klarheit ist auch der Grund, warum die Gruppe bei Fotografen so beliebt ist; unser [Ratgeber zu den Fotospots von San Blas](/de/blog/best-san-blas-photography-spots) erklärt, wie Sie sie nutzen.
 
 ## Wo Limones auf einer Route auftaucht
 

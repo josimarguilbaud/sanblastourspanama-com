@@ -14,7 +14,7 @@ Tous les arrêts de San Blas ne sont pas des îles. La Piscine Naturelle est un 
 
 ## Pas une île, un banc de sable
 
-Il n'y a ici aucune plage où marcher, aucun cocotier sous lequel s'asseoir, aucun rivage. On entre à pied depuis le bateau sur un sable clair, dans une eau qui arrive à peu près à la taille, et l'étrangeté de se tenir debout au milieu du large fait l'essentiel du charme. C'est aussi pourquoi cet arrêt se photographie comme nul autre du voyage : rien dans le cadre ne trahit la profondeur.
+Il n'y a ici aucune plage où marcher, aucun cocotier sous lequel s'asseoir, aucun rivage. On entre à pied depuis le bateau sur un sable clair, dans une eau qui arrive à peu près à la taille, et l'étrangeté de se tenir debout au milieu du large fait l'essentiel du charme. C'est aussi pourquoi cet arrêt se photographie comme nul autre du voyage : rien dans le cadre ne trahit la profondeur. Comment la photographier au ras de l'eau, et sous quelle lumière, est expliqué dans notre [guide des spots photo de San Blas](/fr/blog/best-san-blas-photography-spots).
 
 ## Les étoiles de mer, et la bonne conduite
 

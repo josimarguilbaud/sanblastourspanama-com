@@ -26,7 +26,7 @@ Por causa da distância extra, o passeio aos Cayos Holandeses funciona com regra
 
 ## O que esta parada não é
 
-É um recife e uma lagoa, não uma ilha com serviços. Não há infraestrutura digna do nome, nem sombra construída para visitantes, nem nada para comprar. Também não é destino de mergulho com cilindro: os passeios padrão de San Blas não incluem cilindro, nem aqui nem em nenhum outro ponto do arquipélago. Este recife rende melhor a um ou dois metros abaixo da sua máscara.
+É um recife e uma lagoa, não uma ilha com serviços. Não há infraestrutura digna do nome, nem sombra construída para visitantes, nem nada para comprar. Também não é destino de mergulho com cilindro: os passeios padrão de San Blas não incluem cilindro, nem aqui nem em nenhum outro ponto do arquipélago. Este recife rende melhor a um ou dois metros abaixo da sua máscara. Por que os cilindros estão fora de questão em toda Guna Yala está explicado na nossa [resposta sobre o mergulho em San Blas](/pt-br/blog/can-you-scuba-dive-in-san-blas).
 
 ## Escolher entre este passeio e o VIP
 

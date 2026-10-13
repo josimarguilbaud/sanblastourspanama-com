@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Eco-Tourism in San Blas: How Your Visit Helps"
 heroImage: "/img/agua-esmeralda-palmeras-san-blas.webp"
 relatedGuideSlugs: ["guna-culture", "marine-wildlife"]
@@ -19,13 +20,13 @@ Three separate payments leave your pocket on a San Blas trip, and they end up in
 
 - **The community entry tax** — **$22 for foreigners, $7 for residents**, paid in cash at the border of the territory. It is not part of the tour price and it is not a government tourism levy: it goes to the Guna communities whose territory you are crossing.
 - **The tour itself** — boats, drivers, cooks and guides are local, so the bulk of the operating spend stays inside the region rather than leaving with a foreign operator.
-- **Whatever you buy on the islands** — most often a mola, bought directly from the woman who stitched it, with no intermediary taking a cut.
+- **Whatever you buy on the islands** — most often a mola, bought directly from the woman who stitched it, with no intermediary taking a cut. Knowing [how a genuine mola is made](/blog/molas-explained) helps you recognise one.
 
 Because there are no cash machines anywhere in the territory, all of this has to be carried in with you.
 
 ## The pressure points that actually matter
 
-Small islands have small tolerances. Four things do measurable damage here, and all four are avoidable:
+Small islands have small tolerances, and the biggest pressure of all, [a rising sea](/blog/are-san-blas-islands-sinking), is not one visitors control. Four things do measurable damage here, and all four are avoidable:
 
 - **Sunscreen chemistry.** Conventional formulas harm coral. Reef-safe, biodegradable sunscreen is not a preference on these reefs; it is the reason guides raise the subject before anyone gets in the water.
 - **Rubbish.** A cay a few hundred metres across has no waste infrastructure. Anything you land with should leave with you, including bottle caps and cigarette ends.

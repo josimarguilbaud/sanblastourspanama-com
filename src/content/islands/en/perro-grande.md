@@ -41,7 +41,7 @@ There is no wifi on any island in San Blas, and cell signal is inconsistent — 
 ## Frequently asked questions
 
 ### Are Perro Grande and Perro Chico the same island?
-No, though they belong to the same group and sit a short boat ride apart. Perro Chico is a small uninhabited cay known for the shipwreck snorkel; Perro Grande is larger, inhabited, and known for wide beaches and calm swimming water. People routinely book one meaning the other.
+No, though they belong to the same group and sit a short boat ride apart. Perro Chico is a small uninhabited cay known for the shipwreck snorkel; Perro Grande is larger, inhabited, and known for wide beaches and calm swimming water. People routinely book one meaning the other. Our guide to [Perro Chico vs Perro Grande](/blog/perro-vs-perro-chico-vs-perro-grande) sets the islands of the group side by side.
 
 ### Can I book a night specifically on Perro Grande?
 Not by name. Overnight stays are sold by cabin type, and the island is assigned closer to your date according to availability — most San Blas islands offer near-identical cabins within each category. If a particular island matters to you, say so when you book and it can be taken into account, but it cannot be guaranteed.

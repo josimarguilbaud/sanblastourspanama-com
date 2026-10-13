@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Melhor Época para Visitar San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
@@ -7,7 +8,7 @@ seoTitle: "Melhor Época para Visitar San Blas, Panamá"
 seoDescription: "Quando ir a San Blas: estação seca ou estação chuvosa, o que muda com o clima e por que os passeios saem o ano inteiro de qualquer forma."
 ---
 
-San Blas não tem temporada fechada. Os barcos saem do embarcadouro de Carti todos os dias do ano, a água segue morna nos doze meses e não existe um mês para riscar do calendário. O que muda é a luz, a quantidade de gente e a frequência com que você se molha de cima — escolher entre essas três coisas é o que "melhor época" realmente significa aqui.
+San Blas não tem temporada fechada. Os barcos saem do embarcadouro de Carti todos os dias do ano, a água segue morna nos doze meses e não existe um mês para riscar do calendário. O que muda é a luz, a quantidade de gente e a frequência com que você se molha de cima — escolher entre essas três coisas é o que "melhor época" realmente significa aqui. Para ver esse mesmo padrão mês a mês, com feriados e movimento, confira [o clima de San Blas mês a mês](/pt-br/blog/san-blas-weather-month-by-month).
 
 ## Estação seca: de dezembro a abril
 

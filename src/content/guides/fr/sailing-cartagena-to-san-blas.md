@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Naviguer de Carthagène à San Blas : Ce qu'il Faut Savoir"
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
@@ -26,7 +27,7 @@ L'essentiel du programme, c'est du temps en mer. Une partie en pleine eau entre 
 
 ## Si c'est la voile qui vous attire
 
-Si l'attrait est le bateau et non la frontière, l'archipel a sa propre réponse : des [charters privés de yacht et de catamaran](/fr/yachts) avec équipage complet, qui parcourent San Blas selon l'itinéraire que vous fixez, sans obligation de finir dans un autre pays. C'est un produit différent d'un passage Colombie-Panama, et généralement mieux adapté à ceux qui veulent naviguer *à* San Blas plutôt que naviguer *à travers* San Blas.
+Si l'attrait est le bateau et non la frontière, l'archipel a sa propre réponse : des [charters privés de yacht et de catamaran](/fr/yachts) avec équipage complet, qui parcourent San Blas selon l'itinéraire que vous fixez, sans obligation de finir dans un autre pays. C'est un produit différent d'un passage Colombie-Panama, et généralement mieux adapté à ceux qui veulent naviguer *à* San Blas plutôt que naviguer *à travers* San Blas. Pour comparer côte à côte la traversée, une excursion depuis Panama City et une croisière privée, voyez notre [comparatif des trois façons d'aller à San Blas](/fr/blog/sailing-vs-day-tour-vs-yacht-charter).
 
 ## Si le but, c'est San Blas
 

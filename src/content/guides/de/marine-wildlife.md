@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Meeresleben und Tierwelt von San Blas"
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
@@ -22,7 +23,7 @@ Delfine und Meeresschildkröten kommen in den karibischen Gewässern Panamas vor
 
 ## Oberhalb der Wasserlinie
 
-Die Inseln selbst sind Palmen und Küstengebüsch, kein Wald — die Geschichte der Landtiere fällt also von Natur aus dünn aus: Das größere Waldgebiet und die dazugehörigen Tiere liegen auf der Festlandseite von Guna Yala, nicht auf den vorgelagerten Cays. Was man überall sieht, ist eine arbeitende Fischereiwirtschaft: Einbäume, die täglich in Gebrauch sind, und Netze, die in der Sonne trocknen. Das ist keine Vorführung für Gäste, sondern die Art, wie die Inseln sich ernähren.
+Die Inseln selbst sind Palmen und Küstengebüsch, kein Wald — die Geschichte der Landtiere fällt also von Natur aus dünn aus: Das größere Waldgebiet und die dazugehörigen Tiere liegen auf der Festlandseite von Guna Yala, nicht auf den vorgelagerten Cays. Was man überall sieht, ist eine arbeitende Fischereiwirtschaft: Einbäume, die täglich in Gebrauch sind, und Netze, die in der Sonne trocknen. Das ist keine Vorführung für Gäste, sondern die Art, wie die Inseln sich ernähren. Was aus diesem Fang auf dem Teller wird und wann Langusten tabu sind, steht in [Was man in San Blas isst](/de/blog/what-you-eat-in-san-blas).
 
 ## Schauen, ohne Schaden anzurichten
 

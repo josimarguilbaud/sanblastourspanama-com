@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "The Best Beaches in San Blas"
 heroImage: "/img/playa-caminata-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "best-time-to-visit"]
@@ -15,7 +16,7 @@ Small enough to walk around in ten minutes, and famous for what lies just offsho
 
 ## Best postcard beach: Chichime
 
-Two cays side by side, separated by a channel shallow enough to wade at low tide. [Chichime](/islands/chichime) is the most photographed sand in the archipelago for good reason: powder-white, lined with leaning palms, and fronted by water that shifts from pale turquoise to deep blue within a few steps. A small Guna community lives on one of the two cays, so ulus pulled up on the sand and nets drying in the sun are part of the picture.
+Two cays side by side, separated by a channel shallow enough to wade at low tide. [Chichime](/islands/chichime) is the most photographed sand in the archipelago for good reason: powder-white, lined with leaning palms, and fronted by water that shifts from pale turquoise to deep blue within a few steps. A small Guna community lives on one of the two cays, so ulus pulled up on the sand and nets drying in the sun are part of the picture. For when to shoot it and how the tide changes the frame, see our [San Blas photography spots guide](/blog/best-san-blas-photography-spots).
 
 ## Best for families: Isla Aguja
 
@@ -27,7 +28,7 @@ Not one beach but a cluster of them, close enough together that you can swim off
 
 ## Best for space: Perro Grande
 
-Most San Blas cays are tiny. [Perro Grande](/islands/perro-grande) is the genuine exception, with wide stretches of white sand that do not feel shared with everyone on the boat, and calm turquoise water better suited to floating than to chasing fish. Simple beachfront cabins make it an option for an overnight stay too.
+Most San Blas cays are tiny. [Perro Grande](/islands/perro-grande) is the genuine exception, with wide stretches of white sand that do not feel shared with everyone on the boat, and calm turquoise water better suited to floating than to chasing fish. Simple beachfront cabins make it an option for an overnight stay too. It is easily confused with its small neighbour, the shipwreck island; our guide to [Perro Chico vs Perro Grande](/blog/perro-vs-perro-chico-vs-perro-grande) sorts the names out.
 
 ## Best quiet, premium stop: Isla Pelícano
 

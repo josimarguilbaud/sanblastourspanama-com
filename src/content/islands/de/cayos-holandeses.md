@@ -26,7 +26,7 @@ Wegen der zusätzlichen Distanz folgt die Tour zu den Cayos Holandeses eigenen R
 
 ## Was dieser Stopp nicht ist
 
-Es ist ein Riff und eine Lagune, keine Insel mit Serviceangebot. Nennenswerte Infrastruktur gibt es nicht, keinen für Besucher gebauten Schatten, nichts zu kaufen. Es ist auch kein Tauchziel: Die üblichen San-Blas-Touren enthalten kein Gerätetauchen, weder hier noch sonst im Archipel. Dieses Riff entfaltet sich am besten ein bis zwei Meter unter Ihrer Maske.
+Es ist ein Riff und eine Lagune, keine Insel mit Serviceangebot. Nennenswerte Infrastruktur gibt es nicht, keinen für Besucher gebauten Schatten, nichts zu kaufen. Es ist auch kein Tauchziel: Die üblichen San-Blas-Touren enthalten kein Gerätetauchen, weder hier noch sonst im Archipel. Dieses Riff entfaltet sich am besten ein bis zwei Meter unter Ihrer Maske. Warum Flaschen in ganz Guna Yala ausgeschlossen sind, erklärt unsere [Antwort zum Gerätetauchen in San Blas](/de/blog/can-you-scuba-dive-in-san-blas).
 
 ## Diese Tour oder die VIP-Tour?
 

@@ -18,7 +18,7 @@ The wreck has stopped being a boat and become an artificial reef. Coral has take
 
 ## You do not need to dive
 
-The wreck sits in water shallow enough for complete beginners and non-certified snorkelers to explore comfortably, usually a short swim from the boat or the beach. Visibility is normally excellent. Life jackets are mandatory on the boats for everyone, adults included, and you can keep yours on while you look — floating face-down over the wreck works perfectly well with one on.
+The wreck sits in water shallow enough for complete beginners and non-certified snorkelers to explore comfortably, usually a short swim from the boat or the beach. Visibility is normally excellent. Life jackets are mandatory on the boats for everyone, adults included, and you can keep yours on while you look — floating face-down over the wreck works perfectly well with one on. Tanks would not be an option anyway: scuba diving is restricted for visitors across Guna Yala, as our [answer on scuba diving in San Blas](/blog/can-you-scuba-dive-in-san-blas) explains.
 
 ## What you actually see
 
@@ -26,7 +26,7 @@ Parrotfish and sergeant majors are close to guaranteed; angelfish and damselfish
 
 ## The cay above the water
 
-Perro Chico is uninhabited and used as a day stop, not an overnight base. There is a narrow strip of beach where you dry off and eat between sessions in the water, and very little else. Because the stop itself is relatively short, most itineraries pair Perro Chico with two or three other islands in the same day.
+Perro Chico is uninhabited and used as a day stop, not an overnight base. There is a narrow strip of beach where you dry off and eat between sessions in the water, and very little else. Because the stop itself is relatively short, most itineraries pair Perro Chico with two or three other islands in the same day. Its larger neighbour, Perro Grande, is a different island with people and cabins on it; our guide to [Perro Chico vs Perro Grande](/blog/perro-vs-perro-chico-vs-perro-grande) explains which is which.
 
 ## Which tours come here
 

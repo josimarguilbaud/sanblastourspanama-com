@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Cómo Llegar a San Blas Desde Ciudad de Panamá"
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
@@ -32,6 +33,8 @@ Si necesitas cambiar la dirección de recogida, hay que hacerlo con **al menos 2
 - **Tu pasaporte o cédula original.** Se exige en el puesto de control de entrada al territorio Guna, y una fotocopia o una foto en el celular no se aceptan.
 - **Efectivo.** No hay cajeros automáticos en ningún punto de Guna Yala. Necesitas efectivo para el impuesto comunitario y para lo que compres en las islas.
 - **La pastilla para el mareo.** Tómala antes de salir. Cuando ya estás en la carretera de montaña es tarde para que haga efecto.
+
+El control es también donde cada visitante paga el impuesto de entrada de la comarca, que va a las autoridades gunas y no a tu operador; [a dónde va el impuesto comunitario](/es/blog/where-does-community-tax-go) explica quién lo cobra y por qué.
 
 ## ¿Puedo ir por mi cuenta?
 

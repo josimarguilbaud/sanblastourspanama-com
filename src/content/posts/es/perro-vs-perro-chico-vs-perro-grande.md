@@ -1,30 +1,90 @@
 ---
-title: "Isla Perro vs Perro Chico vs Perro Grande: Resolviendo los Nombres Confusos de San Blas"
-excerpt: "Tres islas distintas con 'Perro' en el nombre confunden a casi todos los primerizos planeando un viaje a San Blas. Aquí cómo diferenciarlas realmente."
+updatedAt: 2026-10-13
+title: "Isla Perro, Perro Chico o Perro Grande: Cómo Distinguirlas"
+excerpt: "Isla Perro es un grupo, no una isla. Perro Chico tiene el naufragio, Perro Grande tiene el espacio y las cabañas, y otras dos islas comparten el vecindario. Aquí el mapa explicado con palabras."
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 publishedAt: 2026-05-03
-seoTitle: "Perro Chico vs. Perro Grande: ¿Cuál Es Cuál?"
-seoDescription: "San Blas tiene varias islas con 'Perro' en el nombre, y es una fuente de confusión genuinamente común. Aquí cómo se relacionan realmente Perro Chico."
+seoTitle: "Perro Chico vs Perro Grande: ¿cuál isla de San Blas es cuál?"
+seoDescription: "Isla Perro es un grupo de cayos. Perro Chico es la pequeña del naufragio; Perro Grande, la grande y habitada, con playas anchas y cabañas."
 ---
 
-**"Isla Perro" se refiere a un grupo de islas en San Blas, no a un solo destino. Dentro de ese grupo, Perro Chico es la isla pequeña y deshabitada famosa por su barco hundido apto para snorkel, mientras que Perro Grande es una isla más grande y habitada conocida por sus playas amplias y estadías nocturnas en cabaña. Son vecinas, no el mismo lugar.**
+**Isla Perro no es una isla sino un pequeño grupo de cayos a poca distancia en bote de Cartí. Perro Chico, llamada Assudub Bipii en guna, es la pequeña y deshabitada con el naufragio cubierto de coral. Perro Grande es su vecina más grande y habitada, con playas anchas y cabañas sencillas. Isla Diablo y Nugnudub pertenecen al mismo grupo.**
 
-## Por qué esto confunde a la gente
+## A qué se refiere de verdad «Isla Perro»
 
-"Perro" tiene el mismo significado en español que en la mayoría de las guías, y San Blas tiene un grupo de islas en la misma zona que comparten el nombre con distintos calificativos — Perro Chico, Perro Grande, y la agrupación general "Isla Perro" usada para describir el área más amplia. Cuando un itinerario de tour o un post de blog solo dice "Isla Perro" sin especificar cuál, es genuinamente ambiguo a menos que conozcas la zona.
+*Chico* y *grande* son toda la lógica de los nombres: dos cayos vecinos que se distinguen por su tamaño. El problema empieza cuando un anuncio de tour, una reseña o un chat de reservas dice solo «Isla Perro». A veces quien lo escribe se refiere al grupo entero. Muy a menudo quiere decir Perro Chico, porque el naufragio es lo que la gente viene a ver. De vez en cuando se refiere a Perro Grande, porque ahí es donde alguien durmió.
 
-## Perro Chico: la isla del barco hundido
+Los mapas añaden una segunda capa de confusión. Algunos operadores incluyen las islas Perro dentro de los vecinos [Cayos Limones](/es/islands/cayos-limones), el conjunto de islotes deshabitados de al lado, y el tour de islas de las estadías visita las dos zonas una tras otra. En este sitio las mantenemos separadas porque la experiencia es distinta: Limones consiste en saltar entre bancos de arena vacíos; el grupo Perro, en un naufragio concreto y dos islas con gente viviendo en ellas.
 
-[Perro Chico](/es/islands/perro-chico) es pequeña — se recorre a pie en menos de diez minutos — y deshabitada. Su fama es un barco hundido real que descansa en agua poco profunda justo frente a la costa, ahora un arrecife artificial cubierto de coral y popular entre snorkelistas de todos los niveles. Es una parada de día, no un destino nocturno.
+Los nombres guna añaden una tercera capa. Cada isla tiene el suyo, y muchos no tienen nada que ver con el español. El de Perro Chico es Assudub Bipii. Verás la terminación *dub* por todo el archipiélago: significa isla, como en Gardi Sugdub o Nugnudub. Los guías usan los nombres guna entre ellos, así que conviene reconocerlos.
 
-## Perro Grande: la vecina amplia y habitada
+## Perro Chico: la isla del naufragio
 
-[Perro Grande](/es/islands/perro-grande) es notablemente más grande, con tramos genuinamente amplios de playa de arena blanca en vez de las franjas angostas comunes en cayos más pequeños. Está habitada, y hay cabañas simples frente a la playa disponibles aquí para viajeros que hacen un paquete nocturno en San Blas.
+[Perro Chico](/es/islands/perro-chico) es lo bastante pequeña para rodearla a pie en menos de diez minutos, y nadie vive en ella. Su fama está a unas brazadas de la playa: una embarcación hundida, apoyada en aguas poco profundas, que se ha convertido en un arrecife artificial. El coral crece sobre el casco, y la estructura da a los peces de arrecife la sombra y los bordes que un fondo de arena plano no les ofrece, por eso el naufragio concentra más vida que la arena abierta de alrededor.
 
-## Isla Diablo: una tercera isla, misma zona general
+Lo que esto significa en la práctica:
 
-Sumando a la confusión, [Isla Diablo](/es/islands/isla-diablo) — una isla separada y familiar con cabañas manejadas por Guna — está dentro del mismo grupo amplio de Isla Perro. Tiene su propio nombre y su propio [tour de día dedicado](/es/tours/isla-diablo-day-tour), distinto tanto de Perro Chico como de Perro Grande.
+- **Es una parada de día, no un lugar para dormir.** Hay una franja de arena para secarse y muy poco más.
+- **Se llena.** Como casi todos los operadores quieren el naufragio, a media mañana suelen coincidir varios botes. Llegar antes te da agua más clara alrededor del casco.
+- **No hace falta bucear, ni está permitido.** Flotas sobre el naufragio con máscara; los tanques no se permiten a los visitantes en ninguna parte de Guna Yala, como explica nuestra [respuesta sobre el buceo](/es/blog/can-you-scuba-dive-in-san-blas).
 
-## La conclusión práctica
+## Perro Grande: la isla con espacio
 
-Si una descripción de tour menciona "Isla Perro" sin más detalle, pregunta qué isla o islas específicas están realmente en la ruta — Perro Chico para el snorkel del barco hundido, Perro Grande para espacio de playa y una estadía nocturna, o Isla Diablo para su propio itinerario distinto. Nuestro [tour de Isla Diablo](/es/tours/isla-diablo-day-tour) y [tour VIP](/es/tours/vip-day-tour) cada uno cubre una combinación genuinamente distinta, y somos específicos sobre qué islas incluye cada uno.
+En [Perro Grande](/es/islands/perro-grande) el tamaño es lo que cuenta. La mayoría de los cayos de San Blas son anillos de arena que se cruzan en un minuto; este tiene playas lo bastante anchas para que un bote lleno de visitantes se reparta en lugar de compartir los mismos veinte metros. El agua es tranquila y turquesa, mejor para nadar despacio que para perseguir peces.
+
+Además está habitada, y unas cabañas sencillas frente a la playa reciben a huéspedes que pasan la noche. Hay un detalle que importa al planear: las estadías en San Blas se venden por tipo de cabaña, no por isla, y la isla se confirma cerca de la fecha. Puedes pedir Perro Grande; no te la pueden garantizar. Nuestra [guía de estadías](/es/guides/overnight-stays) explica los cinco tipos de cabaña.
+
+## Isla Diablo y Nugnudub: el resto del grupo
+
+Otras dos islas están en el mismo conjunto, y las dos se confunden a menudo con las Perro.
+
+**Isla Diablo** es una isla pequeña y tranquila con su propio tour de un día publicado y cabañas sencillas gestionadas por gunas. Su ruta incluye una parada en un banco de arena llamado la Piscina de Estrellas, que es un lugar distinto de la Piscina Natural de los itinerarios Clásico y VIP. Si te importa un banco de arena concreto, nómbralo.
+
+**Nugnudub** alberga una comunidad guna activa y no es una parada fija de ningún itinerario. Quien quiere ver una isla habitada en vez de otra playa lo pide con antelación.
+
+## Las cuatro islas, una al lado de la otra
+
+| | Perro Chico | Perro Grande | Isla Diablo | Nugnudub |
+|---|---|---|---|---|
+| Nombre guna | Assudub Bipii | — | — | Nugnudub |
+| Tamaño | Diminuta, se rodea en minutos | Grande para lo que es San Blas | Pequeña | Pequeña |
+| ¿Vive alguien? | No | Sí | Sí | Sí, una comunidad activa |
+| Por qué se conoce | El snorkel del naufragio | Playas anchas, baño tranquilo | Familias, voleibol, itinerario publicado | Vida diaria guna, molas |
+| ¿Se puede dormir? | No | Sí, cabañas | Sí, cabañas | No es una opción habitual |
+| Cómo se llega | Tour VIP; día 2 de las estadías | Estadías, según el tipo de cabaña | Tour de Isla Diablo | A petición, nunca garantizada |
+
+## Cómo leer un anuncio que solo dice «Isla Perro»
+
+Haz tres preguntas antes de reservar:
+
+1. **¿Qué isla, exactamente?** Perro Chico para el naufragio, Perro Grande para el espacio, Isla Diablo para su propia ruta.
+2. **¿El snorkel es guiado?** El [tour VIP](/es/tours/vip-day-tour) incluye snorkel guiado en el arrecife del naufragio; el itinerario Clásico no incluye snorkel guiado.
+3. **¿Incluye equipo?** No en todos los tours, y una máscara prestada que gotea te hace perder la parada.
+
+Un operador que no sabe responder con claridad a la primera pregunta probablemente tampoco sabe adónde va el bote. Las rutas siempre dependen del tiempo y de las condiciones del día, pero el plan tiene que ser concreto.
+
+## Preguntas frecuentes
+
+### ¿Perro Chico y Perro Grande son la misma isla?
+
+No. Son vecinas dentro del mismo grupo, a un salto corto en bote. Perro Chico es pequeña, deshabitada y conocida por el naufragio; Perro Grande es más grande, está habitada y es conocida por sus playas anchas y sus cabañas.
+
+### ¿Qué isla tiene el barco hundido?
+
+Perro Chico. El naufragio está en aguas poco profundas justo frente a su playa y se ha convertido en un arrecife artificial que los principiantes pueden ver desde la superficie con máscara.
+
+### ¿Se puede dormir en Perro Chico?
+
+No. Está deshabitada y solo se usa como parada de día. Quienes pasan la noche se alojan en islas habitadas como Perro Grande o Isla Diablo, asignadas según el tipo de cabaña reservado y la disponibilidad.
+
+### ¿Isla Diablo forma parte de Isla Perro?
+
+Sí, está en el mismo grupo, pero es una isla aparte, con su propio tour y su propia parada en un banco de arena, la Piscina de Estrellas.
+
+### ¿Cómo se llama Perro Chico en idioma guna?
+
+Assudub Bipii. Los guías pueden usar ese nombre en lugar del español, y *dub*, la terminación que comparten muchos nombres de islas aquí, significa isla.
+
+### ¿Todos los tours de San Blas paran en Perro Chico?
+
+No. El tour VIP es el que está construido alrededor del naufragio, y las estadías lo incluyen en el tour de islas del día 2. Otros itinerarios pueden pasar cerca sin snorkel guiado allí, así que compruébalo antes de reservar.

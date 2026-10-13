@@ -15,7 +15,7 @@ Chichime n'est pas une île mais deux : deux petits îlots posés côte à côte
 
 ## Deux îlots, un chenal
 
-Le chenal entre les deux îlots est ce dont tout le monde se souvient. À marée basse, l'eau arrive au genou ou à mi-cuisse et l'on traverse à pied, de banc de sable en banc de sable, avec la mer des Caraïbes ouverte des deux côtés. Quand la marée monte, la même traversée devient une courte nage. Cela veut dire aussi que l'îlot où vous débarquez et celui de votre photo ne sont pas forcément le même — utile à savoir avant de laisser votre sac étanche sur la mauvaise plage.
+Le chenal entre les deux îlots est ce dont tout le monde se souvient. À marée basse, l'eau arrive au genou ou à mi-cuisse et l'on traverse à pied, de banc de sable en banc de sable, avec la mer des Caraïbes ouverte des deux côtés. Quand la marée monte, la même traversée devient une courte nage. Cela veut dire aussi que l'îlot où vous débarquez et celui de votre photo ne sont pas forcément le même — utile à savoir avant de laisser votre sac étanche sur la mauvaise plage. C'est aussi le cadre autour duquel les photographes organisent leur journée ; notre [guide des spots photo de San Blas](/fr/blog/best-san-blas-photography-spots) explique quand la marée et la lumière s'y prêtent le mieux.
 
 ## Les familles guna qui vivent ici
 

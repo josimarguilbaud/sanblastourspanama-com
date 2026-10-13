@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Cultura Guna: O Que Saber Antes de Visitar San Blas"
 heroImage: "/img/mujeres-guna-molas-celebracion.webp"
 relatedGuideSlugs: ["history-of-san-blas", "about-san-blas", "eco-tourism"]
@@ -15,9 +16,9 @@ Os Guna são um dos maiores povos indígenas do Panamá, e os guias, capitães, 
 
 ## Molas: arte viva, não linha de souvenir
 
-Os painéis têxteis costurados à mão em camadas chamados **molas** são o que a cultura Guna exportou de mais reconhecível, e continuam sendo feitos como sempre: à mão, por mulheres Guna, como peças das próprias blusas do dia a dia antes de serem qualquer coisa que um visitante compre. Uma boa mola são semanas de costura — essa é a resposta honesta para a variação de preço de uma barraca para outra: você está olhando horas de trabalho, não uma tiragem.
+Os painéis têxteis costurados à mão em camadas chamados **molas** são o que a cultura Guna exportou de mais reconhecível, e continuam sendo feitos como sempre: à mão, por mulheres Guna, como peças das próprias blusas do dia a dia antes de serem qualquer coisa que um visitante compre. Uma boa mola são semanas de costura — essa é a resposta honesta para a variação de preço de uma barraca para outra: você está olhando horas de trabalho, não uma tiragem. Como as camadas são cortadas e costuradas, e como distinguir um painel feito à mão de um estampado, explicamos em [molas explicadas](/pt-br/blog/molas-explained).
 
-Comprar direto da mulher que costurou é a transação mais limpa disponível nas ilhas. Sem intermediário, sem cadeia de importação, e o dinheiro fica exatamente onde você o entregou.
+Comprar direto da mulher que costurou é a transação mais limpa disponível nas ilhas. Sem intermediário, sem cadeia de importação, e o dinheiro fica exatamente onde você o entregou. Entre quem costura há também [omeggid, pessoas Guna criadas como meninos que vivem como mulheres](/pt-br/blog/omeggid-guna-gender-identity), para quem a mola faz parte de quem são.
 
 ## Fotografar pessoas: pedir licença muda tudo
 

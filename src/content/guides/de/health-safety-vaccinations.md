@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "San Blas: Gesundheit, Sicherheit und Impfungen"
 heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -27,7 +28,7 @@ Auf den Inseln gibt es weder Krankenhäuser noch Ambulanzen. Medizinische Versor
 - **Reiseübelkeit.** Die 4x4-Strecke nach Carti ist eine lange Folge enger Bergkurven, und die Bootsüberfahrt kommt danach. Wer dafür anfällig ist, nimmt Medikamente **vor** der Abfahrt, nicht erst bei den ersten Symptomen.
 - **Austrocknung.** Langer Tag, starke Sonne, Salzwasser. Trinken Sie mehr, als Sie für nötig halten, und nehmen Sie Wasser mit, statt darauf zu setzen, dass es auf einem Cay verkauft wird.
 
-Abende bei einer Übernachtung sind außerdem der Moment, in dem Insektenschutz seinen Platz im Gepäck rechtfertigt.
+Abende bei einer Übernachtung sind außerdem der Moment, in dem Insektenschutz seinen Platz im Gepäck rechtfertigt, vor allem gegen [Chitras, winzige Fliegen, die in der Dämmerung stechen](/de/blog/sandflies-jellyfish-san-blas).
 
 ## Essen, Wasser und besondere Ernährung
 
@@ -40,6 +41,8 @@ Die Anbieter sind hier durchgängig deutlich: San Blas wird **nicht empfohlen** 
 ## Auf dem Wasser
 
 Rettungswesten sind jederzeit Pflicht, für Erwachsene wie für Kinder, und die Boote führen erfahrene einheimische Guna-Kapitäne, die diese Gewässer täglich lesen. Kriminalität ist auf einer San-Blas-Reise kein nennenswertes Thema; der übliche Umgang mit Wertsachen deckt das reale Risiko weit besser ab als alles Exotischere.
+
+Das Gesamtbild — Meer, Kriminalität, die eigenen Regeln der Comarca und was die CDC zu Malaria und Gelbfieber in dieser Region sagt — finden Sie in [Ist San Blas sicher?](/de/blog/is-san-blas-safe).
 
 ## Häufige Fragen
 

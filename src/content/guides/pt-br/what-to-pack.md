@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "O Que Levar para San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
@@ -8,6 +9,8 @@ seoDescription: "Lista prática de bagagem para as ilhas de San Blas, Panamá, t
 ---
 
 Faça a mala para um barco, não para um hotel. Tudo o que você levar para San Blas será carregado por você, colocado num 4x4, transferido para uma lancha e finalmente pousado na areia — e não há lojas para corrigir um esquecimento depois que você sai da Cidade do Panamá. Uma bolsa pequena e maleável com as coisas certas ganha de uma mala grande com tudo.
+
+Uma lista cobre a mala; para o contexto que ela não cobre, do posto de controle a quem é dono dos cocos, leia [5 coisas que ninguém te conta antes de visitar San Blas](/pt-br/blog/5-things-nobody-tells-you).
 
 ## Para um passeio de um dia
 
@@ -26,13 +29,15 @@ Faça a mala para um barco, não para um hotel. Tudo o que você levar para San 
 
 - **Roupa leve e confortável** para as noites quentes, e algo para vestir por cima ao atravessar um vilarejo.
 - **Sandálias de água**, que lidam melhor que chinelos com areia, degraus de barco e pedaços de coral.
-- **Repelente de insetos**, além do protetor solar. É à noite que ele justifica o espaço na mala.
+- **Repelente de insetos**, além do protetor solar. É à noite que ele justifica o espaço na mala: é quando [as chitras, as mosquinhas da região, começam a picar](/pt-br/blog/sandflies-jellyfish-san-blas).
 - **Carregador portátil.** A maioria das ilhas não tem rede elétrica, então não conte com tomada.
 - **Uma caixa térmica pequena** com suas bebidas ou lanches, se quiser — opcional, e vale confirmar o tamanho antes de arrumar.
 
 ## A questão do dinheiro
 
 Não há caixa eletrônico em nenhum ponto de Guna Yala nem maquininha nas ilhas. Você precisa de dinheiro para a **taxa comunitária de entrada — US$ 22 para estrangeiros e US$ 7 para residentes**, paga na borda da comarca — mais tudo o que pretende gastar: molas das artesãs Guna, bebidas, lanches e eventuais extras. Saque na Cidade do Panamá e leve notas pequenas, porque troco numa ilha pequena é limitado.
+
+Para o detalhamento por tipo de viagem — passeio de um dia, estadia ou veleiro — veja [precisa de dinheiro em espécie em San Blas?](/pt-br/blog/do-you-need-cash-in-san-blas).
 
 ## O que não levar
 

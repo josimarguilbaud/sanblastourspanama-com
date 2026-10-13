@@ -26,7 +26,7 @@ Isla Pelícano relève de l'itinéraire Super VIP Privé et non des journées pa
 
 ## Ce qu'il y a réellement sur l'île
 
-Très peu de chose, et c'est tout l'intérêt. C'est un arrêt paysager et snorkeling, pas une île équipée : ni cabanes, ni boutique, ni installations. Rien n'a non plus été construit autour de la série : ce que vous voyez, c'est l'île telle quelle, la même qu'à l'écran, et rien n'y a été ajouté depuis pour les visiteurs.
+Très peu de chose, et c'est tout l'intérêt. C'est un arrêt paysager et snorkeling, pas une île équipée : ni cabanes, ni boutique, ni installations. Rien n'a non plus été construit autour de la série : ce que vous voyez, c'est l'île telle quelle, la même qu'à l'écran, et rien n'y a été ajouté depuis pour les visiteurs. Si vous choisissez vos îles pour l'appareil photo, notre [guide des spots photo de San Blas](/fr/blog/best-san-blas-photography-spots) compare où l'eau est la plus claire et quand la lumière est la meilleure.
 
 ## Bon à savoir
 

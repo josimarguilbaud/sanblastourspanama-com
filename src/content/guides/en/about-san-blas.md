@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "About San Blas: The Complete Guide to Guna Yala, Panama"
 heroImage: "/img/palmera-inclinada-playa-san-blas.webp"
 relatedGuideSlugs: ["history-of-san-blas", "guna-culture", "how-to-get-to-san-blas"]
@@ -15,18 +16,18 @@ Most travelers arrive with a single image in mind: one palm-covered sandbar, one
 
 ## Where the archipelago actually sits
 
-Guna Yala runs along Panama's Caribbean side, from near the Colombian border westward toward the Canal. The islands are low coral cays, most only a couple of metres above the waterline and ringed by reef, scattered a short boat ride off a narrow mainland strip backed by forested mountains. Those mountains are exactly why the overland leg from Panama City takes around 2.5 hours by 4x4 before you board a boat — the [full route is broken down here](/guides/how-to-get-to-san-blas).
+Guna Yala runs along Panama's Caribbean side, from near the Colombian border westward toward the Canal. Being close to Colombia does not put it in the Darién Gap, the roadless jungle further south — [here is how the two relate](/blog/is-san-blas-part-of-darien-gap). The islands are low coral cays, most only a couple of metres above the waterline and ringed by reef, scattered a short boat ride off a narrow mainland strip backed by forested mountains. Those mountains are exactly why the overland leg from Panama City takes around 2.5 hours by 4x4 before you board a boat — the [full route is broken down here](/guides/how-to-get-to-san-blas).
 
 ## More than 365 islands, and the handful you will see
 
-The figure quoted everywhere is **more than 365 islands and cays**, one for every day of the year. Only around **40 to 50 are inhabited** by Guna communities; the rest range from sandbars barely wide enough for three palm trees to uninhabited cays used as day stops. A realistic day tour reaches two to four of them, all by boat from the Carti embarkation point. Our [islands guide](/islands) covers the ones that appear on genuine itineraries.
+The figure quoted everywhere is **more than 365 islands and cays**, one for every day of the year. Only about **50 are inhabited** by Guna communities (the Guna General Congress counts 49); the rest range from sandbars barely wide enough for three palm trees to uninhabited cays used as day stops. A realistic day tour reaches two to four of them, all by boat from the Carti embarkation point. Our [islands guide](/islands) covers the ones that appear on genuine itineraries.
 
 ## What "autonomous comarca" means in practice
 
 Guna Yala is not a Panamanian province. It is a comarca: an indigenous territory with its own government, its own internal law and its own authority over land use. What gets built, and where visitors may go, is decided by Guna congresses rather than in Panama City. Three consequences are visible on any visit:
 
 - **A community entry tax** is collected at the edge of the comarca, in cash, separately from any tour price.
-- **Outside companies cannot buy land**, so every cabin, boat and guide belongs to a Guna family or community.
+- **Outside companies cannot buy land**, so every cabin, boat and guide belongs to a Guna family or community. It is also why no outsider can [buy an island in San Blas](/blog/can-you-buy-an-island-in-san-blas).
 - **Rules differ island by island**, because each community sets its own.
 
 That is also why there is no chain hotel here, no marina development and no paved coastal road: thatched cabins instead of towers, generators instead of grid power, and a working fishing economy running alongside tourism rather than replaced by it.
@@ -43,7 +44,7 @@ Yes. Guna Yala is the official, self-chosen name of the comarca; San Blas is the
 
 ### How many islands does San Blas have?
 
-More than 365 islands and cays, of which roughly 40 to 50 are inhabited by Guna communities. Tourism concentrates on a few dozen of the most accessible cays, so no visitor sees anywhere near the full count.
+More than 365 islands and cays, of which about 50 are inhabited by Guna communities. Tourism concentrates on a few dozen of the most accessible cays, so no visitor sees anywhere near the full count.
 
 ### How far is San Blas from Panama City?
 
@@ -51,7 +52,7 @@ Roughly a 2.5-hour drive by 4x4 to the Carti embarkation point, plus a boat cros
 
 ### Do people actually live on the San Blas islands?
 
-Yes. Around 40 to 50 islands hold permanent Guna communities — densely built villages where families fish, trade and govern themselves. El Porvenir is the administrative capital. Most cays visited on day tours, however, are uninhabited.
+Yes. About 50 islands (49 communities) hold permanent Guna communities — densely built villages where families fish, trade and govern themselves. El Porvenir is the administrative capital. Most cays visited on day tours, however, are uninhabited.
 
 ### Are there resorts or hotels in San Blas?
 

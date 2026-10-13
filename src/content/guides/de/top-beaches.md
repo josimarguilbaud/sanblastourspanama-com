@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Die schönsten Strände von San Blas"
 heroImage: "/img/playa-caminata-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "best-time-to-visit"]
@@ -15,7 +16,7 @@ So klein, dass man es in zehn Minuten umrundet, und berühmt für das, was direk
 
 ## Der Postkartenstrand: Chichime
 
-Zwei Cays nebeneinander, getrennt durch einen Kanal, der bei Niedrigwasser durchwatet werden kann. [Chichime](/de/islands/chichime) ist der meistfotografierte Sand des Archipels, und das aus gutem Grund: puderweiß, gesäumt von schräg stehenden Palmen, davor Wasser, das binnen weniger Schritte von hellem Türkis zu tiefem Blau wechselt. Auf einem der beiden Cays lebt eine kleine Guna-Gemeinde, also gehören an Land gezogene Einbäume und in der Sonne trocknende Netze mit ins Bild.
+Zwei Cays nebeneinander, getrennt durch einen Kanal, der bei Niedrigwasser durchwatet werden kann. [Chichime](/de/islands/chichime) ist der meistfotografierte Sand des Archipels, und das aus gutem Grund: puderweiß, gesäumt von schräg stehenden Palmen, davor Wasser, das binnen weniger Schritte von hellem Türkis zu tiefem Blau wechselt. Auf einem der beiden Cays lebt eine kleine Guna-Gemeinde, also gehören an Land gezogene Einbäume und in der Sonne trocknende Netze mit ins Bild. Wann Sie hier fotografieren und wie die Gezeiten das Bild verändern, steht in unserem [Ratgeber zu den Fotospots von San Blas](/de/blog/best-san-blas-photography-spots).
 
 ## Am besten für Familien: Isla Aguja
 
@@ -27,7 +28,7 @@ Kein einzelner Strand, sondern eine Gruppe davon, nah genug beieinander, dass ma
 
 ## Am besten für Platz: Perro Grande
 
-Die meisten Cays von San Blas sind winzig. [Perro Grande](/de/islands/perro-grande) ist die echte Ausnahme, mit breiten weißen Sandflächen, die sich nicht anfühlen, als teilte man sie mit dem ganzen Boot, und mit ruhigem türkisfarbenem Wasser, das eher zum Treiben als zum Fischesuchen einlädt. Einfache Strandhütten machen die Insel auch als Übernachtungsziel möglich.
+Die meisten Cays von San Blas sind winzig. [Perro Grande](/de/islands/perro-grande) ist die echte Ausnahme, mit breiten weißen Sandflächen, die sich nicht anfühlen, als teilte man sie mit dem ganzen Boot, und mit ruhigem türkisfarbenem Wasser, das eher zum Treiben als zum Fischesuchen einlädt. Einfache Strandhütten machen die Insel auch als Übernachtungsziel möglich. Sie wird leicht mit ihrer kleinen Nachbarin, der Wrackinsel, verwechselt; unser Beitrag zu [Perro Chico und Perro Grande](/de/blog/perro-vs-perro-chico-vs-perro-grande) bringt Ordnung in die Namen.
 
 ## Der ruhige Premium-Stopp: Isla Pelícano
 

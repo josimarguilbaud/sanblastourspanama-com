@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Las Mejores Playas de San Blas"
 heroImage: "/img/playa-caminata-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "best-time-to-visit"]
@@ -15,7 +16,7 @@ Tan pequeña que la rodeas caminando en diez minutos, y famosa por lo que hay ju
 
 ## La mejor playa de postal: Chichime
 
-Dos cayos uno al lado del otro, separados por un canal lo bastante bajo para cruzarlo caminando en marea baja. [Chichime](/es/islands/chichime) es la arena más fotografiada del archipiélago por buenas razones: blanca como polvo, bordeada de palmeras inclinadas y con agua que pasa de turquesa pálido a azul profundo en unos pocos pasos. En uno de los dos cayos vive una pequeña comunidad Guna, así que los cayucos varados y las redes secándose al sol son parte del cuadro.
+Dos cayos uno al lado del otro, separados por un canal lo bastante bajo para cruzarlo caminando en marea baja. [Chichime](/es/islands/chichime) es la arena más fotografiada del archipiélago por buenas razones: blanca como polvo, bordeada de palmeras inclinadas y con agua que pasa de turquesa pálido a azul profundo en unos pocos pasos. En uno de los dos cayos vive una pequeña comunidad Guna, así que los cayucos varados y las redes secándose al sol son parte del cuadro. Para saber cuándo fotografiarla y cómo la marea cambia el encuadre, consulta nuestra [guía de lugares para fotografiar San Blas](/es/blog/best-san-blas-photography-spots).
 
 ## La mejor para familias: Isla Aguja
 
@@ -27,7 +28,7 @@ No es una playa sino un racimo de ellas, lo bastante juntas como para bañarte e
 
 ## La mejor para tener espacio: Perro Grande
 
-La mayoría de los cayos de San Blas son diminutos. [Perro Grande](/es/islands/perro-grande) es la excepción real, con tramos anchos de arena blanca que no se sienten compartidos con toda la lancha, y agua turquesa calmada más apta para flotar que para perseguir peces. Sus cabañas sencillas frente al mar la vuelven también una opción para quedarse a dormir.
+La mayoría de los cayos de San Blas son diminutos. [Perro Grande](/es/islands/perro-grande) es la excepción real, con tramos anchos de arena blanca que no se sienten compartidos con toda la lancha, y agua turquesa calmada más apta para flotar que para perseguir peces. Sus cabañas sencillas frente al mar la vuelven también una opción para quedarse a dormir. Es fácil confundirla con su pequeña vecina, la isla del naufragio; nuestra guía sobre [Perro Chico y Perro Grande](/es/blog/perro-vs-perro-chico-vs-perro-grande) aclara los nombres.
 
 ## La mejor parada tranquila y premium: Isla Pelícano
 

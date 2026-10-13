@@ -41,7 +41,7 @@ Il n'y a de wifi sur aucune île de San Blas, et la couverture mobile est irrég
 ## Questions fréquentes
 
 ### Perro Grande et Perro Chico sont-elles la même île ?
-Non, même si elles appartiennent au même groupe et ne sont séparées que par un court trajet en bateau. Perro Chico est un petit îlot inhabité, connu pour l'épave à explorer en palmes ; Perro Grande est plus vaste, habitée, et connue pour ses larges plages et son eau calme. Il arrive souvent que l'on réserve l'une en pensant à l'autre.
+Non, même si elles appartiennent au même groupe et ne sont séparées que par un court trajet en bateau. Perro Chico est un petit îlot inhabité, connu pour l'épave à explorer en palmes ; Perro Grande est plus vaste, habitée, et connue pour ses larges plages et son eau calme. Il arrive souvent que l'on réserve l'une en pensant à l'autre. Notre article sur [Perro Chico et Perro Grande](/fr/blog/perro-vs-perro-chico-vs-perro-grande) compare côte à côte les îles du groupe.
 
 ### Puis-je réserver une nuit spécifiquement à Perro Grande ?
 Pas nommément. Les nuits se vendent par type de cabane, et l'île est attribuée près de la date selon les disponibilités — la plupart des îles de San Blas proposent des cabanes quasi identiques dans chaque catégorie. Si une île précise compte pour vous, dites-le à la réservation : ce sera pris en compte, sans pouvoir être garanti.

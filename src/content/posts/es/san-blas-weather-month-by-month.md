@@ -1,32 +1,86 @@
 ---
-title: "El Clima de San Blas Mes a Mes: Un Desglose Real de Viajero"
-excerpt: "Temporada seca y temporada de lluvias solo te dicen hasta cierto punto. Aquí una mirada más honesta, mes a mes, de qué clima realmente moldea un viaje a San Blas."
+updatedAt: 2026-10-13
+title: "El clima de San Blas mes a mes: lluvia, mar y afluencia de gente"
+excerpt: "Una tabla mes a mes de San Blas: cuándo empieza y termina de verdad la temporada seca, cómo es la lluvia de la temporada verde sobre el agua, cuándo los feriados de Panamá llenan las lanchas y qué cambia el calendario en tu plato."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 publishedAt: 2026-05-15
-seoTitle: "Clima de San Blas por Mes"
-seoDescription: "Un desglose mes a mes del clima de San Blas: la temporada seca de diciembre a abril, la temporada de lluvias de mayo a noviembre."
+seoTitle: "Clima de San Blas por mes: lluvia, mar y afluencia"
+seoDescription: "El clima de San Blas mes a mes: temporada seca de diciembre a abril, aguaceros cortos de mayo a noviembre, mar cálido todo el año y cuándo hay más gente."
 ---
 
-**San Blas tiene una temporada seca de aproximadamente diciembre a abril, con cielos más despejados y el período más concurrido, y una temporada de lluvias de mayo a noviembre, marcada por lluvias cortas e intensas en vez de lluvia todo el día. Los tours operan todo el año en ambas temporadas.**
+**San Blas tiene dos temporadas. La seca va de diciembre a abril, y de enero a marzo es el tramo más fiable para tener cielos despejados; la temporada verde va de mayo a noviembre, con aguaceros cortos e intensos más que lluvia de todo el día. El mar está cálido todos los meses y las lanchas salen de Cartí todos los días del año.**
 
-## Temporada seca: diciembre a abril
+## Cómo leer esta tabla mes a mes
 
-Esta es la temporada alta, y lo es por una razón real: los cielos están más despejados, la lluvia es rara, y la luz sobre el agua suele estar en su mejor momento para fotos. También es el período más ocupado del año, así que si tienes fechas específicas en mente, reserva con anticipación en vez de asumir disponibilidad de último momento. Ve nuestra [guía completa de mejor época para visitar](/es/guides/best-time-to-visit) para la comparación completa.
+La tabla de abajo describe tendencias, no promesas. No publicamos cifras de lluvia de cada mes porque no tenemos un registro fiable de una estación en las propias islas, y una precisión inventada es peor que ninguna. Lo que sigue es el patrón que da forma a los viajes en el agua, escrito para que coincida con nuestra [guía de la mejor época para visitar](/es/guides/best-time-to-visit), que trata con más detalle la elección entre las dos temporadas.
 
-## Temporada de lluvias: mayo a noviembre
+| Mes | Lluvia | Cielo y mar | Afluencia |
+|---|---|---|---|
+| Enero | Rara | Despejado, soleado y con brisa | Alta |
+| Febrero | Rara | Despejado y con brisa | Alta, con el pico en Carnaval |
+| Marzo | Rara | A menudo la luz más clara del año | Alta, muy concurrido en Semana Santa |
+| Abril | Ocasional, vuelve a finales de mes | Mayormente despejado, más calor, el viento afloja | Concurrido si Semana Santa cae en abril |
+| Mayo | Empiezan los aguaceros | Mañanas soleadas, islas más verdes | Baja |
+| Junio | Aguaceros cortos frecuentes | En calma, cálido, verde | Baja |
+| Julio | Aguaceros cortos frecuentes | Cálido y verde | De baja a moderada, algunas vacaciones del hemisferio norte |
+| Agosto | Aguaceros cortos frecuentes | Cálido y verde | De baja a moderada |
+| Septiembre | Aguaceros cortos frecuentes | Cálido; los días en calma son comunes | Baja |
+| Octubre | Aguaceros cortos frecuentes | Agua en calma entre aguaceros | Baja |
+| Noviembre | Frecuente, afloja a finales de mes | Verde, cálido | Concurrido en torno a las fiestas patrias de Panamá |
+| Diciembre | Va disminuyendo | Se despeja, el viento arrecia | Muy concurrido desde mediados de diciembre |
 
-A pesar del nombre, "temporada de lluvias" en San Blas no suele significar un día arruinado. La lluvia aquí tiende a llegar en ráfagas cortas e intensas — un aguacero fuerte de 20 minutos seguido de sol es mucho más típico que un día completo de lluvia constante. El archipiélago está notablemente más tranquilo durante estos meses, y las islas se mantienen igual de verdes y el agua igual de tibia que en la temporada seca.
+## La temporada seca, de diciembre a abril
 
-## ¿Realmente importa tanto el mes específico?
+A la temporada seca la moldean los vientos alisios. El cielo se despeja, la luz vuelve de ese turquesa brillante los bajos de arena y la lluvia pasa a ser la excepción. El viento mantiene el calor soportable en las islas y, en los días de brisa, puede hacer más movidas las travesías por mar abierto, algo que pesa más en una ruta larga como la de [Cayos Holandeses](/es/tours/dutch-cays-day-tour) que en los saltos cortos cerca de Cartí. Marzo suele ser el favorito de los fotógrafos: la temporada seca ya se ha asentado y la luz está en su punto más estable.
 
-Menos de lo que asume la mayoría de los viajeros. La distinción entre seca y lluviosa es real, pero dentro de cada temporada la experiencia día a día varía más por suerte que por el mes específico en que caigas. Diciembre y abril, ambos técnicamente "temporada seca," aún pueden ver algún chubasco ocasional; junio y octubre, ambos "temporada de lluvias," aún pueden entregar varios días despejados seguidos.
+El precio es la compañía. Son meses de temporada alta en todo Panamá, y las semanas de más gente las marca el calendario, no el clima: Navidad y Año Nuevo, el Carnaval en febrero o a comienzos de marzo, y Semana Santa en marzo o abril. Si necesitas una fecha concreta en ese tramo, resérvala pronto.
 
-## ¿El clima alguna vez cancela un tour?
+## La temporada verde, de mayo a noviembre
 
-Solo cuando las condiciones son genuinamente inseguras — en ese caso, el operador reprograma o emite un reembolso completo, ya que la seguridad tiene prioridad sobre el horario. La lluvia ordinaria, incluyendo las ráfagas cortas típicas de la temporada húmeda, no cancela un tour; las lanchas e islas operan normalmente durante ella.
+Aquí la lluvia rara vez significa un día gris y perdido. Lo habitual es un aguacero fuerte que pasa, a menudo en media hora, seguido de sol. Las mañanas suelen estar despejadas, las islas están en su momento más verde y el agua está tan cálida como en febrero. El archipiélago está notablemente más tranquilo, y para muchos viajeros esa es justamente la gracia.
 
-## En resumen, por prioridad
+Vale la pena imaginarse antes de reservar cómo se ve un aguacero desde una lancha o desde un cayo. Primero se oscurece el cielo sobre las montañas de tierra firme, el capitán pone rumbo a la isla más cercana o espera a que pase bajo un techo de palma, y veinte minutos después la gente vuelve a estar en el agua. Los teléfonos y las cámaras necesitan una bolsa estanca; los que están nadando apenas lo notan, porque la lluvia es tibia. El verdadero costo de la temporada verde es alguna hora gris en tus fotos, no un día perdido.
 
-- **Priorizando cielos despejados y fotos:** apunta a diciembre-abril.
-- **Priorizando menos multitudes y no te importa un chubasco ocasional:** el resto del año funciona igual de bien.
-- **De cualquier forma:** San Blas genuinamente no tiene una mala época para visitar — la diferencia entre temporadas es real, pero más pequeña de lo que suele sugerir el marketing de "temporada alta."
+Hay dos periodos que rompen la calma. Julio y agosto pueden traer algo de movimiento por las vacaciones del hemisferio norte, y noviembre es el mes de las fiestas patrias de Panamá, cuando los viajeros nacionales se van a la costa. Fuera de esas semanas, mayo, junio, septiembre y octubre son los meses más vacíos del año.
+
+## Qué cambia con el calendario además del clima
+
+- **La langosta.** Sale del menú del 1 de marzo al 30 de junio, cuando se solapan la veda guna y la nacional. Explicamos las normas en [qué se come en San Blas](/es/blog/what-you-eat-in-san-blas).
+- **La presión de las reservas.** Los fines de semana de la temporada seca y las semanas de feriado se agotan primero; las fechas de la temporada verde suelen ser más fáciles de conseguir.
+- **La luz para las fotos.** Más segura de enero a marzo; más dramática, con nubes e islas más verdes, de mayo a noviembre.
+- **Lo que no cambia.** La temperatura del agua, los horarios de salida y las propias rutas. Un pasadía sigue saliendo de Ciudad de Panamá hacia las 5:00 AM todos los meses.
+
+## Tormentas, cancelaciones y pronósticos
+
+Panamá queda al sur de la trayectoria habitual de los huracanes del Caribe, así que los impactos directos son raros; el tiempo que interrumpe San Blas es local: un chubasco con ráfagas, una mañana de viento, un tramo de mar picado. Los tours se cancelan solo cuando la travesía es de verdad insegura, y en ese caso el operador reprograma o devuelve el importe completo. La lluvia corriente no cancela nada.
+
+Para los días en torno a tu viaje, la fuente más útil es el pronóstico del instituto de meteorología de Panamá, el [IMHPA](https://www.imhpa.gob.pa/), consultado con unos días de antelación. Un pronóstico dice más sobre tu martes que cualquier promedio mensual.
+
+## ¿Qué mes te conviene elegir?
+
+- **Para cielos despejados y fotos:** de enero a marzo.
+- **Para islas vacías en temporada baja:** mayo, junio, septiembre u octubre.
+- **Para un viaje en familia con vacaciones escolares:** julio o agosto, aceptando algún aguacero.
+- **Para una estadía con noche:** cualquier mes; una noche en una isla está bien con lluvia o con sol, y nuestra [guía de estadías con noche](/es/guides/overnight-stays) explica qué cambia. En cualquier caso, lleva una capa ligera para la lluvia, como indica [qué llevar en la maleta](/es/guides/what-to-pack).
+
+## Preguntas frecuentes
+
+### ¿Cuál es la época más lluviosa del año en San Blas?
+
+La temporada verde, de mayo a noviembre, trae la mayor parte de la lluvia, normalmente en forma de aguaceros cortos e intensos. La lluvia varía de un año a otro, así que consulta el pronóstico del IMHPA unos días antes de tu viaje en lugar de fiarte de un promedio mensual.
+
+### ¿Hay temporada de huracanes en San Blas?
+
+Panamá está al sur de las trayectorias habituales de los huracanes, así que los impactos directos son raros. El tiempo que afecta a los viajes es el viento y el mar locales, y los tours salen salvo que la travesía sea de verdad insegura.
+
+### ¿El mar está cálido todo el año?
+
+Sí. El agua se mantiene cálida todos los meses, así que se puede nadar y hacer snorkel durante todo el año. Lo que cambia entre temporadas es el cielo y la cantidad de gente, no la temperatura del mar.
+
+### ¿Cuándo hay menos gente en San Blas?
+
+Mayo, junio, septiembre y octubre suelen ser los meses más tranquilos. Los periodos de más gente son Navidad y Año Nuevo, Carnaval, Semana Santa y las fiestas patrias de Panamá en noviembre.
+
+### ¿Diciembre es un buen mes para ir?
+
+Sí, con un matiz. La lluvia va disminuyendo y el cielo se despeja a lo largo del mes, pero desde mediados de diciembre la temporada de fiestas lo convierte en una de las épocas de más movimiento del año, así que reserva pronto.

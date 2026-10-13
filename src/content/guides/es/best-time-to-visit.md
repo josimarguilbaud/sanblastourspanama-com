@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-28
 title: "Mejor Época para Visitar San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
@@ -7,7 +8,7 @@ seoTitle: "Mejor Época para San Blas: Dic–Abr Es lo Más Seco"
 seoDescription: "La temporada seca (diciembre–abril) es la más soleada y clara para fotos, pero el agua está igual de tibia todo el año y las lanchas salen a diario."
 ---
 
-San Blas no tiene temporada cerrada. Las lanchas salen del embarcadero de Cartí todos los días del año, el agua sigue tibia los doce meses y no hay un mes que debas tachar del calendario. Lo que sí cambia es la luz, la cantidad de gente y cada cuánto te mojas desde arriba — y elegir entre esas tres cosas es lo que de verdad significa aquí «la mejor época».
+San Blas no tiene temporada cerrada. Las lanchas salen del embarcadero de Cartí todos los días del año, el agua sigue tibia los doce meses y no hay un mes que debas tachar del calendario. Lo que sí cambia es la luz, la cantidad de gente y cada cuánto te mojas desde arriba — y elegir entre esas tres cosas es lo que de verdad significa aquí «la mejor época». Si quieres ese mismo patrón mes a mes, con feriados y nivel de gente, mira [el clima de San Blas mes a mes](/es/blog/san-blas-weather-month-by-month).
 
 ## Temporada seca: diciembre a abril
 

@@ -15,7 +15,7 @@ Chichime não é uma ilha, são duas: dois pequenos cayos lado a lado, separados
 
 ## Dois cayos, um canal
 
-O canal entre os cayos é o que todo mundo lembra. Na maré baixa a água fica na altura do joelho ou da coxa e dá para atravessar a pé, de banco de areia a banco de areia, com o Caribe aberto dos dois lados. Quando a maré sobe, a mesma travessia vira uma nadada curta. Isso também significa que o cayo onde você desembarca e o cayo da sua foto podem não ser o mesmo — bom saber antes de deixar a bolsa estanque na praia errada.
+O canal entre os cayos é o que todo mundo lembra. Na maré baixa a água fica na altura do joelho ou da coxa e dá para atravessar a pé, de banco de areia a banco de areia, com o Caribe aberto dos dois lados. Quando a maré sobe, a mesma travessia vira uma nadada curta. Isso também significa que o cayo onde você desembarca e o cayo da sua foto podem não ser o mesmo — bom saber antes de deixar a bolsa estanque na praia errada. É também o enquadramento em torno do qual os fotógrafos planejam o dia; nosso [guia de lugares para fotografar San Blas](/pt-br/blog/best-san-blas-photography-spots) explica quando a maré e a luz funcionam melhor.
 
 ## As famílias Guna que vivem aqui
 

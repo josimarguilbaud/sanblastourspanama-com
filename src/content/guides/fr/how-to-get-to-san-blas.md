@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Comment Aller à San Blas Depuis Panama City"
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
 relatedGuideSlugs: ["flights-to-san-blas", "sailing-cartagena-to-san-blas", "what-to-pack"]
@@ -32,6 +33,8 @@ Un changement d'adresse de ramassage doit être signalé **au moins 24 heures à
 - **Votre passeport ou pièce d'identité originale.** Il est exigé au poste de contrôle à l'entrée du territoire guna ; une photocopie ou une photo sur téléphone n'est pas acceptée.
 - **Les espèces.** Il n'y a aucun distributeur dans tout Guna Yala. Il vous faut du liquide pour la taxe communautaire et pour vos achats sur les îles.
 - **Le comprimé contre le mal des transports.** À prendre avant le départ. Une fois sur la route de montagne, il est trop tard pour qu'il agisse correctement.
+
+C'est aussi au poste de contrôle que chaque visiteur paie la taxe d'entrée de la comarca, qui va aux autorités guna et non à votre opérateur ; [où va la taxe communautaire](/fr/blog/where-does-community-tax-go) explique qui la perçoit et pourquoi.
 
 ## Peut-on y aller par ses propres moyens ?
 

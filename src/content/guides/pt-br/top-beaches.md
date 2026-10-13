@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "As Melhores Praias de San Blas"
 heroImage: "/img/playa-caminata-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "best-time-to-visit"]
@@ -15,7 +16,7 @@ Pequena o bastante para dar a volta a pé em dez minutos, e famosa pelo que fica
 
 ## A praia de cartão-postal: Chichime
 
-Dois cayos lado a lado, separados por um canal raso o suficiente para atravessar a pé na maré baixa. [Chichime](/pt-br/islands/chichime) é a areia mais fotografada do arquipélago por bons motivos: branca como talco, cercada de coqueiros inclinados, diante de uma água que vai do turquesa claro ao azul profundo em poucos passos. Numa das duas ilhotas mora uma pequena comunidade Guna, então canoas puxadas na areia e redes secando ao sol fazem parte da cena.
+Dois cayos lado a lado, separados por um canal raso o suficiente para atravessar a pé na maré baixa. [Chichime](/pt-br/islands/chichime) é a areia mais fotografada do arquipélago por bons motivos: branca como talco, cercada de coqueiros inclinados, diante de uma água que vai do turquesa claro ao azul profundo em poucos passos. Numa das duas ilhotas mora uma pequena comunidade Guna, então canoas puxadas na areia e redes secando ao sol fazem parte da cena. Para saber quando fotografar e como a maré muda o enquadramento, veja nosso [guia de lugares para fotografar San Blas](/pt-br/blog/best-san-blas-photography-spots).
 
 ## A melhor para famílias: Isla Aguja
 
@@ -27,7 +28,7 @@ Não é uma praia, é um conjunto delas, próximas o bastante para você nadar n
 
 ## A melhor para ter espaço: Perro Grande
 
-A maioria dos cayos de San Blas é minúscula. [Perro Grande](/pt-br/islands/perro-grande) é a exceção real, com faixas largas de areia branca que não parecem divididas com o barco inteiro, e água turquesa calma, mais para boiar do que para perseguir peixe. Cabanas simples à beira-mar fazem dela também uma opção de pernoite.
+A maioria dos cayos de San Blas é minúscula. [Perro Grande](/pt-br/islands/perro-grande) é a exceção real, com faixas largas de areia branca que não parecem divididas com o barco inteiro, e água turquesa calma, mais para boiar do que para perseguir peixe. Cabanas simples à beira-mar fazem dela também uma opção de pernoite. É fácil confundi-la com a vizinha pequena, a ilha do naufrágio; nosso guia sobre [Perro Chico e Perro Grande](/pt-br/blog/perro-vs-perro-chico-vs-perro-grande) esclarece os nomes.
 
 ## A melhor parada tranquila e premium: Isla Pelícano
 

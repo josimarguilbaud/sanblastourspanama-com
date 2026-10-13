@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Guna Culture: What to Know Before You Visit San Blas"
 heroImage: "/img/mujeres-guna-molas-celebracion.webp"
 relatedGuideSlugs: ["history-of-san-blas", "about-san-blas", "eco-tourism"]
@@ -15,9 +16,9 @@ The Guna are one of Panama's largest indigenous peoples, and the guides, captain
 
 ## Molas: a living art form, not a souvenir line
 
-The layered, hand-stitched textile panels called **molas** are the most recognisable thing Guna culture has exported, and they are still made the way they always were: by hand, by Guna women, as panels for their own everyday blouses before they are anything a visitor buys. A good mola takes weeks of stitching, which is the honest answer to why prices vary so much between one stall and the next — you are looking at hours, not at a print run.
+The layered, hand-stitched textile panels called **molas** are the most recognisable thing Guna culture has exported, and they are still made the way they always were: by hand, by Guna women, as panels for their own everyday blouses before they are anything a visitor buys. A good mola takes weeks of stitching, which is the honest answer to why prices vary so much between one stall and the next — you are looking at hours, not at a print run. How the layers are cut and stitched, and how to tell a hand-sewn panel from a print, is in our [molas explainer](/blog/molas-explained).
 
-Buying directly from the woman who made it is the cleanest transaction available on the islands. There is no intermediary, no import chain, and the money stays exactly where you handed it over.
+Buying directly from the woman who made it is the cleanest transaction available on the islands. There is no intermediary, no import chain, and the money stays exactly where you handed it over. Some of those makers are [omeggid, Guna raised as boys who live as women](/blog/omeggid-guna-gender-identity), for whom mola work is part of who they are.
 
 ## Photography: one question changes everything
 

@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Sailing From Cartagena to San Blas: What to Know"
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
@@ -26,7 +27,7 @@ The bulk of the itinerary is time at sea. Some of it is open water between the t
 
 ## If sailing itself is what appeals
 
-If the attraction is the boat rather than the border, the archipelago has its own answer: private, fully crewed [yacht and catamaran charters](/yachts) that sail San Blas on an itinerary you set, with no obligation to end up in another country. That is a different product from a Colombia–Panama passage and usually a better fit for travelers who want to sail *San Blas* rather than sail *through* it.
+If the attraction is the boat rather than the border, the archipelago has its own answer: private, fully crewed [yacht and catamaran charters](/yachts) that sail San Blas on an itinerary you set, with no obligation to end up in another country. That is a different product from a Colombia–Panama passage and usually a better fit for travelers who want to sail *San Blas* rather than sail *through* it. For a side-by-side look at the crossing, a tour from Panama City and a private charter, see our [comparison of the three ways into San Blas](/blog/sailing-vs-day-tour-vs-yacht-charter).
 
 ## If San Blas itself is the goal
 

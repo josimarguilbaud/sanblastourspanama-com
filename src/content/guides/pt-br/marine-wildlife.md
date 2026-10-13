@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Vida Marinha e Fauna de San Blas"
 heroImage: "/img/barco-hundido-snorkel-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "eco-tourism"]
@@ -22,7 +23,7 @@ Golfinhos e tartarugas marinhas existem nas águas caribenhas do Panamá, e quem
 
 ## Acima da linha d'água
 
-As ilhas em si são coqueiro e vegetação de restinga, não floresta, então a história de fauna terrestre é magra por natureza: a mata grande, e os animais que vêm com ela, ficam do lado continental de Guna Yala e não nos cayos ao largo. O que se vê em todo canto é uma economia pesqueira em funcionamento: canoas escavadas ainda usadas todo dia e redes secando ao sol. Não é exibição para visitante; é como as ilhas comem.
+As ilhas em si são coqueiro e vegetação de restinga, não floresta, então a história de fauna terrestre é magra por natureza: a mata grande, e os animais que vêm com ela, ficam do lado continental de Guna Yala e não nos cayos ao largo. O que se vê em todo canto é uma economia pesqueira em funcionamento: canoas escavadas ainda usadas todo dia e redes secando ao sol. Não é exibição para visitante; é como as ilhas comem. O que essa pesca vira no prato, e quando a lagosta está proibida, explicamos em [o que se come em San Blas](/pt-br/blog/what-you-eat-in-san-blas).
 
 ## Olhar sem estragar
 

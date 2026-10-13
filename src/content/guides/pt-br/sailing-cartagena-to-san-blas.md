@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Navegar de Cartagena a San Blas: O Que Saber"
 heroImage: "/img/catamaran-atardecer-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "flights-to-san-blas"]
@@ -26,7 +27,7 @@ O grosso do roteiro é tempo no mar. Parte disso é mar aberto entre os dois pa�
 
 ## Se o que atrai é velejar
 
-Se o atrativo é o barco e não a fronteira, o arquipélago tem a própria resposta: [charters privativos de iate e catamarã](/pt-br/yachts) com tripulação completa, que navegam San Blas no roteiro que você define, sem obrigação de terminar em outro país. É um produto diferente de uma passagem Colômbia-Panamá e costuma servir melhor a quem quer navegar *San Blas* em vez de navegar *através* de San Blas.
+Se o atrativo é o barco e não a fronteira, o arquipélago tem a própria resposta: [charters privativos de iate e catamarã](/pt-br/yachts) com tripulação completa, que navegam San Blas no roteiro que você define, sem obrigação de terminar em outro país. É um produto diferente de uma passagem Colômbia-Panamá e costuma servir melhor a quem quer navegar *San Blas* em vez de navegar *através* de San Blas. Para comparar lado a lado a travessia, um passeio saindo da Cidade do Panamá e um charter privado, veja nossa [comparação dos três jeitos de chegar a San Blas](/pt-br/blog/sailing-vs-day-tour-vs-yacht-charter).
 
 ## Se o objetivo é San Blas
 

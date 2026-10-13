@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Qué Llevar a San Blas"
 heroImage: "/img/viajera-playa-arena-blanca.webp"
 relatedGuideSlugs: ["best-time-to-visit", "health-safety-vaccinations"]
@@ -8,6 +9,8 @@ seoDescription: "Lista práctica de equipaje para las islas de San Blas, Panamá
 ---
 
 Empaca para una lancha, no para un hotel. Todo lo que lleves a San Blas lo cargas tú, se sube a un 4x4, se pasa a una lancha rápida y termina sobre arena — y no hay tiendas que corrijan un olvido una vez que saliste de Ciudad de Panamá. Un bolso blando y pequeño con lo correcto gana a un bolso grande con todo.
+
+Una lista cubre la maleta; para el contexto que no cubre, del control de entrada a quién es dueño de los cocos, lee [5 cosas que nadie te dice antes de visitar San Blas](/es/blog/5-things-nobody-tells-you).
 
 ## Para un pasadía
 
@@ -26,13 +29,15 @@ Empaca para una lancha, no para un hotel. Todo lo que lleves a San Blas lo carga
 
 - **Ropa ligera y cómoda** para las noches cálidas, y algo que ponerte encima al caminar por un pueblo.
 - **Sandalias de agua**, que resuelven mejor que las chancletas la arena, los escalones de la lancha y los fragmentos de coral.
-- **Repelente de insectos**, además del protector solar. Las noches son cuando justifica su lugar.
+- **Repelente de insectos**, además del protector solar. Las noches son cuando justifica su lugar: es cuando [las chitras, las moscas diminutas de la zona, empiezan a picar](/es/blog/sandflies-jellyfish-san-blas).
 - **Batería portátil.** Casi ninguna isla tiene red eléctrica, así que no cuentes con un enchufe.
 - **Una hielera pequeña con tus bebidas o snacks**, si quieres: es opcional, y conviene confirmar el tamaño antes de empacarla.
 
 ## El asunto del efectivo
 
 No hay cajeros automáticos en ningún punto de Guna Yala, ni datáfonos en las islas. Necesitas efectivo para el **impuesto comunitario de entrada —$22 extranjeros, $7 residentes—**, que se paga en el borde de la comarca, más todo lo que pienses gastar: molas de las artesanas Guna, bebidas, snacks y cualquier extra opcional. Sácalo en Ciudad de Panamá y lleva billetes pequeños, porque el cambio en una isla chica es limitado.
+
+Para el desglose por tipo de viaje — excursión de un día, estadía o velero — mira [¿necesitas efectivo en San Blas?](/es/blog/do-you-need-cash-in-san-blas).
 
 ## Qué no llevar
 

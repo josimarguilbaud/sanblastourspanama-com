@@ -26,7 +26,7 @@ Because of the extra distance, the Dutch Cays tour runs on its own rules, and al
 
 ## What this stop is not
 
-It is a reef and a lagoon, not an island with amenities. There is no infrastructure to speak of, no shade built for visitors, nothing to buy. It is also not a diving destination: standard San Blas tours do not include scuba with tanks, here or anywhere else in the archipelago. This reef is at its best a couple of meters below your mask.
+It is a reef and a lagoon, not an island with amenities. There is no infrastructure to speak of, no shade built for visitors, nothing to buy. It is also not a diving destination: standard San Blas tours do not include scuba with tanks, here or anywhere else in the archipelago. This reef is at its best a couple of meters below your mask. Why tanks are off the table everywhere in Guna Yala is explained in our [answer on scuba diving in San Blas](/blog/can-you-scuba-dive-in-san-blas).
 
 ## Choosing between this and the VIP tour
 

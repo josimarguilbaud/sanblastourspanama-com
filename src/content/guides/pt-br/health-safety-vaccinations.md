@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "San Blas: Saúde, Segurança e Vacinas"
 heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -27,7 +28,7 @@ Não há hospitais nem postos de saúde nas ilhas. O atendimento fica na Cidade 
 - **Enjoo de movimento.** A estrada de 4x4 até Carti é uma sequência longa de curvas fechadas de montanha, e a travessia de barco vem logo depois. Se você é propenso a qualquer um dos dois, tome o remédio **antes** de sair, não quando os sintomas começarem.
 - **Desidratação.** Dia longo, sol forte, água salgada. Beba mais do que acha necessário e leve água em vez de supor que se vende num cayo.
 
-As noites de uma estadia com pernoite são também quando o repelente justifica seu lugar na mochila.
+As noites de uma estadia com pernoite são também quando o repelente justifica seu lugar na mochila, sobretudo contra [as chitras, mosquinhas minúsculas que picam ao entardecer](/pt-br/blog/sandflies-jellyfish-san-blas).
 
 ## Comida, água e restrições alimentares
 
@@ -40,6 +41,8 @@ Os operadores são consistentes e diretos nisso: San Blas **não é recomendado*
 ## Na água
 
 O colete salva-vidas é obrigatório o tempo todo, para adultos e crianças igualmente, e os barcos são conduzidos por capitães Guna locais experientes que leem essas águas diariamente. Criminalidade não é um traço relevante de uma viagem a San Blas; o bom senso de sempre com objetos de valor cobre o risco real muito melhor do que qualquer precaução exótica.
+
+Para o quadro completo — o mar, a criminalidade, as regras próprias da comarca e o que o CDC diz sobre malária e febre amarela na região — leia [San Blas é seguro?](/pt-br/blog/is-san-blas-safe).
 
 ## Perguntas frequentes
 

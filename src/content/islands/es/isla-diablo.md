@@ -10,7 +10,7 @@ seoTitle: "Isla Diablo, San Blas — Voleibol, Cabañas y Estrellas"
 seoDescription: "Isla Diablo tiene itinerario propio y publicado por el grupo Isla Perro, agua tranquila para niños y cabañas sencillas administradas por familias Guna."
 ---
 
-Para llamarse Isla Diablo, esta isla es notablemente apacible. Está dentro del grupo de Isla Perro, a poca distancia en lancha de varios otros cayos populares, y es una de las pocas islas de San Blas que funciona igual de bien como parada de un día que como base para dormir.
+Para llamarse Isla Diablo, esta isla es notablemente apacible. Está dentro del grupo de Isla Perro, a poca distancia en lancha de varios otros cayos populares, y es una de las pocas islas de San Blas que funciona igual de bien como parada de un día que como base para dormir. Cómo encaja con sus vecinas Perro Chico y Perro Grande lo explica nuestra [guía de los nombres de Isla Perro](/es/blog/perro-vs-perro-chico-vs-perro-grande).
 
 ## Una isla que se recorre caminando en minutos
 

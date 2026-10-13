@@ -10,7 +10,7 @@ isInhabited: true
 relatedTourKeys: ["day_tour_isla_diablo"]
 ---
 
-For an island called Devil's Island, Isla Diablo is remarkably placid. It sits in the Isla Perro group, a short boat ride from several other popular cays, and it is one of the few San Blas islands that works equally well as a day stop and as a base for the night.
+For an island called Devil's Island, Isla Diablo is remarkably placid. It sits in the Isla Perro group, a short boat ride from several other popular cays, and it is one of the few San Blas islands that works equally well as a day stop and as a base for the night. How it relates to its neighbours Perro Chico and Perro Grande is explained in our [guide to the Isla Perro names](/blog/perro-vs-perro-chico-vs-perro-grande).
 
 ## An island you can walk around in minutes
 

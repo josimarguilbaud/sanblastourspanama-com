@@ -14,7 +14,7 @@ Nicht jeder Stopp in San Blas ist eine Insel. Der Naturpool ist eine Sandbank, d
 
 ## Keine Insel, eine Sandbank
 
-Hier gibt es keinen Strand zum Betreten, keine Palme zum Daruntersitzen, überhaupt kein Ufer. Sie waten vom Boot aus über hellen Sand in etwa hüfthohes Wasser, und die Merkwürdigkeit, mitten im offenen Meer zu stehen, macht den größten Teil des Reizes aus. Deshalb sieht dieser Stopp auf Fotos auch anders aus als alles andere auf der Reise: Nichts im Bild verrät die Tiefe.
+Hier gibt es keinen Strand zum Betreten, keine Palme zum Daruntersitzen, überhaupt kein Ufer. Sie waten vom Boot aus über hellen Sand in etwa hüfthohes Wasser, und die Merkwürdigkeit, mitten im offenen Meer zu stehen, macht den größten Teil des Reizes aus. Deshalb sieht dieser Stopp auf Fotos auch anders aus als alles andere auf der Reise: Nichts im Bild verrät die Tiefe. Wie man sie auf Wasserhöhe fotografiert und bei welchem Licht, steht in unserem [Ratgeber zu den Fotospots von San Blas](/de/blog/best-san-blas-photography-spots).
 
 ## Die Seesterne und der Umgang mit ihnen
 

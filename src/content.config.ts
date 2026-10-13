@@ -28,6 +28,8 @@ const guides = defineCollection({
     title: z.string(),
     heroImage: z.string().optional(),
     relatedGuideSlugs: z.array(z.string()).default([]),
+    // Última revisión real (último commit). Las guías no tenían ninguna fecha.
+    updatedAt: z.date().optional(),
     relatedIslandSlugs: z.array(z.string()).default([]),
     seoTitle: z.string().optional(),
     seoDescription: z.string().optional(),
@@ -41,6 +43,8 @@ const posts = defineCollection({
     excerpt: z.string(),
     heroImage: z.string().optional(),
     publishedAt: z.date(),
+    // Última revisión real del texto (fecha del último commit que lo tocó).
+    updatedAt: z.date().optional(),
     draft: z.boolean().default(false),
     seoTitle: z.string().optional(),
     seoDescription: z.string().optional(),

@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "Vols vers San Blas : Peut-on y Aller en Avion ?"
 heroImage: "/img/isla-aerea-muelle-san-blas.webp"
 relatedGuideSlugs: ["how-to-get-to-san-blas", "sailing-cartagena-to-san-blas"]
@@ -11,7 +12,7 @@ Version courte : oui, de petits appareils atteignent certaines parties de Guna Y
 
 ## Une piste n'est pas un aéroport
 
-Guna Yala dispose d'une poignée de courtes pistes locales desservant des îles habitées et des points du continent ; la plus connue se trouve à **El Porvenir**, le centre administratif de la comarca. Ce sont des bandes de piste au bord d'un village, pas des terminaux : ni tapis à bagages, ni infrastructure de correspondance, ni station de taxis de l'autre côté. Quelques appareils domestiques les desservent depuis Panama City, mais les routes, les exploitants et les fréquences ont changé plusieurs fois au fil des ans : tout horaire lu de seconde main mérite d'être confirmé auprès de la compagnie avant d'organiser un voyage autour.
+Guna Yala dispose d'une poignée de courtes pistes locales desservant des îles habitées et des points du continent ; la plus connue se trouve à **El Porvenir**, le centre administratif de la comarca. Ce sont des bandes de piste au bord d'un village, pas des terminaux : ni tapis à bagages, ni infrastructure de correspondance, ni station de taxis de l'autre côté. Quelques appareils domestiques les desservent depuis Panama City, mais les routes, les exploitants et les fréquences ont changé plusieurs fois au fil des ans : tout horaire lu de seconde main mérite d'être confirmé auprès de la compagnie avant d'organiser un voyage autour. Les îles dotées d'un vrai aéroport sont un autre type de voyage ; [San Blas face à San Andrés, Roatán et Los Roques](/fr/blog/san-blas-vs-san-andres-roatan-los-roques) les met côte à côte.
 
 ## Ce qu'un vol apporte réellement
 
@@ -29,7 +30,7 @@ L'itinéraire standard — prise en charge en 4x4 devant votre hébergement à P
 
 ## Quand le vol mérite d'être étudié
 
-Si vous vous rendez à une île habitée précise pour vos propres raisons — visiter une communauté, rejoindre un bateau déjà présent dans l'archipel, poursuivre un itinéraire indépendant plus long —, une piste peut être la bonne porte. Traitez alors le vol comme un transport vers un point de départ et organisez les segments en bateau séparément, avec des interlocuteurs sur place.
+Si vous vous rendez à une île habitée précise pour vos propres raisons — visiter une communauté, rejoindre un bateau déjà présent dans l'archipel, poursuivre un itinéraire indépendant plus long —, une piste peut être la bonne porte. Traitez alors le vol comme un transport vers un point de départ et organisez les segments en bateau séparément, avec des interlocuteurs sur place. Les voyageurs qui ont déjà pris l'avion pour Bocas del Toro, l'autre archipel caraïbe du Panama, s'attendent souvent à ce que San Blas fonctionne de la même façon ; notre [comparatif San Blas et Bocas del Toro](/fr/blog/san-blas-vs-bocas-del-toro) explique pourquoi ce n'est pas le cas.
 
 ## Questions fréquentes
 

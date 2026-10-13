@@ -26,7 +26,7 @@ Isla Pelícano belongs to the Super VIP Private itinerary rather than the shared
 
 ## What is actually on the island
 
-Very little, which is the point. This is a scenic and snorkeling stop, not an island with infrastructure — no cabins, no shop, no facilities. There is nothing built here around the series either: what you are looking at is the island itself, the same one that appeared on screen, and nothing has been added for visitors since.
+Very little, which is the point. This is a scenic and snorkeling stop, not an island with infrastructure — no cabins, no shop, no facilities. There is nothing built here around the series either: what you are looking at is the island itself, the same one that appeared on screen, and nothing has been added for visitors since. If you are choosing islands for the camera, our [San Blas photography spots guide](/blog/best-san-blas-photography-spots) compares where the water is clearest and when the light is best.
 
 ## Good to know
 

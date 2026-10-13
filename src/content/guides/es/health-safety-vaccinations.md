@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-10-13
 title: "San Blas: Salud, Seguridad y Vacunas"
 heroImage: "/img/almuerzo-tipico-isla-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -27,7 +28,7 @@ No hay hospitales ni clínicas en las islas. La atención médica está en Ciuda
 - **El mareo.** La carretera en 4x4 hasta Cartí es una sucesión larga de curvas cerradas de montaña, y el cruce en lancha viene después. Si eres propenso a cualquiera de los dos, medícate **antes** de salir, no cuando empiecen los síntomas.
 - **La deshidratación.** Día largo, sol fuerte, agua salada. Bebe más de lo que crees necesario y lleva agua en vez de dar por hecho que se vende en un cayo.
 
-Las noches de una estadía también son cuando el repelente de insectos justifica su sitio en la mochila.
+Las noches de una estadía también son cuando el repelente de insectos justifica su sitio en la mochila, sobre todo contra [las chitras, esas moscas diminutas que pican al atardecer](/es/blog/sandflies-jellyfish-san-blas).
 
 ## Comida, agua y necesidades alimentarias
 
@@ -40,6 +41,8 @@ Los operadores son constantes y directos en esto: San Blas **no se recomienda** 
 ## En el agua
 
 El chaleco salvavidas es obligatorio en todo momento, para adultos y niños por igual, y las lanchas las manejan capitanes Guna locales con experiencia que leen estas aguas a diario. La delincuencia no es un rasgo relevante de un viaje a San Blas; el sentido común de siempre con los objetos de valor cubre el riesgo realista mucho mejor que cualquier precaución exótica.
+
+Para el panorama completo — el mar, la delincuencia, las reglas propias de la comarca y lo que dicen los CDC sobre malaria y fiebre amarilla en esta región — lee [¿es seguro San Blas?](/es/blog/is-san-blas-safe).
 
 ## Preguntas frecuentes
 

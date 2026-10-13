@@ -10,7 +10,7 @@ seoTitle: "Isla Diablo, San Blas — Volleyball, Hütten, Seesterne"
 seoDescription: "Isla Diablo hat eine eigene, veröffentlichte Tagesroute durch die Isla-Perro-Gruppe, ruhiges Wasser für Kinder und einfache Guna-Hütten für die Nacht."
 ---
 
-Für eine Insel namens Teufelsinsel ist Isla Diablo bemerkenswert friedlich. Sie liegt in der Isla-Perro-Gruppe, eine kurze Bootsfahrt von mehreren anderen beliebten Inseln entfernt, und sie ist eine der wenigen Inseln in San Blas, die als Tagesstopp genauso gut funktioniert wie als Basis für die Nacht.
+Für eine Insel namens Teufelsinsel ist Isla Diablo bemerkenswert friedlich. Sie liegt in der Isla-Perro-Gruppe, eine kurze Bootsfahrt von mehreren anderen beliebten Inseln entfernt, und sie ist eine der wenigen Inseln in San Blas, die als Tagesstopp genauso gut funktioniert wie als Basis für die Nacht. Wie sie sich zu ihren Nachbarinnen Perro Chico und Perro Grande verhält, erklärt unser [Beitrag zu den Namen der Isla-Perro-Gruppe](/de/blog/perro-vs-perro-chico-vs-perro-grande).
 
 ## Eine Insel, die man in Minuten umrundet
 

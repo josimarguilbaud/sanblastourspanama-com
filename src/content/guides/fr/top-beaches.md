@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Les Plus Belles Plages de San Blas"
 heroImage: "/img/playa-caminata-san-blas.webp"
 relatedGuideSlugs: ["snorkeling-diving", "best-time-to-visit"]
@@ -15,7 +16,7 @@ Assez petite pour en faire le tour à pied en dix minutes, et célèbre pour ce 
 
 ## La plus carte postale : Chichime
 
-Deux cayos côte à côte, séparés par un chenal assez peu profond pour être traversé à pied à marée basse. [Chichime](/fr/islands/chichime) est le sable le plus photographié de l'archipel, et pour de bonnes raisons : blanc comme du sucre, bordé de cocotiers penchés, devant une eau qui passe du turquoise pâle au bleu profond en quelques pas. Une petite communauté guna vit sur l'un des deux cayos : pirogues tirées sur le sable et filets qui sèchent au soleil font donc partie du tableau.
+Deux cayos côte à côte, séparés par un chenal assez peu profond pour être traversé à pied à marée basse. [Chichime](/fr/islands/chichime) est le sable le plus photographié de l'archipel, et pour de bonnes raisons : blanc comme du sucre, bordé de cocotiers penchés, devant une eau qui passe du turquoise pâle au bleu profond en quelques pas. Une petite communauté guna vit sur l'un des deux cayos : pirogues tirées sur le sable et filets qui sèchent au soleil font donc partie du tableau. Pour savoir quand la photographier et comment la marée change le cadre, voyez notre [guide des spots photo de San Blas](/fr/blog/best-san-blas-photography-spots).
 
 ## La meilleure pour les familles : Isla Aguja
 
@@ -27,7 +28,7 @@ Non pas une plage mais un chapelet, assez rapprochées pour se baigner à un cay
 
 ## La meilleure pour l'espace : Perro Grande
 
-La plupart des cayos de San Blas sont minuscules. [Perro Grande](/fr/islands/perro-grande) fait exception, avec de larges étendues de sable blanc qu'on n'a pas l'impression de partager avec tout le bateau, et une eau turquoise calme, plus faite pour flotter que pour poursuivre les poissons. Des cabanes simples en front de mer en font aussi une option pour la nuit.
+La plupart des cayos de San Blas sont minuscules. [Perro Grande](/fr/islands/perro-grande) fait exception, avec de larges étendues de sable blanc qu'on n'a pas l'impression de partager avec tout le bateau, et une eau turquoise calme, plus faite pour flotter que pour poursuivre les poissons. Des cabanes simples en front de mer en font aussi une option pour la nuit. On la confond facilement avec sa petite voisine, l'île de l'épave ; notre article sur [Perro Chico et Perro Grande](/fr/blog/perro-vs-perro-chico-vs-perro-grande) démêle les noms.
 
 ## La meilleure escale calme et haut de gamme : Isla Pelícano
 

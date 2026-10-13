@@ -26,7 +26,7 @@ Isla Pelícano gehört zur Route Super VIP Privat und nicht zu den geteilten Tag
 
 ## Was tatsächlich auf der Insel ist
 
-Sehr wenig, und darin liegt der Reiz. Das ist ein Aussichts- und Schnorchelstopp, keine Insel mit Infrastruktur: keine Hütten, kein Laden, keine Einrichtungen. Auch rund um die Serie wurde hier nichts gebaut: Sie sehen die Insel, wie sie ist — dieselbe, die auf dem Bildschirm zu sehen war, und seither wurde für Besucher nichts hinzugefügt.
+Sehr wenig, und darin liegt der Reiz. Das ist ein Aussichts- und Schnorchelstopp, keine Insel mit Infrastruktur: keine Hütten, kein Laden, keine Einrichtungen. Auch rund um die Serie wurde hier nichts gebaut: Sie sehen die Insel, wie sie ist — dieselbe, die auf dem Bildschirm zu sehen war, und seither wurde für Besucher nichts hinzugefügt. Wenn Sie Inseln für die Kamera auswählen, vergleicht unser [Ratgeber zu den Fotospots von San Blas](/de/blog/best-san-blas-photography-spots), wo das Wasser am klarsten und wann das Licht am besten ist.
 
 ## Gut zu wissen
 

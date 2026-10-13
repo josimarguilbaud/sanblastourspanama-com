@@ -1,4 +1,5 @@
 ---
+updatedAt: 2026-09-02
 title: "Dormir en San Blas — Los 5 Tipos de Cabaña"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -8,6 +9,8 @@ seoDescription: "¿Pensando en quedarte a dormir en San Blas? Compara los 5 tipo
 ---
 
 Un pasadía te enseña San Blas. Quedarte a dormir te deja estar dentro: la misma franja de arena al atardecer y otra vez al amanecer, un cielo sin contaminación lumínica que lo estropee y una noche que pertenece a la isla y no al convoy de regreso. Las estadías van de **1 a 3 noches máximo**, y se reservan por **tipo de cabaña** y no por una isla con nombre.
+
+¿Todavía dudas entre una noche en las islas y un solo día? Nuestra [comparativa entre excursión de un día y estadía](/es/blog/day-tour-vs-overnight-stay) pone las dos opciones lado a lado.
 
 ## Los cinco tipos de cabaña
 
@@ -34,6 +37,8 @@ En todo San Blas las cabañas de una misma categoría son casi idénticas de una
 - Un guía Guna local
 
 **No incluye:** bebidas y snacks, bebidas alcohólicas, el impuesto comunitario de Guna Yala (en efectivo y aparte), equipo de snorkel y artículos personales como toallas o jabón.
+
+Como en las islas nada se paga con tarjeta, las bebidas y los extras de una estadía van en efectivo; [¿necesitas efectivo en San Blas?](/es/blog/do-you-need-cash-in-san-blas) explica qué llevar.
 
 ## Un itinerario de 2 días y 1 noche
 
