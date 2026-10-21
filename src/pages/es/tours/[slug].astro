@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import BookingCta from '../../../components/BookingCta.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import EnlaceHermana from '../../../components/EnlaceHermana.astro';
 import RelatedCards from '../../../components/RelatedCards.astro';
 import WidgetReserva from '../../../components/WidgetReserva.astro';
 import { localesForSlug } from '../../../i18n/content';
@@ -117,6 +118,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
 
       <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
         <Content />
+        <EnlaceHermana tipo="tour" slug={slug} lang="es" />
       </div>
 
       <div class="mt-12 rounded-3xl bg-deep p-8 text-center">
