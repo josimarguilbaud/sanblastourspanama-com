@@ -44,7 +44,7 @@ Panama's public holidays are when San Blas is busiest: locals head to the island
 - **Carnival:** 6–9 February 2027
 - **Easter week:** 25–28 March 2027
 
-For a day tour on one of these dates, book as soon as your plans are fixed: a deposit holds your seats, the rest is paid on the day, and the date can be changed for free up to 72 hours before. A night on the islands needs more notice, because cabins are booked at least 60 days ahead. That puts the last day to book a stay for New Year's Eve on 1 November 2026, for Carnival on 8 December 2026 and for Easter week on 24 January 2027.
+For a day tour on one of these dates, book as soon as your plans are fixed: a deposit holds your seats, the rest is paid on the day, and the date can be changed for free up to 72 hours before. These dates are for the day tour: from November to April we don't sell nights on the islands, because in high season lodging can't be guaranteed. Stays are booked from May to October, at least 60 days ahead.
 
 ## Frequently asked questions
 
@@ -70,7 +70,7 @@ The dry season, December through April, and particularly around public holidays 
 
 ### How far ahead should I book?
 
-For dry-season dates, as early as you can fix your plans, and earliest of all around public holidays. Overnight cabin stays must be booked at least 60 days in advance at any time of year, and premium options such as the overwater cabin have the tightest availability of all.
+For dry-season dates, as early as you can fix your plans, and earliest of all around public holidays. Overnight cabin stays are only sold from May to October and must be booked at least 60 days in advance; from November to April there is no lodging for sale. Premium options such as the overwater cabin have the tightest availability of all.
 
 ### Is the sea rough at certain times of year?
 

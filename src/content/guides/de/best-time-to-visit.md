@@ -44,7 +44,7 @@ An Panamas Feiertagen ist in San Blas am meisten los: Die Einheimischen fahren a
 - **Karneval:** 6.–9. Februar 2027
 - **Karwoche:** 25.–28. März 2027
 
-Für eine Tagestour an einem dieser Termine buchen Sie am besten, sobald Ihre Pläne feststehen: Eine Anzahlung sichert die Plätze, der Rest wird am Tag selbst bezahlt, und das Datum lässt sich bis 72 Stunden vorher kostenlos ändern. Eine Nacht auf den Inseln braucht mehr Vorlauf, denn Hütten werden mindestens 60 Tage im Voraus gebucht. Der letzte Buchungstag für eine Übernachtung an Silvester ist damit der 1. November 2026, für Karneval der 8. Dezember 2026 und für die Karwoche der 24. Januar 2027.
+Für eine Tagestour an einem dieser Termine buchen Sie am besten, sobald Ihre Pläne feststehen: Eine Anzahlung sichert die Plätze, der Rest wird am Tag selbst bezahlt, und das Datum lässt sich bis 72 Stunden vorher kostenlos ändern. Diese Termine gelten für die Tagestour: Von November bis April verkaufen wir keine Nächte auf den Inseln, weil sich die Unterkunft in der Hochsaison nicht garantieren lässt. Übernachtungen sind von Mai bis Oktober buchbar, mindestens 60 Tage im Voraus.
 
 ## Häufige Fragen
 
@@ -70,7 +70,7 @@ In der Trockenzeit, Dezember bis April, und besonders an Feiertagen und Wochenen
 
 ### Wie früh sollte ich buchen?
 
-Für Termine in der Trockenzeit so früh, wie Ihre Planung es zulässt, und rund um Feiertage noch früher. Übernachtungen in Hütten müssen das ganze Jahr über mindestens 60 Tage im Voraus gebucht werden, und die Premium-Variante über dem Wasser hat die knappsten Kapazitäten.
+Für Termine in der Trockenzeit so früh, wie Ihre Planung es zulässt, und rund um Feiertage noch früher. Übernachtungen in Hütten werden nur von Mai bis Oktober verkauft und müssen mindestens 60 Tage im Voraus gebucht werden; von November bis April gibt es keine Unterkunft zu kaufen. Die Premium-Variante über dem Wasser hat die knappsten Kapazitäten.
 
 ### Ist die See zu bestimmten Zeiten rau?
 

@@ -44,7 +44,7 @@ Los feriados de Panamá son cuando San Blas tiene más gente: los panameños sal
 - **Carnaval:** del 6 al 9 de febrero de 2027
 - **Semana Santa:** del 25 al 28 de marzo de 2027
 
-Para un tour de un día en una de estas fechas, reserva en cuanto tengas los planes cerrados: un anticipo aparta los cupos, el resto se paga el mismo día y la fecha se cambia gratis hasta 72 horas antes. Dormir en las islas pide más margen, porque las cabañas se reservan con 60 días de antelación como mínimo. Así, el último día para reservar una estadía en Nochevieja es el 1 de noviembre de 2026; para Carnaval, el 8 de diciembre de 2026, y para Semana Santa, el 24 de enero de 2027.
+Para un tour de un día en una de estas fechas, reserva en cuanto tengas los planes cerrados: un anticipo aparta los cupos, el resto se paga el mismo día y la fecha se cambia gratis hasta 72 horas antes. Estas fechas son para el tour de un día: de noviembre a abril no vendemos noches en las islas, porque en temporada alta no se puede garantizar el alojamiento. Las estadías se reservan de mayo a octubre, con 60 días de antelación como mínimo.
 
 ## Preguntas frecuentes
 
@@ -70,7 +70,7 @@ En la temporada seca, de diciembre a abril, y especialmente en feriados y fines 
 
 ### ¿Con cuánta antelación conviene reservar?
 
-Para fechas de temporada seca, tan pronto como puedas fijar tus planes, y antes que nunca si coinciden con un feriado. Las estadías nocturnas en cabaña se reservan con un mínimo de 60 días de antelación en cualquier época del año, y las opciones premium como la cabaña sobre el agua son las que menos cupo tienen.
+Para fechas de temporada seca, tan pronto como puedas fijar tus planes, y antes que nunca si coinciden con un feriado. Las estadías nocturnas en cabaña solo se venden de mayo a octubre y se reservan con un mínimo de 60 días de antelación; de noviembre a abril no hay hospedaje a la venta. Las opciones premium como la cabaña sobre el agua son las que menos cupo tienen.
 
 ### ¿El mar se pone picado en alguna época?
 

@@ -44,7 +44,7 @@ Les jours fériés du Panama sont les moments où San Blas est le plus fréquent
 - **Carnaval :** du 6 au 9 février 2027
 - **Semaine sainte :** du 25 au 28 mars 2027
 
-Pour une excursion à la journée à l'une de ces dates, réservez dès que vos plans sont fixés : un acompte bloque les places, le reste se règle le jour même et la date peut être changée gratuitement jusqu'à 72 heures avant. Une nuit sur les îles demande plus d'avance, car les cabanes se réservent au moins 60 jours à l'avance. Le dernier jour pour réserver une nuit au réveillon du Nouvel An est donc le 1er novembre 2026 ; pour le Carnaval, le 8 décembre 2026, et pour la Semaine sainte, le 24 janvier 2027.
+Pour une excursion à la journée à l'une de ces dates, réservez dès que vos plans sont fixés : un acompte bloque les places, le reste se règle le jour même et la date peut être changée gratuitement jusqu'à 72 heures avant. Ces dates sont pour l'excursion à la journée : de novembre à avril, nous ne vendons pas de nuits sur les îles, car en haute saison le logement ne peut pas être garanti. Les séjours se réservent de mai à octobre, au moins 60 jours à l'avance.
 
 ## Questions fréquentes
 
@@ -70,7 +70,7 @@ En saison sèche, de décembre à avril, et particulièrement autour des jours f
 
 ### Combien de temps à l'avance faut-il réserver ?
 
-Pour les dates de saison sèche, dès que vos plans sont fixés, et plus tôt encore autour des jours fériés. Les nuits en cabane se réservent au moins 60 jours à l'avance, à n'importe quelle période de l'année, et l'option premium au-dessus de l'eau est la plus vite complète.
+Pour les dates de saison sèche, dès que vos plans sont fixés, et plus tôt encore autour des jours fériés. Les nuits en cabane ne sont vendues que de mai à octobre et se réservent au moins 60 jours à l'avance ; de novembre à avril, aucun hébergement n'est en vente. L'option premium au-dessus de l'eau est la plus vite complète.
 
 ### La mer est-elle agitée à certaines périodes ?
 
