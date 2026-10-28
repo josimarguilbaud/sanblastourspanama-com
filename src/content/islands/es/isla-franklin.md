@@ -22,7 +22,7 @@ Isla Franklin es conocida específicamente por ofrecer **comida vegana** genuina
 
 ## Cómo se pide de verdad
 
-Aquí está la parte que confunde: las estadías en San Blas se reservan por **tipo de cabaña**, no por isla. Eliges dormitorio compartido, cabaña privada clásica o deluxe, camping bajo las estrellas o cabaña sobre el agua, y la isla se confirma cerca de la fecha según disponibilidad. Así que no se puede reservar "Isla Franklin" sin más. Lo que sí se hace es declarar tus necesidades alimentarias al reservar, para que se tengan en cuenta al asignarte isla y cocina. La disponibilidad de cabaña necesita al menos tres días de antelación.
+Aquí está la parte que confunde: las estadías en San Blas se reservan por **tipo de cabaña**, no por isla. Eliges dormitorio compartido, cabaña privada clásica o deluxe, camping bajo las estrellas o cabaña sobre el agua, y la isla se confirma cerca de la fecha según disponibilidad. Así que no se puede reservar "Isla Franklin" sin más. Lo que sí se hace es declarar tus necesidades alimentarias al reservar, para que se tengan en cuenta al asignarte isla y cocina. La disponibilidad de cabaña necesita al menos 60 días de antelación.
 
 ## Qué incluyen las comidas y qué no
 
@@ -50,7 +50,7 @@ En la mayoría de las islas no, al menos no de forma planificada: la cocina se c
 Tres comidas al día, cocinadas y servidas por la familia Guna que te hospeda a horas fijas: almuerzo a mediodía, cena a primera hora de la tarde-noche y desayuno a las 7:00 AM, antes del tour de islas del Día 2. Es comida de casa en una isla sin tienda, no un restaurante con carta.
 
 ### ¿Con cuánta antelación hay que avisar de una dieta especial?
-Cuanto antes, y en todo caso al reservar y no al llegar. La disponibilidad de cabaña ya exige un mínimo de tres días, y una cocina en una isla sin tienda ni reparto diario no puede resolver un requisito del que se entera en el almuerzo.
+Cuanto antes, y en todo caso al reservar y no al llegar. La disponibilidad de cabaña ya exige un mínimo de 60 días, y una cocina en una isla sin tienda ni reparto diario no puede resolver un requisito del que se entera en el almuerzo.
 
 ### ¿Las bebidas van incluidas con las comidas?
 No. Las tres comidas están incluidas en todos los tipos de cabaña, pero las bebidas, los snacks y el alcohol no, y se pagan aparte y en efectivo. Sí puedes llevar una neverita pequeña con tus propios snacks y bebidas si prefieres no comprar en la isla.

@@ -33,7 +33,7 @@ Dans la limite du raisonnable, oui. La cuisine, c'est une famille guna qui vous 
 La durée et l'intention. La version d'une nuit est une nuit overwater pour un couple qui veut la vue et l'intimité. Celle-ci ajoute une journée entière sans programme et se construit autour d'un anniversaire à marquer, ce qui suppose un rythme plus lent et davantage d'indications de votre part.
 
 ### Combien de temps à l'avance faut-il réserver ?
-Tout séjour avec nuit demande au moins trois jours pour confirmer une cabane, mais pour une date d'anniversaire fixe, comptez plutôt en semaines. Les cabanes sont limitées et ne s'ajoutent pas. Si la date ne bouge pas, c'est la première chose à verrouiller.
+Tout séjour avec nuit demande au moins 60 jours pour confirmer une cabane, et pour une date d'anniversaire fixe, mieux vaut demander encore plus tôt. Les cabanes sont limitées et ne s'ajoutent pas. Si la date ne bouge pas, c'est la première chose à verrouiller.
 
 ### Peut-on retourner sur la même île que la dernière fois ?
 Demandez, et nous répondrons honnêtement. Les séjours se confirment par type de cabane et non par île, et l'île précise dépend des disponibilités proches de vos dates. Si l'une compte particulièrement pour vous, nommez-la tôt plutôt que de la supposer acquise.

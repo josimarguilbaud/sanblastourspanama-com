@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-28
+updatedAt: 2026-10-28
 title: "Mejor Época para Visitar San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
@@ -34,6 +34,18 @@ Para quien valora más tener un cayo casi para sí que un cielo perfecto, estos 
 
 Como un pasadía es un bloque fijo de unas 14 horas, una mañana lluviosa no es un viaje perdido: es una hora mojada en lancha entre parada y parada. Quien tiene varios días en Panamá suele dejar flexible la fecha de San Blas justo por eso, y elige la mejor de dos mañanas. Si las condiciones son de verdad inseguras para navegar, el operador reprograma o reembolsa por completo; la lluvia tropical normal no detiene nada.
 
+## Fechas de temporada alta 2026-2027
+
+Los feriados de Panamá son cuando San Blas tiene más gente: los panameños salen a las islas al mismo tiempo que los visitantes de fuera. Estas son las fechas que se llenan primero:
+
+- **Fiestas patrias:** del 3 al 10 de noviembre de 2026
+- **Independencia de España:** 28 de noviembre de 2026
+- **Navidad y Año Nuevo:** del 24 de diciembre de 2026 al 1 de enero de 2027
+- **Carnaval:** del 6 al 9 de febrero de 2027
+- **Semana Santa:** del 25 al 28 de marzo de 2027
+
+Para un tour de un día en una de estas fechas, reserva en cuanto tengas los planes cerrados: un anticipo aparta los cupos, el resto se paga el mismo día y la fecha se cambia gratis hasta 72 horas antes. Dormir en las islas pide más margen, porque las cabañas se reservan con 60 días de antelación como mínimo. Así, el último día para reservar una estadía en Nochevieja es el 1 de noviembre de 2026; para Carnaval, el 8 de diciembre de 2026, y para Semana Santa, el 24 de enero de 2027.
+
 ## Preguntas frecuentes
 
 ### ¿Cuál es el mejor mes para visitar San Blas?
@@ -58,7 +70,7 @@ En la temporada seca, de diciembre a abril, y especialmente en feriados y fines 
 
 ### ¿Con cuánta antelación conviene reservar?
 
-Para fechas de temporada seca, tan pronto como puedas fijar tus planes. Las estadías nocturnas en cabaña exigen un mínimo de tres días de antelación en cualquier época del año para confirmar disponibilidad, y las opciones premium como la cabaña sobre el agua son las que menos cupo tienen.
+Para fechas de temporada seca, tan pronto como puedas fijar tus planes, y antes que nunca si coinciden con un feriado. Las estadías nocturnas en cabaña se reservan con un mínimo de 60 días de antelación en cualquier época del año, y las opciones premium como la cabaña sobre el agua son las que menos cupo tienen.
 
 ### ¿El mar se pone picado en alguna época?
 

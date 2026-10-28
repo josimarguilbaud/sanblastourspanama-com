@@ -34,6 +34,18 @@ Pour qui préfère avoir un cayo presque à soi plutôt qu'un ciel parfait, ces 
 
 Comme une excursion à la journée est un bloc fixe d'environ 14 heures, une matinée pluvieuse n'est pas des vacances perdues : c'est une heure mouillée en bateau entre deux escales. Ceux qui disposent de plusieurs jours au Panama gardent souvent leur date de San Blas souple pour cette raison, et choisissent simplement la meilleure de deux matinées. Si les conditions sont réellement dangereuses pour naviguer, l'opérateur reporte ou rembourse intégralement ; une pluie tropicale ordinaire n'arrête rien.
 
+## Dates de haute saison 2026-2027
+
+Les jours fériés du Panama sont les moments où San Blas est le plus fréquenté : les Panaméens partent vers les îles en même temps que les visiteurs étrangers. Ce sont les dates qui se remplissent en premier :
+
+- **Fêtes nationales du Panama :** du 3 au 10 novembre 2026
+- **Indépendance de l’Espagne :** 28 novembre 2026
+- **Noël et Nouvel An :** du 24 décembre 2026 au 1er janvier 2027
+- **Carnaval :** du 6 au 9 février 2027
+- **Semaine sainte :** du 25 au 28 mars 2027
+
+Pour une excursion à la journée à l'une de ces dates, réservez dès que vos plans sont fixés : un acompte bloque les places, le reste se règle le jour même et la date peut être changée gratuitement jusqu'à 72 heures avant. Une nuit sur les îles demande plus d'avance, car les cabanes se réservent au moins 60 jours à l'avance. Le dernier jour pour réserver une nuit au réveillon du Nouvel An est donc le 1er novembre 2026 ; pour le Carnaval, le 8 décembre 2026, et pour la Semaine sainte, le 24 janvier 2027.
+
 ## Questions fréquentes
 
 ### Quel est le meilleur mois pour visiter San Blas ?
@@ -58,7 +70,7 @@ En saison sèche, de décembre à avril, et particulièrement autour des jours f
 
 ### Combien de temps à l'avance faut-il réserver ?
 
-Pour les dates de saison sèche, dès que vos plans sont fixés. Les nuits en cabane exigent un minimum de trois jours d'anticipation à n'importe quelle période de l'année pour confirmer la disponibilité, et l'option premium au-dessus de l'eau est la plus vite complète.
+Pour les dates de saison sèche, dès que vos plans sont fixés, et plus tôt encore autour des jours fériés. Les nuits en cabane se réservent au moins 60 jours à l'avance, à n'importe quelle période de l'année, et l'option premium au-dessus de l'eau est la plus vite complète.
 
 ### La mer est-elle agitée à certaines périodes ?
 

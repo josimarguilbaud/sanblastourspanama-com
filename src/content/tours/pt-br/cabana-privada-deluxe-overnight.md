@@ -55,7 +55,7 @@ Sim — a partir de 2 noites existe um dia livre no meio, e um passeio adicional
 
 ### Com quanta antecedência precisamos reservar?
 
-No mínimo 3 dias para confirmar a cabana, com no máximo 3 noites por estadia. Na estação seca, de dezembro a abril, as Deluxe se esgotam bem antes disso, então dê margem.
+No mínimo 60 dias para confirmar a cabana, com no máximo 3 noites por estadia. Na estação seca, de dezembro a abril, as Deluxe se esgotam antes disso, então dê margem.
 
 ### Quais refeições estão incluídas?
 

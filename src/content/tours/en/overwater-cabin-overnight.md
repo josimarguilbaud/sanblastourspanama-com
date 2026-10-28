@@ -21,7 +21,7 @@ Exactly how you get into the sea from your cabin depends on the island you're as
 
 ## The real constraint is availability
 
-There are far fewer overwater cabins than any other category, and they're the first to go. The stated minimum is 3 days' advance booking, but that's the floor for the operator's logistics, not realistic advice for this cabin — for a specific date, especially between December and April, ask weeks out.
+There are far fewer overwater cabins than any other category, and they're the first to go. The minimum is 60 days' advance booking, and for this cabin that's the floor, not a comfortable margin — for a specific date, especially between December and April, ask earlier still.
 
 ## What's included
 
@@ -51,7 +51,7 @@ Tell us who's travelling and we'll flag which cabins and islands make sense. A c
 
 ### How far in advance should we really book?
 
-Weeks, not days, for a fixed date. This is the one category where the difference between booking early and booking on time is whether the answer is yes at all.
+Earlier than the 60-day minimum, for a fixed date. This is the one category where the difference between booking early and booking on time is whether the answer is yes at all.
 
 ### Is late check-out worth paying for here?
 

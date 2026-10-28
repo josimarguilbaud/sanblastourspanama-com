@@ -31,7 +31,7 @@ Para quem viaja sozinho, isso costuma ser a graça e não a concessão. Janta-se
 
 ## Antes de reservar
 
-As estadias exigem **no mínimo 3 dias de antecedência** e duram **no máximo 3 noites**. Se no fim das contas a privacidade pesar mais que o preço, a [Cabaña Privada Clásica](/pt-br/tours/cabana-privada-clasica-overnight) é o passo seguinte e muda exatamente uma coisa: você ganha uma porta.
+As estadias exigem **no mínimo 60 dias de antecedência** e duram **no máximo 3 noites**. Se no fim das contas a privacidade pesar mais que o preço, a [Cabaña Privada Clásica](/pt-br/tours/cabana-privada-clasica-overnight) é o passo seguinte e muda exatamente uma coisa: você ganha uma porta.
 
 **Pronto para reservar sua cama?** Fale conosco no WhatsApp para datas e preços atuais.
 

@@ -22,7 +22,7 @@ El agua es tranquila y turquesa de forma constante, lo que la hace excelente par
 
 ## Quedarse a dormir
 
-Perro Grande es una de las islas habitadas con cabañas sencillas frente al mar para viajeros con paquete de varios días. Las estadías en San Blas se reservan por **tipo de cabaña** y no por isla —dormitorio compartido, privada clásica, privada deluxe, camping bajo las estrellas o cabaña sobre el agua— y la isla exacta se confirma cerca de la fecha según disponibilidad. Las estadías van de una a tres noches, y la disponibilidad de cabaña necesita al menos tres días de antelación.
+Perro Grande es una de las islas habitadas con cabañas sencillas frente al mar para viajeros con paquete de varios días. Las estadías en San Blas se reservan por **tipo de cabaña** y no por isla —dormitorio compartido, privada clásica, privada deluxe, camping bajo las estrellas o cabaña sobre el agua— y la isla exacta se confirma cerca de la fecha según disponibilidad. Las estadías van de una a tres noches, y la disponibilidad de cabaña necesita al menos 60 días de antelación.
 
 ## Qué incluye una noche y qué no
 

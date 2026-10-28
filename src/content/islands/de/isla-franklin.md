@@ -22,7 +22,7 @@ Isla Franklin ist ausdrücklich dafür bekannt, Übernachtungsgästen echte **ve
 
 ## Wie man es tatsächlich anmeldet
 
-Hier stolpern die meisten: Übernachtungen in San Blas werden nach **Hüttentyp** gebucht, nicht nach Insel. Sie wählen Gemeinschaftsschlafsaal, private Klassik- oder Deluxehütte, Camping unter den Sternen oder Überwasserhütte, und die Insel wird je nach Verfügbarkeit erst kurz vor dem Termin bestätigt. "Isla Franklin" lässt sich also nicht einfach buchen. Was Sie stattdessen tun: die Ernährungsanforderung bei der Buchung angeben, damit sie bei der Zuteilung von Insel und Küche berücksichtigt wird. Die Hüttenverfügbarkeit braucht mindestens drei Tage Vorlauf.
+Hier stolpern die meisten: Übernachtungen in San Blas werden nach **Hüttentyp** gebucht, nicht nach Insel. Sie wählen Gemeinschaftsschlafsaal, private Klassik- oder Deluxehütte, Camping unter den Sternen oder Überwasserhütte, und die Insel wird je nach Verfügbarkeit erst kurz vor dem Termin bestätigt. "Isla Franklin" lässt sich also nicht einfach buchen. Was Sie stattdessen tun: die Ernährungsanforderung bei der Buchung angeben, damit sie bei der Zuteilung von Insel und Küche berücksichtigt wird. Die Hüttenverfügbarkeit braucht mindestens 60 Tage Vorlauf.
 
 ## Was zu den Mahlzeiten gehört und was nicht
 
@@ -50,7 +50,7 @@ Auf den meisten Inseln nicht in geplanter Form — die Küche ist um frischen Fi
 Drei Mahlzeiten täglich, von der gastgebenden Guna-Familie gekocht und zu festen Zeiten serviert: Mittagessen um die Mittagszeit, Abendessen am frühen Abend, Frühstück um 7:00 Uhr vor der Inseltour an Tag 2. Es ist Hausmannskost auf einer Insel ohne Laden, kein Restaurant mit Karte.
 
 ### Wie früh muss ich eine Ernährungsanforderung angeben?
-So früh wie möglich, in jedem Fall bei der Buchung und nicht bei der Ankunft. Schon die Hüttenverfügbarkeit braucht mindestens drei Tage Vorlauf, und eine Küche auf einer Insel ohne Laden und ohne tägliche Lieferung kann keinen Wunsch lösen, von dem sie erst beim Mittagessen erfährt.
+So früh wie möglich, in jedem Fall bei der Buchung und nicht bei der Ankunft. Schon die Hüttenverfügbarkeit braucht mindestens 60 Tage Vorlauf, und eine Küche auf einer Insel ohne Laden und ohne tägliche Lieferung kann keinen Wunsch lösen, von dem sie erst beim Mittagessen erfährt.
 
 ### Sind Getränke zu den Mahlzeiten enthalten?
 Nein. Alle drei Mahlzeiten sind in jedem Hüttentyp enthalten, Getränke, Snacks und Alkohol jedoch nicht; sie werden separat und bar bezahlt. Sie dürfen eine kleine Kühlbox mit eigenen Snacks und Getränken mitbringen, wenn Sie nicht auf der Insel kaufen möchten.

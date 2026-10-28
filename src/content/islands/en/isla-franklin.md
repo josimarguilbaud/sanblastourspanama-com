@@ -22,7 +22,7 @@ Isla Franklin is specifically known for offering genuine **vegan meals** to gues
 
 ## How to actually ask for it
 
-Here is the part that trips people up: San Blas overnight stays are booked by **cabin type**, not by island. You choose a shared dorm, a private classic or deluxe cabin, camping under the stars or an overwater cabin, and the island is confirmed closer to your date based on availability. So you cannot simply book "Isla Franklin". What you do instead is state your dietary needs when you book, so they can be factored into which island and which kitchen you are placed with. Cabin availability needs at least three days' notice.
+Here is the part that trips people up: San Blas overnight stays are booked by **cabin type**, not by island. You choose a shared dorm, a private classic or deluxe cabin, camping under the stars or an overwater cabin, and the island is confirmed closer to your date based on availability. So you cannot simply book "Isla Franklin". What you do instead is state your dietary needs when you book, so they can be factored into which island and which kitchen you are placed with. Cabin availability needs at least 60 days' notice.
 
 ## What is included at mealtimes, and what is not
 
@@ -50,7 +50,7 @@ On most islands, not in any planned sense — the cooking is built around fresh 
 Three meals a day, cooked and served by the Guna family hosting you at set times: lunch around midday, dinner in the early evening, breakfast at 7:00 AM before the Day 2 island tour. It is home cooking on an island without a shop, not a restaurant with a menu.
 
 ### How far in advance do I need to declare a dietary requirement?
-As early as you can, and in any case when you book rather than on arrival. Cabin availability itself needs a minimum of three days' notice, and a kitchen on an island with no shop and no daily delivery cannot solve a requirement it hears about for the first time at lunch.
+As early as you can, and in any case when you book rather than on arrival. Cabin availability itself needs a minimum of 60 days' notice, and a kitchen on an island with no shop and no daily delivery cannot solve a requirement it hears about for the first time at lunch.
 
 ### Are drinks included with meals?
 No. All three meals are included in every cabin type, but drinks, snacks and alcohol are not, and they are paid for separately in cash. You are allowed to bring a small cooler with your own snacks and drinks if you would rather not buy on the island.

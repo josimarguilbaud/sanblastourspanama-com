@@ -55,7 +55,7 @@ Sí — en estadías de 2 noches o más hay un día libre en el medio, y un tour
 
 ### ¿Con cuánta anticipación hay que reservar?
 
-Mínimo 3 días de anticipación para confirmar la cabaña, y máximo 3 noches por estadía. En temporada seca, de diciembre a abril, las Deluxe se agotan antes de eso, así que date margen.
+Mínimo 60 días de anticipación para confirmar la cabaña, y máximo 3 noches por estadía. En temporada seca, de diciembre a abril, las Deluxe se agotan antes de eso, así que date margen.
 
 ### ¿Qué comidas están incluidas?
 

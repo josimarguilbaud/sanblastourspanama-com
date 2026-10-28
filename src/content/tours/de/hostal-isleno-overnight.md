@@ -31,7 +31,7 @@ Für Alleinreisende ist genau das der Reiz und nicht der Kompromiss. Gegessen wi
 
 ## Vor der Buchung
 
-Aufenthalte brauchen **mindestens 3 Tage Vorlauf** und dauern **höchstens 3 Nächte**. Falls sich herausstellt, dass Ihnen Privatsphäre wichtiger ist als der Preis, ist die [Cabaña Privada Clásica](/de/tours/cabana-privada-clasica-overnight) der nächste Schritt und ändert genau eine Sache: Sie bekommen eine Tür.
+Aufenthalte brauchen **mindestens 60 Tage Vorlauf** und dauern **höchstens 3 Nächte**. Falls sich herausstellt, dass Ihnen Privatsphäre wichtiger ist als der Preis, ist die [Cabaña Privada Clásica](/de/tours/cabana-privada-clasica-overnight) der nächste Schritt und ändert genau eine Sache: Sie bekommen eine Tür.
 
 **Bereit, Ihr Bett zu buchen?** Schreiben Sie uns auf WhatsApp für Termine und Preise.
 

@@ -22,7 +22,7 @@ L'eau est calme et régulièrement turquoise, donc excellente pour flotter et sa
 
 ## Passer la nuit
 
-Perro Grande est l'une des îles habitées offrant des cabanes simples en bord de plage aux voyageurs en forfait de plusieurs jours. Les nuits à San Blas se réservent par **type de cabane** et non par île — dortoir partagé, cabane privée classique, cabane privée deluxe, camping sous les étoiles ou cabane sur l'eau — et l'île exacte est confirmée près de la date selon les disponibilités. Les séjours vont d'une à trois nuits, et la disponibilité des cabanes demande au moins trois jours d'avance.
+Perro Grande est l'une des îles habitées offrant des cabanes simples en bord de plage aux voyageurs en forfait de plusieurs jours. Les nuits à San Blas se réservent par **type de cabane** et non par île — dortoir partagé, cabane privée classique, cabane privée deluxe, camping sous les étoiles ou cabane sur l'eau — et l'île exacte est confirmée près de la date selon les disponibilités. Les séjours vont d'une à trois nuits, et la disponibilité des cabanes demande au moins 60 jours d'avance.
 
 ## Ce qu'une nuit comprend, et ce qu'elle ne comprend pas
 

@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "Passeio de Um Dia ou Estadia Noturna em San Blas? Como Escolher"
 excerpt: "Um passeio de um dia mostra as ilhas em cerca de catorze horas; uma estadia deixa você lá quando as lanchas do dia vão embora. O que realmente muda, o que custa em conforto e tempo, e para quem cada um serve."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
@@ -48,7 +48,7 @@ A diferença não é "o mesmo dia mais uma cama". Ela está sobretudo no que aco
 
 Uma estadia é rústica por princípio, e é justo dizer isso com clareza. As cabanas têm telhado de palha e camas simples; os banheiros costumam ser compartilhados; não há ar-condicionado nem água quente e, na maioria das ilhas, pouca ou nenhuma energia. Não há wi-fi, e o sinal de celular vai e volta. Os mosquitos aparecem ao entardecer, então o repelente vai na mochila; nosso [guia de segurança](/pt-br/blog/is-san-blas-safe) trata do lado da saúde.
 
-Há também condições práticas. As estadias são reservadas por **tipo de cabana**, não por ilha com nome, e a ilha é confirmada mais perto da data, conforme a disponibilidade. Exigem pelo menos três dias de antecedência, duram de uma a três noites, e bebidas, equipamento de snorkel, toalhas e o imposto da comarca não estão incluídos.
+Há também condições práticas. As estadias são reservadas por **tipo de cabana**, não por ilha com nome, e a ilha é confirmada mais perto da data, conforme a disponibilidade. Exigem pelo menos 60 dias de antecedência, duram de uma a três noites, e bebidas, equipamento de snorkel, toalhas e o imposto da comarca não estão incluídos.
 
 ## Os cinco tipos de cabana, um parágrafo cada
 

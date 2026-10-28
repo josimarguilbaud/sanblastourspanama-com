@@ -22,7 +22,7 @@ Das Wasser ist ruhig und durchgehend türkis, hervorragend zum Treiben und unspe
 
 ## Hier übernachten
 
-Perro Grande ist eine der bewohnten Inseln mit einfachen Hütten direkt am Strand für Reisende mit Mehrtagespaket. Übernachtungen in San Blas werden nach **Hüttentyp** gebucht und nicht nach Insel — Gemeinschaftsschlafsaal, private Klassikhütte, private Deluxehütte, Camping unter den Sternen oder Überwasserhütte — und die konkrete Insel wird je nach Verfügbarkeit erst kurz vor dem Termin bestätigt. Aufenthalte dauern eine bis drei Nächte, und die Hüttenverfügbarkeit braucht mindestens drei Tage Vorlauf.
+Perro Grande ist eine der bewohnten Inseln mit einfachen Hütten direkt am Strand für Reisende mit Mehrtagespaket. Übernachtungen in San Blas werden nach **Hüttentyp** gebucht und nicht nach Insel — Gemeinschaftsschlafsaal, private Klassikhütte, private Deluxehütte, Camping unter den Sternen oder Überwasserhütte — und die konkrete Insel wird je nach Verfügbarkeit erst kurz vor dem Termin bestätigt. Aufenthalte dauern eine bis drei Nächte, und die Hüttenverfügbarkeit braucht mindestens 60 Tage Vorlauf.
 
 ## Was eine Nacht enthält und was nicht
 

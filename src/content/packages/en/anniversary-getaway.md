@@ -33,7 +33,7 @@ Within reason, yes. The kitchen is a Guna host family, not a hotel restaurant, s
 Length and intent. The one-night version is an overwater night for a couple who wants the view and the privacy. This one adds a full unscheduled day and is built around marking an occasion, which usually means a slower pace and a bit more input from you about what the days contain.
 
 ### How far ahead should we book?
-Any overnight stay needs at least three days' notice to confirm a cabin, but for a fixed anniversary date, weeks is more realistic. Cabins are limited and cannot be added; if the date is immovable, treat it as the first thing to lock in.
+Any overnight stay needs at least 60 days' notice to confirm a cabin, and for a fixed anniversary date it pays to ask even earlier. Cabins are limited and cannot be added; if the date is immovable, treat it as the first thing to lock in.
 
 ### Can we go back to the same island as last time?
 Ask, and we'll tell you honestly. Stays are confirmed by cabin type rather than by island, and the specific island depends on availability near your date — so if a particular one matters to you, name it early rather than assume it.

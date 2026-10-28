@@ -31,7 +31,7 @@ Pour les voyageurs solo, c'est en général l'intérêt et non le compromis. On 
 
 ## Avant de réserver
 
-Les séjours demandent **au minimum 3 jours d'anticipation** et durent **3 nuits au maximum**. Si l'intimité compte finalement plus que le prix, la [Cabaña Privada Clásica](/fr/tours/cabana-privada-clasica-overnight) est l'étape suivante et ne change qu'une seule chose : vous avez une porte.
+Les séjours demandent **au minimum 60 jours d'anticipation** et durent **3 nuits au maximum**. Si l'intimité compte finalement plus que le prix, la [Cabaña Privada Clásica](/fr/tours/cabana-privada-clasica-overnight) est l'étape suivante et ne change qu'une seule chose : vous avez une porte.
 
 **Prêt à réserver votre lit ?** Écrivez-nous sur WhatsApp pour les dates et les tarifs.
 

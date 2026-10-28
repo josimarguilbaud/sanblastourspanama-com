@@ -31,7 +31,7 @@ For solo travellers this is usually the point rather than the compromise. Dinner
 
 ## Before you book
 
-Stays run a **minimum of 3 days' advance booking** and a **maximum of 3 nights**. If it turns out privacy matters to you more than price, the [Classic Private Cabin](/tours/cabana-privada-clasica-overnight) is the next step up and changes exactly one thing: you get a door.
+Stays need **at least 60 days' advance booking** and run a **maximum of 3 nights**. If it turns out privacy matters to you more than price, the [Classic Private Cabin](/tours/cabana-privada-clasica-overnight) is the next step up and changes exactly one thing: you get a door.
 
 **Ready to book your bed?** Message us on WhatsApp for live dates and pricing.
 

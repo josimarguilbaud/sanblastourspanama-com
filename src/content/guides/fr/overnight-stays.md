@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "Dormir à San Blas — les 5 Types de Cabane"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -49,7 +49,7 @@ Les séjours de trois et quatre jours suivent le même rythme avec une journée 
 
 ## Les règles de réservation à connaître
 
-- **Un minimum de trois jours d'anticipation** est exigé pour confirmer la disponibilité d'une cabane.
+- **Un minimum de 60 jours d'anticipation** est exigé pour confirmer la disponibilité d'une cabane.
 - **Le départ tardif** — jusqu'à 15h00-15h30 environ au lieu de 8h30 — est proposé contre un léger supplément par personne, et c'est l'option que la plupart des clients regrettent de ne pas avoir prise.
 - **Les moins de 4 ans ne paient pas**, et le tarif enfant en vigueur pour chaque type de cabane est confirmé à la réservation.
 
@@ -73,7 +73,7 @@ Il n'y a de wifi sur aucune île, et le réseau mobile est irrégulier : quelque
 
 ### Combien de temps à l'avance faut-il réserver ?
 
-Au moins trois jours, à n'importe quelle période, pour que la disponibilité de la cabane soit confirmée. Pour la cabane sur pilotis, la moins nombreuse, prenez nettement plus d'avance.
+Au moins 60 jours, à n'importe quelle période, pour que la disponibilité de la cabane soit confirmée. Pour la cabane sur pilotis, la moins nombreuse, prenez nettement plus d'avance.
 
 ### Puis-je partir plus tard que 8h30 ?
 

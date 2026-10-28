@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "Übernachten in San Blas — die 5 Hüttentypen"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -49,7 +49,7 @@ Aufenthalte über drei und vier Tage folgen demselben Rhythmus mit einem unverpl
 
 ## Buchungsregeln, die man kennen sollte
 
-- **Mindestens drei Tage Vorlauf** sind nötig, um die Hüttenverfügbarkeit zu bestätigen.
+- **Mindestens 60 Tage Vorlauf** sind nötig, um die Hüttenverfügbarkeit zu bestätigen.
 - **Später Check-out** — bis etwa 15:00 bis 15:30 Uhr statt der üblichen Abfahrt um 8:30 Uhr — ist gegen eine kleine Gebühr pro Person möglich und das Upgrade, das die meisten Gäste im Nachhinein gern genommen hätten.
 - **Kinder unter 4 Jahren übernachten kostenfrei**, und der aktuelle Kindertarif je Hüttentyp wird bei der Buchung bestätigt.
 
@@ -73,7 +73,7 @@ WLAN gibt es auf keiner Insel, und der Mobilfunkempfang ist uneinheitlich — ma
 
 ### Wie früh muss ich buchen?
 
-Mindestens drei Tage vorher, zu jeder Jahreszeit, damit die Hüttenverfügbarkeit bestätigt werden kann. Für die Hütte über dem Wasser, die am wenigsten Kapazität hat, deutlich früher.
+Mindestens 60 Tage vorher, zu jeder Jahreszeit, damit die Hüttenverfügbarkeit bestätigt werden kann. Für die Hütte über dem Wasser, die am wenigsten Kapazität hat, deutlich früher.
 
 ### Kann ich später als 8:30 Uhr auschecken?
 

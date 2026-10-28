@@ -33,7 +33,7 @@ Dentro do razoável, sim. A cozinha é uma família guna anfitriã, não o resta
 Duração e intenção. A de uma noite é uma noite overwater para um casal que quer a vista e a privacidade. Esta acrescenta um dia inteiro sem horário e é construída em torno de marcar uma data, o que costuma significar ritmo mais lento e mais opinião de vocês sobre o conteúdo dos dias.
 
 ### Com quanta antecedência convém reservar?
-Qualquer estadia com pernoite exige pelo menos três dias para confirmar cabana, mas para uma data de aniversário fixa o realista é contar em semanas. As cabanas são limitadas e não se acrescentam; se a data não muda, tratem-na como a primeira coisa a fechar.
+Qualquer estadia com pernoite exige pelo menos 60 dias para confirmar cabana, e para uma data de aniversário fixa vale pedir ainda antes. As cabanas são limitadas e não se acrescentam; se a data não muda, tratem-na como a primeira coisa a fechar.
 
 ### Podemos voltar para a mesma ilha da outra vez?
 Perguntem, e respondemos com honestidade. As estadias são confirmadas por tipo de cabana, não por ilha, e a ilha específica depende da disponibilidade perto das suas datas. Se uma em particular importa, digam o nome desde o início em vez de dar como certo.

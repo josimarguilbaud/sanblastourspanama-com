@@ -55,7 +55,7 @@ Yes — on stays of 2 nights or more there's a free day in the middle, and a 3-i
 
 ### How far ahead do we need to book?
 
-A minimum of 3 days in advance to confirm the cabin, with a maximum of 3 nights per stay. In dry season, from December to April, the Deluxe cabins go earlier than that, so give yourself margin.
+A minimum of 60 days in advance to confirm the cabin, with a maximum of 3 nights per stay. In dry season, from December to April, the Deluxe cabins go earlier than that, so give yourself margin.
 
 ### Which meals are included?
 

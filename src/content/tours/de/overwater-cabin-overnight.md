@@ -21,7 +21,7 @@ Wie genau Sie von Ihrer Hütte aus ins Meer kommen, hängt von der zugeteilten I
 
 ## Die eigentliche Hürde ist die Verfügbarkeit
 
-Es gibt weit weniger Overwater-Hütten als in jeder anderen Kategorie, und sie sind zuerst vergeben. Angegeben sind mindestens 3 Tage Vorlauf, aber das ist die logistische Untergrenze des Veranstalters, kein realistischer Rat für diese Hütte: Für ein festes Datum, besonders zwischen Dezember und April, fragen Sie Wochen vorher.
+Es gibt weit weniger Overwater-Hütten als in jeder anderen Kategorie, und sie sind zuerst vergeben. Vorgeschrieben sind mindestens 60 Tage Vorlauf, und bei dieser Hütte ist das die Untergrenze, kein bequemer Puffer: Für ein festes Datum, besonders zwischen Dezember und April, fragen Sie noch früher an.
 
 ## Was enthalten ist
 
@@ -51,7 +51,7 @@ Sagen Sie uns, wer mitreist, dann zeigen wir, welche Hütten und Inseln sinnvoll
 
 ### Wie früh sollte man wirklich buchen?
 
-Wochen, nicht Tage, wenn das Datum feststeht. Das ist die einzige Kategorie, bei der der Unterschied zwischen früh und rechtzeitig darüber entscheidet, ob die Antwort überhaupt Ja lautet.
+Früher als die vorgeschriebenen 60 Tage, wenn das Datum feststeht. Das ist die einzige Kategorie, bei der der Unterschied zwischen früh und rechtzeitig darüber entscheidet, ob die Antwort überhaupt Ja lautet.
 
 ### Lohnt sich hier der späte Check-out?
 

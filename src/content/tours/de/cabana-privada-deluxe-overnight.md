@@ -55,7 +55,7 @@ Ja — ab 2 Nächten liegt ein freier Tag in der Mitte, und eine zusätzliche 3-
 
 ### Wie früh müssen wir buchen?
 
-Mindestens 3 Tage im Voraus, um die Hütte zu bestätigen, bei höchstens 3 Nächten pro Aufenthalt. In der Trockenzeit von Dezember bis April sind die Deluxe-Hütten deutlich früher vergeben, planen Sie also Puffer ein.
+Mindestens 60 Tage im Voraus, um die Hütte zu bestätigen, bei höchstens 3 Nächten pro Aufenthalt. In der Trockenzeit von Dezember bis April sind die Deluxe-Hütten oft schon früher vergeben, planen Sie also Puffer ein.
 
 ### Welche Mahlzeiten sind dabei?
 

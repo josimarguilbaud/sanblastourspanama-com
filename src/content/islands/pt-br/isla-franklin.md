@@ -22,7 +22,7 @@ Isla Franklin é conhecida especificamente por oferecer **refeições veganas** 
 
 ## Como pedir de verdade
 
-Aqui é onde as pessoas tropeçam: as estadias em San Blas são reservadas por **tipo de cabana**, não por ilha. Você escolhe dormitório compartilhado, cabana privativa clássica ou deluxe, camping sob as estrelas ou cabana sobre a água, e a ilha é confirmada perto da data conforme a disponibilidade. Ou seja, não dá para reservar "Isla Franklin" e pronto. O que se faz é declarar as suas necessidades alimentares na reserva, para que entrem na conta ao definir a ilha e a cozinha. A disponibilidade de cabana exige pelo menos três dias de antecedência.
+Aqui é onde as pessoas tropeçam: as estadias em San Blas são reservadas por **tipo de cabana**, não por ilha. Você escolhe dormitório compartilhado, cabana privativa clássica ou deluxe, camping sob as estrelas ou cabana sobre a água, e a ilha é confirmada perto da data conforme a disponibilidade. Ou seja, não dá para reservar "Isla Franklin" e pronto. O que se faz é declarar as suas necessidades alimentares na reserva, para que entrem na conta ao definir a ilha e a cozinha. A disponibilidade de cabana exige pelo menos 60 dias de antecedência.
 
 ## O que as refeições incluem e o que não
 
@@ -50,7 +50,7 @@ Na maioria das ilhas, não de forma planejada: a cozinha é construída em torno
 Três refeições por dia, cozinhadas e servidas pela família Guna que hospeda, em horários fixos: almoço por volta do meio-dia, jantar no começo da noite e café da manhã às 7h, antes do passeio de ilhas do Dia 2. É comida caseira numa ilha sem loja, não um restaurante com cardápio.
 
 ### Com quanta antecedência preciso avisar uma restrição alimentar?
-O quanto antes, e de todo modo na reserva, não na chegada. A disponibilidade de cabana já exige no mínimo três dias, e uma cozinha numa ilha sem loja e sem entrega diária não resolve uma exigência que descobre na hora do almoço.
+O quanto antes, e de todo modo na reserva, não na chegada. A disponibilidade de cabana já exige no mínimo 60 dias, e uma cozinha numa ilha sem loja e sem entrega diária não resolve uma exigência que descobre na hora do almoço.
 
 ### As bebidas estão incluídas nas refeições?
 Não. As três refeições estão incluídas em todos os tipos de cabana, mas bebidas, lanches e álcool não, e são pagos à parte, em espécie. Você pode levar uma caixa térmica pequena com os seus próprios lanches e bebidas se preferir não comprar na ilha.

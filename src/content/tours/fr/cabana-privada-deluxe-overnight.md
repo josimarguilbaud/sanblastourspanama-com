@@ -55,7 +55,7 @@ Oui — à partir de 2 nuits, une journée libre s'intercale, et une sortie supp
 
 ### Combien de temps à l'avance faut-il réserver ?
 
-Au minimum 3 jours pour confirmer la cabane, avec un maximum de 3 nuits par séjour. En saison sèche, de décembre à avril, les Deluxe partent bien plus tôt : gardez de la marge.
+Au minimum 60 jours pour confirmer la cabane, avec un maximum de 3 nuits par séjour. En saison sèche, de décembre à avril, les Deluxe partent souvent plus tôt : gardez de la marge.
 
 ### Quels repas sont compris ?
 

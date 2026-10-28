@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "San Blas Overnight Stays — 5 Cabin Types Explained"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -49,7 +49,7 @@ Three- and four-day stays follow the same rhythm with an unstructured day in the
 
 ## Booking rules worth knowing
 
-- **Minimum three days' advance booking** is required to confirm cabin availability.
+- **Minimum 60 days' advance booking** is required to confirm cabin availability.
 - **Late check-out** — until roughly 3:00–3:30 PM instead of the standard 8:30 AM departure — is available for a small per-person fee, and is the single upgrade most guests wish they had taken.
 - **Children under 4 stay free**, and the current child rate for each cabin type is confirmed when you book.
 
@@ -73,7 +73,7 @@ There is no wifi on any island, and cell signal is inconsistent — some islands
 
 ### How far in advance do I need to book?
 
-At least three days, at any time of year, so that cabin availability can be confirmed. For the overwater cabin, which has the least inventory, considerably earlier is wise.
+At least 60 days, at any time of year, so that cabin availability can be confirmed. For the overwater cabin, which has the least inventory, considerably earlier is wise.
 
 ### Can I check out later than 8:30 AM?
 

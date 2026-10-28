@@ -34,6 +34,18 @@ Wer lieber ein Cay fast für sich allein hat als einen makellosen Himmel, fährt
 
 Weil eine Tagestour ein fester Block von rund 14 Stunden ist, bedeutet ein verregneter Vormittag keinen verlorenen Urlaub, sondern eine nasse Stunde im Boot zwischen zwei Stopps. Wer mehrere Tage in Panama hat, hält das San-Blas-Datum deshalb oft flexibel und nimmt schlicht den besseren von zwei Morgen. Sind die Bedingungen wirklich unsicher, verlegt der Anbieter die Fahrt oder erstattet sie vollständig; gewöhnlicher Tropenregen hält nichts auf.
 
+## Hochsaison-Termine 2026–2027
+
+An Panamas Feiertagen ist in San Blas am meisten los: Die Einheimischen fahren auf die Inseln, während gleichzeitig Besucher aus dem Ausland kommen. Diese Termine sind zuerst ausgebucht:
+
+- **Panamas Nationalfeiertage:** 3.–10. November 2026
+- **Unabhängigkeit von Spanien:** 28. November 2026
+- **Weihnachten und Neujahr:** 24. Dezember 2026 – 1. Januar 2027
+- **Karneval:** 6.–9. Februar 2027
+- **Karwoche:** 25.–28. März 2027
+
+Für eine Tagestour an einem dieser Termine buchen Sie am besten, sobald Ihre Pläne feststehen: Eine Anzahlung sichert die Plätze, der Rest wird am Tag selbst bezahlt, und das Datum lässt sich bis 72 Stunden vorher kostenlos ändern. Eine Nacht auf den Inseln braucht mehr Vorlauf, denn Hütten werden mindestens 60 Tage im Voraus gebucht. Der letzte Buchungstag für eine Übernachtung an Silvester ist damit der 1. November 2026, für Karneval der 8. Dezember 2026 und für die Karwoche der 24. Januar 2027.
+
 ## Häufige Fragen
 
 ### Welcher Monat ist der beste für San Blas?
@@ -58,7 +70,7 @@ In der Trockenzeit, Dezember bis April, und besonders an Feiertagen und Wochenen
 
 ### Wie früh sollte ich buchen?
 
-Für Termine in der Trockenzeit so früh, wie Ihre Planung es zulässt. Übernachtungen in Hütten verlangen das ganze Jahr über eine Vorlaufzeit von mindestens drei Tagen, damit die Verfügbarkeit bestätigt werden kann, und die Premium-Variante über dem Wasser hat die knappsten Kapazitäten.
+Für Termine in der Trockenzeit so früh, wie Ihre Planung es zulässt, und rund um Feiertage noch früher. Übernachtungen in Hütten müssen das ganze Jahr über mindestens 60 Tage im Voraus gebucht werden, und die Premium-Variante über dem Wasser hat die knappsten Kapazitäten.
 
 ### Ist die See zu bestimmten Zeiten rau?
 

@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "Day Tour or Overnight Stay in San Blas? How to Choose"
 excerpt: "A day tour shows you the islands in about fourteen hours; a stay lets you be there after the day boats leave. What really changes, what it costs you in comfort and time, and who each one suits."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
@@ -48,7 +48,7 @@ The difference is not "the same day plus a bed". It is mostly about what happens
 
 An overnight stay is rustic by design, and it is fair to say so plainly. Cabins have thatched roofs and simple beds; bathrooms are often shared; there is no air conditioning, no hot water and, on most islands, little or no electricity. There is no wifi, and mobile signal comes and goes. Mosquitoes appear at dusk, so repellent belongs in the bag; our [safety guide](/blog/is-san-blas-safe) covers the health side.
 
-There are practical conditions too. Stays are booked by **cabin type**, not by named island, and the island is confirmed closer to your date according to availability. They need at least three days' notice, they run for one to three nights, and drinks, snorkel gear, towels and the comarca tax are not included.
+There are practical conditions too. Stays are booked by **cabin type**, not by named island, and the island is confirmed closer to your date according to availability. They need at least 60 days' notice, they run for one to three nights, and drinks, snorkel gear, towels and the comarca tax are not included.
 
 ## The five cabin types in one paragraph each
 

@@ -22,7 +22,7 @@ Isla Franklin est connue spécifiquement pour proposer de véritables **repas v�
 
 ## Comment le demander concrètement
 
-C'est ici que l'on trébuche : les nuits à San Blas se réservent par **type de cabane**, pas par île. Vous choisissez un dortoir partagé, une cabane privée classique ou deluxe, un camping sous les étoiles ou une cabane sur l'eau, et l'île est confirmée près de la date selon les disponibilités. On ne peut donc pas réserver « Isla Franklin » tel quel. Ce que l'on fait, c'est déclarer ses besoins alimentaires à la réservation, pour qu'ils entrent en compte dans l'île et la cuisine qui vous seront attribuées. La disponibilité des cabanes demande au moins trois jours d'avance.
+C'est ici que l'on trébuche : les nuits à San Blas se réservent par **type de cabane**, pas par île. Vous choisissez un dortoir partagé, une cabane privée classique ou deluxe, un camping sous les étoiles ou une cabane sur l'eau, et l'île est confirmée près de la date selon les disponibilités. On ne peut donc pas réserver « Isla Franklin » tel quel. Ce que l'on fait, c'est déclarer ses besoins alimentaires à la réservation, pour qu'ils entrent en compte dans l'île et la cuisine qui vous seront attribuées. La disponibilité des cabanes demande au moins 60 jours d'avance.
 
 ## Ce que les repas comprennent, et ce qu'ils ne comprennent pas
 
@@ -50,7 +50,7 @@ Sur la plupart des îles, pas de manière planifiée : la cuisine est bâtie aut
 Trois repas par jour, cuisinés et servis par la famille guna qui vous accueille à heures fixes : déjeuner vers midi, dîner en début de soirée, petit-déjeuner à 7h00 avant la sortie en îles du jour 2. C'est une cuisine familiale sur une île sans boutique, pas un restaurant avec une carte.
 
 ### Combien de temps à l'avance faut-il signaler un régime particulier ?
-Le plus tôt possible, et de toute façon à la réservation plutôt qu'à l'arrivée. La disponibilité des cabanes exige déjà au moins trois jours, et une cuisine sur une île sans boutique ni livraison quotidienne ne peut pas résoudre une contrainte découverte au déjeuner.
+Le plus tôt possible, et de toute façon à la réservation plutôt qu'à l'arrivée. La disponibilité des cabanes exige déjà au moins 60 jours, et une cuisine sur une île sans boutique ni livraison quotidienne ne peut pas résoudre une contrainte découverte au déjeuner.
 
 ### Les boissons sont-elles comprises avec les repas ?
 Non. Les trois repas sont inclus dans tous les types de cabane, mais ni les boissons, ni les en-cas, ni l'alcool ; ils se règlent à part, en espèces. Vous pouvez emporter une petite glacière avec vos propres en-cas et boissons si vous préférez ne pas acheter sur place.

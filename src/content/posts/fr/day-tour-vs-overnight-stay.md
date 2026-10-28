@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "Excursion d'un Jour ou Séjour Nocturne à San Blas ? Comment Choisir"
 excerpt: "Une excursion d'une journée vous montre les îles en quatorze heures environ ; un séjour vous laisse sur place quand les bateaux du jour repartent. Ce qui change vraiment, ce que cela coûte en confort et en temps, et à qui chaque formule convient."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
@@ -48,7 +48,7 @@ La différence n'est pas « la même journée plus un lit ». Elle tient surtout
 
 Un séjour est rustique par principe, et il est juste de le dire franchement. Les cabanes ont des toits de palmes et des lits simples ; les sanitaires sont souvent partagés ; il n'y a ni climatisation ni eau chaude et, sur la plupart des îles, peu ou pas d'électricité. Pas de wifi, et le réseau mobile va et vient. Les moustiques sortent au crépuscule, le répulsif a donc sa place dans le sac ; notre [guide de sécurité](/fr/blog/is-san-blas-safe) traite du volet santé.
 
-Il y a aussi des conditions pratiques. Les séjours se réservent par **type de cabane**, pas par île nommée, et l'île est confirmée à l'approche de la date selon les disponibilités. Ils demandent au moins trois jours de préavis, durent d'une à trois nuits, et les boissons, l'équipement de snorkeling, les serviettes et la taxe de la comarca ne sont pas compris.
+Il y a aussi des conditions pratiques. Les séjours se réservent par **type de cabane**, pas par île nommée, et l'île est confirmée à l'approche de la date selon les disponibilités. Ils demandent au moins 60 jours de préavis, durent d'une à trois nuits, et les boissons, l'équipement de snorkeling, les serviettes et la taxe de la comarca ne sont pas compris.
 
 ## Les cinq types de cabane, un paragraphe chacun
 

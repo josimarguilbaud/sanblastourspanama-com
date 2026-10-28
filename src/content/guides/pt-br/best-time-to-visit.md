@@ -34,6 +34,18 @@ Para quem valoriza mais ter um cayo quase só para si do que um céu perfeito, e
 
 Como um passeio de um dia é um bloco fixo de cerca de 14 horas, uma manhã de chuva não é uma viagem perdida: é uma hora molhada dentro do barco entre uma parada e outra. Quem tem vários dias no Panamá costuma deixar a data de San Blas flexível justamente por isso, e escolhe a melhor entre duas manhãs. Se as condições forem realmente inseguras para navegar, o operador remarca ou devolve o valor integral; chuva tropical comum não interrompe nada.
 
+## Datas de alta temporada 2026-2027
+
+Os feriados do Panamá são quando San Blas fica mais cheio: os panamenhos vão para as ilhas ao mesmo tempo que os visitantes de fora. Estas são as datas que lotam primeiro:
+
+- **Feriados nacionais do Panamá:** de 3 a 10 de novembro de 2026
+- **Independência da Espanha:** 28 de novembro de 2026
+- **Natal e Ano-Novo:** de 24 de dezembro de 2026 a 1º de janeiro de 2027
+- **Carnaval:** de 6 a 9 de fevereiro de 2027
+- **Semana Santa:** de 25 a 28 de março de 2027
+
+Para um passeio de um dia numa dessas datas, reserve assim que seus planos estiverem fechados: um sinal garante as vagas, o resto é pago no próprio dia e a data pode ser trocada de graça até 72 horas antes. Dormir nas ilhas pede mais antecedência, porque as cabanas são reservadas com no mínimo 60 dias. Assim, o último dia para reservar um pernoite no Réveillon é 1º de novembro de 2026; para o Carnaval, 8 de dezembro de 2026; e para a Semana Santa, 24 de janeiro de 2027.
+
 ## Perguntas frequentes
 
 ### Qual é o melhor mês para visitar San Blas?
@@ -58,7 +70,7 @@ Na estação seca, de dezembro a abril, e especialmente em feriados e fins de se
 
 ### Com quanta antecedência devo reservar?
 
-Para datas da estação seca, assim que seus planos estiverem fechados. As estadias com pernoite em cabana exigem no mínimo três dias de antecedência em qualquer época do ano para confirmar disponibilidade, e a opção premium sobre a água é a que tem menos vagas.
+Para datas da estação seca, assim que seus planos estiverem fechados, e ainda mais cedo perto de feriados. As estadias com pernoite em cabana são reservadas com no mínimo 60 dias de antecedência em qualquer época do ano, e a opção premium sobre a água é a que tem menos vagas.
 
 ### O mar fica agitado em alguma época?
 

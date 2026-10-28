@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-09-28
+updatedAt: 2026-10-28
 title: "Best Time to Visit San Blas"
 heroImage: "/img/atardecer-mar-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "how-to-get-to-san-blas"]
@@ -34,6 +34,18 @@ For travelers who care more about having a cay to themselves than about a perfec
 
 Because a day tour is a fixed 14-hour block, a single rainy morning is not a lost holiday — it is a wet hour on a boat between stops. Travelers with several days in Panama often keep their San Blas date flexible for exactly that reason, and simply pick the better-looking of two mornings. If conditions are genuinely unsafe to sail, the operator reschedules or refunds in full; ordinary tropical rain does not stop anything.
 
+## High-season dates for 2026–2027
+
+Panama's public holidays are when San Blas is busiest: locals head to the islands at the same time as visitors from abroad. These are the dates that book up first:
+
+- **Panama's national holidays:** 3–10 November 2026
+- **Independence from Spain:** 28 November 2026
+- **Christmas and New Year:** 24 December 2026 – 1 January 2027
+- **Carnival:** 6–9 February 2027
+- **Easter week:** 25–28 March 2027
+
+For a day tour on one of these dates, book as soon as your plans are fixed: a deposit holds your seats, the rest is paid on the day, and the date can be changed for free up to 72 hours before. A night on the islands needs more notice, because cabins are booked at least 60 days ahead. That puts the last day to book a stay for New Year's Eve on 1 November 2026, for Carnival on 8 December 2026 and for Easter week on 24 January 2027.
+
 ## Frequently asked questions
 
 ### What is the best month to visit San Blas?
@@ -58,7 +70,7 @@ The dry season, December through April, and particularly around public holidays 
 
 ### How far ahead should I book?
 
-For dry-season dates, as early as you can fix your plans. Overnight cabin stays require a minimum of three days' advance booking at any time of year in order to confirm availability, and premium options such as the overwater cabin have the tightest availability of all.
+For dry-season dates, as early as you can fix your plans, and earliest of all around public holidays. Overnight cabin stays must be booked at least 60 days in advance at any time of year, and premium options such as the overwater cabin have the tightest availability of all.
 
 ### Is the sea rough at certain times of year?
 

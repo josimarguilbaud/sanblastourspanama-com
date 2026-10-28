@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "Dormir en San Blas — Los 5 Tipos de Cabaña"
 heroImage: "/img/cabana-colorida-san-blas.webp"
 relatedGuideSlugs: ["what-to-pack", "best-time-to-visit"]
@@ -49,7 +49,7 @@ Las estadías de tres y cuatro días siguen el mismo ritmo con un día sin estru
 
 ## Reglas de reserva que conviene saber
 
-- **Se exige un mínimo de tres días de antelación** para confirmar disponibilidad de cabaña.
+- **Se exige un mínimo de 60 días de antelación** para confirmar disponibilidad de cabaña.
 - **El check-out tardío** —hasta alrededor de las 3:00–3:30 PM en vez de la salida estándar de las 8:30 AM— está disponible por un pequeño cargo por persona, y es la mejora que más huéspedes lamentan no haber tomado.
 - **Los menores de 4 años no pagan**, y la tarifa infantil vigente de cada tipo de cabaña se confirma al reservar.
 
@@ -73,7 +73,7 @@ No hay wifi en ninguna isla, y la señal de celular es irregular: algunas islas 
 
 ### ¿Con cuánta antelación hay que reservar?
 
-Al menos tres días, en cualquier época del año, para poder confirmar la disponibilidad de cabaña. Para la cabaña sobre el agua, que es la que menos inventario tiene, conviene bastante antes.
+Al menos 60 días, en cualquier época del año, para poder confirmar la disponibilidad de cabaña. Para la cabaña sobre el agua, que es la que menos inventario tiene, conviene bastante antes.
 
 ### ¿Puedo salir más tarde de las 8:30 AM?
 

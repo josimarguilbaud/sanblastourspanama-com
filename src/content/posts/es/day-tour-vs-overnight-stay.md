@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "¿Excursión de un Día o Noche en una Isla de San Blas? Cómo Elegir"
 excerpt: "Una excursión de un día te muestra las islas en unas catorce horas; una estadía te deja estar allí cuando se van las lanchas del día. Qué cambia de verdad, qué cuesta en comodidad y tiempo, y para quién es cada una."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
@@ -48,7 +48,7 @@ La diferencia no es "el mismo día más una cama". Tiene que ver sobre todo con 
 
 Una estadía es rústica por diseño, y es justo decirlo claramente. Las cabañas tienen techo de paja y camas sencillas; los baños suelen ser compartidos; no hay aire acondicionado ni agua caliente y, en la mayoría de las islas, poca o ninguna electricidad. No hay wifi y la señal móvil va y viene. Los mosquitos aparecen al atardecer, así que el repelente va en la mochila; nuestra [guía de seguridad](/es/blog/is-san-blas-safe) cubre el lado de la salud.
 
-También hay condiciones prácticas. Las estadías se reservan por **tipo de cabaña**, no por isla con nombre, y la isla se confirma más cerca de la fecha según disponibilidad. Necesitan al menos tres días de anticipación, duran de una a tres noches, y las bebidas, el equipo de snorkel, las toallas y el impuesto de la comarca no están incluidos.
+También hay condiciones prácticas. Las estadías se reservan por **tipo de cabaña**, no por isla con nombre, y la isla se confirma más cerca de la fecha según disponibilidad. Necesitan al menos 60 días de anticipación, duran de una a tres noches, y las bebidas, el equipo de snorkel, las toallas y el impuesto de la comarca no están incluidos.
 
 ## Los cinco tipos de cabaña, uno por párrafo
 

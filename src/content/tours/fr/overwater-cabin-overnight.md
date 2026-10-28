@@ -21,7 +21,7 @@ La manière exacte d'entrer dans la mer depuis votre cabane dépend de l'île at
 
 ## La vraie contrainte, c'est la disponibilité
 
-Les cabanes overwater sont bien moins nombreuses que toutes les autres catégories, et elles partent les premières. Le minimum affiché est de 3 jours d'anticipation, mais c'est le plancher logistique de l'opérateur, pas un conseil réaliste pour celle-ci : pour une date précise, surtout entre décembre et avril, demandez plusieurs semaines à l'avance.
+Les cabanes overwater sont bien moins nombreuses que toutes les autres catégories, et elles partent les premières. Le minimum est de 60 jours d'anticipation, et pour celle-ci c'est un plancher, pas une marge confortable : pour une date précise, surtout entre décembre et avril, demandez encore plus tôt.
 
 ## Ce qui est inclus
 
@@ -51,7 +51,7 @@ Dites-nous qui voyage et nous vous indiquerons quelles cabanes et quelles îles 
 
 ### Combien de temps à l'avance faut-il vraiment réserver ?
 
-Des semaines, pas des jours, si la date est fixe. C'est la seule catégorie où l'écart entre réserver tôt et réserver à temps détermine si la réponse est oui tout court.
+Au-delà des 60 jours minimum, si la date est fixe. C'est la seule catégorie où l'écart entre réserver tôt et réserver à temps détermine si la réponse est oui tout court.
 
 ### Le départ tardif vaut-il le coup ici ?
 

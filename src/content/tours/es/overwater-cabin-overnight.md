@@ -21,7 +21,7 @@ Cómo se entra al mar exactamente desde tu cabaña depende de la isla que te toq
 
 ## La restricción real es la disponibilidad
 
-Hay muchísimas menos cabañas overwater que de cualquier otra categoría, y son las primeras en irse. El mínimo declarado son 3 días de anticipación, pero eso es el piso logístico del operador, no un consejo realista para esta cabaña: para una fecha concreta, y sobre todo entre diciembre y abril, pregunta con semanas.
+Hay muchísimas menos cabañas overwater que de cualquier otra categoría, y son las primeras en irse. El mínimo son 60 días de anticipación, y para esta cabaña eso es el piso, no un margen cómodo: para una fecha concreta, y sobre todo entre diciembre y abril, pregunta todavía antes.
 
 ## Qué incluye
 
@@ -51,7 +51,7 @@ Dinos quién viaja y te señalamos qué cabañas e islas tienen sentido. Una cab
 
 ### ¿Con cuánta anticipación hay que reservar de verdad?
 
-Semanas, no días, si tienes una fecha fija. Esta es la única categoría donde la diferencia entre reservar temprano y reservar a tiempo es si la respuesta llega a ser que sí.
+Con más de los 60 días mínimos, si tienes una fecha fija. Esta es la única categoría donde la diferencia entre reservar temprano y reservar a tiempo es si la respuesta llega a ser que sí.
 
 ### ¿Vale la pena pagar la salida tardía aquí?
 

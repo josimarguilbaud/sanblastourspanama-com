@@ -22,7 +22,7 @@ The water is calm and consistently turquoise, which makes it excellent for float
 
 ## Staying the night
 
-Perro Grande is one of the inhabited islands with simple beachfront cabins for travellers on a multi-day package. San Blas overnight stays are booked by **cabin type** rather than by island — shared dorm, private classic, private deluxe, camping under the stars, or an overwater cabin — and the exact island is confirmed closer to the date based on availability. Stays run one to three nights, and cabin availability needs at least three days' notice.
+Perro Grande is one of the inhabited islands with simple beachfront cabins for travellers on a multi-day package. San Blas overnight stays are booked by **cabin type** rather than by island — shared dorm, private classic, private deluxe, camping under the stars, or an overwater cabin — and the exact island is confirmed closer to the date based on availability. Stays run one to three nights, and cabin availability needs at least 60 days' notice.
 
 ## What a night includes, and what it does not
 

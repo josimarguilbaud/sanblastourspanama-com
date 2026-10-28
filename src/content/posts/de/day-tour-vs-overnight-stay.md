@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-10-13
+updatedAt: 2026-10-28
 title: "Tagestour oder Übernachtung in San Blas? So Wählen Sie Richtig"
 excerpt: "Eine Tagestour zeigt Ihnen die Inseln in rund vierzehn Stunden; eine Übernachtung lässt Sie bleiben, wenn die Tagesboote abfahren. Was sich wirklich ändert, was es an Komfort und Zeit kostet und für wen sich was eignet."
 heroImage: "/img/isla-turquesa-lanchas-san-blas.webp"
@@ -48,7 +48,7 @@ Der Unterschied ist nicht „derselbe Tag plus ein Bett“. Es geht vor allem da
 
 Eine Übernachtung ist bewusst schlicht, und das sollte man klar sagen. Die Hütten haben Palmdächer und einfache Betten; Bäder werden oft geteilt; es gibt keine Klimaanlage, kein warmes Wasser und auf den meisten Inseln wenig oder keinen Strom. WLAN gibt es nicht, und der Mobilfunk kommt und geht. In der Dämmerung erscheinen Mücken, also gehört Mückenschutz ins Gepäck; unser [Sicherheitsratgeber](/de/blog/is-san-blas-safe) behandelt die Gesundheitsseite.
 
-Dazu kommen praktische Bedingungen. Übernachtungen werden nach **Hüttentyp** gebucht, nicht nach benannter Insel, und die Insel wird näher am Reisedatum je nach Verfügbarkeit bestätigt. Sie brauchen mindestens drei Tage Vorlauf, dauern eine bis drei Nächte, und Getränke, Schnorchelausrüstung, Handtücher und die Comarca-Steuer sind nicht enthalten.
+Dazu kommen praktische Bedingungen. Übernachtungen werden nach **Hüttentyp** gebucht, nicht nach benannter Insel, und die Insel wird näher am Reisedatum je nach Verfügbarkeit bestätigt. Sie brauchen mindestens 60 Tage Vorlauf, dauern eine bis drei Nächte, und Getränke, Schnorchelausrüstung, Handtücher und die Comarca-Steuer sind nicht enthalten.
 
 ## Die fünf Hüttentypen, je ein Absatz
 

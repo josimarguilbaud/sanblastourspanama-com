@@ -22,7 +22,7 @@ A água é calma e turquesa de forma constante, ótima para boiar e pouco memor�
 
 ## Dormir aqui
 
-Perro Grande é uma das ilhas habitadas com cabanas simples à beira da praia para viajantes com pacote de vários dias. As estadias em San Blas são reservadas por **tipo de cabana**, e não por ilha — dormitório compartilhado, privativa clássica, privativa deluxe, camping sob as estrelas ou cabana sobre a água — e a ilha exata é confirmada perto da data conforme a disponibilidade. As estadias vão de uma a três noites, e a disponibilidade de cabana exige pelo menos três dias de antecedência.
+Perro Grande é uma das ilhas habitadas com cabanas simples à beira da praia para viajantes com pacote de vários dias. As estadias em San Blas são reservadas por **tipo de cabana**, e não por ilha — dormitório compartilhado, privativa clássica, privativa deluxe, camping sob as estrelas ou cabana sobre a água — e a ilha exata é confirmada perto da data conforme a disponibilidade. As estadias vão de uma a três noites, e a disponibilidade de cabana exige pelo menos 60 dias de antecedência.
 
 ## O que uma noite inclui e o que não inclui
 

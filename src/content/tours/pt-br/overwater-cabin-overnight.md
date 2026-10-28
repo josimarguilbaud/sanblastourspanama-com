@@ -21,7 +21,7 @@ Como exatamente se entra no mar a partir da sua cabana depende da ilha designada
 
 ## A restrição real é a disponibilidade
 
-Há muito menos cabanas overwater do que de qualquer outra categoria, e elas são as primeiras a acabar. O mínimo declarado é de 3 dias de antecedência, mas isso é o piso logístico do operador, não um conselho realista para esta cabana: para uma data fixa, sobretudo entre dezembro e abril, pergunte com semanas.
+Há muito menos cabanas overwater do que de qualquer outra categoria, e elas são as primeiras a acabar. O mínimo é de 60 dias de antecedência, e para esta cabana isso é o piso, não uma margem confortável: para uma data fixa, sobretudo entre dezembro e abril, pergunte ainda antes.
 
 ## O que está incluído
 
@@ -51,7 +51,7 @@ Diga quem viaja e apontamos quais cabanas e ilhas fazem sentido. Uma cabana sobr
 
 ### Com quanta antecedência é preciso reservar de verdade?
 
-Semanas, não dias, se a data é fixa. Esta é a única categoria em que a diferença entre reservar cedo e reservar em cima da hora decide se a resposta chega a ser sim.
+Com mais do que os 60 dias mínimos, se a data é fixa. Esta é a única categoria em que a diferença entre reservar cedo e reservar em cima da hora decide se a resposta chega a ser sim.
 
 ### Vale pagar a saída tardia aqui?
 

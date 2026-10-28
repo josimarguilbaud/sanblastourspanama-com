@@ -33,7 +33,7 @@ Dentro de lo razonable, sí. La cocina es una familia Guna anfitriona, no el res
 En duración e intención. La de una noche es una noche overwater para una pareja que quiere la vista y la privacidad. Esta suma un día completo sin horario y está armada alrededor de celebrar algo, lo que suele significar un ritmo más lento y más opinión de ustedes sobre qué contienen los días.
 
 ### ¿Con cuánta anticipación conviene reservar?
-Cualquier estadía nocturna necesita al menos tres días para confirmar cabaña, pero para una fecha de aniversario fija, semanas es lo realista. Las cabañas son limitadas y no se pueden añadir; si la fecha no se mueve, trátenla como lo primero que hay que cerrar.
+Cualquier estadía nocturna necesita al menos 60 días para confirmar cabaña, y para una fecha de aniversario fija conviene pedirla todavía antes. Las cabañas son limitadas y no se pueden añadir; si la fecha no se mueve, trátenla como lo primero que hay que cerrar.
 
 ### ¿Podemos volver a la misma isla de la otra vez?
 Pregúntenlo y les respondemos con honestidad. Las estadías se confirman por tipo de cabaña, no por isla, y la isla concreta depende de la disponibilidad cerca de sus fechas — así que si una en particular les importa, nómbrenla desde el principio en vez de darla por hecha.

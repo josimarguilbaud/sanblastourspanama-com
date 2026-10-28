@@ -1,0 +1,89 @@
+---
+/**
+ * Franja de temporada alta (noviembre a abril).
+ *
+ * El HTML lleva un texto que es cierto toda la temporada (`temporada.base`); el
+ * script solo lo cambia por la PRÓXIMA ventana de feriados, contada en hora de
+ * Panamá en el navegador del visitante. Así no envejece entre despliegues, y
+ * sin JS sigue diciendo algo verdadero. Pasada la última ventana se quita sola,
+ * y un build hecho después ya no la pinta.
+ *
+ * Es la misma franja que llevan sanblasfull, sanblastourspty y sanblastravel
+ * (repo chatbot-sanblas), con texto propio: aquí habla la guía.
+ */
+import { VENTANAS } from '../lib/temporada';
+import { useTranslations, localizedPath, defaultLocale, type Locale } from '../i18n/ui';
+
+const locale = (Astro.currentLocale ?? defaultLocale) as Locale;
+const t = useTranslations(locale);
+const lang = locale === 'pt-br' ? 'pt-BR' : locale;
+const base = t('temporada.base');
+const proxima = t('temporada.proxima');
+const cta = t('temporada.cta');
+const href = localizedPath(locale, '/tours');
+const ventanas = VENTANAS.map((v) => ({ desde: v.desde, hasta: v.hasta, nombre: v.nombre[locale] ?? v.nombre.en }));
+const fin = ventanas[ventanas.length - 1].hasta;
+const vigente = new Date().toISOString().slice(0, 10) <= fin;
+---
+{vigente && (
+  <div class="temporada" id="temporada">
+    <p class="temporada-in">
+      <span class="temporada-txt">{base}</span>
+      <a href={href}>{cta} <span aria-hidden="true">→</span></a>
+    </p>
+  </div>
+  <script is:inline define:vars={{ ventanas, proxima, lang }}>
+    (function () {
+      var el = document.getElementById('temporada');
+      if (!el) return;
+      // «Hoy» en Panamá, no en el reloj del visitante.
+      var hoy = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Panama' }).format(new Date());
+      var p = hoy.split('-').map(Number);
+      var manana = new Date(Date.UTC(p[0], p[1] - 1, p[2] + 1)).toISOString().slice(0, 10);
+      // Una ventana sirve mientras quede al menos un día reservable en ella.
+      var v = ventanas.find(function (x) { return x.hasta >= manana; });
+      if (!v) { el.remove(); return; }
+      var dia = function (s) { return new Date(s + 'T12:00:00Z'); };
+      var fmt = new Intl.DateTimeFormat(lang, { day: 'numeric', month: 'short', timeZone: 'UTC' });
+      var fechas = v.desde === v.hasta ? fmt.format(dia(v.desde))
+        : fmt.formatRange ? fmt.formatRange(dia(v.desde), dia(v.hasta))
+        : fmt.format(dia(v.desde)) + '–' + fmt.format(dia(v.hasta));
+      el.querySelector('.temporada-txt').textContent = proxima.replace('{nombre}', v.nombre).replace('{fechas}', fechas);
+    })();
+  </script>
+)}
+
+<style>
+  .temporada {
+    background: var(--color-amber);
+    color: var(--color-deep);
+    font-size: 13.5px;
+    line-height: 1.35;
+  }
+  .temporada-in {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 8px 16px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: center;
+    gap: 2px 12px;
+    text-align: center;
+  }
+  .temporada a {
+    color: inherit;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    white-space: nowrap;
+  }
+  /* En el móvil texto y enlace van seguidos en dos líneas, y esa altura se
+     reserva: cambiar el texto base por el de la próxima ventana no mueve la
+     página. */
+  @media (max-width: 640px) {
+    .temporada { font-size: 12.5px; }
+    .temporada-in { display: block; padding: 7px 16px; min-height: calc(2.7em + 14px); box-sizing: border-box; }
+    .temporada a { margin-left: 6px; }
+  }
+</style>

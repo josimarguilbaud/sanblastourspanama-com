@@ -31,7 +31,7 @@ Para quien viaja solo, esto suele ser el atractivo y no la concesión. Se cena e
 
 ## Antes de reservar
 
-Las estadías piden **mínimo 3 días de anticipación** y son de **máximo 3 noches**. Si resulta que la privacidad te importa más que el precio, la [Cabaña Privada Clásica](/es/tours/cabana-privada-clasica-overnight) es el paso siguiente y cambia exactamente una cosa: tienes una puerta.
+Las estadías piden **mínimo 60 días de anticipación** y son de **máximo 3 noches**. Si resulta que la privacidad te importa más que el precio, la [Cabaña Privada Clásica](/es/tours/cabana-privada-clasica-overnight) es el paso siguiente y cambia exactamente una cosa: tienes una puerta.
 
 **¿Listo para reservar tu cama?** Escríbenos por WhatsApp para fechas y precios actuales.
 

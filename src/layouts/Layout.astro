@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import Seo from '../components/Seo.astro';
 import TopBar from '../components/TopBar.astro';
+import Temporada from '../components/Temporada.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
@@ -143,6 +144,7 @@ const ldItems = [negocio, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld
     <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-full focus:bg-deep focus:px-5 focus:py-3 focus:text-sm focus:font-bold focus:text-white">
       Skip to content
     </a>
+    <Temporada />
     <TopBar />
     <Header path={path} availableLocales={availableLocales} />
     <main id="main-content">

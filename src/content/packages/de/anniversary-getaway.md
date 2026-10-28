@@ -33,7 +33,7 @@ In vernünftigem Rahmen ja. Die Küche ist eine Guna-Gastfamilie, kein Hotelrest
 In Länge und Absicht. Die Variante mit einer Nacht ist eine Overwater-Nacht für ein Paar, das Aussicht und Ruhe will. Diese hier fügt einen ganzen unverplanten Tag hinzu und ist darauf gebaut, einen Anlass zu markieren — was meist ein langsameres Tempo und mehr Mitsprache von Ihnen bedeutet.
 
 ### Wie früh sollten wir buchen?
-Jede Übernachtung braucht mindestens drei Tage Vorlauf, um eine Hütte zu bestätigen; bei einem festen Jahrestag sind Wochen realistisch. Hütten sind begrenzt und lassen sich nicht dazubauen. Wenn das Datum unverrückbar ist, ist es das Erste, was festgezurrt gehört.
+Jede Übernachtung braucht mindestens 60 Tage Vorlauf, um eine Hütte zu bestätigen; bei einem festen Jahrestag fragen Sie besser noch früher an. Hütten sind begrenzt und lassen sich nicht dazubauen. Wenn das Datum unverrückbar ist, ist es das Erste, was festgezurrt gehört.
 
 ### Können wir auf dieselbe Insel wie damals?
 Fragen Sie, und wir antworten ehrlich. Aufenthalte werden nach Hüttentyp bestätigt, nicht nach Insel, und welche Insel es wird, hängt von der Verfügbarkeit nahe Ihrem Datum ab. Wenn Ihnen eine bestimmte wichtig ist, nennen Sie sie früh, statt sie vorauszusetzen.
