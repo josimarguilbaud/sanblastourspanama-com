@@ -45,6 +45,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'All Islands',
     'footer.toursAndPrices': 'Tours & Packages',
     'footer.prices': 'Prices',
+    'footer.gift': 'Gift a San Blas trip',
     'footer.dev': 'Powered by Elemento Web technology',
   },
   es: {
@@ -69,6 +70,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'Todas las Islas',
     'footer.toursAndPrices': 'Tours y Paquetes',
     'footer.prices': 'Precios',
+    'footer.gift': 'Regala un viaje a San Blas',
     'footer.dev': 'Desarrollada con tecnología de Elemento Web',
   },
   de: {
@@ -93,6 +95,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'Alle Inseln',
     'footer.toursAndPrices': 'Touren & Pakete',
     'footer.prices': 'Preise',
+    'footer.gift': 'Eine Reise nach San Blas schenken',
     'footer.dev': 'Entwickelt mit Technologie von Elemento Web',
   },
   fr: {
@@ -117,6 +120,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'Toutes les Îles',
     'footer.toursAndPrices': 'Excursions et Forfaits',
     'footer.prices': 'Tarifs',
+    'footer.gift': 'Offrir un voyage à San Blas',
     'footer.dev': 'Développé avec la technologie Elemento Web',
   },
   'pt-br': {
@@ -141,6 +145,7 @@ export const ui: Record<Locale, Record<string, string>> = {
     'footer.allIslands': 'Todas as Ilhas',
     'footer.toursAndPrices': 'Passeios e Pacotes',
     'footer.prices': 'Preços',
+    'footer.gift': 'Presenteie uma viagem a San Blas',
     'footer.dev': 'Desenvolvido com tecnologia Elemento Web',
   },
 };

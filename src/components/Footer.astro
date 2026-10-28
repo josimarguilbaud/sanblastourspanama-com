@@ -85,6 +85,8 @@ const legalLinks = ['/legal/terms', '/legal/cancellation-policy', '/legal/privac
               el agujero que documenta `i18n/nav.ts` (24 páginas por idioma
               huérfanas hasta el 02/09/2026). */}
           <li><a href={localizedPath(locale, '/prices')} class="hover:text-lime">{t('footer.prices')}</a></li>
+          {/* La página de tarjetas regalo solo habla es/en/fr/de/it/pt: pt-br va como `pt`. */}
+          <li><a href={`https://reservas.sanblastravel.com/regalo?lang=${locale === 'pt-br' ? 'pt' : locale}&site=sanblastourspanama`} class="hover:text-lime">{t('footer.gift')}</a></li>
           <li><a href={localizedPath(locale, '/guides')} class="hover:text-lime">{t('nav.guides')}</a></li>
           <li><a href={localizedPath(locale, '/blog')} class="hover:text-lime">{t('nav.blog')}</a></li>
           <li><a href={localizedPath(locale, '/faq')} class="hover:text-lime">{t('nav.faq')}</a></li>
