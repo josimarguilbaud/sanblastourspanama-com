@@ -6,6 +6,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import EnlaceHermana from '../../components/EnlaceHermana.astro';
 import RelatedCards from '../../components/RelatedCards.astro';
 import WidgetReserva from '../../components/WidgetReserva.astro';
+import ReservarArriba from '../../components/ReservarArriba.astro';
 import { localesForSlug } from '../../i18n/content';
 import { claveDeReserva } from '../../lib/reservas';
 import { faqJsonLd } from '../../lib/faq';
@@ -113,6 +114,8 @@ const faqLd = faqJsonLd(entry.body ?? '');
           </span>
         ))}
       </div>
+
+      {claveReservable && <ReservarArriba lang="en" precio={offers?.price} />}
 
       <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
         <Content />
