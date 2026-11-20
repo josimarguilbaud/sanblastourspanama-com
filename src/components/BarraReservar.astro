@@ -1,0 +1,83 @@
+---
+/**
+ * Barra fija de «Reservar» abajo, solo en el móvil (20/11/2026).
+ *
+ * En el móvil el formulario de reserva cae al final de la ficha, debajo de
+ * todo el artículo. `ReservarArriba` pone un botón bajo el título, pero en
+ * cuanto el visitante empieza a leer lo pierde de vista. Esta barra lo
+ * acompaña mientras lee, igual que la de sanblastourspty.
+ *
+ * Se esconde en dos momentos, para no duplicar ni tapar:
+ *  - mientras el formulario (`#reservar`) está a la vista: lo taparía;
+ *  - mientras el botón de arriba se ve ENTERO: serían dos botones iguales.
+ * Empieza escondida y solo la muestra el script: si el script no corre, no
+ * queda una barra rota encima de la página.
+ *
+ * Colores: los de la web en vivo (coral sobre blanco), como `ReservarArriba`.
+ * DESIGN.md describe el rediseño «Deep Water», que aún no está publicado.
+ */
+import { useTranslations } from '../i18n/ui';
+
+interface Props {
+  lang: string;
+  /** Precio desde src/lib/precios.ts (vía `offers` de la ficha). */
+  precio?: number;
+}
+
+const { lang, precio } = Astro.props;
+const t = useTranslations(lang);
+---
+<div class="barra-reservar fixed inset-x-0 bottom-0 z-30 border-t border-deep/10 bg-white/95 px-4 pt-3 backdrop-blur lg:hidden" data-oculta>
+  <div class="mx-auto flex max-w-xl items-center justify-between gap-4">
+    {precio != null && (
+      <p class="leading-tight text-deep">
+        <span class="block text-xs text-deep/60">{t('reservar.desde')}</span>
+        <span class="text-xl font-bold">${precio}</span>
+      </p>
+    )}
+    <a
+      href="#reservar"
+      class="max-w-[260px] flex-1 rounded-xl bg-coral px-5 py-3 text-center font-semibold text-white no-underline hover:bg-coraldark"
+      data-gtm="pana_barra_reservar"
+    >
+      {t('reservar.saltar')}
+    </a>
+  </div>
+</div>
+
+<style>
+  .barra-reservar {
+    padding-bottom: calc(12px + env(safe-area-inset-bottom));
+    box-shadow: 0 -8px 24px -12px rgb(11 59 74 / 0.35);
+    transition: transform 0.25s ease;
+  }
+  .barra-reservar[data-oculta] { transform: translateY(110%); }
+  @media (prefers-reduced-motion: reduce) { .barra-reservar { transition: none; } }
+</style>
+
+<style is:global>
+  /* Que la barra no tape el final del pie. */
+  @media (max-width: 1023.98px) { body:has(.barra-reservar) { padding-bottom: 76px; } }
+</style>
+
+<script>
+  const barra = document.querySelector<HTMLElement>('.barra-reservar');
+  const form = document.getElementById('reservar');
+  const arriba = document.querySelector('[data-gtm="pana_reservar_arriba"]');
+  if (barra && form && 'IntersectionObserver' in window) {
+    let formVisible = false;
+    let arribaEntera = false;
+    const pintar = () => barra.toggleAttribute('data-oculta', formVisible || arribaEntera);
+    new IntersectionObserver(([e]) => { formVisible = e.isIntersecting; pintar(); }, { threshold: 0.2 }).observe(form);
+    if (arriba) {
+      new IntersectionObserver(([e]) => { arribaEntera = e.intersectionRatio > 0.99; pintar(); }, { threshold: [0, 1] }).observe(arriba);
+    } else {
+      pintar();
+    }
+    barra.querySelector('a')?.addEventListener('click', (ev) => {
+      ev.preventDefault();
+      const quieto = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      form.scrollIntoView({ behavior: quieto ? 'auto' : 'smooth', block: 'start' });
+    });
+  }
+</script>

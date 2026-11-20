@@ -7,6 +7,7 @@ import EnlaceHermana from '../../../components/EnlaceHermana.astro';
 import RelatedCards from '../../../components/RelatedCards.astro';
 import WidgetReserva from '../../../components/WidgetReserva.astro';
 import ReservarArriba from '../../../components/ReservarArriba.astro';
+import BarraReservar from '../../../components/BarraReservar.astro';
 import { localesForSlug } from '../../../i18n/content';
 import { useTranslations } from '../../../i18n/ui';
 import { claveDeReserva } from '../../../lib/reservas';
@@ -118,6 +119,7 @@ const faqLd = faqJsonLd(entry.body ?? '');
       </div>
 
       {claveReservable && <ReservarArriba lang="es" precio={offers?.price} />}
+      {claveReservable && <BarraReservar lang="es" precio={offers?.price} />}
 
       <div class="prose prose-headings:font-heading prose-headings:text-deep prose-a:text-teal mt-8 max-w-none">
         <Content />
