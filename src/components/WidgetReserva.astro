@@ -26,6 +26,7 @@
  * tocarla, porque ahí SÍ es el contenido principal de su propio bloque.
  */
 import { claveDeReserva, urlWidget, idiomaWidget } from '../lib/reservas';
+import { useTranslations } from '../i18n/ui';
 
 interface Props {
   tourKey?: string;
@@ -40,6 +41,11 @@ interface Props {
 
 const { tourKey, category, lang, titulo, nota, compact = false } = Astro.props;
 const clave = claveDeReserva({ tourKey, category });
+// Bajo el formulario, el miedo de San Blas: que el mar no deje salir. Es la
+// política de cancelación de esta web (/legal/cancellation-policy) dicha donde
+// se decide la compra (20/11/2026).
+const mar = useTranslations(lang)('reservar.mar');
+const olas = 'M2 7c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1M2 13c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1M2 19c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1';
 ---
 
 {clave && compact && (
@@ -50,6 +56,11 @@ const clave = claveDeReserva({ tourKey, category });
     <div class="mt-4 overflow-hidden rounded-xl bg-white shadow-lg shadow-deep/5">
       <sanblas-reserva tour={clave} lang={idiomaWidget(lang)} site="sanblastourspanama"></sanblas-reserva>
     </div>
+
+    <p class="mt-3 flex items-start gap-2 text-sm font-medium text-deep/80">
+      <svg class="mt-0.5 flex-none text-teal" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d={olas} /></svg>
+      <span>{mar}</span>
+    </p>
 
     <noscript>
       <a
@@ -71,6 +82,11 @@ const clave = claveDeReserva({ tourKey, category });
       <div class="mt-6 overflow-hidden rounded-2xl bg-white shadow-lg shadow-deep/5">
         <sanblas-reserva tour={clave} lang={idiomaWidget(lang)} site="sanblastourspanama"></sanblas-reserva>
       </div>
+
+      <p class="mt-4 flex items-start gap-2 font-medium text-deep/80">
+        <svg class="mt-1 flex-none text-teal" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d={olas} /></svg>
+        <span>{mar}</span>
+      </p>
 
       {/* Respaldo: si el componente no llega a montar (script bloqueado, un
           error de red), esto sigue llevando a la misma reserva. */}
